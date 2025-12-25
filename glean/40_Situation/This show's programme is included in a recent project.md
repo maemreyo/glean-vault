@@ -1,569 +1,353 @@
 ---
 aliases:
-  - 
+  - "Programme included recent project exhibition"
+  - "Show programme part of display collection"
 question_type: single
-# single = 1 option (matching), multi = 2+ options (MCQ)
 options_count: 1
-status: pending
+status: done
 ref:
   - Cam 20 Listening Test 03
 
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==single==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==This show's programme is included in a recent project==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Museum/exhibition project*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 03
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
->
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
->
+> | A | ==included in a recent project== | Được bao gồm trong một dự án gần đây | featured in, part of, selected for, shown in a collection/exhibition | ⚠️ Low |
 > *(For single-option: keep only 1 row and remove "Correct Answer" line)*
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==Thành phần / Sự bao gồm==
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Museums / Exhibitions / Collections==
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
->
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
->
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
->
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Definition:** Chương trình/ấn phẩm ==được chọn làm một trong số ít=== các tác phẩm được trưng bày trong một triển lãm, cuộc triển lãm, hoặc dự án thu thập gần đây.
+> - **Denotation Nghĩa đen:** Được chọn, thêm vào, sàng lập, hoặc trưng bày cùng với các tác phẩm khác trong không gian triển lãm hoặc cuộc trưng bày nghệ thuật.
+> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI: "displayed" (được trưng bày), "shown" (được cho xem).
+> - **Deep Dive:** Paraphrasing sâu hơn: "included in" → "part of", "featured in", "selected for", "one of few items in"; "recent project" → "new collection/exhibition", "recent exhibition/show", "contemporary display"
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Nhìn thấy ==ảnh chụp=== của ấn phẩm chương trình ===trong=== phòng triển lãm, cùng với các đồ vật hiện vật khác được trưng bày.
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Nghe tiếng ==thảo luận== giữa các nhà quản lý triển lãm khi quyết định lựa chọn tác phẩm, hoặc tiếng người tham quan giải thích về ý nghĩa việc đưa chương trình vào trưng bày.
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Hành động cụ thể: sắp xếp các tác phẩm, đánh giá tương thích, soạn thảo về bố cục trưng bày, kiểm tra các vật phẩm trước khi đưa vào triển lãm.
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
->
-> - `Noun + of + Noun`: e.g., organisation of + event
->
-> - `Adj + Noun`: e.g., local + businesses
+> - `Verb + Noun`: include + in, feature + in, select + for, choose + for
+> - `Noun + of + Noun`: part + of, one + of + few + items
+> - `Adj + Noun`: recent + project, current + exhibition, contemporary + collection, featured + items
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "It's been included in..."
 >
-> - "The job involves..."
+> - "It features as part of..."
 >
-> - "We need to..."
->
-> - "My responsibility is..."
+> - "Selected for the..."
+> - "One of the key exhibits in..."
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==displayed==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Nghe giống vì khi nói về triển lãm, từ "displayed" rất phổ biến, và chương trình show programme có thể được trưng bày.
+> - *Actual meaning:* "Displayed" nghĩa được trưng bày nhưng KHÔNG phải là được chọn làm một phần của dự án có chủ đích cụ thể (included in a project).
+> **Trap 2:** ==shown==
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
->
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
->
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
->
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Why it's tricky:* Nghe giống vì "shown" có thể dùng khi nói về các tác phẩm được trưng bày.
+> - *Actual meaning:* "Shown" chỉ có nghĩa được cho xem, không nhất thiết được chọn hoặc sàng lập làm phần của dự án.
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "The show's programme was quite special because it was included in a recent museum project. Out of hundreds of programmes, ours was one of only a few that got selected for this exhibition about performing arts history."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==included in a recent project==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "The organizers explained that this programme isn't just something that was shown in theatres. It's actually been incorporated into a contemporary arts display project that's currently touring major galleries."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==included in a recent project==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
+## 🧠 Spaced Repetition Flashcards (14 Cards)
 
 ---
 
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/culture-media/show-programmes/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==included in a recent project==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Exhibition/museum display*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
-?
+>
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** "It's been selected for a recent exhibition..." / "It features as part of a contemporary project..."
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - "It's incorporated into a new collection..."
+> - "Featured as one of the key items in..."
+> - "Chosen to be part of..."
+> - "Included in the current exhibition..."
+> - "One of few programmes selected for..."
 >
-> - Kịch bản 3
->
-> - Kịch bản 4
->
-> - Kịch bản 5
->
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Key paraphrase patterns: "included in → part of/featured in/selected for"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/culture-media/show-programmes/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==included in a recent project==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
-?
+>
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** include + in / feature + as / select + for
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: feature, incorporate, choose, present, add
+>   - Nouns: recent + project, exhibition, collection, display, show, gallery
+>   - Phrases: part of, one of few, selected as
 >
->   - Nouns: ví dụ: music, concert
->
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** "Included in" thường đi với "project/exhibition/collection/display"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/culture-media/show-programmes/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==included in a recent project==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
-?
+>
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "Actually," "The organizers explained," "What's special about..." "Beyond just being shown," "The real distinction is"
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** Xuống giọng (Final/Certain) khi chốt đặc điểm chính quan trọng, sau khi đã đề cập việc trưng bày thông thường (shown, displayed).
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Dấu hiệu chuyển từ khía cạnh trưng bày sang việc được chọn làm phần của dự án.
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/culture-media/show-programmes/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==included in a recent project==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
-?
+>
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /ɪnˈkluːdɪd ɪn ə ˈriːsnt ˈprɒdʒekt/ → /ɪnˈkluːdɪdɪnəˈriːsntprɒdʒekt/
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
->
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
->
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Linking:** "included" + "in" → /ɪnˈkluːdɪn/, "in" + "a" → /ɪnə/
+> - **Elision:** Nuốt âm 'd' trong "included" khi nối với "in"
+> - **Weak Form:** "in" → /ɪn/, "a" → /ə/
 
 ---
 
 ### Tier 2: Recognition - Every 2-3 Days (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/culture-media/show-programmes/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "Ours was one of only a few that got selected for this exhibition about performing arts history."
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
-?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+>
+> [!check] ✅ Match: ==included in a recent project==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
->
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
->
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> - Audio nói: =="one of only a few that got selected for"==
+> - Tương đương với: =="included in a recent project"==
+> - Audio nói: =="this exhibition"==
+> - **🧠 Logic Chain:** selected for = included in; exhibition = project
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/culture-media/show-programmes/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==displayed==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
-?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"The programme was displayed in many theatres..."* → **Số phận** option này thế nào?
+>
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
 > **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
->
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> Audio dùng từ "displayed" và "theatres" để mô tả trạng thái bề mặt nhưng KHÔNG ám chỉ việc được chọn làm một phần của dự án có chủ đích.
+> **🔄 Reality Check:** Nghĩa thực sự của audio là programme được trưng bày nhiều nơi nhưng KHÔNG phải "included in a project".
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/culture-media/show-programmes/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="included in a recent project"== với =="displayed==?==
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
-?
+>
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
->
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
->
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> - **included in a recent project:** Tập trung vào ===được chọn, sàng lập, và làm thành phần=== của một dự án có chủ đích cụ thể như triển lãm, cuộc triển lãm, hoặc trưng bày có chủ đề.
+> - **displayed:** Tập trung vào ===được trưng bày===, cho xem tại nhiều địa điểm hoặc trong nhiều buổi diễn, không nhất thiết được chọn làm một phần của dự án.
+> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý: "included in" ám chỉ sự lựa chọn/sàng lập, còn "displayed" chỉ ám chỉ trạng thái trưng bày.
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/culture-media/show-programmes/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> *It was ==included== in a recent ==museum== project.*
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Nó được đưa vào một dự án bảo tàng gần đây.
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
-?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+>
+> [!success] ✅ Answer: ==included / museum==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
->
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
->
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> - **Plural/Singular:** "Included" là động từ quá khứ số ít, không đổi theo số. "Museum" là số ít, "project" là số ít.
+> - **Spelling Trap:** Lưu ý lỗi chính tả: "included" (không phải "includued"), "museum" (không phải "musuem")
+> **🔗 Connects to:** ==included in a recent project==
 
 ---
 
 ### Tier 3: Elimination - Weekly (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/culture-media/show-programmes/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
-> **Context:** Map Labelling / Room Layout
+> **Context:** Exhibition Layout
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
->
-> *(vd: "It's immediately to your right when you enter.")*
+> **Audio Cue:** *"The exhibition is in the main hall. The featured programmes are in the central area. The show programme we're discussing is displayed in the corner gallery."*
 >
 > ❓ **Reflex:** Hình dung vị trí trong đầu NGAY LẬP TỨC?
-?
+>
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> Mô tả vị trí: "Main Hall → Central Area (stop 1) → Move to Corner → Featured Programmes (stop 2)"
 >
 > **⚠️ Spatial Traps:**
-> - "On the right hand side of the building" ≠ "On your right"
+> - "in the corner gallery" ≠ "corner of the hall"
+> - "central area" ≠ "in the center"
+> - "displayed in" ≠ "included in"
 >
-> - "Opposite" ≠ "Next to"
->
-> - "Behind" ≠ "At the back of"
->
-> **🎯 Correct Position:** =={{LABEL}}==
+> **🎯 Correct Position:** ==Featured programmes location==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
-### Card 10: Option Elimination Drill *(MCQ only)*
-
-> **Question:** =={{QUESTION_STEM}}==
->
-> **Options:**
-> - A. {{OPTION_1}}
->
-> - B. {{OPTION_2}}
->
-> - C. {{OPTION_3}}
->
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
->
-> ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
-?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
->
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
->
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
->
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
-### Card 11: Cross-Option Confusion *(MCQ only)*
-
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
->
-> ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
-?
-> [!example] 🆚 Signal Decoding
->
-> **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
->
-> **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
->
-> **🔑 Scientific Distinction:**
->
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
->
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
-### Card 12: Answer Validation *(MCQ only)*
-
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
->
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
->
-> ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
-?
-> [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
->
-> 2. ==phrase 2== → giải thích kết nối
->
-> 3. ==phrase 3== → giải thích kết nối
->
-> **🎯 Conclusion:** Tổng hợp logic
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/culture-media/show-programmes/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
->
-> *(vd: "You've got a point, but..." / "I see what you mean, although...")*
+> **Audio:** *"The programme was displayed widely, but it's actually been selected for inclusion in a special project. Some thought it was just another exhibit, but the organizers valued it highly."*
 >
 > ❓ **Reflex:** Người nói THỰC SỰ ĐỒNG Ý hay PHẢN ĐỐI?
-?
+>
 > [!fail] 🎭 Pseudo-Agreement Detection
 > **👉 Verdict:** ==PHẢN ĐỐI (Disagree)==
 >
 > **💡 Rule:** Khen trước → Chê sau = **NO**
 >
 > **✅ Real Agreement Signals:**
->
-> - *"Precisely"*
->
-> - *"I couldn't agree more"*
->
-> - *"Spot on"*
->
-> - *"Absolutely"*
+> - *"Exactly, it was selected for inclusion"*
+> - *"The organizers valued it highly"*
+> - *"Yes, that's what makes it special"*
 >
 > **❌ False Agreement Signals:**
->
-> - *"You've got a point, but..."*
->
-> - *"I suppose so..."* (ngập ngừng)
->
-> - *"That's one way to look at it..."*
+> - *"Was displayed widely, but..."*
+> - *"Some thought it was just another exhibit, however..."*
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/culture-media/show-programmes/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==included in a recent project==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
-?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
 >
-> **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> [!info] ⚡ Rapid Swap
+> ==included in== ⚡ ==part of / featured in / selected for / incorporated into==
+>
+> **🧠 Instant Logic:** Direct synonym mapping: included ↔ part of ↔ featured ↔ selected ↔ incorporated
 
 ---
 
-### Tier 4: Mastery - Bi-weekly (4 Cards)
+### Tier 4: Mastery - Bi-weekly (3 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/culture-media/show-programmes/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "The show programme has quite an interesting history. It was displayed in numerous venues across the country during its original run. Many people remember seeing it in theatres or libraries. However, what most people don't know is that it was carefully selected for inclusion in a recent museum exhibition project. This project aimed to bring together important cultural artifacts, and this programme was one of the key items chosen for that display."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
-?
+>
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
->
-> - *Sounds like:* Nghe giống gì
->
-> - *Wrong because:* Tại sao sai
->
-> **2. Distractor:** =="{{TEXT}}"==
->
-> - *Sounds like:* Nghe giống gì
->
-> - *Wrong because:* Tại sao sai
->
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **1. Distractor:** ==displayed==
+> - *Sounds like:* Audio nói "was displayed in numerous venues" và "remember seeing it"
+> - *Wrong because:* Bị "However...most people don't know is that it was carefully selected for inclusion" phủ định.
+> **2. Distractor:** ==remember seeing==
+> - *Sounds like:* Audio nhắc "people remember seeing it"
+> - *Wrong because:* Đây là sự nhớ của khán giả, không phải thực tế là được chọn làm phần của dự án.
+> **✅ Correct Answer:** ==included in a recent project==
+> - *Why correct:* Được xác nhận là "carefully selected for inclusion", "one of the key items chosen", "aimed to bring together".
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/culture-media/show-programmes/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** ==included in a recent project==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "The museum recently launched a new exhibition project celebrating local performing arts. While many programmes were submitted, only a handful were selected. This show's programme was one of those included in the final collection. It features prominently and represents a significant aspect of our region's cultural history."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
-?
+>
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==only a handful were selected== → included in (implies selective process)
+> - ==one of those included== → directly matches the option
+> - ==features prominently== → aspect of the exhibition project
+> - ==represents significant aspect== → importance/value
 >
-> - ==Audio phrase== → ==Option word==
->
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> **🧠 Overall Logic:** Complete paraphrase chain: "selected for inclusion" + "one of those included" + "features prominently" = included in project
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/culture-media/show-programmes/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==included in a recent project==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Exhibition/museum display*
 >
-> ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
-?
+> ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY**!
+>
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
->
-> 2. ==Paraphrase 2==
+> 1. ==part of the collection==
+> 2. ==featured as one of the key exhibits==
 >
 > **🎯 Goal:** Instant Recall
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
-### Card 18: Complete Question Synthesis *(MCQ only)*
-
-> **Full Question Context:**
-> =={{QUESTION_STEM}}==
->
-> **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
->
-> ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
-?
-> [!success] 🎯 Deep Logic Breakdown
-> **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
->
-> **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
->
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
->
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
-
 ---

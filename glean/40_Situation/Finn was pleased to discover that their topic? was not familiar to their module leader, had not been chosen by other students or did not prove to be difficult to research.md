@@ -1,328 +1,265 @@
 ---
 aliases:
-  - 
-question_type: single
-# single = 1 option (matching), multi = 2+ options (MCQ)
-options_count: 1
-status: pending
+  - Finn was pleased that topic was not chosen by other students
+  - pleased about topic choice
+  - research topic uniqueness
+question_type: multi
+options_count: 3
+status: done
 ref:
   - Cam 20 Listening Test 03
 
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==multi==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==Finn was pleased to discover that their topic?==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Student (Finn) expressing satisfaction about their research topic choice for theatre history project*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 03
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
+> | A | ==was not familiar to their module leader== | giáo viên hướng dẫn không biết | unfamiliar, new, unknown, unheard of | ⚠️ Medium |
+> | B | ==had not been chosen by other students== | chưa có ai chọn | unique, original, nobody selected, fresh | ⚠️ Low |
+> | C | ==did not prove to be difficult to research== | không khó nghiên cứu | easy to research, manageable, accessible sources | ⚠️ High |
 >
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
->
-> *(For single-option: keep only 1 row and remove "Correct Answer" line)*
+> **✅ Correct Answer:** ==B. had not been chosen by other students==
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==Tính độc đáo của chủ đề (Uniqueness of topic)==
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Academic / Research / Education==
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
+> - **Definition:** Nghĩa là ==độc nhất, chưa từng được nghiên cứu== - chủ đề mới lạ, không ai đụng đến
 >
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
+> - **Denotation:** Nghĩa đen là ==not chosen before== - chưa được chọn, chưa có người làm
 >
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
+> - **Distractor:** "easy to research" nghe giống "available information" nhưng đó là về độ khó, không phải về tính độc đáo
 >
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Deep Dive:** Paraphrasing: ==had not been chosen → nobody had selected, unique, original, fresh, untouched==
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Hình dung Finn nhìn danh sách các chủ đề, tìm thấy chủ đề của mình ==chưa có ai check==
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Nghe người nói: *"It's completely new," "Nobody's done it," "It's fresh," "Original"*
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Hành động kiểm tra danh sách topic, thấy tên chủ đề chưa bị chọn
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
->
-> - `Noun + of + Noun`: e.g., organisation of + event
->
-> - `Adj + Noun`: e.g., local + businesses
+> - `Verb + Noun`: choose + topic, select + subject, pick + theme
+> - `Noun + prep + Noun`: topic + for + project, subject + for + research
+> - `Adj + Noun`: unique + topic, original + subject, fresh + idea
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "I was pleased to find that ==no one else had chosen== this topic..."
 >
-> - "The job involves..."
+> - "It was ==completely untouched== by other students..."
 >
-> - "We need to..."
+> - "Nobody had ==selected it== before..."
 >
-> - "My responsibility is..."
+> - "The topic was ==still available==..."
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==was not familiar to their module leader==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Finn nói "module leader hasn't heard of it" → dễ hiểu là leader không biết topic
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Finn vui vì topic độc đáo, không phải vì leader không biết
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
+> **Trap 2:** ==did not prove to be difficult to research==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Audio có thể nhắc đến "plenty of information" hoặc "sources available"
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Mặc dù dễ nghiên cứu là lợi ích, nhưng Finn vui chủ yếu vì ==topic chưa ai chọn==
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "I was really pleased when I checked the list and ==nobody had chosen== our topic yet. It's completely ==original== and fresh compared to what others are doing."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==had not been chosen by other students==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "What made me happy was that our topic was ==still available==. No other student had ==selected it==, which means we can explore something new."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==had not been chosen by other students==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
+## 🧠 Spaced Repetition Flashcards
 
 ---
 
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/education-training/academic-research/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==had not been chosen by other students==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Finn feeling pleased about research topic choice*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** Audio sẽ dùng từ ==nobody had chosen/selected== để paraphrase
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - Audio nhắc ==completely new/original==
 >
-> - Kịch bản 3
+> - Audio nói ==untouched/fresh==
 >
-> - Kịch bản 4
+> - Audio dùng ==still available==
 >
-> - Kịch bản 5
+> - Audio nói ==no one else picked==
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Tất cả diễn tả ==tính độc đáo, chưa từng được chọn== của chủ đề nghiên cứu
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/education-training/academic-research/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==had not been chosen by other students==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** ==choose/choose topic== (chọn chủ đề)
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: select, pick, decide on
 >
->   - Nouns: ví dụ: music, concert
+>   - Nouns: subject, area, field, theme
 >
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** Thường đi với ==by + someone/somebody== (bởi ai đó) hoặc ==nobody/anybody== (không ai)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/education-training/academic-research/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==had not been chosen by other students==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "What made me happy was..." "I was pleased to discover..." "The good news was..."
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** Lên giọng (vui mừng, phấn khởi) - thể hiện sự hài lòng, ngạc nhiên tích cực
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Tone vui mừng báo hiệu tin tốt về chủ đề, thường là ==tính độc đáo==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/education-training/academic-research/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==had not been chosen by other students==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
 ?
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /hæd nɒt bɪn ˈtʃəʊzn baɪ ˈʌðə ˈstjuːdnts/
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
+> - **Linking:** "chosen by" nối /n/ → /t/, nghe như "chosen-by"
 >
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
+> - **Elision:** Nuốt âm /t/ nhẹ trong "not"
 >
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Weak Form:** "had" có thể được phát âm nhấn nhẹ /hæd/
 
 ---
 
-### Tier 2: Recognition - Every 2-3 Days (4 Cards)
+### Tier 2: Recognition - Every 2-3 Days (5 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/education-training/academic-research/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "I checked the topic list and ==nobody had selected== our one yet. It was completely fresh."
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==had not been chosen by other students==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="nobody had selected"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: =="had not been chosen by other students"==
 >
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> **🧠 Logic Chain:** "nobody had selected" = passive form "had not been chosen by others"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/education-training/academic-research/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==did not prove to be difficult to research==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"There are plenty of sources available..."* → **Số phận** option này thế nào?
 ?
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
 > **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
+> "Sources available" gợi ý về độ dễ tiếp cận → dễ hiểu là "easy to research"
 >
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> **🔄 Reality Check:** Finn vui vì ==topic chưa ai chọn== chứ không phải vì dễ nghiên cứu
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/education-training/academic-research/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="had not been chosen by other students"== với =="was not familiar to their module leader"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
+> - **had not been chosen by other students:** Tập trung vào ==tính độc đáo của chủ đề== - chưa ai từng nghiên cứu
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
+> - **was not familiar to their module leader:** Tập trung vào ==kiến thức của giáo viên== - leader chưa biết topic
 >
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> **🧱 Key Barrier:** "not chosen" là về tính độc đáo, "not familiar" là về sự nhận biết
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/education-training/academic-research/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> *I was pleased that no _____ had selected this topic before.*
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Tôi vui mừng rằng không có sinh viên nào đã chọn chủ đề này trước.
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+> [!success] ✅ Answer: ==student==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
+> - **Plural/Singular:** Plural (có 's') vì theo sau "other" + negative "no"
 >
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
+> - **Spelling Trap:** Lưu ý đuôi "-ent" (student) không phải "-ant" ❌
 >
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> **🔗 Connects to:** ==other students==
 
 ---
 
-### Tier 3: Elimination - Weekly (4 Cards)
+### Tier 3: Elimination - Weekly (6 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/education-training/academic-research/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
-> **Context:** Map Labelling / Room Layout
+> **Context:** Topic Selection List
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
+> **Audio Cue:** *"When I looked at the topic list, our one was still blank - no names against it..."*
 >
 > *(vd: "It's immediately to your right when you enter.")*
 >
@@ -330,240 +267,234 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ?
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> Hình dung danh sách topic với tên sinh viên đã chọn - topic của Finn ==chưa có tên==
 >
 > **⚠️ Spatial Traps:**
-> - "On the right hand side of the building" ≠ "On your right"
+> - "against it" (ghi tên đối diện) ≠ "for it" (ghi tên cho nó)
 >
-> - "Opposite" ≠ "Next to"
+> - "still available" (còn trống) ≠ "already taken" (đã bị chọn)
 >
-> - "Behind" ≠ "At the back of"
->
-> **🎯 Correct Position:** =={{LABEL}}==
+> **🎯 Correct Position:** Topic still blank/available
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
+#flashcards/ielts-listening/education-training/academic-research/weekly/01-elimination
 ### Card 10: Option Elimination Drill *(MCQ only)*
 
-> **Question:** =={{QUESTION_STEM}}==
+> **Question:** ==Finn was pleased to discover that their topic?==
 >
 > **Options:**
-> - A. {{OPTION_1}}
+> - A. was not familiar to their module leader
 >
-> - B. {{OPTION_2}}
+> - B. had not been chosen by other students
 >
-> - C. {{OPTION_3}}
+> - C. did not prove to be difficult to research
 >
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
+> **Audio:** "What really pleased me was checking the list and seeing that ==nobody had chosen== our topic. It's ==completely new== and fresh. I mean, even the module leader said he's never heard of it, but that's not why I'm happy."
 >
 > ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
 ?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
+> [!success] ✅ Correct: ==B. had not been chosen by other students==
 >
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why A is wrong:** Audio nhắc "module leader never heard" nhưng Finn nói "that's not why I'm happy"
 >
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why C is wrong:** Audio không nhắc đến độ dễ/khó nghiên cứu, chỉ nói về tính mới lạ
 >
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
+> **✅ Why B is correct:** Audio trực tiếp nói "nobody had chosen" và "completely new, fresh" - paraphrase cho "not chosen by others"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
+#flashcards/ielts-listening/education-training/academic-research/weekly/02-cross-confusion
 ### Card 11: Cross-Option Confusion *(MCQ only)*
 
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
+> **Confusing Pair:** ==had not been chosen by other students== vs ==was not familiar to their module leader==
 >
 > ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
 ?
 > [!example] 🆚 Signal Decoding
 >
 > **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
+> - *"nobody had chosen/selected"*
 >
-> - *"Signal phrase 2"*
+> - *"no one else picked"*
 >
-> - *"Signal phrase 3"*
+> - *"still available, fresh, new, untouched"*
 >
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
+> → **Implies:** Tập trung vào ==tính độc đáo, chưa từng được chọn== của chủ đề
 >
 > **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
+> - *"module leader/tutor hadn't heard"*
 >
-> - *"Signal phrase 2"*
+> - *"unfamiliar to our supervisor"*
 >
-> - *"Signal phrase 3"*
+> - *"leader doesn't know"*
 >
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
+> → **Implies:** Tập trung vào ==sự nhận biết của người hướng dẫn== về topic
 >
 > **🔑 Scientific Distinction:**
 >
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
+> - **Option A focuses on:** ==Uniqueness of selection== (tính độc đáo trong việc chọn)
 >
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
+> - **Option B focuses on:** ==Familiarity level== (mức độ quen thuộc)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
+#flashcards/ielts-listening/education-training/academic-research/weekly/03-validation
 ### Card 12: Answer Validation *(MCQ only)*
 
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
+> **Correct Answer:** ==B. had not been chosen by other students==
 >
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
+> **Audio excerpt:** "When I checked the topic board, ==nobody had chosen== our topic yet. It's ==completely untouched== and fresh, which is great."
 >
 > ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
 ?
 > [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
+> 1. ==nobody had chosen== → paraphrase trực tiếp cho "had not been chosen"
 >
-> 2. ==phrase 2== → giải thích kết nối
+> 2. ==completely untouched== → synonym của "not chosen by others"
 >
-> 3. ==phrase 3== → giải thích kết nối
+> 3. ==fresh== → paraphrase cho "new/unexplored"
 >
-> **🎯 Conclusion:** Tổng hợp logic
+> **🎯 Conclusion:** Ba cụm từ đều chỉ ra tính độc đáo của chủ đề - chưa ai chọn
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/education-training/academic-research/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
+> **Audio:** *"Yes, it's great that nobody's taken it. Actually, even the tutor hasn't heard of it, but that's a bonus, not the main reason I'm pleased..."*
 >
 > *(vd: "You've got a point, but..." / "I see what you mean, although...")*
 >
 > ❓ **Reflex:** Người nói THỰC SỰ ĐỒNG Ý hay PHẢN ĐỐI?
 ?
 > [!fail] 🎭 Pseudo-Agreement Detection
-> **👉 Verdict:** ==PHẢN ĐỐI (Disagree)==
+> **👉 Verdict:** ==ĐỒNG Ý (Agree)==
 >
-> **💡 Rule:** Khen trước → Chê sau = **NO**
+> **💡 Rule:** "Actually" sau khi đồng ý có thể là bổ sung, không phải phủ định - check context
 >
 > **✅ Real Agreement Signals:**
 >
-> - *"Precisely"*
+> - *"Yes, it's great"*
 >
-> - *"I couldn't agree more"*
+> - *"That's wonderful"*
 >
-> - *"Spot on"*
->
-> - *"Absolutely"*
+> - *"Exactly"*
 >
 > **❌ False Agreement Signals:**
 >
-> - *"You've got a point, but..."*
->
-> - *"I suppose so..."* (ngập ngừng)
->
-> - *"That's one way to look at it..."*
+> - *"That's a bonus, not the main reason"* → vẫn đồng ý nhưng làm rõ focus
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/education-training/academic-research/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==had not been chosen by other students==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
+> [!info] ⚡ Rapid Swap
+> ==nobody had chosen== ⚡ ==had not been chosen by other students==
+> ==still available== ⚡ ==had not been chosen by other students==
+> ==completely fresh== ⚡ ==had not been chosen by other students==
 >
-> **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> **🧠 Instant Logic:** Tất cả diễn tả tình trạng ==chưa ai chọn== chủ đề đó
 
 ---
 
 ### Tier 4: Mastery - Bi-weekly (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/education-training/academic-research/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "I was thrilled when I saw that ==nobody had selected== our topic from the list. The module leader said he's ==never heard of it== before, which is interesting, but what really pleased me was that it's ==completely untouched== by other students. Plus, it should be ==easy to research== since there's plenty of material."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** ==was not familiar to their module leader==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* "module leader never heard of it"
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Audio dùng "but what really pleased me" để làm rõ focus không phải ở đây
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** ==did not prove to be difficult to research==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* "easy to research" và "plenty of material"
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* "Plus" chỉ là bổ sung, không phải lý do chính Finn vui
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **✅ Correct Answer:** ==had not been chosen by other students==
+> - *Why correct:* Audio nhấn mạnh "what really pleased me" + "completely untouched by other students" + "nobody had selected"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/education-training/academic-research/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** ==had not been chosen by other students==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "The best part was looking at the topic board and seeing that ==no other student had chosen== our topic. It's ==completely original== and fresh. I mean, the tutor might not have ==heard of it==, but that's not the main reason I'm happy. What matters is it's ==still available== and nobody's done any work on it yet."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==no other student had chosen== → ==had not been chosen by other students==
+> - ==completely original== → paraphrase cho ==not chosen before==
+> - ==still available== → paraphrase cho ==not chosen yet==
+> - ==nobody's done any work on it== → paraphrase cho ==not chosen by others==
 >
-> - ==Audio phrase== → ==Option word==
->
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> **🧠 Overall Logic:** Tất cả cụm từ chỉ ra tính độc đáo của topic - chưa ai chọn/nghiên cứu
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/education-training/academic-research/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==had not been chosen by other students==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Student talking about research topic selection*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
+> 1. ==nobody had chosen==
 >
-> 2. ==Paraphrase 2==
+> 2. ==still available==
 >
 > **🎯 Goal:** Instant Recall
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
+#flashcards/ielts-listening/education-training/academic-research/biweekly/04-synthesis
 ### Card 18: Complete Question Synthesis *(MCQ only)*
 
 > **Full Question Context:**
-> =={{QUESTION_STEM}}==
+> ==Finn was pleased to discover that their topic?==
 >
 > **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
+> 1. **A. was not familiar to their module leader** (❌) → Audio nhắc leader không biết nhưng dùng "but" để chuyển sang điểm chính
+> 2. **B. had not been chosen by other students** (✅) → Audio nhấn mạnh "nobody had chosen", "completely untouched", "still available"
+> 3. **C. did not prove to be difficult to research** (❌) → Audio có thể nhắc dễ nghiên cứu nhưng chỉ như "plus" bổ sung
 >
 > ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
 ?
 > [!success] 🎯 Deep Logic Breakdown
 > **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
+> - Bắt đầu bằng Finn nói về việc check topic list và thấy chủ đề của họ còn trống
+> - Sau đó nhắc đến module leader (distractor A) nhưng dùng "but" để chuyển focus
+> - Bổ sung về độ dễ nghiên cứu (distractor C) với "plus" - rõ ràng đây chỉ là lợi ích phụ
+> - Chốt đáp án bằng việc nhấn mạnh "what really pleased me" + multiple paraphrases cho "not chosen by others"
 >
 > **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
+> - **Trap Elimination:** Familiarity và Research Difficulty được nhắc nhưng bị削弱 bởi "but" và "plus"
+> - **Confirmation Logic:** Multiple paraphrases (nobody chosen, untouched, available, nobody's done work) converging vào cùng ý nghĩa
 >
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
->
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
+> **🔑 Strategic Lesson:** Trong MCQ, tập trung vào từ chỉ ra quan điểm chính hoặc cảm xúc chủ đạo của người nói ("pleased", "really happy", "what matters")
 
 ---

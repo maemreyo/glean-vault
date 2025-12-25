@@ -1,435 +1,270 @@
 ---
 aliases:
-  - 
+  - "Programme contains insights show analysis"
+  - "Show programme content details"
 question_type: single
-# single = 1 option (matching), multi = 2+ options (MCQ)
 options_count: 1
-status: pending
+status: done
 ref:
   - Cam 20 Listening Test 03
 
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==single==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==This show's programme contains insights into the show==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Theatre/show programme description*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 03
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
->
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
+> | A | ==contains insights into the show== | Chứa thông tin chi tiết về chương trình | offers details about the programme, provides information on the performance/show, gives analysis | ⚠️ Low |
 >
 > *(For single-option: keep only 1 row and remove "Correct Answer" line)*
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==Nội dung / Thông tin==
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Culture / Media / Theatre==
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
->
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
->
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
->
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Definition:** Một chương trình hay ấn phẩm ==chứa thông tin sâu sắc, phân tích chi tiết== về nội dung, bối cảnh, hoặc thông điệp có liên quan đến chương trình/show đó.
+> - **Denotation:** Nghĩa đen: Tài liệu, ấn phẩm, chương trình có cung cấp các thông tin, chi tiết, phân tích, đánh giá, hoặc sự mô tả chi tiết về nội dung show.
+> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI: "reviews" (nhận xét), "summaries" (tóm tắt), "synopsis" (tóm lược).
+> - **Deep Dive:** Paraphrasing sâu hơn: "contains insights → offers details, provides analysis, gives in-depth information, includes examination"
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Nhìn thấy ==sách mỏng, ấn phẩm chi tiết== với các chương phân tích, hình ảnh minh họa, hoặc trang bìa được thiết kế đẹp với nhiều thông tin.
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Nghe tiếng ==xòe lật sách== hoặc giấy, âm thanh nhẹ khi đọc những đoạn trích dẫn hoặc mô tả chi tiết.
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Hành động cụ thể: đọc các phần thông tin, tham khảo phân tích, xem xét chi tiết trong ấn phẩm.
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
->
-> - `Noun + of + Noun`: e.g., organisation of + event
->
-> - `Adj + Noun`: e.g., local + businesses
+> - `Verb + Noun`: contain + insights, offer + details, provide + analysis, include + information
+> - `Noun + of + Noun`: insights + into, details + about/into, analysis + of
+> - `Adj + Noun`: detailed + information, in-depth + analysis, valuable + insights
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "The programme offers..."
 >
-> - "The job involves..."
+> - "It contains detailed information about..."
 >
-> - "We need to..."
+> - "There's a section that provides analysis of..."
 >
-> - "My responsibility is..."
+> - "This gives insights into the show itself"
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==reviews==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Nghe giống vì "reviews" cũng là nội dung của ấn phẩm/show programme, nhưng sự khác biệt quan trọng: reviews là nhận xét cá nhân, insights là thông tin chuyên sâu.
+> - *Actual meaning:* Reviews là ý kiến cá nhân, không phải thông tin chi tiết chuyên môn trong programme.
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> **Trap 2:** ==summaries==
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
->
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
->
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Why it's tricky:* Nghe giống vì "summaries" và "insights" đều liên quan đến nội dung, nhưng summaries là tóm tắt ngắn gọn, insights là thông tin sâu sắc.
+> - *Actual meaning:* Summaries chỉ tóm tắt sơ qua, không phải phân tích chi tiết như insights.
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "The programme isn't just a list of performers. It actually contains some really interesting insights into the show's themes and background, which adds quite a lot of value for the audience."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==contains insights into the show==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "We found that this programme provides more than just practical details. It contains thoughtful analysis of what the show represents and gives viewers a deeper understanding of the content."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==contains insights into the show==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
+## 🧠 Spaced Repetition Flashcards (14 Cards)
 
 ---
 
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/culture-media/show-programmes/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==contains insights into the show==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Show programme content*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** "It offers detailed analysis..." / "It provides in-depth information..."
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - "Contains information about..."
 >
-> - Kịch bản 3
+> - "Includes examination of..."
 >
-> - Kịch bản 4
+> - "Gives background on..."
 >
-> - Kịch bản 5
+> - "Provides details about..."
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Key paraphrase patterns: "contains insights → provides detailed analysis/offers information/includes examination"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/culture-media/show-programmes/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==contains insights into the show==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** contain + insights / provide + analysis / offer + information
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: offers, gives, includes, features, contains
+>   - Nouns: details, analysis, examination, information, background, content, understanding
 >
->   - Nouns: ví dụ: music, concert
->
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** "Contains insights" thường đi với "into + the show/programme"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/culture-media/show-programmes/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==contains insights into the show==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "Actually," "In fact," "What's interesting about..." "Beyond that..." "The real value is..."
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** Xuống giọng (Final/Certain) khi chốt đặc điểm chính quan trọng.
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Dấu hiệu chuyển từ thông tin bề mặt sang thông tin sâu sắc (insights).
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/culture-media/show-programmes/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==contains insights into the show==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
 ?
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /kənˈteɪnz ˈɪnsaɪts ˈɪntuː ðə ðə ʃəʊ/ → /kənˈteɪnzˈɪnsaɪtsˈɪntuːðəʃəʊ/
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
->
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
->
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Linking:** "insights" + "into" → /ˈɪnsaɪtsˈɪntuː/ (s + i), "into" + "the" → /ˈɪntuːðə/
+> - **Elision:** Nuốt âm nhẹ 'd' cuối từ "and" khi nối với "the"
+> - **Weak Form:** "of" → /əv/ (âm lướt)
 
 ---
 
 ### Tier 2: Recognition - Every 2-3 Days (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/culture-media/show-programmes/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "The programme provides thoughtful analysis of what the show represents and gives viewers a deeper understanding."
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==contains insights into the show==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="provides thoughtful analysis"==" == "gives deeper understanding"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: =="contains insights into"==
 >
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> **🧠 Logic Chain:** provides analysis + gives understanding = contains insights
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/culture-media/show-programmes/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==reviews==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"The programme includes reviews..."* → **Số phận** option này thế nào?
 ?
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
 > **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
+> Audio nhắc đến "reviews" nhưng đây là ý kiến cá nhân, không phải thông tin chuyên sâu (insights). Có thể là "also" hay "including" kết hợp khác.
 >
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> **🔄 Reality Check:** Nghĩa thực sự của audio là programme CHỨA thông tin sâu sắc (insights), không chỉ là nhận xét cá nhân.
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/culture-media/show-programmes/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="contains insights into the show"== với =="reviews of the show"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
->
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
->
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> - **contains insights into the show:** Tập trung vào ==thông tin chuyên sâu, phân tích chi tiết==, thông điệp có giá trị học thuật hoặc phân tích chuyên môn, cho người hiểu sâu hơn.
+> - **reviews of the show:** Tập trung vào ==nhận xét cá nhân, ý kiến chủ quan==, cảm xúc cá nhân, không phải thông tin khách quan hay chuyên môn.
+> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý: "reviews" và "insights" đều liên quan đến nội dung programme nhưng tính chất khác nhau (cá nhân vs. chuyên môn).
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/culture-media/show-programmes/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> *The programme provides thoughtful ==analysis== and gives viewers a deeper ==understanding== of the content.*
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Chương trình cung cấp phân tích kỹ lưỡng và mang đến cho người xem sự hiểu sâu sắc hơn về nội dung.
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+> [!success] ✅ Answer: ==analysis / understanding==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
->
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
->
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> - **Plural/Singular:** Hai từ đều số ít vì nói về phân tích tổng quát và sự hiểu sâu, không liệt kê nhiều mục.
+> - **Spelling Trap:** Lưu ý lỗi chính tả: "analysis" (không phải "analsis"), "understanding" (không phải "understading")
+> **🔗 Connects to:** ==contains insights into the show==
 
 ---
 
 ### Tier 3: Elimination - Weekly (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/culture-media/show-programmes/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
-> **Context:** Map Labelling / Room Layout
+> **Context:** Programme Layout
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
->
-> *(vd: "It's immediately to your right when you enter.")*
+> **Audio Cue:** *"The programme booklet is organised in sections. The insights section begins at page 3, while the practical information is at the back."*
 >
 > ❓ **Reflex:** Hình dung vị trí trong đầu NGAY LẬP TỨC?
 ?
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> Mô tả vị trí: "Booklet → Page 3 → Insights Section (front) → Turn to Back → Practical Info (back)"
 >
 > **⚠️ Spatial Traps:**
-> - "On the right hand side of the building" ≠ "On your right"
+> - "at the end" ≠ "at the back"
+> - "in the front" ≠ "at the beginning"
+> - "on the first page" ≠ "starts at page 3"
 >
-> - "Opposite" ≠ "Next to"
->
-> - "Behind" ≠ "At the back of"
->
-> **🎯 Correct Position:** =={{LABEL}}==
+> **🎯 Correct Position:** ==Insights section==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
-### Card 10: Option Elimination Drill *(MCQ only)*
-
-> **Question:** =={{QUESTION_STEM}}==
->
-> **Options:**
-> - A. {{OPTION_1}}
->
-> - B. {{OPTION_2}}
->
-> - C. {{OPTION_3}}
->
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
->
-> ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
-?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
->
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
->
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
->
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
-### Card 11: Cross-Option Confusion *(MCQ only)*
-
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
->
-> ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
-?
-> [!example] 🆚 Signal Decoding
->
-> **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
->
-> **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
->
-> **🔑 Scientific Distinction:**
->
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
->
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
-### Card 12: Answer Validation *(MCQ only)*
-
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
->
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
->
-> ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
-?
-> [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
->
-> 2. ==phrase 2== → giải thích kết nối
->
-> 3. ==phrase 3== → giải thích kết nối
->
-> **🎯 Conclusion:** Tổng hợp logic
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/culture-media/show-programmes/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
->
-> *(vd: "You've got a point, but..." / "I see what you mean, although...")*
+> **Audio:** *"The programme includes some reviews, which can be helpful. However, the insights section is what truly adds value - it gives the show professional depth."*
 >
 > ❓ **Reflex:** Người nói THỰC SỰ ĐỒNG Ý hay PHẢN ĐỐI?
 ?
@@ -440,130 +275,91 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 >
 > **✅ Real Agreement Signals:**
 >
-> - *"Precisely"*
+> - *"Exactly, that's what gives it value"*
 >
-> - *"I couldn't agree more"*
+> - *"I completely agree that insights are key"*
 >
-> - *"Spot on"*
->
-> - *"Absolutely"*
+> - *"The analysis is what matters most"*
 >
 > **❌ False Agreement Signals:**
 >
-> - *"You've got a point, but..."*
->
-> - *"I suppose so..."* (ngập ngừng)
->
-> - *"That's one way to look at it..."*
+> - *"Reviews can be helpful, however..."* (chuyển hướng sau "however")
+> - *"The programme includes reviews, but..."* (chuyển hướng sau "but")
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/culture-media/show-programmes/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==contains insights into the show==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
+> [!info] ⚡ Rapid Swap
+> ==contains insights== ⚡ ==provides detailed analysis / offers in-depth information / gives deep understanding==
 >
-> **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> **🧠 Instant Logic:** Direct synonym mapping: contains insights ↔ provides analysis ↔ offers information ↔ gives understanding
 
 ---
 
-### Tier 4: Mastery - Bi-weekly (4 Cards)
+### Tier 4: Mastery - Bi-weekly (3 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/culture-media/show-programmes/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "The theatre programme has multiple sections. It includes performer bios, which is useful information. There are also audience reviews in the back, showing people's reactions. But what makes this programme really special is the insights section - it contains detailed analysis of the show's themes and background that gives a much deeper understanding of what you're actually seeing."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
->
-> - *Sounds like:* Nghe giống gì
->
-> - *Wrong because:* Tại sao sai
->
-> **2. Distractor:** =="{{TEXT}}"==
->
-> - *Sounds like:* Nghe giống gì
->
-> - *Wrong because:* Tại sao sai
->
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **1. Distractor:** ==performer bios==
+> - *Sounds like:* Audio nói "includes" và "performer" là thông tin về người tham gia.
+> - *Wrong because:* Đây là thông tin bề mặt, không phải thông tin sâu sắc (insights). Bị loại bỏ bởi "But what makes it really special".
+> **2. Distractor:** ==audience reviews==
+> - *Sounds like:* Audio nhắc "reviews" và "audience"
+> - *Wrong because:* Reviews là ý kiến cá nhân, không phải phân tích chuyên môn. Bị phủ định bởi "But...it contains detailed analysis".
+> **✅ Correct Answer:** ==contains insights into the show==
+> - *Why correct:* Được xác nhận là "really special", "contains detailed analysis", "gives deeper understanding".
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/culture-media/show-programmes/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** ==contains insights into the show==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "We carefully studied the programme structure. While it does contain practical details like cast lists and venue information, what truly stands out is the analysis section. This part contains professional insights into the show, examining its themes and providing context that helps viewers appreciate the performance at a much deeper level."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==analysis section== → ==insights==
+> - ==examining its themes== → part of "insights into"
+> - ==providing context== → aspect of analysis
+> - ==helps viewers appreciate...at a much deeper level== → gives understanding
 >
-> - ==Audio phrase== → ==Option word==
->
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> **🧠 Overall Logic:** Complete paraphrase chain: "analysis section" + "examining themes" + "providing context" = contains insights
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/culture-media/show-programmes/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==contains insights into the show==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Show programme content*
 >
-> ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
+> ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY**!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
+> 1. ==provides detailed analysis==
 >
-> 2. ==Paraphrase 2==
+> 2. ==offers in-depth information==
 >
 > **🎯 Goal:** Instant Recall
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
-### Card 18: Complete Question Synthesis *(MCQ only)*
-
-> **Full Question Context:**
-> =={{QUESTION_STEM}}==
->
-> **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
->
-> ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
-?
-> [!success] 🎯 Deep Logic Breakdown
-> **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
->
-> **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
->
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
->
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
 
 ---

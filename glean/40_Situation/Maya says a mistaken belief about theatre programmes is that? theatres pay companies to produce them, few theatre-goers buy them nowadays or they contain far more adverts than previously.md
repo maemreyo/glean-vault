@@ -1,328 +1,264 @@
 ---
 aliases:
-  - 
-question_type: single
-# single = 1 option (matching), multi = 2+ options (MCQ)
-options_count: 1
-status: pending
+  - Maya mistaken belief about theatre programmes
+  - theatre programmes misconceptions
+  - who pays for theatre programmes
+question_type: multi
+options_count: 3
+status: done
 ref:
   - Cam 20 Listening Test 03
 
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==multi==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==Maya says a mistaken belief about theatre programmes is that?==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Student (Maya) discussing common misconceptions about theatre programmes*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 03
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
+> | A | ==theatres pay companies to produce them== | nhà hát trả tiền công ty làm | fund, finance, sponsor, commission | ⚠️ Low |
+> | B | ==few theatre-goers buy them nowadays== | rất ít người xem nhà hát mua | rarely purchased, uncommon, scarce | ⚠️ High |
+> | C | ==they contain far more adverts than previously== | có nhiều quảng cáo hơn | advertising, commercial, promotional content | ⚠️ Medium |
 >
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
->
-> *(For single-option: keep only 1 row and remove "Correct Answer" line)*
+> **✅ Correct Answer:** ==A. theatres pay companies to produce them==
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** **Mối quan hệ tài chính (Financial relationship)==
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Theatre / Business Model / Misconception==
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
+> - **Definition:** Nghĩa là ==mối quan hệ khách hàng (client relationship)== - nhà hát là khách trả tiền cho công ty sản xuất programme
 >
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
+> - **Denotation:** Nghĩa đen là ==pay = trả tiền== - giao dịch tài chính nơi nhà hát thanh toán cho nhà sản xuất
 >
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
+> - **Distractor:** "few buy nowadays" nghe giống "unpopular" - có thể hiểu là người không thích/nhưng không phải sai lầm về mối quan hệ
 >
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Deep Dive:** Paraphrasing: **theatres pay companies → theatres finance/commission/fund programmes, theatres are clients, theatres hire producers**
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Hình dung nhà hát viết check cho công ty sản xuất programme - nhà hát là khách
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Nghe người nói: *"People think the ==theatre pays== the printer," *"The ==funds come from== the venue"*
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Hành động xem hóa đơn thanh toán từ nhà hát
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
->
-> - `Noun + of + Noun`: e.g., organisation of + event
->
-> - `Adj + Noun`: e.g., local + businesses
+> - `Verb + Noun`: pay + company, commission + producer, finance + production
+> - `Noun + prep + Noun`: theatre + pays + company, venue + commissions + programme
+> - `Adj + Noun`: mistaken + belief, common + misconception, widespread + view
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "The ==theatre actually pays== the company to produce programmes..."
 >
-> - "The job involves..."
+> - "Companies are ==commissioned by== the theatre..."
 >
-> - "We need to..."
->
-> - "My responsibility is..."
+> - "The ==funds come from== the venue..."*
+> - "Theatres ==hire/pay producers== to make programmes..."
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==few theatre-goers buy them nowadays==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* "few buy" nghe giống "not popular" - sai lầm phổ biến về sự không được ưa chuộng
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Maya đang nói về sai lầm ==tài chính/mối quan hệ== chứ không phải sự ưa chuộng
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
+> **Trap 2:** ==they contain far more adverts than previously==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* "more adverts" là sự thay đổi thật, có thể hiểu là sai lầm về nội dung
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Dù có thể nhiều quảng cáo, nhưng sai lầm chính là về ==ai trả tiền==
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "Many people mistakenly think that ==theatres pay companies== to create programmes. Actually, it's the opposite - companies often ==fund the production== themselves."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==theatres pay companies to produce them==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "A common misconception is that the ==theatre finances/commissions== the programmes. In reality, companies are ==independent producers== who sell to theatres."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==theatres pay companies to produce them==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
+## 🧠 Spaced Repetition Flashcards
 
 ---
 
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/culture-media/theatre-programmes/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==theatres pay companies to produce them==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Maya discussing theatre programme misconceptions*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** Audio sẽ dùng từ ==commission/fund/finance== để paraphrase "pay companies"
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - Audio nhắc ==hire/pay producers==
 >
-> - Kịch bản 3
+> - Audio nói ==theatres finance/commission==
 >
-> - Kịch bản 4
+> - Audio dùng ==venue pays company==
 >
-> - Kịch bản 5
+> - Audio nói ==funds come from theatre==
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Tất cả diễn tả ==mối quan hệ tài chính nơi nhà hát trả tiền cho công ty==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/culture-media/theatre-programmes/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==theatres pay companies to produce them==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** ==pay + company/commission== (trả tiền/commission)
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: fund, finance, hire, commission
 >
->   - Nouns: ví dụ: music, concert
+>   - Nouns: producer, printer, supplier, contractor
 >
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** Thường đi với ==theatre + pays/hires/commissions== hoặc ==company + is commissioned by==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/culture-media/theatre-programmes/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==theatres pay companies to produce them==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "Many people mistakenly think..." "A common misconception is..." "The wrong idea is..." "People believe..."
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** Lên giọng (trình bày, khẳng định) - thể hiện đang nêu sai lầm phổ biến
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Signpost báo hiệu người nói đang ==đề cập sai lầm/misconception== mà mọi người tin
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/culture-media/theatre-programmes/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==theatres pay companies to produce them==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
 ?
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /ˈθɪətəz peɪ ˈkʌmpənɪz tə prəˈdjuːs ðem/
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
+> - **Linking:** "pay" + "companies" → /peɪˈkʌmpənɪz/, nối âm /j/ nhẹ
 >
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
+> - **Elision:** Nuốt âm /d/ trong "them" khi nói nhanh
 >
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Weak Form:** "to" thường thành /tə/
 
 ---
 
-### Tier 2: Recognition - Every 2-3 Days (4 Cards)
+### Tier 2: Recognition - Every 2-3 Days (5 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/culture-media/theatre-programmes/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "People mistakenly think that ==theatres commission programmes==. In fact, companies are independent businesses that sell to theatres."
 >
-> ❓ **Question:** Đoạn này ==match== với ==Option== nào?
+> ❓ **Question:** Đoạn này ==match** với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==theatres pay companies to produce them==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="theatres commission"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: =="theatres pay/commission companies"==
 >
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> **🧠 Logic Chain:** "commission" = "pay for service"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/culture-media/theatre-programmes/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==few theatre-goers buy them nowadays==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"They're not as popular as they used to be..."* → **Số phận** option này thế nào?
 ?
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
 > **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
+> "Not as popular" gợi ý về "few buy" → dễ hiểu là sai lầm về sự ưa chuộng/phổ biến
 >
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> **🔄 Reality Check:** Maya đang nói về sai lầm ==tài chính (who pays)== chứ không phải sự ưa chuộng
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/culture-media/theatre-programmes/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="theatres pay companies to produce them"== với =="they contain far more adverts than previously"==?
 >
-> ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
+> ❓ **Question:** ==Sự khác biệt cốt lõi** là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
+> - **theatres pay companies to produce them:** Tập trung vào ==mối quan hệ tài chính (who pays/client relationship)==
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
+> - **they contain far more adverts than previously:** Tập trung vào ==nội dung/đặc điểm programme (content/advertising)==
 >
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> **🧱 Key Barrier:** "pay = financial relationship" vs "adverts = content"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/culture-media/theatre-programmes/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> *Many people believe that _____ pay companies to produce theatre programmes.*
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Nhiều người tin rằng nhà hát trả tiền công ty sản xuất chương trình nhà hát.
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+> [!success] ✅ Answer: ==theatres==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
+> - **Plural/Singular:** Plural (có 's') vì nói về tất cả nhà hát nói chung
 >
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
+> - **Spelling Trap:** Lưu ý đuôi "-res" (theatres) không phải "-ers" ❌, "re" trước "-er" (theatre → theatres)
 >
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> **🔗 Connects to:** ==theatres pay==
 
 ---
 
-### Tier 3: Elimination - Weekly (4 Cards)
+### Tier 3: Elimination - Weekly (6 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/culture-media/theatre-programmes/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
-> **Context:** Map Labelling / Room Layout
+> **Context:** Business Relationship (Theatre ↔ Company)
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
+> **Audio Cue:** *"People think the ==money flows from the theatre== to the company..."*
 >
 > *(vd: "It's immediately to your right when you enter.")*
 >
@@ -330,240 +266,233 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ?
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> Hình dung mũi tiền: Theatre (khách trả tiền) → Company (nhận tiền)
 >
 > **⚠️ Spatial Traps:**
-> - "On the right hand side of the building" ≠ "On your right"
+> - "theatre pays" ≠ "company pays"*
 >
-> - "Opposite" ≠ "Next to"
+> - "commission from" ≠ "sell to"*
 >
-> - "Behind" ≠ "At the back of"
->
-> **🎯 Correct Position:** =={{LABEL}}==
+> **🎯 Correct Position:** Client → Service Provider
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
+#flashcards/ielts-listening/culture-media/theatre-programmes/weekly/01-elimination
 ### Card 10: Option Elimination Drill *(MCQ only)*
 
-> **Question:** =={{QUESTION_STEM}}==
+> **Question:** ==Maya says a mistaken belief about theatre programmes is that?==
 >
 > **Options:**
-> - A. {{OPTION_1}}
+> - A. theatres pay companies to produce them
 >
-> - B. {{OPTION_2}}
+> - B. few theatre-goers buy them nowadays
 >
-> - C. {{OPTION_3}}
+> - C. they contain far more adverts than previously
 >
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
+> **Audio:** "What people get wrong is the financial relationship. They mistakenly think ==theatres pay companies==. While it's true programmes today have ==more advertising==, and ==fewer people buy== them, that's not the misconception Maya's talking about."
 >
 > ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
 ?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
+> [!success] ✅ Correct: ==A. theatres pay companies to produce them==
 >
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why B is wrong:** Audio nhắc "fewer people buy" nhưng dùng "While" để làm rõ đó là fact, không phải misconception
 >
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why C is wrong:** Audio có thể nhắc "more advertising" nhưng chỉ là detail về nội dung, không phải sai lầm chính
 >
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
+> **✅ Why A is correct:** Audio trực tiếp nói "mistakenly think theatres pay companies" - chính là misconception
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
+#flashcards/ielts-listening/culture-media/theatre-programmes/weekly/02-cross-confusion
 ### Card 11: Cross-Option Confusion *(MCQ only)*
 
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
+> **Confusing Pair:** ==theatres pay companies to produce them== vs ==few theatre-goers buy them nowadays==
 >
 > ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
 ?
 > [!example] 🆚 Signal Decoding
 >
 > **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
+> - *"theatres pay/commission/finance"*
 >
-> - *"Signal phrase 2"*
+> - *"funds come from theatre"*
 >
-> - *"Signal phrase 3"*
+> - *"theatre hires company"*
 >
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
+> → **Implies:** Tập trung vào **mối quan hệ tài chính (who pays/client relationship)** - nhà hát trả tiền
 >
 > **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
+> - *"few/rarely buy/purchase"*
 >
-> - *"Signal phrase 2"*
+> - *"not popular/uncommon"*
 >
-> - *"Signal phrase 3"*
+> - *"fewer people buy nowadays"*
 >
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
+> → **Implies:** Tập trung vào **sự ưa chuộng/phổ biến (popularity/sales)** - người có mua không
 >
 > **🔑 Scientific Distinction:**
 >
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
+> - **Option A focuses on:** **Financial direction** (phương hướng tài chính - ai trả ai)
 >
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
+> - **Option B focuses on:** **Market popularity** (sự phổ biến trên thị trường - bao nhiều người mua)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
+#flashcards/ielts-listening/culture-media/theatre-programmes/weekly/03-validation
 ### Card 12: Answer Validation *(MCQ only)*
 
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
+> **Correct Answer:** ==A. theatres pay companies to produce them==
 >
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
+> **Audio excerpt:** "Many people mistakenly believe that ==theatres finance/commission== the programmes. They think the ==theatre pays the company==, when actually companies are independent."
 >
 > ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
 ?
 > [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
+> 1. ==theatres finance/commission== → paraphrase trực tiếp cho "theatres pay companies"
 >
-> 2. ==phrase 2== → giải thích kết nối
+> 2. ==theatre pays the company== → synonym cho "theatres pay"
 >
-> 3. ==phrase 3== → giải thích kết nối
+> 3. ==independent== → làm rõ sai lầm (nếu theatre trả thì company phụ thuộc, nhưng thực ra company độc lập)
 >
-> **🎯 Conclusion:** Tổng hợp logic
+> **🎯 Conclusion:** Ba cụm từ đều chỉ ra sai lầm về mối quan hệ tài chính - người nghĩ theatre trả tiền
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/culture-media/theatre-programmes/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
+> **Audio:** *"Yes, that's right - programmes do have more ads now. But that's a different issue from who pays..."*
 >
 > *(vd: "You've got a point, but..." / "I see what you mean, although...")*
 >
 > ❓ **Reflex:** Người nói THỰC SỰ ĐỒNG Ý hay PHẢN ĐỐI?
 ?
 > [!fail] 🎭 Pseudo-Agreement Detection
-> **👉 Verdict:** ==PHẢN ĐỐI (Disagree)==
+> **👉 Verdict:** ==ĐỒNG Ý (Agree)==
 >
-> **💡 Rule:** Khen trước → Chê sau = **NO**
+> **💡 Rule:** "Yes, that's right" đồng ý, "But that's a different issue" - không phủ định, chỉ chuyển focus
 >
 > **✅ Real Agreement Signals:**
 >
-> - *"Precisely"*
+> - *"Yes, that's right/correct"*
 >
-> - *"I couldn't agree more"*
+> - *"Exactly"*
 >
-> - *"Spot on"*
->
-> - *"Absolutely"*
+> - *"That's true"*
 >
 > **❌ False Agreement Signals:**
 >
-> - *"You've got a point, but..."*
->
-> - *"I suppose so..."* (ngập ngừng)
->
-> - *"That's one way to look at it..."*
+> - *"But that's a different issue from..."* → không phủ định, chỉ phân biệt
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/culture-media/theatre-programmes/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==theatres pay companies to produce them==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
+> [!info] ⚡ Rapid Swap
+> ==theatres commission== ⚡ ==theatres pay==
+> ==theatres finance== ⚡ ==theatres pay==
+> ==theatre hires company== ⚡ ==theatres pay==
 >
-> **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> **🧠 Instant Logic:** Tất cả diễn tả ==nhà hát trả tiền cho công ty==
 
 ---
 
 ### Tier 4: Mastery - Bi-weekly (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/culture-media/theatre-programmes/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "What's commonly misunderstood is who funds the programmes. People mistakenly think ==theatres pay companies==. While it's true that ==fewer people buy== programmes now and they contain ==more advertising== than before, these are facts, not the misconception. The actual situation is that companies are ==independent producers==."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** ==few theatre-goers buy them nowadays==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* "fewer people buy now" được nhắc trực tiếp
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Audio dùng "While" để phân biệt fact và misconception, làm rõ đây không phải sai lầm chính
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** ==they contain far more adverts than previously==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* "more advertising" được nhắc trực tiếp
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Audio nói "these are facts, not the misconception" để loại trừ rõ ràng
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **✅ Correct Answer:** ==theatres pay companies to produce them==
+> - *Why correct:* Audio nhấn mạnh "mistakenly think theatres pay companies" - chính là misconception đang nói
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/culture-media/theatre-programmes/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** ==theatres pay companies to produce them==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "A common misconception is that ==theatres finance/commission== the programmes. People believe the ==theatre pays the company== to make them. In reality, companies are ==independent businesses== that sell to theatres. Though ==fewer people buy== programmes today and they have ==more advertising==, that's not the mistaken belief being discussed."
 >
-> ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
+> ❓ **Question:** ==Highlight** và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==theatres finance/commission== → ==theatres pay==
+> - ==theatre pays the company== → synonym cho ==theatres pay==
+> - ==commission programmes== → action của paying
 >
-> - ==Audio phrase== → ==Option word==
->
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> **🧠 Overall Logic:** Tất cả cụm từ chỉ ra sai lầm ==nhà hát trả tiền cho công ty==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/culture-media/theatre-programmes/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==theatres pay companies to produce them==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Theatre programme business misconceptions*
 >
-> ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
+> ❓ **Question:** List ==2 paraphrases** ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
+> 1. ==theatres commission==
 >
-> 2. ==Paraphrase 2==
+> 2. ==theatre finances==
 >
 > **🎯 Goal:** Instant Recall
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
+#flashcards/ielts-listening/culture-media/theatre-programmes/biweekly/04-synthesis
 ### Card 18: Complete Question Synthesis *(MCQ only)*
 
 > **Full Question Context:**
-> =={{QUESTION_STEM}}==
+> ==Maya says a mistaken belief about theatre programmes is that?==
 >
 > **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
+> 1. **A. theatres pay companies to produce them** (✅) → Audio nhấn mạnh "mistakenly think theatres pay/commission", "theatre pays company" - chính là misconception
+> 2. **B. few theatre-goers buy them nowadays** (❌) → Audio có thể nhắc "fewer people buy" nhưng dùng "While" để phân biệt fact và misconception
+> 3. **C. they contain far more adverts than previously** (❌) → Audio nhắc "more advertising" nhưng nói "these are facts, not the misconception"
 >
 > ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
 ?
 > [!success] 🎯 Deep Logic Breakdown
 > **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
+> - Bắt đầu bằng việc nêu sai lầm phổ biến: "Many people mistakenly think..."
+> - Nhắc đến các факt khác như người mua ít và nhiều quảng cáo (distractors B, C)
+> - Sau đó dùng signal "While...these are facts, not the misconception" hoặc "that's not the mistaken belief" để loại trừ rõ ràng
+> - Chốt đáp án bằng việc xác nhận lại sai lầm chính: "mistakenly think theatres pay companies/commission"
 >
 > **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
+> - **Trap Elimination:** Fewer buyers và More adverts được nhắc nhưng bị削弱 bởi "While", "these are facts", "not the misconception"
+> - **Confirmation Logic:** Từ khóa "mistakenly think" + cụm paraphrase cho pay = chính xác là misconception đang hỏi
 >
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
->
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
+> **🔑 Strategic Lesson:** Trong MCQ về misconception (sai lầm), tập trung vào từ trực tiếp nêu sai lầm ("mistakenly think", "wrong belief", "misconception is", "people get wrong") thay vì các факt background
 
 ---

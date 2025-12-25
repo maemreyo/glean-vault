@@ -1,328 +1,265 @@
 ---
 aliases:
-  - 
-question_type: single
-# single = 1 option (matching), multi = 2+ options (MCQ)
-options_count: 1
-status: pending
+  - Maya feels project should explain companies of actors
+  - theatre companies history
+  - why actors had to tour
+question_type: multi
+options_count: 3
+status: done
 ref:
   - Cam 20 Listening Test 03
 
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==multi==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==Maya feels their project should include an explanation of why companies of actors?==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Student (Maya) suggesting topics for theatre history research project*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 03
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
+> | A | ==promoted their own plays== | quảng bá vở kịch của mình | advertised, marketed, publicised | ⚠️ Medium |
+> | B | ==performed plays outdoors== | diễn ngoài trời | open air, outdoor theatre, al fresco | ⚠️ Low |
+> | C | ==had to tour with their plays== | phải lưu diễn cùng kịch | travel, itinerant, moving company | ⚠️ High |
 >
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
->
-> *(For single-option: keep only 1 row and remove "Correct Answer" line)*
+> **✅ Correct Answer:** ==C. had to tour with their plays==
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==Nhân tố kinh tế/hành động (Economic/practical necessity)==
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Theatre / Business Model / Historical Context==
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
+> - **Definition:** Nghĩa là ==phải lưu diễn và đi khắp nơi (travelling company)== - nhóm kịch phải di chuyển để kiếm khán giả
 >
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
+> - **Denotation:** Nghĩa đen là ==tour = lưu diễn, đi vòng (performance tour)== - nhóm diễn xuất ở nhiều địa điểm
 >
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
+> - **Distractor:** "promoted their own plays" nghe giống "independent company" nhưng đó là về marketing, không phải về sự cần thiết phải lưu diễn
 >
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Deep Dive:** Paraphrasing: ==had to tour → needed to travel, itinerant company, moving from place to place, touring==
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Hình dung nhóm kịch lũa lũa, di chuyển từ thành phố này sang thành phố khác, vở diễn tay, đạo cụ trên xe
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Nghe người nói: *"They ==travelled around==," *"They had to ==move from town to town==," *"It was an ==itinerant life=="*
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Hành động đóng gói đạo cụ, lên xe, di chuyển đến địa điểm mới
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
->
-> - `Noun + of + Noun`: e.g., organisation of + event
->
-> - `Adj + Noun`: e.g., local + businesses
+> - `Verb + Noun`: tour + with + plays, travel + with + company, perform + in + places
+> - `Noun + of + Noun`: companies + of + actors, troupes + of + performers
+> - `Adj + Noun`: itinerant + company, travelling + troupe, outdoor + performance
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "They had to ==tour from place to place==..."
 >
-> - "The job involves..."
+> - "It was an ==itinerant company==..."
 >
-> - "We need to..."
+> - "They ==travelled around the country==..."
 >
-> - "My responsibility is..."
+> - "They moved from town to town performing..."
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==promoted their own plays==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* "promoted" nghe giống "independent" - nhóm tự chủ, không phụ thuộc nơi cố định
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Quả có thể tự chủ, nhưng Maya muốn giải thích vì sao họ ==phải lưu diễn== - lý do kinh tế/thực tế
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
+> **Trap 2:** ==performed plays outdoors==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* "outdoors" là đặc điểm của một số hình thức diễn nhưng không phải lý do chính
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Dù có diễn ngoài trời, nhưng lý do cần phải lưu diễn thường là ==thiếu khán giả địa phương==
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "I think we should explore why acting companies in the past ==had to tour==. They couldn't just stay in one theatre - they needed to ==travel to different towns== to find audiences."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==had to tour with their plays==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "What's interesting is that companies of actors were essentially ==itinerant==. They ==travelled around performing== wherever they could find people who'd pay to see their shows."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==had to tour with their plays==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
+## 🧠 Spaced Repetition Flashcards
 
 ---
 
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/culture-media/theatre-companies/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==had to tour with their plays==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Maya suggesting theatre research topics*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** Audio sẽ dùng từ ==travelled/toured around== để paraphrase "had to tour"
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - Audio nhắc ==itinerant company==
 >
-> - Kịch bản 3
+> - Audio nói ==moved from place to place==
 >
-> - Kịch bản 4
+> - Audio dùng ==traveling/performing in different places==
 >
-> - Kịch bản 5
+> - Audio nói ==couldn't stay in one town==
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Tất cả diễn tả ==nhóm kịch phải di chuyển/du lịch== để kiếm khán giả
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/culture-media/theatre-companies/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==had to tour with their plays==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** ==tour + with + plays== (lưu diễn cùng vở kịch)
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: travel, perform, move, itinerate
 >
->   - Nouns: ví dụ: music, concert
+>   - Nouns: company, troupe, actors, performers
 >
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** Thường đi với ==had to + verb== (phải làm gì): had to tour, had to travel, needed to move
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/culture-media/theatre-companies/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==had to tour with their plays==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "I think," "We should explore," "What's interesting is..." "The key point is..."
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** Lên giọng (đề xuất, hứng thú) - thể hiện sự quan tâm và muốn tìm hiểu sâu
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Signpost báo hiệu người nói đang ==nêu đề xuất/nhấn mạnh== một điểm cần nghiên cứu
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/culture-media/theatre-companies/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==had to tour with their plays==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
 ?
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /hæd tʊ tʊː wɪð ðeɪ pləɪz/
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
+> - **Linking:** "tour" + "with" → /tɔːwɪð/, nối âm /d/ nhẹ
 >
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
+> - **Elision:** Nuốt âm /t/ trong "to" khi nói nhanh
 >
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Weak Form:** "had" có thể được phát âm nhấn nhẹ /hæd/
 
 ---
 
-### Tier 2: Recognition - Every 2-3 Days (4 Cards)
+### Tier 2: Recognition - Every 2-3 Days (5 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/culture-media/theatre-companies/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "These companies were essentially ==itinerant== - they ==travelled around== performing in different towns and cities."
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==had to tour with their plays==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="travelled around"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: =="had to tour"==
 >
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> **🧠 Logic Chain:** "travelled around" = active travelling = passive "had to tour"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/culture-media/theatre-companies/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==promoted their own plays==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"They were independent companies..."* → **Số phận** option này thế nào?
 ?
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
 > **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
+> "Independent companies" gợi ý về self-marketing/promoting → dễ hiểu là "promoted their own plays"
 >
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> **🔄 Reality Check:** Maya đang tìm ==lý do thực tế/tài chính== phải lưu diễn chứ không phải về marketing
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/culture-media/theatre-companies/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="had to tour with their plays"== với =="performed plays outdoors"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
+> - **had to tour with their plays:** Tập trung vào ==sự cần thiết phải di chuyển/du lịch== vì lý do kinh tế (thiếu khán giả, thu nhập)
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
+> - **performed plays outdoors:** Tập trung vào ==địa điểm diễn (venue/type of theatre)== - diễn ngoài trời
 >
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> **🧱 Key Barrier:** "tour = economic necessity" vs "outdoors = performance venue"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/culture-media/theatre-companies/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> *Companies of actors _____ to tour with their plays to find audiences in different places.*
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Các nhóm kịch phải lưu diễn cùng vở kịch để tìm khán giả ở những nơi khác nhau.
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+> [!success] ✅ Answer: ==had==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
+> - **Plural/Singular:** Past tense "had" - không thay đổi số
 >
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
+> - **Spelling Trap:** Lưu ý đuôi "-ed" (had) không phải "-s" ❌
 >
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> **🔗 Connects to:** ==had to==
 
 ---
 
-### Tier 3: Elimination - Weekly (4 Cards)
+### Tier 3: Elimination - Weekly (6 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/culture-media/theatre-companies/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
-> **Context:** Map Labelling / Room Layout
+> **Context:** Map - Company Tour Routes
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
+> **Audio Cue:** *"They travelled from London to Manchester, then on to Edinburgh..."*
 >
 > *(vd: "It's immediately to your right when you enter.")*
 >
@@ -330,240 +267,234 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ?
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> Hình dung bản đồ với các điểm thành phố được nối bằng đường đi tour
 >
 > **⚠️ Spatial Traps:**
-> - "On the right hand side of the building" ≠ "On your right"
+> - "from...to..." ≠ "at...in..."
 >
-> - "Opposite" ≠ "Next to"
+> - "travelled around" ≠ "stayed in"*
 >
-> - "Behind" ≠ "At the back of"
->
-> **🎯 Correct Position:** =={{LABEL}}==
+> **🎯 Correct Position:** Tour route (movement)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
+#flashcards/ielts-listening/culture-media/theatre-companies/weekly/01-elimination
 ### Card 10: Option Elimination Drill *(MCQ only)*
 
-> **Question:** =={{QUESTION_STEM}}==
+> **Question:** ==Maya feels their project should include an explanation of why companies of actors?==
 >
 > **Options:**
-> - A. {{OPTION_1}}
+> - A. promoted their own plays
 >
-> - B. {{OPTION_2}}
+> - B. performed plays outdoors
 >
-> - C. {{OPTION_3}}
+> - C. had to tour with their plays
 >
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
+> **Audio:** "I think we should examine why these companies ==travelled around== so much. They couldn't stay put in one location - they ==had to move from place to place==. Yes, they sometimes performed outdoors, and they did promote their work, but the key reason was the ==necessity to tour==."
 >
 > ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
 ?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
+> [!success] ✅ Correct: ==C. had to tour with their plays==
 >
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why A is wrong:** Audio có thể nhắc "promote their work" nhưng dùng "but" để làm rõ đó không phải lý do chính
 >
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why B is wrong:** Audio nhắc "performed outdoors" nhưng đây chỉ là detail, không phải lý do chính
 >
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
+> **✅ Why C is correct:** Audio nhấn mạnh "travelled around", "had to move", "necessity to tour" - paraphrase cho "had to tour"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
+#flashcards/ielts-listening/culture-media/theatre-companies/weekly/02-cross-confusion
 ### Card 11: Cross-Option Confusion *(MCQ only)*
 
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
+> **Confusing Pair:** ==had to tour with their plays== vs ==promoted their own plays==
 >
 > ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
 ?
 > [!example] 🆚 Signal Decoding
 >
 > **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
+> - *"travelled around, moved from place to place"*
 >
-> - *"Signal phrase 2"*
+> - *"itinerant company"*
 >
-> - *"Signal phrase 3"*
+> - *"touring, itinerating"*
 >
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
+> → **Implies:** Tập trung vào ==sự cần thiết phải di chuyển/du lịch== (economic necessity)
 >
 > **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
+> - *"promoted, advertised their plays"*
 >
-> - *"Signal phrase 2"*
+> - *"marketed their work"*
 >
-> - *"Signal phrase 3"*
+> - *"publicised, advertised independently"*
 >
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
+> → **Implies:** Tập trung vào ==hoạt động marketing/quảng bá== (promotion activities)
 >
 > **🔑 Scientific Distinction:**
 >
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
+> - **Option A focuses on:** **Mobility/Travel necessity** (sự di chuyển/tốt thiết thực tế)
 >
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
+> - **Option B focuses on:** **Marketing/Promotion** (hoạt động quảng bá)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
+#flashcards/ielts-listening/culture-media/theatre-companies/weekly/03-validation
 ### Card 12: Answer Validation *(MCQ only)*
 
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
+> **Correct Answer:** ==C. had to tour with their plays==
 >
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
+> **Audio excerpt:** "Companies couldn't simply remain in one theatre - they ==travelled around the country==. It was an economic ==necessity to move== and find new audiences."
 >
 > ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
 ?
 > [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
+> 1. ==travelled around== → paraphrase trực tiếp cho "tour"
 >
-> 2. ==phrase 2== → giải thích kết nối
+> 2. ==necessity to move== → giải thích lý do cần phải tour
 >
-> 3. ==phrase 3== → giải thích kết nối
+> 3. ==find new audiences== → mục đích của việc tour
 >
-> **🎯 Conclusion:** Tổng hợp logic
+> **🎯 Conclusion:** Ba cụm từ đều chỉ ra sự cần thiết phải lưu diễn để kiếm khán giả
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/culture-media/theatre-companies/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
+> **Audio:** *"Yes, that's a good point. Though they did sometimes perform outdoors..."*
 >
 > *(vd: "You've got a point, but..." / "I see what you mean, although...")*
 >
 > ❓ **Reflex:** Người nói THỰC SỰ ĐỒNG Ý hay PHẢN ĐỐI?
 ?
 > [!fail] 🎭 Pseudo-Agreement Detection
-> **👉 Verdict:** ==PHẢN ĐỐI (Disagree)==
+> **👉 Verdict:** ==ĐỒNG Ý (Agree)==
 >
-> **💡 Rule:** Khen trước → Chê sau = **NO**
+> **💡 Rule:** "Yes, that's a good point" đồng ý, "Though" chỉ là thừa nhận detail
 >
 > **✅ Real Agreement Signals:**
 >
-> - *"Precisely"*
+> - *"Yes, that's right/good"*
 >
-> - *"I couldn't agree more"*
+> - *"Exactly"*
 >
-> - *"Spot on"*
->
-> - *"Absolutely"*
+> - *"That's the main point"*
 >
 > **❌ False Agreement Signals:**
 >
-> - *"You've got a point, but..."*
->
-> - *"I suppose so..."* (ngập ngừng)
->
-> - *"That's one way to look at it..."*
+> - *"Though..."* (trong trường hợp này chỉ là contrast nhẹ)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/culture-media/theatre-companies/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==had to tour with their plays==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
+> [!info] ⚡ Rapid Swap
+> ==travelled around== ⚡ ==had to tour==
+> ==moved from place to place== ⚡ ==had to tour==
+> ==itinerant company== ⚡ ==had to tour==
 >
-> **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> **🧠 Instant Logic:** Tất cả diễn tả ==nhóm kịch phải di chuyển/du lịch==
 
 ---
 
 ### Tier 4: Mastery - Bi-weekly (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/culture-media/theatre-companies/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "What's really interesting is that theatre companies ==travelled extensively==. They ==had to tour== to survive because each town only had limited audiences. They did ==promote their own work== and sometimes ==performed outdoors==, but the fundamental reason was the ==economic necessity to move== from place to place."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** ==promoted their own plays==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* "promote their work" được nhắc trực tiếp
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Audio dùng "but the fundamental reason" để làm rõ focus không phải ở đây
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** ==performed plays outdoors==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* "sometimes performed outdoors" được nhắc đến
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Đây chỉ là detail, bị削弱 bởi "but the fundamental reason"
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **✅ Correct Answer:** ==had to tour with their plays==
+> - *Why correct:* Audio nhấn mạnh "travelled extensively", "had to tour", "economic necessity to move"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/culture-media/theatre-companies/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** ==had to tour with their plays==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "These acting companies were essentially ==itinerant== - they ==travelled from town to town== performing. They ==had to move constantly== because local audiences were limited. They did advertise their plays and occasionally perform outdoors, but what drove their movement was ==purely economic necessity==."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==travelled from town to town== → ==had to tour==
+> - ==had to move constantly== → paraphrase cho "had to tour"
+> - ==itinerant== → synonym cho "touring"
+> - **purely economic necessity** → lý do phải tour
 >
-> - ==Audio phrase== → ==Option word==
->
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> **🧠 Overall Logic:** Tất cả cụm từ chỉ ra sự cần thiết phải lưu diễn vì lý do kinh tế
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/culture-media/theatre-companies/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==had to tour with their plays==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Theatre company business models*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
+> 1. ==travelled around==
 >
-> 2. ==Paraphrase 2==
+> 2. ==itinerant==
 >
 > **🎯 Goal:** Instant Recall
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
+#flashcards/ielts-listening/culture-media/theatre-companies/biweekly/04-synthesis
 ### Card 18: Complete Question Synthesis *(MCQ only)*
 
 > **Full Question Context:**
-> =={{QUESTION_STEM}}==
+> ==Maya feels their project should include an explanation of why companies of actors?==
 >
 > **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
+> 1. **A. promoted their own plays** (❌) → Audio nhắc "promote their work" nhưng dùng "but" để làm rõ không phải lý do chính
+> 2. **B. performed plays outdoors** (❌) → Audio có thể nhắc "outdoors" nhưng đây chỉ là detail, bị削弱 bởi "fundamental reason"
+> 3. **C. had to tour with their plays** (✅) → Audio nhấn mạnh "travelled extensively", "had to tour", "economic necessity", "move constantly"
 >
 > ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
 ?
 > [!success] 🎯 Deep Logic Breakdown
 > **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
+> - Bắt đầu bằng Maya nêu đề xuất nghiên cứu về lý do hành động của công ty kịch
+> - Nhắc đến các hoạt động khác như promote và outdoor performances (distractors A, B)
+> - Sau đó dùng signal "but the fundamental reason" hoặc "what really drove" để chuyển sang điểm chính
+> - Chốt đáp án bằng việc nhấn mạnh "travelled, had to move, economic necessity" - paraphrase cho "had to tour"
 >
 > **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
+> - **Trap Elimination:** Promotion và Outdoors được nhắc như background, bị loại trừ bởi "but", "fundamental reason"
+> - **Confirmation Logic:** Multiple paraphrases (travelled extensively, itinerant, had to move, economic necessity) converging vào cùng ý nghĩa
 >
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
->
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
+> **🔑 Strategic Lesson:** Trong MCQ về nguyên nhân/ý nghĩa, tập trung vào từ chỉ ra "chính yếu/tốt thiết thực tế" (fundamental, necessity, essential, key reason) thay vì các hoạt động cụ thể
 
 ---

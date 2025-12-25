@@ -1,435 +1,352 @@
 ---
 aliases:
-  - 
-question_type: single
-# single = 1 option (matching), multi = 2+ options (MCQ)
-options_count: 1
-status: pending
+  - "What archaeological findings on other side of river? Palace fields huts discovery"
+  - "River crossing opposite castle archaeology remains palace fields"
+question_type: multi
+options_count: 3
+status: done
 ref:
   - Cam 20 Listening Test 03
 
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==multi==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==What was found on the other side of the river to the castle?==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Archaeological survey across river from castle site*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 03
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
+> | A | ==The remains of a large palace== | Di tích của một lâu đài lớn | palace ruins, grand building, large residence, royal residence | ⚠️ High |
+> | B | ==the outline of fields== | Đường ranh của các cánh đồng | field boundaries, agricultural areas, cultivated land patterns | ⚠️ Medium |
+> | C | ==a number of small huts== | Nhiều túp nhỏ | small dwellings, huts, modest buildings, domestic structures | ⚠️ High |
 >
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
->
-> *(For single-option: keep only 1 row and remove "Correct Answer" line)*
+> **✅ Correct Answer:** ==C. a number of small huts==
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==Địa điểm / Loại hình kiến trúc==
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Archaeology / Settlement Patterns==
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
+> - **Definition:** Các ===công trình nhà ở nhỏ== (small huts/dwellings) được phát hiện, thường là nhà ở dân thường hoặc công trình phụ trợ, không phải cấu trúc lớn hoặc quan trọng.
 >
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
+> - **Denotation:** Nghĩa đen: Các ngôi nhà nhỏ đơn giản làm bằng gỗ, đất hoặc đá, thường có quy mô nhỏ, dùng làm nơi ở hoặc làm việc, có thể là một phần của ngôi làng nhỏ hoặc khu định cư.
 >
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
+> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI: "palace" (cấu trúc lớn, nghe giống "royal building"), "fields" (đất nông nghiệp, nghe giống "cultivated area").
 >
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Deep Dive:** Paraphrasing sâu hơn: "small huts" → "modest dwellings", "tiny houses", "small domestic structures", "simple dwellings"; "a number of" → "several", "multiple", "a series of".
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Nhìn thấy ===nhóm túp nhỏ=== xếp thành vòng tròn hoặc hàng dọc bên kia dòng sông, mái tranh thấp, tường gạch hoặc gỗ sậm màu, đối lập với lâu đài lớn bên sông.
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Nghe tiếng ===nước sông=== chảy róc rách, tiếng gió thổi qua các túp nhỏ, tiếng động vật hoang dã quanh khu định cư.
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Hành động cụ thể: đào đất bằng xẻng nhỏ, quét lớp đất mới, chụp ảnh từ trên cao để nhìn thấy quy mô phân bố.
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
->
-> - `Noun + of + Noun`: e.g., organisation of + event
->
-> - `Adj + Noun`: e.g., local + businesses
+> - `Verb + Noun`: discover + huts, find + dwellings, uncover + structures, locate + remains
+> - `Noun + of + Noun`: remains + of + palace, outline + of + fields, number + of + huts
+> - `Adj + Noun`: large + palace, small + huts, agricultural + fields, ancient + settlement
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "On the opposite bank..."
 >
-> - "The job involves..."
+> - "Across the river from the castle..."
 >
-> - "We need to..."
+> - "What we discovered was..."
 >
-> - "My responsibility is..."
+> - "The survey revealed..."
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==The remains of a large palace==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Nghe giống vì "palace" là từ ấn tượng trong khảo cổ học, tạo ấn tượng là một phát hiện quan trọng. "Remains" nghe giống như phát hiện archaeology.
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Đây là di tích của một công trình lớn nhưng KHÔNG phải là phát hiện tại vị trí đang điều tra (other side of river).
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
+> **Trap 2:** ==the outline of fields==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Nghe giống vì archaeology thường điều tra cả vùng nông nghiệp xung quanh, và "outline" là từ mô tả phổ biến cho các đặc điểm nhìn thấy được.
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Đây là mô tả ===đất canh tác===, không phải công trình kiến trúc hay di tích kiến trúc. Dành cho nông nghiệp, không phải nhà ở.
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "The team surveyed the area directly opposite the castle, across the river. Interestingly, instead of any grand structures, they discovered a cluster of small huts that must have been a settlement. There were some agricultural field patterns nearby, but the main find was these dwellings."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==a number of small huts==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "On the other side of the river from the castle site, we did some test excavations. People expected we might find something impressive like a palace. But what we uncovered were actually quite modest - a series of small huts arranged in a circular pattern, suggesting a small community lived here."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==a number of small huts==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
+## 🧠 Spaced Repetition Flashcards (18 Cards)
 
 ---
 
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/science-tech/archaeology/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==a number of small huts==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Survey across river from castle*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** "We discovered a cluster of small dwellings" / "Several huts were found"
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - "A series of modest houses"
 >
-> - Kịch bản 3
+> - "Multiple small structures arranged..."
 >
-> - Kịch bản 4
+> - "Dwellings in a settlement pattern"
 >
-> - Kịch bản 5
+> - "Small domestic buildings"
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Key paraphrase patterns: "small huts → dwellings/modest houses", "a number of → several/cluster/series"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/science-tech/archaeology/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==a number of small huts==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** discover + huts / find + dwellings / uncover + small structures
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: reveal, locate, identify, excavate
 >
->   - Nouns: ví dụ: music, concert
+>   - Nouns: cluster, series, settlement, dwellings, domestic structures, modest buildings
 >
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** "Discover/find/uncover" thường đi với "huts/dwellings/small structures" không đi với "palace" hay "fields"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/science-tech/archaeology/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==a number of small huts==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "However," "Instead of," "Interestingly," "But what we actually found," "The main discovery was"
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** Xuống giọng (Final/Certain) khi chốt phương án, sau khi đã đề cập kỳ vọng lớn ("palace") để tạo sự đối lập.
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Dấu hiệu chuyển từ kỳ vọng lớn (palace) sang thực tế nhỏ (huts), dùng từ phủ định hoặc đối lập.
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/science-tech/archaeology/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==a number of small huts==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
 ?
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /ə ˈnʌmbər əv smɔːl ˈhʌts/ → /əˈnʌmbərəvsmɔːlˈhʌts/
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
+> - **Linking:** "number of" → /ˈnʌmbərəv/, "small huts" → /smɔːlˈhʌts/ (m + h liên âm)
 >
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
+> - **Elision:** Nuốt âm 'v' nhẹ trong "of" khi nối với "small"
 >
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Weak Form:** "of" → /ə/, "a" → /ə/ (âm lướt)
 
 ---
 
 ### Tier 2: Recognition - Every 2-3 Days (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/science-tech/archaeology/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "Instead of any grand structures, they discovered a cluster of small dwellings that must have been a settlement."
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==a number of small huts==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="cluster of small dwellings"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: =="a number of small huts"==
 >
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> **🧠 Logic Chain:** cluster → number/group; dwellings → huts; instead of grand structures → implies small/modest
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/science-tech/archaeology/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==The remains of a large palace==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"People expected we might find something impressive..."* → **Số phận** option này thế nào?
 ?
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
 > **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
+> Audio nhắc đến kỳ vọng ("expected", "impressive", "palace") nhưng dùng signal "but/instead" để phủ định. Kỳ vọng KHÔNG phải là thực tế phát hiện.
 >
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> **🔄 Reality Check:** Nghĩa thực sự của audio là người mong đợi tìm thấy palace nhưng thực tế lại là huts nhỏ - palace chỉ là kỳ vọng không thành hiện thực.
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/science-tech/archaeology/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="a number of small huts"== với =="the outline of fields"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
->
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
->
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> - **a number of small huts:** Tập trung vào ===công trình kiến trúc===, nhà ở, nơi định cư, di tích archaeology (structures, buildings, dwellings).
+> - **the outline of fields:** Tập trung vào ===đất nông nghiệp===, vùng canh tác, đặc điểm địa lý nông nghiệp (boundaries, patterns, agricultural land).
+> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý: cả hai đều là "đặc điểm nhìn thấy" nhưng một là kiến trúc (huts) còn một là đất/canhh tác (fields).
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/science-tech/archaeology/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> *Instead of any grand structures, they discovered a ==cluster== of small ==huts== that must have been a ==settlement==.*
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Thay vì các công trình lớn, họ phát hiện một nhóm của các túp nhỏ lẽ phải là một khu định cư.
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+> [!success] ✅ Answer: ==cluster / huts / settlement==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
+> - **Plural/Singular:** Có 's' vì nói về nhiều túp (huts) và nhóm (cluster/settlement). Signal: "small huts", "instead of structures".
+> - **Spelling Trap:** "settlement" (không phải "setleement"), "cluster" (không phải "clustr")
 >
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
->
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> **🔗 Connects to:** ==a number of small huts==
 
 ---
 
-### Tier 3: Elimination - Weekly (4 Cards)
+### Tier 3: Elimination - Weekly (5 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/science-tech/archaeology/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
-> **Context:** Map Labelling / Room Layout
+> **Context:** River Crossing Survey Map
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
->
-> *(vd: "It's immediately to your right when you enter.")*
+> **Audio Cue:** *"The castle is on the north bank. Cross the bridge to the south side. Follow the path westward - the huts are in a circular arrangement near the river, and the fields extend further south."*
 >
 > ❓ **Reflex:** Hình dung vị trí trong đầu NGAY LẬP TỨC?
 ?
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> Mô tả vị trí: "Castle (North) → Cross Bridge → South Bank → Go West → Circular Hut Cluster (stop 1) → Fields Extend South (stop 2)"
 >
 > **⚠️ Spatial Traps:**
-> - "On the right hand side of the building" ≠ "On your right"
+> - "near the river" ≠ "in the river"
+> - "south side" ≠ "southern bank"
+> - "extend further south" ≠ "at the south end"
 >
-> - "Opposite" ≠ "Next to"
->
-> - "Behind" ≠ "At the back of"
->
-> **🎯 Correct Position:** =={{LABEL}}==
+> **🎯 Correct Position:** ==Small hut cluster==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
+#flashcards/ielts-listening/science-tech/archaeology/weekly/01-elimination
 ### Card 10: Option Elimination Drill *(MCQ only)*
 
-> **Question:** =={{QUESTION_STEM}}==
+> **Question:** ==What was found on the other side of the river to the castle?==
 >
 > **Options:**
-> - A. {{OPTION_1}}
+> - A. The remains of a large palace
+> - B. the outline of fields
+> - C. a number of small huts
 >
-> - B. {{OPTION_2}}
->
-> - C. {{OPTION_3}}
->
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
+> **Audio:** "On the opposite bank from the castle, we found some agricultural field patterns, but the main discovery was a series of small dwellings arranged in a circular pattern."
 >
 > ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
 ?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
+> [!success] ✅ Correct: ==C. a number of small huts==
 >
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why A is wrong:** Kỳ vọng ("expected palace") nhưng không phải phát hiện thực tế, không có "remains of palace" tại vị trí.
 >
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why B is wrong:** Được đề cập ("field patterns") nhưng bị loại bỏ là chỉ là đặc điểm phụ, không phải phát hiện chính.
 >
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
+> **✅ Why C is correct:** Được xác nhận là "main discovery", "series of small dwellings", "circular pattern" = small huts settlement.
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
+#flashcards/ielts-listening/science-tech/archaeology/weekly/02-cross-confusion
 ### Card 11: Cross-Option Confusion *(MCQ only)*
 
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
+> **Confusing Pair:** ==the outline of fields== vs ==a number of small huts==
 >
 > ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
 ?
 > [!example] 🆚 Signal Decoding
 >
-> **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
+> **🅰️ Signals for Option A (Field Outline):**
+> - *"Agricultural patterns were visible..."*
+> - *"Field boundaries could be seen..."*
+> - *"Cultivated land extended..."*
+> → **Implies:** Option A focuses on agricultural land use, farming patterns, field boundaries (land features).
 >
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
->
-> **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
+> **🅱️ Signals for Option B (Small Huts):**
+> - *"A cluster of dwellings..."*
+> - *"Small structures arranged in patterns..."*
+> - *"Series of huts formed a settlement..."*
+> - *"Domestic buildings in a circle..."*
+> → **Implies:** Option B focuses on built structures, habitation sites, dwellings (archaeological structures).
 >
 > **🔑 Scientific Distinction:**
 >
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
->
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
+> - **Option A (Field Outline) focuses on:** Natural landscape features - agriculture, farming patterns, land use (non-built environment).
+> - **Option B (Small Huts) focuses on:** Built structures - houses, dwellings, settlement remains (constructed features).
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
+#flashcards/ielts-listening/science-tech/archaeology/weekly/03-validation
 ### Card 12: Answer Validation *(MCQ only)*
 
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
+> **Correct Answer:** ==a number of small huts==
 >
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
+> **Audio excerpt:** "Instead of any grand structures, they discovered a cluster of small huts that must have been a settlement. This was quite unexpected."
 >
 > ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
 ?
 > [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
+> 1. ==cluster of small huts== → directly matches with "a number of small huts"
+> 2. ==instead of grand structures== → contrast confirming small, not large
+> 3. ==must have been a settlement== → confirms habitation/occupation
 >
-> 2. ==phrase 2== → giải thích kết nối
->
-> 3. ==phrase 3== → giải thích kết nối
->
-> **🎯 Conclusion:** Tổng hợp logic
+> **🎯 Conclusion:** Key evidence chain: "cluster + small huts" + "instead of grand" = small settlement
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/science-tech/archaeology/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
->
-> *(vd: "You've got a point, but..." / "I see what you mean, although...")*
+> **Audio:** *"People expected we might find a palace, which would be exciting, but what we actually uncovered was quite modest. The fields are interesting for agriculture, but the huts are the real archaeological discovery."*
 >
 > ❓ **Reflex:** Người nói THỰC SỰ ĐỒNG Ý hay PHẢN ĐỐI?
 ?
@@ -440,130 +357,112 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 >
 > **✅ Real Agreement Signals:**
 >
-> - *"Precisely"*
+> - *"The huts are the real discovery"*
 >
-> - *"I couldn't agree more"*
+> - *"Exactly, that's what matters most"*
 >
-> - *"Spot on"*
->
-> - *"Absolutely"*
+> - *"I completely agree that's significant"*
 >
 > **❌ False Agreement Signals:**
 >
-> - *"You've got a point, but..."*
->
-> - *"I suppose so..."* (ngập ngừng)
->
-> - *"That's one way to look at it..."*
+> - *"Expected we might find... but..."* (chuyển hướng sau "but")
+> - *"Would be exciting, however..."* (chuyển hướng sau "however")
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/science-tech/archaeology/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==a number of small huts==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
+> [!info] ⚡ Rapid Swap
+> ==small huts== ⚡ ==dwellings / modest buildings / domestic structures== / ==cluster/series==
 >
-> **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> **🧠 Instant Logic:** Direct synonym mapping: small huts ↔ dwellings/modest buildings/domestic structures; number ↔ cluster/series/group.
 
 ---
 
 ### Tier 4: Mastery - Bi-weekly (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/science-tech/archaeology/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "The team investigated the opposite bank from the castle. Initially, they noticed some agricultural field outlines, which suggested the area had been used for farming. And there was speculation they might find the remains of a grand palace based on historical records. However, what they actually uncovered were quite different - a cluster of small huts arranged in a distinctive circular pattern, clear evidence of a modest settlement rather than any elite residence."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
->
-> - *Sounds like:* Nghe giống gì
->
-> - *Wrong because:* Tại sao sai
->
-> **2. Distractor:** =="{{TEXT}}"==
->
-> - *Sounds like:* Nghe giống gì
->
-> - *Wrong because:* Tại sao sai
->
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **1. Distractor:** ==The remains of a large palace==
+> - *Sounds like:* Audio nhắc "speculation", "grand palace", "elite residence"
+> - *Wrong because:* Bị phủ định hoàn toàn - "However, what they actually uncovered were quite different", không phải phát hiện thực tế.
+> **2. Distractor:** ==the outline of fields==
+> - *Sounds like:* Audio nói "agricultural field outlines"
+> - *Wrong because:* Đây chỉ là đặc điểm môi trường xung quanh, không phải phát hiện archaeology chính. Bị loại bỏ bởi "main discovery".
+> **✅ Correct Answer:** ==a number of small huts==
+> - *Why correct:* Được xác nhận là "actually uncovered", "main discovery", "cluster of small huts" - phát hiện thực tế quan trọng nhất.
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/science-tech/archaeology/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** ==a number of small huts==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "Crossing to the south bank from the castle, surveyors found several interesting features. While agricultural patterns indicated past farming use, the primary discovery was a collection of modest dwellings. These huts were arranged in a circular formation, with evidence of occupation suggesting a small community lived here."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==collection of modest dwellings== → ==a number of small huts==
+> - ==primary discovery== → emphasizes importance over other features
+> - ==evidence of occupation== → confirms huts were inhabited
+> - ==circular formation== → describes arrangement pattern
 >
-> - ==Audio phrase== → ==Option word==
->
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> **🧠 Overall Logic:** Complete paraphrase chain: "collection of modest dwellings" + "primary discovery" = small huts as main find
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/science-tech/archaeology/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==a number of small huts==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Survey across river*
 >
-> ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
+> ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY**!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
->
-> 2. ==Paraphrase 2==
+> 1. ==cluster of dwellings==
+> 2. ==series of modest houses==
 >
 > **🎯 Goal:** Instant Recall
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
+#flashcards/ielts-listening/science-tech/archaeology/biweekly/04-synthesis
 ### Card 18: Complete Question Synthesis *(MCQ only)*
 
 > **Full Question Context:**
-> =={{QUESTION_STEM}}==
+> ==What was found on the other side of the river to the castle?==
 >
 > **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
->
+> 1. **A. The remains of a large palace** (❌) → Kỳ vọng dựa trên "historical records/speculation", bị "However/actually" phủ định, không phải phát hiện thực tế.
+> 2. **B. the outline of fields** (❌) → Được đề cập như đặc điểm xung quanh ("field outlines"), nhưng bị loại bỏ bởi "primary/actual discovery".
+> 3. **C. a number of small huts** (✅) → Được xác nhận là "main discovery", "collection of modest dwellings", "circular formation" - phát hiện thực tế duy nhất.
 > ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
 ?
 > [!success] 🎯 Deep Logic Breakdown
 > **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
->
+> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập đặc điểm nông nghiệp (fields) như context, sau đó đề cập kỳ vọng lớn (palace) dựa trên lịch sử, và dùng signal "However/actually" để chốt phát hiện thực tế quan trọng nhất là các huts nhỏ.
 > **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
->
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
->
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
+> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy: "remains of palace" nghe hấp dẫn nhưng chỉ là kỳ vọng/speculation; "outline of fields" nghe liên quan context nhưng không phải phát hiện chính.
+> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng: "main discovery" + "cluster/series" + "small/modest" = a number of small huts.
+> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài: Tìm từ nhấn mạnh như "actually", "primary discovery", "main" để xác định phát hiện thực tế khi có nhiều đặc điểm được đề cập. Dùng signal chuyển hướng "However" để xác định đâu là thực tế.
 
 ---

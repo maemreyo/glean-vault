@@ -1,569 +1,356 @@
 ---
 aliases:
-  - 
+  - "Programme historically significant country cultural heritage"
+  - "Show programme historical importance nation"
 question_type: single
-# single = 1 option (matching), multi = 2+ options (MCQ)
 options_count: 1
-status: pending
+status: done
 ref:
   - Cam 20 Listening Test 03
 
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==single==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==This show's programme is historically significant for a country==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Theatre/show programme historical importance*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 03
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
->
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
->
+> | A | ==historically significant for a country== | Có giá trị lịch sử cho một quốc gia | important for nation's history, of historical importance, historically significant nationally | ⚠️ Medium |
 > *(For single-option: keep only 1 row and remove "Correct Answer" line)*
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==Giá trị / Tầm quan trọng==
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Culture / Heritage / History==
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
->
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
->
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
->
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Definition:** Một chương trình/trình diễn ==có ý nghĩa lịch sử sâu sắc== đối với một quốc gia, đóng góp vào việc bảo tồn, ghi nhận hoặc lan tỏa văn hóa, di sản, hoặc lịch sử của dân tộc.
+> - **Denotation Nghĩa đen:** Chương trình có tính lịch sử, mang lại ký ức, ghi chép, hoặc phản ánh thời kỳ, sự kiện, hoặc nhân vật quan trọng đối với sự phát triển của một quốc gia hoặc cộng đồng dân tộc.
+> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI: "famous" (nổi tiếng), "popular" (phổ biến), "well-known" (nổi danh).
+> - **Deep Dive:** Paraphrasing sâu hơn: "historically significant" → "of historical importance", "important for nation's history", "part of cultural heritage", "has historical value for the country", "matters nationally in terms of history".
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Nhìn thấy ===sách lịch sử cũ===, ===cổ vật===, hoặc những hình ảnh đen trắng mang lại kỷ niệm quan trọng của một quốc gia, như quốc kỳ, huy hiệu, hoặc nhân vật lịch sử.
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Nghe tiếng âm thanh nghiêm túc khi kể về lịch sử, hoặc tiếng vỗ tay khi trình bày các tài liệu lịch sử quan trọng.
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Hành động cụ thể: xem xét các tài liệu lịch sử, bàn luận về ý nghĩa lịch sử, soạn thảo về văn hóa dân tộc, viết các báo cáo về di sản.
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
->
-> - `Noun + of + Noun`: e.g., organisation of + event
->
-> - `Adj + Noun`: e.g., local + businesses
+> - `Verb + Noun`: be + significant for, have + historical importance, represent + nation's history, contribute + to + culture
+> - `Adj + Noun`: historically + significant, national + importance, cultural + heritage, great + historical + value
+> - `Noun + of + Noun`: history + of + the country, importance + for + a + nation
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "The programme is of historical importance..."
 >
-> - "The job involves..."
+> - "It matters historically for..."
 >
-> - "We need to..."
+> - "It has great significance for..."
 >
-> - "My responsibility is..."
+> - "It represents an important part of the country's..."
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==famous==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Nghe giống vì "famous" thường đi với những thứ có giá trị, và chương trình show có thể nổi tiếng.
+> - *Actual meaning:* "Famous" chỉ có nghĩa nổi tiếng/phổ biến, không nhất thiết phải có giá trị lịch sử sâu sắc hoặc ý nghĩa văn hóa quan trọng.
+> **Trap 2:** ==popular==
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
->
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
->
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
->
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Why it's tricky:* Nghe giống vì "popular" có thể ám chỉ có nhiều người yêu thích, nhưng không ám chỉ tầm quan trọng lịch sử.
+> - *Actual meaning:* "Popular" chỉ có nghĩa được nhiều người yêu thích, không mang ý nghĩa lịch sử hoặc di sản.
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "This particular programme isn't just entertaining - it's historically significant for the country. It documents a period of theatre history that's rarely been seen elsewhere and preserves unique aspects of our cultural heritage."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==historically significant for a country==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "When this show was first created, nobody realized it would become so important. Decades later, we can see that it holds historical significance far beyond entertainment - it truly matters for our nation's cultural memory."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==historically significant for a country==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
+## 🧠 Spaced Repetition Flashcards (14 Cards)
 
 ---
 
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/culture-media/show-programmes/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==historically significant for a country==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Show programme history*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** "It's of historical importance for the nation..." / "It matters historically..."
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - "It represents part of the country's history..."
+> - "It has great historical value..."
+> - "It contributes to the nation's cultural heritage..."
+> - "It preserves important aspects of the culture..."
+> - "It's significant nationally..."
 >
-> - Kịch bản 3
->
-> - Kịch bản 4
->
-> - Kịch bản 5
->
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Key paraphrase patterns: "historically significant → of historical importance/matters historically/historically"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/culture-media/show-programmes/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==historically significant for a country==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** be + significant for / have + historical importance / matter + historically
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: represents, contributes, preserves, holds, carries
+>   - Nouns: historical + importance, cultural + heritage, national + history, value + for + the + nation
+>   - Adjectives: culturally, historically, nationally, greatly, deeply + significant
 >
->   - Nouns: ví dụ: music, concert
->
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** "Significant" thường đi với "for/historically/historical/nationally/culturally"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/culture-media/show-programmes/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==historically significant for a country==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "Decades later," "Looking back," "What we can see now," "Beyond entertainment," "The real significance is"
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** Xuống giọng (Final/Certain) khi chốt đặc điểm quan trọng, sau khi đã đề cập các khía cạnh khác như entertainment.
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Dấu hiệu chuyển từ khía cạnh giải trí sang giá trị lịch sử sâu sắc.
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/culture-media/show-programmes/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==historically significant for a country==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
 ?
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /hɪˈstɒrɪkəlɪ sinˈnɪfɪkənt fər ə ˈkʌntri/ → /hɪˈstɒrɪkəlsɪnˈnɪfɪkəntfərəˈkʌntri/
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
->
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
->
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Linking:** "significan" + "for" → /ˈsɪɡnɪfɪkənf/, "for" + "a" → /fərə/
+> - **Elision:** Nuốt âm 't' nhẹ trong "historic" khi nối với "country"
+> - **Weak Form:** "for" → /fə/, "a" → /ə/
 
 ---
 
 ### Tier 2: Recognition - Every 2-3 Days (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/culture-media/show-programmes/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "It truly matters for our nation's cultural memory - it documents theatre history rarely seen elsewhere."
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==historically significant for a country==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
->
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
->
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> - Audio nói: =="truly matters for our nation's cultural memory"==
+> - Tương đương với: =="historically significant for a country"==
+> - Audio nói: =="documents theatre history rarely seen elsewhere"==
+> - **🧠 Logic Chain:** matters = significant; nation's cultural memory = country's history/culture
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/culture-media/show-programmes/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==famous==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
-?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"This show became very famous..."* → **Số phận** option này thế nào?
+>
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
 > **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
+> Audio dùng từ "famous" để mô tả mức độ phổ biến/nổi tiếng nhưng KHÔNG nhất thiết phải có giá trị lịch sử sâu sắc.
 >
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> **🔄 Reality Check:** Nghĩa thực sự của audio là chương trình nổi tiếng KHÔNG phải là historically significant.
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/culture-media/show-programmes/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="historically significant for a country"== với =="famous"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
-?
+>
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
->
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
->
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> - **historically significant for a country:** Tập trung vào ==giá trị lịch sử sâu sắc==, ý nghĩa văn hóa quan trọng, đóng góp vào di sản dân tộc, tầm quan trọng trong bối cảnh quốc gia (history/culture/memory/heritage).
+> - **famous:** Tập trung vào ==độ nổi tiếng/phổ biến==, được nhiều người biết đến, thương mại hoặc giải trí.
+> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý: "famous" ám chỉ mức độ nhận biết, còn "significant" ám chỉ tầm quan trọng/ý nghĩa sâu sắc.
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/culture-media/show-programmes/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> *It ==matters== ==historically== for our ==nation's== cultural memory.*
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Nó quan trọng về lịch sử đối với ký ức văn hóa của dân tộc chúng tôi.
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+>
+> [!success] ✅ Answer: ==matters / historically / nation's==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
->
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
->
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> - **Plural/Singular:** "matters" là số ít (it), "historically" là trạng từ số ít. "Nation's" là sở hữu số ít (nation).
+> - **Spelling Trap:** Lưu ý lỗi chính tả: "historically" (không phải "hstorically"), "cultural" (không phải "cultual")
+> **🔗 Connects to:** ==historically significant for a country==
 
 ---
 
 ### Tier 3: Elimination - Weekly (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/culture-media/show-programmes/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
-> **Context:** Map Labelling / Room Layout
+> **Context:** Programme Layout
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
->
-> *(vd: "It's immediately to your right when you enter.")*
+> **Audio Cue:** *"The programme opens with the historical timeline on the left page. The significant cultural content is in the center, while additional information surrounds it."*
 >
 > ❓ **Reflex:** Hình dung vị trí trong đầu NGAY LẬP TỨC?
-?
+>
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> Mô tả vị trí: "Left Page → Historical Timeline (stop 1) → Move to Center → Significant Cultural Content (stop 2) → Surrounding Info (around)"
 >
 > **⚠️ Spatial Traps:**
-> - "On the right hand side of the building" ≠ "On your right"
+> - "in the center" ≠ "center of the page"
+> - "on the left" ≠ "on the left side"
+> - "surrounds it" ≠ "is around the edges"
 >
-> - "Opposite" ≠ "Next to"
->
-> - "Behind" ≠ "At the back of"
->
-> **🎯 Correct Position:** =={{LABEL}}==
+> **🎯 Correct Position:** ==Significant cultural content section==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
-### Card 10: Option Elimination Drill *(MCQ only)*
-
-> **Question:** =={{QUESTION_STEM}}==
->
-> **Options:**
-> - A. {{OPTION_1}}
->
-> - B. {{OPTION_2}}
->
-> - C. {{OPTION_3}}
->
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
->
-> ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
-?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
->
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
->
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
->
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
-### Card 11: Cross-Option Confusion *(MCQ only)*
-
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
->
-> ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
-?
-> [!example] 🆚 Signal Decoding
->
-> **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
->
-> **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
->
-> **🔑 Scientific Distinction:**
->
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
->
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
-### Card 12: Answer Validation *(MCQ only)*
-
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
->
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
->
-> ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
-?
-> [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
->
-> 2. ==phrase 2== → giải thích kết nối
->
-> 3. ==phrase 3== → giải thích kết nối
->
-> **🎯 Conclusion:** Tổng hợp logic
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/culture-media/show-programmes/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
->
-> *(vd: "You've got a point, but..." / "I see what you mean, although...")*
+> **Audio:** *"Many people think it's just entertainment, however, the real importance is historical. It truly matters for the nation's cultural heritage."*
 >
 > ❓ **Reflex:** Người nói THỰC SỰ ĐỒNG Ý hay PHẢN ĐỐI?
-?
+>
 > [!fail] 🎭 Pseudo-Agreement Detection
 > **👉 Verdict:** ==PHẢN ĐỐI (Disagree)==
 >
 > **💡 Rule:** Khen trước → Chê sau = **NO**
 >
 > **✅ Real Agreement Signals:**
->
-> - *"Precisely"*
->
-> - *"I couldn't agree more"*
->
-> - *"Spot on"*
->
-> - *"Absolutely"*
+> - *"Exactly, the historical significance is clear"*
+> - *"I completely agree that it matters nationally"*
+> - *"Yes, that's what's truly important"*
 >
 > **❌ False Agreement Signals:**
->
-> - *"You've got a point, but..."*
->
-> - *"I suppose so..."* (ngập ngừng)
->
-> - *"That's one way to look at it..."*
+> - *"Many think it's entertainment, however..."*
+> - *"Some might find it famous, but..."*
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/culture-media/show-programmes/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==historically significant for a country==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
-?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
 >
-> **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> [!info] ⚡ Rapid Swap
+> ==historically significant== ⚡ ==of historical importance / matters historically / holds historical value / is historically important==
+>
+> **🧠 Instant Logic:** Direct synonym mapping: significant ↔ important ↔ matters ↔ holds value ↔ carries weight
 
 ---
 
-### Tier 4: Mastery - Bi-weekly (4 Cards)
+### Tier 4: Mastery - Bi-weekly (3 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/culture-media/show-programmes/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "The theatre programme became quite famous during its run. Many assumed it was just popular entertainment. However, scholars recognize that it's actually historically significant for the country. It documents a crucial period in our nation's history and preserves unique cultural heritage that would otherwise be lost. While it's entertaining, its real value is historical and cultural."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
-?
+>
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
->
-> - *Sounds like:* Nghe giống gì
->
-> - *Wrong because:* Tại sao sai
->
-> **2. Distractor:** =="{{TEXT}}"==
->
-> - *Sounds like:* Nghe giống gì
->
-> - *Wrong because:* Tại sao sai
->
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **1. Distractor:** ==famous==
+> - *Sounds like:* Audio nói "became quite famous" và "popular entertainment"
+> - *Wrong because:* Bị "However" phủ định làm chỉ là nổi tiếng, không phải giá trị lịch sử sâu sắc.
+> **2. Distractor:** ==popular==
+> - *Sounds like:* Audio nhắc đến khía cạnh giải trí, "just entertainment"
+> - *Wrong because:* Bị phủ định bởi "However, scholars recognize that it's actually historically significant".
+> **✅ Correct Answer:** ==historically significant for a country==
+> - *Why correct:* Được xác nhận là "However...actually...historically", "documents crucial period", "preserves unique cultural heritage".
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/culture-media/show-programmes/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** ==historically significant for a country==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "When historians examine this theatre programme, they're struck by how much it contributed to our national memory. Beyond being merely a record of performances, it contains historically significant information about our country's theatrical traditions. It represents something far more important than entertainment - it serves as a cultural document of our shared heritage."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
-?
+>
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==contributed to national memory== → significant for a country
+> - ==beyond being merely a record== → historically important/valuable
+> - ==serves as a cultural document== → historically significant/represents heritage
+> - ==shared heritage== → aspects of the country
 >
-> - ==Audio phrase== → ==Option word==
->
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> **🧠 Overall Logic:** Complete paraphrase chain: "contributed to national memory" + "beyond entertainment" + "cultural document" = historically significant
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/culture-media/show-programmes/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==historically significant for a country==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Show programme history*
 >
-> ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
-?
+> ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY**!
+>
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
->
-> 2. ==Paraphrase 2==
+> 1. ==of historical importance==
+> 2. ==matters historically / culturally important==
 >
 > **🎯 Goal:** Instant Recall
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
-### Card 18: Complete Question Synthesis *(MCQ only)*
-
-> **Full Question Context:**
-> =={{QUESTION_STEM}}==
->
-> **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
->
-> ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
-?
-> [!success] 🎯 Deep Logic Breakdown
-> **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
->
-> **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
->
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
->
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
-
 ---

@@ -1,328 +1,265 @@
 ---
 aliases:
-  - 
-question_type: single
-# single = 1 option (matching), multi = 2+ options (MCQ)
-options_count: 1
-status: pending
+  - Finn surprised about early theatre programmes
+  - early British theatre programmes distribution
+  - programmes as a contract
+question_type: multi
+options_count: 3
+status: done
 ref:
   - Cam 20 Listening Test 03
 
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==multi==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==Finn was surprised that, in early British theatre, programmes?==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Student (Finn) surprised by discovering how early theatre programmes were distributed and treated*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 03
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
+> | A | ==were difficult for audiences to obtain== | khó nhận được | hard to get, unavailable, rare, scarce | ⚠️ High |
+> | B | ==were given out free of charge== | phát miễn phí | free, no cost, complimentary, gratis | ⚠️ Medium |
+> | C | ==were seen as a kind of contract== | được xem như hợp đồng | legal agreement, binding, commitment, promise | ⚠️ Low |
 >
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
->
-> *(For single-option: keep only 1 row and remove "Correct Answer" line)*
+> **✅ Correct Answer:** ==C. were seen as a kind of contract==
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==Khái niệm/Ý nghĩa pháp lý (Legal concept/meaning)==
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Theatre / Historical Context / Business Practice==
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
+> - **Definition:** Nghĩa là ==có tính chất hợp đồng, cam kết pháp lý== - programme được xem như thỏa thuận giữa nhà hát và khán giả
 >
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
+> - **Denotation:** Nghĩa đen là ==contract = hợp đồng== - văn bản pháp lý có ràng buộc quyền lợi
 >
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
+> - **Distractor:** "free of charge" nghe giống "accessible/available" nhưng đó là về giá tiền, không phải về tính chất
 >
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Deep Dive:** Paraphrasing: ==seen as contract → viewed as agreement, treated as binding document, considered as promise/commitment==
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Hình dung người khán giả thế kỷ trước cầm programme, coi nó như ==bằng chứng cam kết== đã trả tiền
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Nghe người nói: *"They were actually treated like ==legal agreements==", "You could hold onto it as your proof of payment"*
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Hành động xuất trình programme để chứng minh quyền lợi
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
->
-> - `Noun + of + Noun`: e.g., organisation of + event
->
-> - `Adj + Noun`: e.g., local + businesses
+> - `Verb + Noun`: see + as, view + as, treat + as, consider + as
+> - `Noun + of + Noun`: kind + of + contract, type + of + agreement
+> - `Adj + Noun`: binding + contract, legal + document, formal + agreement
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "They were ==seen as a form of contract==..."
 >
-> - "The job involves..."
+> - "Programmes were ==treated like agreements==..."
 >
-> - "We need to..."
+> - "You could ==regard them as binding documents==..."
 >
-> - "My responsibility is..."
+> - "They served as ==evidence of payment==..."
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==were difficult for audiences to obtain==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Audio có thể nhắc đến "limited availability" hoặc "not easy to get"
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Dù có thể khó lấy, nhưng Finn bị ngạc nhiên chính là vì ==chúng có tính chất hợp đồng==
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
+> **Trap 2:** ==were given out free of charge==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Audio nhắc đến khán giả trả tiền (paid) → dễ suy ra programme là gratis
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Programme được miễn phí VÌ đã trả tiền - nó là ==chứng minh hợp đồng== sau khi thanh toán
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "What surprised me was that early programmes weren't just handouts - they were actually ==seen as contracts==. People paid for tickets, and the programme was their ==proof of purchase== and right to be there."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==were seen as a kind of contract==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "It's fascinating that in early British theatre, programmes were ==treated like legal agreements==. They showed you'd paid and had ==binding effect== between the theatre and audience."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==were seen as a kind of contract==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
+## 🧠 Spaced Repetition Flashcards
 
 ---
 
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/culture-media/theatre-distribution/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==were seen as a kind of contract==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Finn surprised by early theatre programme practices*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** Audio sẽ dùng từ ==agreement/legal document== để paraphrase "contract"
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - Audio nhắc ==binding document==
 >
-> - Kịch bản 3
+> - Audio nói ==treated as formal==
 >
-> - Kịch bản 4
+> - Audio dùng ==proof of purchase==
 >
-> - Kịch bản 5
+> - Audio nói ==right to enter==
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Tất cả diễn tả ==tính chất pháp lý/cam kết== của programme như một hợp đồng
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/culture-media/theatre-distribution/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==were seen as a kind of contract==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** ==see as/consider as/view as== (xem như, coi như)
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: treat, regard, think of
 >
->   - Nouns: ví dụ: music, concert
+>   - Nouns: agreement, document, proof, evidence
 >
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** "seen as" thường đi với ==kind/sort/type/form of + noun== (loại/kiểu/hình thức của cái gì)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/culture-media/theatre-distribution/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==were seen as a kind of contract==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "What surprised me was..." "Actually," "It's fascinating that..." "The interesting thing is..."
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** Lên giọng (ngạc nhiên, phấn khởi) - thể hiện sự bất ngờ với phát hiện mới
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Signpost báo hiệu người nói đang ==nêu phát hiện gây ngạc nhiên== về khái niệm cũ
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/culture-media/theatre-distribution/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==were seen as a kind of contract==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
 ?
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /wɜː siːn æz ə kaɪnd əv ˈkɒntrækt/
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
+> - **Linking:** "seen" + "as" → /siːnæz/, nghe như "see-nas"
 >
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
+> - **Elision:** Nuốt âm /d/ trong "kind of" → /kaɪnə/
 >
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Weak Form:** "were" có thể được phát âm /wɜː/
 
 ---
 
-### Tier 2: Recognition - Every 2-3 Days (4 Cards)
+### Tier 2: Recognition - Every 2-3 Days (5 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/culture-media/theatre-distribution/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "Early programmes were actually ==treated like legal agreements==. They served as proof that you'd paid and had your seat."
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==were seen as a kind of contract==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="treated like legal agreements"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: =="seen as a kind of contract"==
 >
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> **🧠 Logic Chain:** "legal agreements" = "contract"; "treated like" = "seen as"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/culture-media/theatre-distribution/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==were given out free of charge==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"People paid for the programmes..."* → **Số phận** option này thế nào?
 ?
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
 > **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
+> "People paid" + "programmes" nghe có thể dẫn đến suy luận "programmes = paid items" nên dễ hiểu là "not free"
 >
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> **🔄 Reality Check:** Audio đang nói programme ==được coi như hợp đồng sau khi đã trả tiền== - không nói về miễn phí
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/culture-media/theatre-distribution/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="were seen as a kind of contract"== với =="were given out free of charge"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
+> - **were seen as a kind of contract:** Tập trung vào ==tính chất pháp lý/cam kết== của programme như hợp đồng
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
+> - **were given out free of charge:** Tập trung vào ==giá tiền (cost/charge)== của việc phân phối
 >
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> **🧱 Key Barrier:** "contract" là về khái niệm pháp lý, "free of charge" là về giá tiền
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/culture-media/theatre-distribution/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> *The programmes were _____ as a form of contract between the theatre and audience.*
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Các chương trình được xem như một hình thức hợp đồng giữa nhà hát và khán giả.
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+> [!success] ✅ Answer: ==seen==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
+> - **Plural/Singular:** Past participle form (V3) "seen" - không thay đổi số
 >
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
+> - **Spelling Trap:** Lưu ý không phải "saw" (past simple) ❌, phải là "seen" ✅
 >
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> **🔗 Connects to:** ==were seen as==
 
 ---
 
-### Tier 3: Elimination - Weekly (4 Cards)
+### Tier 3: Elimination - Weekly (6 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/culture-media/theatre-distribution/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
-> **Context:** Map Labelling / Room Layout
+> **Context:** Historical Timeline (Early vs Later theatre practices)
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
+> **Audio Cue:** *"In the early days, programmes were different from what we see today..."*
 >
 > *(vd: "It's immediately to your right when you enter.")*
 >
@@ -330,240 +267,234 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ?
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> Hình dung trục thời gian: Early theatre (trái/cũ) → so sánh → Modern theatre (phải/mới)
 >
 > **⚠️ Spatial Traps:**
-> - "On the right hand side of the building" ≠ "On your right"
+> - "different from" ≠ "similar to"
 >
-> - "Opposite" ≠ "Next to"
+> - "early days" ≠ "recent times"
 >
-> - "Behind" ≠ "At the back of"
->
-> **🎯 Correct Position:** =={{LABEL}}==
+> **🎯 Correct Position:** Timeline comparison
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
+#flashcards/ielts-listening/culture-media/theatre-distribution/weekly/01-elimination
 ### Card 10: Option Elimination Drill *(MCQ only)*
 
-> **Question:** =={{QUESTION_STEM}}==
+> **Question:** ==Finn was surprised that, in early British theatre, programmes?==
 >
 > **Options:**
-> - A. {{OPTION_1}}
+> - A. were difficult for audiences to obtain
 >
-> - B. {{OPTION_2}}
+> - B. were given out free of charge
 >
-> - C. {{OPTION_3}}
+> - C. were seen as a kind of contract
 >
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
+> **Audio:** "What really surprised me was that programmes weren't just handouts - they were ==treated as legal agreements==. When you paid for your ticket, the programme was your ==proof of purchase== and ==binding document== between you and the theatre."
 >
 > ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
 ?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
+> [!success] ✅ Correct: ==C. were seen as a kind of contract==
 >
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why A is wrong:** Audio không nhắc đến độ khó/khó đạt (obtain), chỉ nói về khái niệm pháp lý
 >
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why B is wrong:** Audio nhắc "paid for ticket" nhưng programme là miễn phí VÌ đã trả tiền - không phải miễn phí vô điều kiện
 >
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
+> **✅ Why C is correct:** Audio trực tiếp nói "treated as legal agreements, proof of purchase, binding document" - paraphrase cho "seen as contract"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
+#flashcards/ielts-listening/culture-media/theatre-distribution/weekly/02-cross-confusion
 ### Card 11: Cross-Option Confusion *(MCQ only)*
 
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
+> **Confusing Pair:** ==were seen as a kind of contract== vs ==were given out free of charge==
 >
 > ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
 ?
 > [!example] 🆚 Signal Decoding
 >
 > **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
+> - *"legal agreement, contract"*
 >
-> - *"Signal phrase 2"*
+> - *"binding document"*
 >
-> - *"Signal phrase 3"*
+> - *"proof of purchase/right to be there"*
 >
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
+> → **Implies:** Tập trung vào ==tính chất pháp lý/cam kết== của programme
 >
 > **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
+> - *"free of charge, no cost"*
 >
-> - *"Signal phrase 2"*
+> - *"complimentary, gratis"*
 >
-> - *"Signal phrase 3"*
+> - *"without paying"*
 >
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
+> → **Implies:** Tập trung vào ==không mất tiền== khi nhận programme
 >
 > **🔑 Scientific Distinction:**
 >
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
+> - **Option A focuses on:** ==Legal status/concept== (tính chất pháp lý)
 >
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
+> - **Option B focuses on:** ==Monetary value== (giá tiền/cost)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
+#flashcards/ielts-listening/culture-media/theatre-distribution/weekly/03-validation
 ### Card 12: Answer Validation *(MCQ only)*
 
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
+> **Correct Answer:** ==C. were seen as a kind of contract==
 >
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
+> **Audio excerpt:** "Programmes were actually ==treated like agreements==. They served as your ==proof of payment== and were considered ==binding documents== between theatre and audience."
 >
 > ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
 ?
 > [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
+> 1. ==treated like agreements== → paraphrase trực tiếp cho "seen as contract"
 >
-> 2. ==phrase 2== → giải thích kết nối
+> 2. ==proof of payment== → thuộc tính chất hợp đồng (chứng minh giao dịch)
 >
-> 3. ==phrase 3== → giải thích kết nối
+> 3. ==binding documents== → synonym cho "contract" (văn bản có ràng buộc)
 >
-> **🎯 Conclusion:** Tổng hợp logic
+> **🎯 Conclusion:** Ba cụm từ đều chỉ ra tính chất pháp lý/cam kết của programme
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/culture-media/theatre-distribution/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
+> **Audio:** *"Yes, exactly. Though programmes might have been hard to get in some cases, the key point is their legal status..."*
 >
 > *(vd: "You've got a point, but..." / "I see what you mean, although...")*
 >
 > ❓ **Reflex:** Người nói THỰC SỰ ĐỒNG Ý hay PHẢN ĐỐI?
 ?
 > [!fail] 🎭 Pseudo-Agreement Detection
-> **👉 Verdict:** ==PHẢN ĐỐI (Disagree)==
+> **👉 Verdict:** ==ĐỒNG Ý (Agree)==
 >
-> **💡 Rule:** Khen trước → Chê sau = **NO**
+> **💡 Rule:** "Yes, exactly" là đồng ý mạnh, "Though" chỉ là bổ sung thông tin phụ
 >
 > **✅ Real Agreement Signals:**
 >
+> - *"Yes, exactly"*
+>
+> - *"That's right"*
+>
 > - *"Precisely"*
->
-> - *"I couldn't agree more"*
->
-> - *"Spot on"*
->
-> - *"Absolutely"*
 >
 > **❌ False Agreement Signals:**
 >
-> - *"You've got a point, but..."*
->
-> - *"I suppose so..."* (ngập ngừng)
->
-> - *"That's one way to look at it..."*
+> - *"Though..."* (trong trường hợp này chỉ là contrast nhẹ)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/culture-media/theatre-distribution/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==were seen as a kind of contract==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
+> [!info] ⚡ Rapid Swap
+> ==treated as agreement== ⚡ ==seen as contract==
+> ==considered as legal document== ⚡ ==seen as contract==
+> ==viewed as binding== ⚡ ==seen as contract==
 >
-> **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> **🧠 Instant Logic:** Tất cả diễn tả việc ==coi/xem programme như hợp đồng== có tính pháp lý
 
 ---
 
 ### Tier 4: Mastery - Bi-weekly (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/culture-media/theatre-distribution/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "What surprised me was discovering that early programmes were ==actually treated as contracts==. People paid for their tickets, and the programme was their ==proof of purchase==. Though they might have been ==difficult to obtain== in some places, or were ==distributed free== after payment, the key thing was their legal status as ==binding agreements==."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** ==were difficult for audiences to obtain==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* "difficult to obtain" được nhắc trực tiếp
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Audio dùng "Though" để chuyển sang focus chính về legal status
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** ==were given out free of charge==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* "distributed free" được nhắc đến
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* "free" là sau khi đã trả tiền - không phải miễn phí vô điều kiện, và "the key thing was" chuyển focus
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **✅ Correct Answer:** ==were seen as a kind of contract==
+> - *Why correct:* Audio nhấn mạnh "treated as contracts, proof of purchase, binding agreements, legal status" - tất cả đều paraphrase cho contract concept
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/culture-media/theatre-distribution/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** ==were seen as a kind of contract==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "It's fascinating that early programmes were ==seen as legal agreements==. When you bought a ticket, the programme was your ==binding document== and ==proof that you'd paid==. It wasn't just a handout - it had ==legal status== as a contract between theatre and audience."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==seen as legal agreements== → ==seen as a kind of contract==
+> - ==binding document== → synonym cho ==contract==
+> - ==proof that you'd paid== → thuộc tính chất hợp đồng
+> - ==legal status== → thuộc tính chất pháp lý của contract
 >
-> - ==Audio phrase== → ==Option word==
->
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> **🧠 Overall Logic:** Tất cả cụm từ đều mô tả programme như ==văn bản pháp lý/cam kết== giữa hai bên
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/culture-media/theatre-distribution/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==were seen as a kind of contract==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Finn discovering historical theatre practices*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
+> 1. ==treated as agreement==
 >
-> 2. ==Paraphrase 2==
+> 2. ==legal document==
 >
 > **🎯 Goal:** Instant Recall
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
+#flashcards/ielts-listening/culture-media/theatre-distribution/biweekly/04-synthesis
 ### Card 18: Complete Question Synthesis *(MCQ only)*
 
 > **Full Question Context:**
-> =={{QUESTION_STEM}}==
+> ==Finn was surprised that, in early British theatre, programmes?==
 >
 > **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
+> 1. **A. were difficult for audiences to obtain** (❌) → Audio có thể nhắc nhưng dùng "Though" để chuyển focus
+> 2. **B. were given out free of charge** (❌) → Audio nói "distributed free" nhưng sau khi đã trả tiền, và "the key thing was" chuyển sang legal status
+> 3. **C. were seen as a kind of contract** (✅) → Audio nhấn mạnh "treated as contracts, legal status, binding agreements, proof of purchase"
 >
 > ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
 ?
 > [!success] 🎯 Deep Logic Breakdown
 > **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
+> - Bắt đầu bằng Finn nói về phát hiện gây ngạc nhiên về programmes ("What surprised me was...")
+> - Nhắc đến các khía cạnh khác như availability và cost (distractors A, B)
+> - Sau đó dùng signal "the key thing was" hoặc "actually" để chuyển sang điểm chính
+> - Chốt đáp án bằng việc nhấn mạnh legal status: "treated as contracts, binding agreements, proof of purchase"
 >
 > **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
+> - **Trap Elimination:** Difficulty và Free charge được nhắc như background, bị削弱 bởi "the key thing was"
+> - **Confirmation Logic:** Multiple paraphrases (legal agreement, binding document, proof of purchase, legal status) converging vào contract concept
 >
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
->
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
+> **🔑 Strategic Lesson:** Khi nghe so sánh/mô tả khái niệm, tập trung vào từ mô tả nature/essence (với "the key", "actually", "essentially") hơn là các chi tiết phụ
 
 ---

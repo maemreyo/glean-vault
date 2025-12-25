@@ -1,328 +1,263 @@
 ---
 aliases:
-  - 
-question_type: single
-# single = 1 option (matching), multi = 2+ options (MCQ)
-options_count: 1
-status: pending
+  - What is the team hoping to find
+  - archaeology excavation finds
+  - pottery bones jewellery
+question_type: multi
+options_count: 3
+status: done
 ref:
   - Cam 20 Listening Test 03
 
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==multi==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==What are the team still hoping to find?==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Archaeology excavation team discussing what artifacts they still want to discover at the site*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 03
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
+> | A | ==everyday pottery== | gốm sứ đời thường | common ceramics, domestic ware, household items | ⚠️ High |
+> | B | ==animal bones== | xương động vật | skeletal remains, fauna remains, bones | ⚠️ Medium |
+> | C | ==pieces of jewellery== | trang sức | ornaments, jewelry, decorative items | ⚠️ Low |
 >
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
->
-> *(For single-option: keep only 1 row and remove "Correct Answer" line)*
+> **✅ Correct Answer:** ==C. pieces of jewellery==
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** **Hạng mục giá trị (Value/Desirability)==
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Archaeology / Excavation / Artifact Discovery==
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
+> - **Definition:** Nghĩa là ==vật trang sức, trang sức== - các vật trang sức/đồ mỹ có giá trị cao, thường được người giàu sở hữu
 >
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
+> - **Denotation:** Nghĩa đen là ==jewellery = trang sức== - các vật trang sức/đồ mỹ cá nhân
 >
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
+> - **Distractor:** "animal bones" nghe giống "skeletal remains" nhưng đó là bằng chứng sinh học, không phải giá trị
 >
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Deep Dive:** Paraphrasing: **jewellery → ornaments, decorative items, precious objects, personal adornments, valuables**
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Hình dung các vật trang sức vàng/bạc, sáng bóng lấp lánh, có thiết kế tinh xảo
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Nghe người nói: *"precious items," *"ornaments," *"shiny objects," *"decorative pieces"*
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Hành động đào kỹ lưỡng tìm vật nhỏ, lắc nhẹ để nghe tiếng va chạm
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
->
-> - `Noun + of + Noun`: e.g., organisation of + event
->
-> - `Adj + Noun`: e.g., local + businesses
+> - `Noun + of + Noun`: pieces + of + jewellery, fragments + of + ornaments
+> - `Adj + Noun`: precious + items, decorative + objects, gold + jewellery
+> - `Verb + Noun`: find + jewellery, discover + ornaments, uncover + valuables
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "We're still hoping to find ==precious items==..."
 >
-> - "The job involves..."
+> - "Looking for ==jewellery or ornaments==..."
 >
-> - "We need to..."
+> - "Hoping to uncover ==valuables==..."
 >
-> - "My responsibility is..."
+> - "Searching for ==personal adornments==..."
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==everyday pottery==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* "Pottery" là loại vật phổ biến, dễ nghĩ là quan trọng nhất
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Dù phổ biến, nhưng team đang ==h vọng tìm vật có giá trị cao== (jewellery)
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
+> **Trap 2:** ==animal bones==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* "Bones" có thể thú vị (archaeological significance), dễ nghĩ là mục tiêu chính
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Bones có giá trị nghiên cứu, nhưng team đang tìm ==trang sức/tiền sản==
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "We've found quite a lot of interesting items, but what we're really still ==hoping to find== are ==pieces of jewellery== or other precious objects."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==pieces of jewellery==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "The excavation has revealed everyday pottery and some bones, but the team is still ==searching for jewellery== - those valuable, decorative items that people might have worn."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==pieces of jewellery==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
+## 🧠 Spaced Repetition Flashcards
 
 ---
 
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/science-tech/archaeological-finds/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==pieces of jewellery==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Archaeology team discussing excavation finds*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** Audio sẽ dùng từ ==precious items/valuables== để paraphrase "jewellery"
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - Audio nhắc ==ornaments/decorations==
 >
-> - Kịch bản 3
+> - Audio nói ==personal adornments==
 >
-> - Kịch bản 4
+> - Audio dùng ==gold/silver objects==
 >
-> - Kịch bản 5
+> - Audio nói ==shiny/precious things==
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Tất cả diễn tả ==vật trang sức/tiền sản có giá trị cao==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/science-tech/archaeological-finds/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==pieces of jewellery==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** ==find + jewellery== (tìm trang sức)
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: discover, uncover, excavate, recover
 >
->   - Nouns: ví dụ: music, concert
+>   - Nouns: ornaments, valuables, treasures, artifacts
 >
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** Thường đi với ==pieces of/fragments of/necklaces/rings + jewelry==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/science-tech/archaeological-finds/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==pieces of jewellery==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "What we're really hoping to find..." "Still searching for..." "The most exciting would be..."
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** Lên giọng (hy vọng, phấn khởi) - thể hiện sự mong chờ tích cực về vật có giá trị
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Signpost báo hiệu người nói đang ==nêu hy vọng/tham vọng== về phát hiện
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/science-tech/archaeological-finds/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==pieces of jewellery==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
 ?
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /piːsɪz əv ˈdʒuːlri/
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
->
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
->
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Linking:** "of" + "jewellery" → /əv ˈdʒuːlri/, nối âm nhẹ
+> - **Elision:** Nuốt âm /w/ trong "jewellery" khi nói nhanh
+> - **Weak Form:** "of" thường thành /əv/
 
 ---
 
-### Tier 2: Recognition - Every 2-3 Days (4 Cards)
+### Tier 2: Recognition - Every 2-3 Days (5 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/science-tech/archaeological-finds/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "We've uncovered various items, but what the team is still ==hoping to discover== are ==precious ornaments== and decorative pieces."
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==pieces of jewellery==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="precious ornaments"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: =="pieces of jewellery"==
 >
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> **🧠 Logic Chain:** "precious ornaments" = "jewellery" (vật trang sức/đồ mỹ)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/science-tech/archaeological-finds/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==everyday pottery==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"Common household items are everywhere..."* → **Số phận** option này thế nào?
 ?
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
 > **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
+> "Household items/Common" gợi ý về phổ biến → dễ hiểu là quan trọng/tìm kiếm chính
 >
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> **🔄 Reality Check:** Team đang ==h vọng tìm vật giá trị cao== (jewellery) chứ không phải đồ thường
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/science-tech/archaeological-finds/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="pieces of jewellery"== với =="animal bones"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
+> - **pieces of jewellery:** Tập trung vào ==giá trị/desirability== - vật trang sức có giá trị cao, được người giàu sở hữu
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
+> - **animal bones:** Tập trung vào ==ý nghĩa nghiên cứu== - bằng chứng sinh học/fauna
 >
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> **🧱 Key Barrier:** "jewellery" = valuable items, "bones" = research material
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/science-tech/archaeological-finds/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> *The team is still hoping to find pieces of _____ and other valuable objects.*
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Đội đang vẫn hy vọng tìm các mảnh trang sức và các vật có giá trị khác.
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+> [!success] ✅ Answer: ==jewellery==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
+> - **Plural/Singular:** Uncountable (không có 's') - jewellery là danh từ không đếm được
 >
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
+> - **Spelling Trap:** Lưu ý đuôi "-ry" (jewellery) không phải "-ery" ❌, "l" kép (ll)
 >
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> **🔗 Connects to:** ==pieces of jewellery==
 
 ---
 
-### Tier 3: Elimination - Weekly (4 Cards)
+### Tier 3: Elimination - Weekly (6 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/science-tech/archaeological-finds/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
-> **Context:** Map Labelling / Room Layout
+> **Context:** Excavation Site
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
+> **Audio Cue:** *"We're focusing our search in this section where valuable items might be..."*
 >
 > *(vd: "It's immediately to your right when you enter.")*
 >
@@ -330,240 +265,225 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ?
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> Hình dung đội đang tập trung vào khu vực nào có thể chứa vật giá trị (jewellery)
 >
 > **⚠️ Spatial Traps:**
-> - "On the right hand side of the building" ≠ "On your right"
+> - "focusing on" ≠ "ignoring"*
+> - "valuable items" ≠ "common items"*
 >
-> - "Opposite" ≠ "Next to"
->
-> - "Behind" ≠ "At the back of"
->
-> **🎯 Correct Position:** =={{LABEL}}==
+> **🎯 Correct Position:** High-value area focus
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
+#flashcards/ielts-listening/science-tech/archaeological-finds/weekly/01-elimination
 ### Card 10: Option Elimination Drill *(MCQ only)*
 
-> **Question:** =={{QUESTION_STEM}}==
+> **Question:** ==What are the team still hoping to find?==
 >
 > **Options:**
-> - A. {{OPTION_1}}
+> - A. everyday pottery
+> - B. animal bones
+> - C. pieces of jewellery
 >
-> - B. {{OPTION_2}}
->
-> - C. {{OPTION_3}}
->
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
+> **Audio:** "We've found plenty of pottery and some bone fragments, but what we're ==really hoping to discover== are ==precious items and ornaments==. Those would be the most exciting finds."
 >
 > ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
 ?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
+> [!success] ✅ Correct: ==C. pieces of jewellery==
 >
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why A is wrong:** Audio có thể nhắc "pottery" nhiều, nhưng chỉ là background, không phải hy vọng chính
 >
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why B is wrong:** Audio nhắc "bone fragments" nhưng chỉ là bằng chứng nghiên cứu
 >
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
+> **✅ Why C is correct:** Audio trực tiếp nói "really hoping", "precious items", "ornaments" - paraphrase cho "jewellery"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
+#flashcards/ielts-listening/science-tech/archaeological-finds/weekly/02-cross-confusion
 ### Card 11: Cross-Option Confusion *(MCQ only)*
 
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
+> **Confusing Pair:** ==pieces of jewellery== vs ==everyday pottery==
 >
 > ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
 ?
 > [!example] 🆚 Signal Decoding
 >
 > **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
+> - *"precious items, valuables"*
+> - *"ornaments, decorations"*
+> - *"personal adornments"*
+> → **Implies:** Tập trung vào ==giá trị cao/desirability== - vật người muốn sở hữu
 >
 > **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
+> - *"common pottery, ceramics"*
+> - *"everyday items, household ware"*
+> - *"utensils, vessels"*
+> → **Implies:** Tập trung vào ==đồ dùng hàng ngày/công dụng== - phổ biến, không đặc biệt
 >
 > **🔑 Scientific Distinction:**
 >
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
+> - **Option A focuses on:** **Desirability/Value** (khả năng sở hữu/giá trị)
 >
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
+> - **Option B focuses on:** **Commonality/Utility** (sự phổ biến/công năng)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
+#flashcards/ielts-listening/science-tech/archaeological-finds/weekly/03-validation
 ### Card 12: Answer Validation *(MCQ only)*
 
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
+> **Correct Answer:** ==C. pieces of jewellery==
 >
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
+> **Audio excerpt:** "What we're still ==hoping to find== are ==precious objects== and ==ornaments==. These would be valuable discoveries."
 >
 > ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
 ?
 > [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
+> 1. ==precious objects== → paraphrase trực tiếp cho "jewellery" (vật quý)
 >
-> 2. ==phrase 2== → giải thích kết nối
+> 2. ==ornaments== → paraphrase cho "jewellery" (trang sức/đồ mỹ)
 >
-> 3. ==phrase 3== → giải thích kết nối
+> 3. ==valuable discoveries== → làm rõ đây là vật có giá trị
 >
-> **🎯 Conclusion:** Tổng hợp logic
+> **🎯 Conclusion:** Ba cụm từ đều chỉ ra tính chất quý giá của vật trang sức
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/science-tech/archaeological-finds/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
+> **Audio:** *"Yes, that's exactly right. Though pottery and bones are important finds..."*
 >
 > *(vd: "You've got a point, but..." / "I see what you mean, although...")*
 >
 > ❓ **Reflex:** Người nói THỰC SỰ ĐỒNG Ý hay PHẢN ĐỐI?
 ?
 > [!fail] 🎭 Pseudo-Agreement Detection
-> **👉 Verdict:** ==PHẢN ĐỐI (Disagree)==
+> **👉 Verdict:** ==ĐỒNG Ý (Agree)==
 >
-> **💡 Rule:** Khen trước → Chê sau = **NO**
+> **💡 Rule:** "Yes, exactly" đồng ý mạnh, "Though" chỉ là thừa nhận thông tin khác
 >
 > **✅ Real Agreement Signals:**
 >
+> - *"Yes, exactly"*
+>
+> - *"That's right"*
+>
 > - *"Precisely"*
->
-> - *"I couldn't agree more"*
->
-> - *"Spot on"*
->
-> - *"Absolutely"*
 >
 > **❌ False Agreement Signals:**
 >
-> - *"You've got a point, but..."*
->
-> - *"I suppose so..."* (ngập ngừng)
->
-> - *"That's one way to look at it..."*
+> - *"Though..."* (trong trường hợp này chỉ là bổ sung thông tin)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/science-tech/archaeological-finds/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==pieces of jewellery==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
+> [!info] ⚡ Rapid Swap
+> ==precious items== ⚡ ==jewellery==
+> ==ornaments== ⚡ ==jewellery==
+> ==valuables== ⚡ ==jewellery==
+> ==personal adornments== ⚡ ==jewellery==
 >
-> **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> **🧠 Instant Logic:** Tất cả diễn tả ==vật trang sức/tiền sản có giá trị==
 
 ---
 
 ### Tier 4: Mastery - Bi-weekly (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/science-tech/archaeological-finds/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "We've recovered many items including ==everyday pottery== for household use and some ==animal bones== for study. But what the team is ==still hoping to find== are ==precious ornaments and valuable items== like jewellery. Those would be the most significant discoveries."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
-?
+>
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** ==everyday pottery==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* "everyday pottery for household" được nhắc trực tiếp
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Audio dùng "But" để làm rõ focus không phải ở đây
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** ==animal bones==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* "animal bones for study" được nhắc trực tiếp
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Bones được thừa nhận nhưng không phải là hy vọng chính
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **✅ Correct Answer:** ==pieces of jewellery==
+> - *Why correct:* Audio nhấn mạnh "still hoping to find", "precious ornaments", "valuable items", "most significant"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/science-tech/archaeological-finds/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** ==pieces of jewellery==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "While we've found plenty of ceramics and some skeletal remains, what the team is ==still hoping to discover== are ==precious objects and personal adornments==. These would be ==ornaments like jewellery== which people once wore."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
-?
+>
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==precious objects== → ==jewellery==
+> - ==personal adornments== → ==jewellery==
+> - ==ornaments== → paraphrase cho ==jewellery==
+> - ==valuable discoveries== → làm rõ giá trị cao
 >
-> - ==Audio phrase== → ==Option word==
->
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> **🧠 Overall Logic:** Tất cả cụm từ chỉ ra ==vật trang sức/tiền sản có giá trị==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/science-tech/archaeological-finds/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==pieces of jewellery==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Archaeology excavation search*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
+> 1. ==precious items==
 >
-> 2. ==Paraphrase 2==
+> 2. ==ornaments==
 >
 > **🎯 Goal:** Instant Recall
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
+#flashcards/ielts-listening/science-tech/archaeological-finds/biweekly/04-synthesis
 ### Card 18: Complete Question Synthesis *(MCQ only)*
 
 > **Full Question Context:**
-> =={{QUESTION_STEM}}==
+> ==What are the team still hoping to find?==
 >
 > **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
+> 1. **A. everyday pottery** (❌) → Audio có thể nhắc "plenty of ceramics" nhưng dùng "But" để làm rõ focus không phải ở đây
+> 2. **B. animal bones** (❌) → Audio nhắc "skeletal remains" nhưng chỉ được thừa nhận, không phải hy vọng chính
+> 3. **C. pieces of jewellery** (✅) → Audio nhấn mạnh "still hoping to find", "precious objects", "ornaments", "valuable", "most significant"
 >
 > ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
 ?
 > [!success] 🎯 Deep Logic Breakdown
 > **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
+> - Bắt đầu bằng team nêu các phát hiện đã làm: pottery và bones (distractors A, B)
+> - Sau đó dùng signal "But" hoặc "What we're still hoping" để chuyển sang điểm chính
+> - Chốt đáp án bằng việc nhấn mạnh "precious objects", "ornaments", "valuable", "most significant" - paraphrase cho jewellery
 >
 > **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
+> - **Trap Elimination:** Pottery và Bones được nhắc nhiều, bị削弱 bởi "But", "still hoping"
+> - **Confirmation Logic:** Multiple paraphrases (precious objects, ornaments, personal adornments, valuable) converging vào cùng ý nghĩa - items of value
 >
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
->
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
+> **🔑 Strategic Lesson:** Trong MCQ về hy vọng/kỳ vọng, tập trung vào từ chỉ ra **sự mong đợi thực sự** ("still hoping", "really hoping", "would be most", "significant") thay vì các tìm kiếm chung
 
 ---

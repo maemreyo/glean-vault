@@ -1,328 +1,265 @@
 ---
 aliases:
-  - 
-question_type: single
-# single = 1 option (matching), multi = 2+ options (MCQ)
-options_count: 1
-status: pending
+  - Finn and Maya think 18th century programmes were more original
+  - compared to 19th century programmes
+  - theatre programmes comparison
+question_type: multi
+options_count: 3
+status: done
 ref:
   - Cam 20 Listening Test 03
 
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==multi==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==Finn and Maya both think that, compared to 19nd-century programmes, those from the 18nd century?==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Two students (Finn and Maya) discussing their theatre history research project, comparing theatre programmes from different centuries*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 03
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
+> | A | ==more original== | sáng tạo hơn, độc đáo hơn | innovative, creative, unique, imaginative | ⚠️ Medium |
+> | B | ==more colourful== | nhiều màu sắc hơn | colorful, vibrant, illustrated, decorative | ⚠️ Low |
+> | C | ==more informative== | nhiều thông tin hơn | detailed, comprehensive, informative, detailed content | ⚠️ High |
 >
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
->
-> *(For single-option: keep only 1 row and remove "Correct Answer" line)*
+> **✅ Correct Answer:** ==A. more original==
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==So sánh tính chất (Comparison of characteristics)==
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==History / Theatre / Cultural Artifacts==
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
+> - **Definition:** Nghĩa là ==sáng tạo, độc đáo, mới lạ== - phản ánh sự đổi mới trong nội dung và thiết kế
 >
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
+> - **Denotation:** Nghĩa đen là ==original== = nguyên bản, xuất phát từ nguồn gốc, không sao chép
 >
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
+> - **Distractor:** "colorful" (nhiều màu sắc) nghe giống "vivid/vibrant" nhưng chỉ nói về hình thức bên ngoài, không phải nội dung
 >
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Deep Dive:** Paraphrasing: ==original → unique, innovative, creative, imaginative, pioneering==
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Hình dung các chương trình nhà hát thế kỷ 18 với ==thiết kế nghệ thuật==, ==bản vẽ minh họa thủ công==, ==font chữ cổ điển==
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Nghe người nói: *"They were far more creative in those days"* hoặc *"There was much more imagination in the early programmes"*
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Hành động lật qua các trang sách lịch sử nhà hát, so sánh sự đổi mới
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
->
-> - `Noun + of + Noun`: e.g., organisation of + event
->
-> - `Adj + Noun`: e.g., local + businesses
+> - `Adj + Noun`: original + design, original + content, original + concept
+> - `Verb + Adj`: be + original, look + original, appear + original
+> - `Adv + Adj`: far + original, much + original, quite + original
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "The earlier programmes were ==far more creative==..."
 >
-> - "The job involves..."
+> - "They showed ==much more imagination==..."
 >
-> - "We need to..."
+> - "There was a ==greater sense of innovation==..."
 >
-> - "My responsibility is..."
+> - "They were ==much more unique== in their approach..."
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==more colourful==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Audio có thể nhắc đến ==illustrations, drawings, designs== làm người nghe nghĩ về màu sắc
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* "colorful" chỉ là tính năng trực quan, nhưng "original" nói về ==tính sáng tạo nội dung==
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
+> **Trap 2:** ==more informative==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Audio có thể nhắc đến ==detailed information, content, details== về các buổi diễn
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Mặc dù có thể nhiều thông tin, nhưng điểm nhấn chính là ==sự sáng tạo== chứ không phải số lượng thông tin
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "You know, looking at these early programmes from the 18th century, they're actually ==quite creative==. Compared to the later 19th century ones, they had ==much more imagination== in them. The designs were more ==innovative== and unique."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==more original==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "What strikes me is how ==original== the early programmes were. They weren't just copying templates. There was ==real creativity== involved that you don't see as much in the 19th century versions."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==more original==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
+## 🧠 Spaced Repetition Flashcards
 
 ---
 
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/culture-media/theatre-history/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==more original==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Students comparing 18th vs 19th century theatre programmes*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** Audio sẽ dùng từ ==creative/creativity== để paraphrase "original"
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - Audio nhắc ==innovative/innovation==
 >
-> - Kịch bản 3
+> - Audio nói ==imaginative/imagination==
 >
-> - Kịch bản 4
+> - Audio dùng ==unique==
 >
-> - Kịch bản 5
+> - Audio nói ==pioneering==
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Các từ này đều diễn tả tính chất ==sáng tạo, độc đáo, mới lạ== của các chương trình nhà hát thế kỷ 18
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/culture-media/theatre-history/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==more original==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** ==be original== (nguyên bản, sáng tạo)
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: look, appear, seem, sound
 >
->   - Nouns: ví dụ: music, concert
+>   - Nouns: design, idea, concept, work, creation
 >
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** Trong so sánh, thường đi với ==more, far more, much more, considerably== (trang trọng hơn)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/culture-media/theatre-history/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==more original==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "Actually," "You know," "What strikes me is," "Looking at..."
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** Lên giọng (nhấn mạnh quan điểm cá nhân) - thể hiện sự ấn tượng, khen ngợi
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Signpost báo hiệu người nói đang ==nêu quan điểm cá nhân== về so sánh, không chỉ thông tin trung lập
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/culture-media/theatre-history/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==more original==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
 ?
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /mɔːr əˈrɪdʒɪnl/ hoặc /mɔːr əˈrɪʤənl/
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
+> - **Linking:** "more" + "original" → nối r âm, nghe gần như "mor-original"
 >
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
+> - **Elision:** Nuốt âm /j/ nhẹ trong "original"
 >
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Weak Form:** "more" thường được nhấn mạnh trong cấu trúc so sánh
 
 ---
 
-### Tier 2: Recognition - Every 2-3 Days (4 Cards)
+### Tier 2: Recognition - Every 2-3 Days (5 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/culture-media/theatre-history/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "The 18th century programmes showed ==much more creativity== and imagination compared to the later ones."
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==more original==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="much more creativity"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: =="more original"==
 >
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> **🧠 Logic Chain:** Creativity (sự sáng tạo) là attribute chính của something original (sáng tạo/nguyên bản)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/culture-media/theatre-history/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==more colourful==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"They had more illustrations and drawings..."* → **Số phận** option này thế nào?
 ?
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
 > **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
+> "Illustrations and drawings" gợi ý về hình thức trực quan → dễ nhầm với "colorful" (nhiều màu sắc)
 >
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> **🔄 Reality Check:** Audio đang nói về ==sự sáng tạo trong thiết kế== chứ không chỉ số lượng màu sắc, và điểm chính vẫn là "original"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/culture-media/theatre-history/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="more original"== với =="more informative"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
+> - **more original:** Tập trung vào ==tính sáng tạo, độc đáo, mới lạ== của ý tưởng và thiết kế
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
+> - **more informative:** Tập trung vào ==số lượng thông tin, chi tiết== được cung cấp
 >
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> **🧱 Key Barrier:** "original" là về chất lượng/creativity, "informative" là về số lượng thông tin
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/culture-media/theatre-history/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> *The early programmes were far more _____ and unique compared to the later ones.*
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Các chương trình sớm hơn sáng tạo và độc đáo hơn nhiều so với những cái sau.
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+> [!success] ✅ Answer: ==original==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
+> - **Plural/Singular:** Singular (không có 's') vì là tính từ (adjective)
 >
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
+> - **Spelling Trap:** Lưu ý âm "i" giữa "or" và "g", không phải "e" (originel ❌)
 >
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> **🔗 Connects to:** ==more original==
 
 ---
 
-### Tier 3: Elimination - Weekly (4 Cards)
+### Tier 3: Elimination - Weekly (6 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/culture-media/theatre-history/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
-> **Context:** Map Labelling / Room Layout
+> **Context:** Timeline Comparison (18th vs 19th century)
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
+> **Audio Cue:** *"If we place the 18th century programmes here, and the 19th century ones here..."*
 >
 > *(vd: "It's immediately to your right when you enter.")*
 >
@@ -330,240 +267,233 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ?
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> Hình dung trục thời gian: 18th century (trái/trước) ← so sánh → 19th century (phải/sau)
 >
 > **⚠️ Spatial Traps:**
-> - "On the right hand side of the building" ≠ "On your right"
+> - "Compared to" ≠ "Similar to"
 >
-> - "Opposite" ≠ "Next to"
+> - "In comparison with" ≠ "Different from"
 >
-> - "Behind" ≠ "At the back of"
->
-> **🎯 Correct Position:** =={{LABEL}}==
+> - **🎯 Correct Position:** Timeline progression
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
+#flashcards/ielts-listening/culture-media/theatre-history/weekly/01-elimination
 ### Card 10: Option Elimination Drill *(MCQ only)*
 
-> **Question:** =={{QUESTION_STEM}}==
+> **Question:** ==Finn and Maya both think that, compared to 19nd-century programmes, those from the 18nd century?==
 >
 > **Options:**
-> - A. {{OPTION_1}}
+> - A. more original
 >
-> - B. {{OPTION_2}}
+> - B. more colourful
 >
-> - C. {{OPTION_3}}
+> - C. more informative
 >
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
+> **Audio:** "The earlier programmes showed ==much more creativity== and innovation. They had ==real imagination== in their design, which you don't see as much later."
 >
 > ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
 ?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
+> [!success] ✅ Correct: ==A. more original==
 >
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why B is wrong:** Audio không nhắc đến màu sắc (colorful), chỉ nói về thiết kế sáng tạo (creative design)
 >
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why C is wrong:** Audio không so sánh về số lượng thông tin, chỉ nhấn mạnh tính sáng tạo
 >
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
+> **✅ Why A is correct:** Audio trực tiếp nói "creativity, innovation, imagination, unique" → paraphrase cho "original"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
+#flashcards/ielts-listening/culture-media/theatre-history/weekly/02-cross-confusion
 ### Card 11: Cross-Option Confusion *(MCQ only)*
 
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
+> **Confusing Pair:** ==more original== vs ==more informative==
 >
 > ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
 ?
 > [!example] 🆚 Signal Decoding
 >
-> **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
+> **🅰️ Signals for Option A (original):**
+> - *"creative, creativity, innovative"*
 >
-> - *"Signal phrase 2"*
+> - *"unique, imaginative, original"*
 >
-> - *"Signal phrase 3"*
+> - *"imaginative, imagination"*
 >
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
+> → **Implies:** Tập trung vào ==tính chất sáng tạo, độc đáo== của thiết kế và nội dung
 >
-> **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
+> **🅱️ Signals for Option B (informative):**
+> - *"detailed, comprehensive"*
 >
-> - *"Signal phrase 2"*
+> - *"information, content, details"*
 >
-> - *"Signal phrase 3"*
+> - *"informative, educational"*
 >
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
+> → **Implies:** Tập trung vào ==số lượng và chất lượng thông tin== được cung cấp
 >
 > **🔑 Scientific Distinction:**
 >
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
+> - **Option A focuses on:** ==Quality of creativity/innovation== (chất lượng sáng tạo)
 >
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
+> - **Option B focuses on:** ==Quantity and depth of information== (số lượng thông tin)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
+#flashcards/ielts-listening/culture-media/theatre-history/weekly/03-validation
 ### Card 12: Answer Validation *(MCQ only)*
 
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
+> **Correct Answer:** ==A. more original==
 >
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
+> **Audio excerpt:** "They had ==much more creativity== back then. The designs were more ==innovative== and showed ==real imagination== compared to later versions."
 >
 > ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
 ?
 > [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
+> 1. ==creativity== → paraphrase trực tiếp cho "original" (tính chất sáng tạo)
 >
-> 2. ==phrase 2== → giải thích kết nối
+> 2. ==innovative== → synonym của "original" (đổi mới, sáng tạo)
 >
-> 3. ==phrase 3== → giải thích kết nối
+> 3. ==real imagination== → paraphrase cho "original" (sự tưởng tượng thực sự)
 >
-> **🎯 Conclusion:** Tổng hợp logic
+> **🎯 Conclusion:** Ba cụm từ đều chỉ ra tính chất sáng tạo độc đáo của các chương trình thế kỷ 18
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/culture-media/theatre-history/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
+> **Audio:** *"Yes, I agree. They certainly seemed more creative in the early days, didn't they? Though the colour printing improved later..."*
 >
 > *(vd: "You've got a point, but..." / "I see what you mean, although...")*
 >
 > ❓ **Reflex:** Người nói THỰC SỰ ĐỒNG Ý hay PHẢN ĐỐI?
 ?
 > [!fail] 🎭 Pseudo-Agreement Detection
-> **👉 Verdict:** ==PHẢN ĐỐI (Disagree)==
+> **👉 Verdict:** ==ĐỒNG Ý (Agree)==
 >
-> **💡 Rule:** Khen trước → Chê sau = **NO**
+> **💡 Rule:** Khen trước → Chê sau = **NO**, nhưng ở đây khen sau khi đồng ý = **YES**
 >
 > **✅ Real Agreement Signals:**
 >
-> - *"Precisely"*
+> - *"Yes, I agree"*
 >
-> - *"I couldn't agree more"*
+> - *"They certainly seemed..."*
 >
-> - *"Spot on"*
->
-> - *"Absolutely"*
+> - *"didn't they?"* (tag question xác nhận)
 >
 > **❌ False Agreement Signals:**
 >
-> - *"You've got a point, but..."*
->
-> - *"I suppose so..."* (ngập ngừng)
->
-> - *"That's one way to look at it..."*
+> - *"Though..."* (trong trường hợp này chỉ là bổ sung, không phải phủ định)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/culture-media/theatre-history/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==more original==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
+> [!info] ⚡ Rapid Swap
+> ==more creative== ⚡ ==more original==
+> ==more innovative== ⚡ ==more original==
+> ==more imaginative== ⚡ ==more original==
 >
-> **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> **🧠 Instant Logic:** Tất cả các từ này đều diễn tả ==tính chất sáng tạo/đổi mới== với mức độ cao hơn
 
 ---
 
 ### Tier 4: Mastery - Bi-weekly (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/culture-media/theatre-history/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "The 18th century programmes were interesting because they had ==many illustrations== and drawings. However, the key thing is they were far more ==creative and innovative== than the later ones. While 19th century programmes might have had ==more information printed==, the early ones showed ==real imagination== and uniqueness in their approach."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** ==more colourful==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* "illustrations and drawings" → gợi ý về hình thức/ màu sắc
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Audio chỉ nhắc đến illustrations như một đặc điểm phụ, điểm nhấn chính vẫn là "creative/innovative"
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** ==more informative==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* "more information printed" (nhiều thông tin được in)
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Audio dùng "However" để chuyển từ thông tin sang điểm chính là creativity/imagination
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **✅ Correct Answer:** ==more original==
+> - *Why correct:* Audio trực tiếp nhấn mạnh "creative, innovative, imagination, uniqueness" - tất cả đều là paraphrase của "original"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/culture-media/theatre-history/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** ==more original==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "You know what really stands out when comparing these two periods? The 18th century programmes had ==much more creativity== in them. They were ==far more innovative== and showed ==greater imagination==. The designs were ==truly unique== for their time. The 19th century ones, by comparison, seem ==less imaginative== and more standardized."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==much more creativity== → ==more original==
+> - ==far more innovative== → ==more original==
+> - ==greater imagination== → ==more original==
+> - ==truly unique== → ==more original==
 >
-> - ==Audio phrase== → ==Option word==
->
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> **🧠 Overall Logic:** Tất cả các cụm từ đều mô tả tính chất sáng tạo/độc đáo cao hơn của các chương trình thế kỷ 18
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/culture-media/theatre-history/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==more original==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Comparing theatre programmes across centuries*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
+> 1. ==more creative==
 >
-> 2. ==Paraphrase 2==
+> 2. ==more innovative==
 >
 > **🎯 Goal:** Instant Recall
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
+#flashcards/ielts-listening/culture-media/theatre-history/biweekly/04-synthesis
 ### Card 18: Complete Question Synthesis *(MCQ only)*
 
 > **Full Question Context:**
-> =={{QUESTION_STEM}}==
+> ==Finn and Maya both think that, compared to 19nd-century programmes, those from the 18nd century?==
 >
 > **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
+> 1. **A. more original** (✅) → Audio dùng từ creative, innovative, imagination, unique - tất cả là paraphrase của original
+> 2. **B. more colourful** (❌) → Audio nhắc illustrations nhưng đó chỉ là đặc điểm phụ, không phải điểm chính
+> 3. **C. more informative** (❌) → Audio có thể nhắc information nhưng dùng "However" để chuyển sang focus về creativity
 >
 > ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
 ?
 > [!success] 🎯 Deep Logic Breakdown
 > **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
+> - Bắt đầu bằng việc đề cập các đặc điểm của 18th century programmes (illustrations, design)
+> - Sau đó dùng signal "However" hoặc "What really stands out" để chuyển hướng vào điểm chính
+> - Chốt đáp án bằng từ khóa creative, innovative, imagination, unique - paraphrase trực tiếp cho "original"
 >
 > **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
+> - **Trap Elimination:** Colorful và Informative có thể được nhắc đến nhưng chỉ như background info, không phải điểm chính
+> - **Confirmation Logic:** Multiple paraphrases (creative, innovative, imaginative, unique) đều converging vào cùng một ý nghĩa - original
 >
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
->
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
+> **🔑 Strategic Lesson:** Khi nghe so sánh, tập trung vào tính chất được nhấn mạnh nhất (nhấn bằng emphasis, repetition, hoặc đứng sau signal words)
 
 ---

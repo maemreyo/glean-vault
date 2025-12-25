@@ -1,435 +1,345 @@
 ---
 aliases:
-  - 
-question_type: single
-# single = 1 option (matching), multi = 2+ options (MCQ)
-options_count: 1
-status: pending
+  - "Who started community archaeology project? Castle owners charity council"
+  - "Project initiator archaeology community excavation"
+question_type: multi
+options_count: 3
+status: done
 ref:
   - Cam 20 Listening Test 03
 
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==multi==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==Who was responsible for starting the community project?==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Origin of community archaeology project*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 03
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
+> | A | ==The castle owners== | Chủ lâu đài | owners of the castle, the proprietors, castle estate | ⚠️ High |
+> | B | ==a national charity== | Một tổ chức từ thiện quốc gia | a charity, national heritage organization, non-profit organization | ⚠️ Medium |
+> | C | ==the local council== | Hội đồng địa phương | local government, municipal council, district authority | ⚠️ High |
 >
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
->
-> *(For single-option: keep only 1 row and remove "Correct Answer" line)*
+> **✅ Correct Answer:** ==A. The castle owners==
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==Người chịu trách nhiệm / Đơn vị chủ trì==
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Project Management / Community Initiative==
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
+> - **Definition:** Các ==chủ sở hữu lâu đài== là người hoặc tổ chức có quyền sở hữu pháp lý hoặc quản lý tòa lâu đài, có thể khởi xướng các dự án hoặc cho phép sử dụng khu đất cho mục đích công cộng.
 >
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
+> - **Denotation:** Nghĩa đen:** Người sở hữu, chủ, người nắm giữ chìa khóa quản lý hoặc chủ quyền tài sản lâu đài, có quyền quyết định về việc khai quật học tại địa điểm.
 >
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
+> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI: "national charity" (tổ chức quốc gia, nghe quen thuộc), "local council" (cơ quan chính quyền, nghe hợp lý).
 >
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Deep Dive:** Paraphrasing sâu hơn: "castle owners" → "proprietors of the castle", "owners of the estate", "those who own the castle"; "responsible for starting" → "initiated the project", "launched the excavation", "began the archaeology work".
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Nhìn thấy ==chủ lâu đài== đang đứng trước cổng đá lớn, tay nắm chìa khóa trong túi, hoặc là hình họp đồng với nhân viên dự án trong phòng khách lớn của lâu đài.
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Nghe tiếng ==thỏa thuận trong cuộc họp== giữa chủ lâu đài và các bên quan tâm dự án, hoặc tiếng họp động tại hội đồng địa phương với từ "đồng ý".
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Hành động cụ thể: ký hợp đồng phát xướng dự án, cấp phép khai quật, kiểm tra tiến độ công việc, đến thăm hiện trường.
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
->
-> - `Noun + of + Noun`: e.g., organisation of + event
->
-> - `Adj + Noun`: e.g., local + businesses
+> - `Verb + Noun`: start + a project, initiate + work, launch + an initiative, begin + excavation
+> - `Noun + of + Noun`: owners + of + the castle, responsibility + for + starting
+> - `Adj + Noun`: local + council, national + charity, community + project
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "The project was initiated by..."
 >
-> - "The job involves..."
+> - "Those responsible were..."
 >
-> - "We need to..."
+> - "The castle owners offered..."
 >
-> - "My responsibility is..."
+> - "Permission was given by..."
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==a national charity==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Nghe giống vì "national charity" là tổ chức uy tín, thường tham gia dự án cộng đồng, và từ "project" trong câu hỏi.
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Đây là một tổ chức quan tâm nhưng không phải người khởi xướng chính, có thể chỉ là nhà tài trợ hoặc đối tác tham gia.
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
+> **Trap 2:** ==the local council==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Nghe giống vì "local council" là cơ quan có thẩm quyền, có thể cấp phép cho dự án kiến trúc hoặc khai quật, và từ "community" trong câu hỏi.
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Hội đồng có thể cấp phép nhưng không phải người quyết định/khởi xướng dự án, chỉ là cơ quan chấp thuận/cấp phép.
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "The archaeology project on the castle grounds got underway last year. Actually, it was the castle owners themselves who approached us with the idea. They were concerned about preserving the site's history and offered full support and funding to get the community excavation started."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==The castle owners==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "Many people might think it was the local council that organized this, given how government is involved in heritage protection. But in fact, the project was a private initiative - it was launched by the owners of the castle who wanted to understand their property better."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==The castle owners==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
+## 🧠 Spaced Repetition Flashcards (18 Cards)
 
 ---
 
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/science-tech/archaeology/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==The castle owners==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Project origin/initiator*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** "The castle owners approached us..." / "The project was initiated by those who own the castle"
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - "The proprietors of the castle suggested..."
+> - "The owners of the estate wanted to..."
+> - "The castle owners offered support..."
+> - "The project came from the castle..."
+> - "Those responsible for the castle grounds..."
 >
-> - Kịch bản 3
->
-> - Kịch bản 4
->
-> - Kịch bản 5
->
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Key paraphrase patterns: "responsible for starting → initiated by/launched by/started by"; "castle owners → proprietors/owners of the estate/owners of the castle"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/science-tech/archaeology/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==The castle owners==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** castle + owners / project + initiated / approach + with
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: launch, start, begin, initiate, propose, suggest
+>   - Nouns: proprietors, estate, owners, the castle, responsibility, initiative
+>   - Phrases: offered support, gave permission, provided funding
 >
->   - Nouns: ví dụ: music, concert
->
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** "Owners" thường đi với "castle/estate/property"; "initiate/launch/start" thường đi với "project/work/excavation"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/science-tech/archaeology/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==The castle owners==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "Actually," "In fact," "But," "However," "What people might think..."
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** Xuống giọng (Final/Certain) khi chốt phương án, sau khi đã phủ định các giả định phổ biến (council, charity).
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Dấu hiệu phủ định kỳ vọng thông thường (council/charity) để xác định chủ thể khởi xướng thực sự.
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/science-tech/archaeology/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==The castle owners==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
 ?
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /ðə ˈkɑːsl ˈəʊnərz/ → /ðəˈkɑːslˈəʊnəz/
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
->
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
->
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Linking:** "castle" + "owners" → /ˈkɑːsl/ (s + ɔ), "the" + "castle" → /ðəˈkɑːsl/
+> - **Elision:** Nuốt âm 'r' nhẹ trong "owners" khi nối với tiếp theo
+> - **Weak Form:** "the" → /ðə/ (âm lướt, không phát âm rõ /ðiː/)
 
 ---
 
 ### Tier 2: Recognition - Every 2-3 Days (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/science-tech/archaeology/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "The project got underway last year. It was the castle owners themselves who approached us with the idea."
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==The castle owners==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
->
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
->
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> - Audio nói: =="the castle owners themselves who approached us"==
+> - Tương đương với: =="The castle owners"== (themselves = who)
+> - Audio nói: =="approached us with the idea"==
+> - **🧠 Logic Chain:** approached us = responsible for starting/bringing the idea = initiating
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/science-tech/archaeology/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==the local council==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"Many people might think it was the local council..."* → **Số phận** option này thế nào?
 ?
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
 > **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
+> Audio dùng cụm "Many people might think" để giới thiệu một giả định thông thường, sau đó dùng "But in fact" để phủ định hoàn toàn - council KHÔNG phải người khởi xướng.
 >
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> **🔄 Reality Check:** Nghĩa thực sự của audio là council chỉ được người cho là khởi xướng nhưng thực tế là castle owners.
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/science-tech/archaeology/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="The castle owners"== với =="a national charity"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
->
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
->
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> - **The castle owners:** Tập trung vào ===chủ sở hữu cá nhân/tư nhân=== hoặc chủ nắm giữ, có quyền quyết định trực tiếp về tài sản và các dự án trên đó.
+> - **a national charity:** Tập trung vào ===tổ chức từ thiện phi lợi nhuận=== (non-profit), thường tham gia dự án nhưng không phải chủ thể hay người quyết định chính.
+> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý: cả hai đều liên quan đến dự án cộng đồng, nhưng "owners" = chủ quyền, còn "charity" = đối tác/người tài trợ.
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/science-tech/archaeology/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> *It was the ==castle== ==owners== themselves who approached us with the idea.*
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Là chủ lâu đài chính họ tiếp cận chúng tôi với ý tưởng.
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+> [!success] ✅ Answer: ==castle owners==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
->
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
->
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> - **Plural/Singular:** Có 's' vì nói về nhiều chủ sở hữu (owners). Castle là số ít.
+> - **Spelling Trap:** Lưu ý lỗi chính tả: "owners" (không phải "ownes"), "themselves" (trợ từ phản thân, phải có 's')
+> **🔗 Connects to:** ==The castle owners==
 
 ---
 
-### Tier 3: Elimination - Weekly (4 Cards)
+### Tier 3: Elimination - Weekly (5 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/science-tech/archaeology/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
-> **Context:** Map Labelling / Room Layout
+> **Context:** Castle Grounds Layout
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
->
-> *(vd: "It's immediately to your right when you enter.")*
+> **Audio Cue:** *"The excavation site is in the southwestern corner of the castle grounds. The owners' residence is to the northeast. The community center where meetings were held is west of the main gate."*
 >
 > ❓ **Reflex:** Hình dung vị trí trong đầu NGAY LẬP TỨC?
 ?
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> Mô tả vị trí: "Southwest Corner → Excavation Site (stop 1) → Northeast → Owners' Residence (stop 2) → West → Community Center (stop 3)"
 >
 > **⚠️ Spatial Traps:**
-> - "On the right hand side of the building" ≠ "On your right"
+> - "to the northeast" ≠ "northeast of castle"
+> - "west of the main gate" ≠ "west of the castle"
+> - "in the southwestern corner" ≠ "southwest corner"
 >
-> - "Opposite" ≠ "Next to"
->
-> - "Behind" ≠ "At the back of"
->
-> **🎯 Correct Position:** =={{LABEL}}==
+> **🎯 Correct Position:** ==Excavation site location==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
+#flashcards/ielts-listening/science-tech/archaeology/weekly/01-elimination
 ### Card 10: Option Elimination Drill *(MCQ only)*
 
-> **Question:** =={{QUESTION_STEM}}==
+> **Question:** ==Who was responsible for starting the community project?==
 >
 > **Options:**
-> - A. {{OPTION_1}}
+> - A. The castle owners
+> - B. a national charity
+> - C. the local council
 >
-> - B. {{OPTION_2}}
->
-> - C. {{OPTION_3}}
->
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
+> **Audio:** "Many might think it was the local council. But in fact, it was the castle owners who initiated it. A charity did express interest but wasn't the initiator."
 >
 > ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
 ?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
+> [!success] ✅ Correct: ==A. The castle owners==
 >
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why B is wrong:** Được nhắc đến ("expressed interest") nhưng không phải người khởi xướng, chỉ là quan tâm.
 >
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why C is wrong:** Kỳ vọng phổ biến ("Many people might think") nhưng bị "But in fact" phủ định.
 >
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
+> **✅ Why A is correct:** Được xác nhận là "initiated it", "approached us with the idea", "supported" - rõ ràng là người quyết định.
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
+#flashcards/ielts-listening/science-tech/archaeology/weekly/02-cross-confusion
 ### Card 11: Cross-Option Confusion *(MCQ only)*
 
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
+> **Confusing Pair:** ==a national charity== vs ==the local council==
 >
 > ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
 ?
 > [!example] 🆚 Signal Decoding
 >
-> **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
+> **🅰️ Signals for Option A (National Charity):**
+> - *"A national organization..."*
+> - *"A charity expressed interest..."*
+> - *"An organization got involved..."*
+> → **Implies:** Option A focuses on non-profit organizations, charities, external support providers.
 >
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
->
-> **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
+> **🅱️ Signals for Option B (Local Council):**
+> - *"The local government..."*
+> - *"The municipal council..."*
+> - *"Official permission from council..."*
+> → **Implies:** Option B focuses on government bodies, local authorities, official permits/regulatory bodies.
 >
 > **🔑 Scientific Distinction:**
 >
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
->
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
+> - **Option A (Charity) focuses on:** Voluntary, non-profit organizations providing support/participation (third-party).
+> - **Option B (Council) focuses on:** Government bodies, official authorities, regulatory powers, administrative control.
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
+#flashcards/ielts-listening/science-tech/archaeology/weekly/03-validation
 ### Card 12: Answer Validation *(MCQ only)*
 
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
+> **Correct Answer:** ==The castle owners==
 >
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
+> **Audio excerpt:** "The castle owners themselves who approached us with the idea. They were concerned about preserving the site's history and offered full support and funding to get the community excavation started."
 >
 > ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
 ?
 > [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
+> 1. ==castle owners themselves== → directly matches the responsible parties
+> 2. ==approached us with the idea== → action initiating the project
+> 3. ==offered full support and funding== → confirms responsibility and capability
 >
-> 2. ==phrase 2== → giải thích kết nối
->
-> 3. ==phrase 3== → giải thích kết nối
->
-> **🎯 Conclusion:** Tổng hợp logic
+> **🎯 Conclusion:** Key evidence chain: "castle owners" + "approached with idea" + "offered support/funding" = project initiator
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/science-tech/archaeology/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
->
-> *(vd: "You've got a point, but..." / "I see what you mean, although...")*
+> **Audio:** *"The local council did show interest, and a charity offered funding. However, the actual initiator was the castle owners."*
 >
 > ❓ **Reflex:** Người nói THỰC SỰ ĐỒNG Ý hay PHẢN ĐỐI?
 ?
@@ -439,131 +349,111 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 > **💡 Rule:** Khen trước → Chê sau = **NO**
 >
 > **✅ Real Agreement Signals:**
->
-> - *"Precisely"*
->
-> - *"I couldn't agree more"*
->
-> - *"Spot on"*
->
-> - *"Absolutely"*
+> - *"Precisely, the castle owners initiated it"*
+> - *"Absolutely, that's who started everything"*
+> - *"Yes, it was definitely their initiative"*
 >
 > **❌ False Agreement Signals:**
->
-> - *"You've got a point, but..."*
->
-> - *"I suppose so..."* (ngập ngừng)
->
-> - *"That's one way to look at it..."*
+> - *"The council did show interest, however..."*
+> - *"A charity offered to help, but..."*
+> - *"That seems reasonable, although..."*
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/science-tech/archaeology/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==The castle owners==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
+> [!info] ⚡ Rapid Swap
+> ==castle owners== ⚡ ==proprietors of the castle / owners of the estate / castle proprietors==
 >
-> **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> **🧠 Instant Logic:** Direct synonym mapping: castle owners ↔ proprietors ↔ estate owners ↔ those who own the castle
 
 ---
 
 ### Tier 4: Mastery - Bi-weekly (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/science-tech/archaeology/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "There was speculation about who actually started the community archaeology project. Some assumed it must have been the local council, given how official permissions are required for excavations. Others thought perhaps a national charity was involved to provide funding. But what the records show is that the initiative actually came directly from the castle owners themselves, who approached the archaeological team with the original proposal and provided both financial and logistical support to make the project happen."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
->
-> - *Sounds like:* Nghe giống gì
->
-> - *Wrong because:* Tại sao sai
->
-> **2. Distractor:** =="{{TEXT}}"==
->
-> - *Sounds like:* Nghe giống gì
->
-> - *Wrong because:* Tại sao sai
->
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **1. Distractor:** ==a national charity==
+> - *Sounds like:* Audio nhắc "charity" và "funding"
+> - *Wrong because:* Chỉ là "involved to provide funding", không phải người khởi xướng.
+> **2. Distractor:** ==the local council==
+> - *Sounds like:* Audio nhắc "council" và "speculation"
+> - *Wrong because:* Chỉ là giả định phổ biến, bị "but what the records show" phủ định.
+> **✅ Correct Answer:** ==The castle owners==
+> - *Why correct:* Được xác nhận là "actually came from", "themselves approached", "provided both financial and logistical support".
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/science-tech/archaeology/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** ==The castle owners==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "The community archaeology project began last summer. When we look at who was truly responsible, it's clear that the castle owners were the driving force. They approached the archaeologists with the concept, recognized the importance of studying the site, and committed resources to make the excavation possible."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==driving force== → responsible for starting
+> - ==approached the archaeologists== → initiated the project
+> - ==committed resources== → provided support/funding
+> - ==recognized the importance== → cared about the project
 >
-> - ==Audio phrase== → ==Option word==
->
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> **🧠 Overall Logic:** Complete paraphrase chain: "castle owners" + "driving force" + "approached with concept" = project initiator
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/science-tech/archaeology/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==The castle owners==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Project origin*
 >
-> ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
+> ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY**!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
->
-> 2. ==Paraphrase 2==
+> 1. ==proprietors of the castle==
+> 2. ==initiated by the estate owners==
 >
 > **🎯 Goal:** Instant Recall
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
+#flashcards/ielts-listening/science-tech/archaeology/biweekly/04-synthesis
 ### Card 18: Complete Question Synthesis *(MCQ only)*
 
 > **Full Question Context:**
-> =={{QUESTION_STEM}}==
+> ==Who was responsible for starting the community project?==
 >
 > **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
+> 1. **A. The castle owners** (✅) → Được xác nhận là "actually came from", "driving force", "approached us", "provided support".
+> 2. **B. a national charity** (❌) → Được nhắc đến như nguồn tài trợ nhưng không phải người khởi xướng.
+> 3. **C. the local council** (❌) → Kỳ vọng phổ biến ("speculation") bị "but what the records show" phủ định, chỉ là cơ quan chấp thuận.
 >
 > ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
 ?
 > [!success] 🎯 Deep Logic Breakdown
 > **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
->
+> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc giới thiệu các giả định phổ biến (council, charity) dựa trên kiến thức thông thường về dự án chính quyền, sau đó dùng "but/however" để chuyển hướng, và chốt đáp án bằng "what the records actually show" xác định castle owners là người khởi xướng thực sự với bằng chứng cụ thể (approached us, provided support).
 > **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
->
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
->
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
+> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy: "speculation" ≠ reality; "involved" ≠ initiated; "showed interest" ≠ took responsibility.
+> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng: "actually came from" + "themselves approached" + "provided both financial and logistical support" = castle owners initiated.
+> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài: Tìm từ xác nhận thực tế như "actually", "the records show", "themselves" để xác định phương án đúng giữa các giả định nghe hợp lý.
 
 ---

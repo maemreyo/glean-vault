@@ -1,435 +1,369 @@
 ---
 aliases:
-  - 
-question_type: single
-# single = 1 option (matching), multi = 2+ options (MCQ)
-options_count: 1
-status: pending
+  - "What will the team do after excavation? Post-work summer plans"
+  - "Archaeology project future plans museum display TV school visits"
+question_type: multi
+options_count: 3
+status: done
 ref:
   - Cam 20 Listening Test 03
 
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==multi==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==What do the team plan to do after work ends this summer?==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Post-excavation planning for archaeology project*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 03
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
+> | A | ==prepare a display for a museum== | Tạo triển lãm tại bảo tàng | set up an exhibition, create a display, mount a show | ⚠️ High |
+> | B | ==take part in a television programme== | Tham gia chương trình TV | appear on TV, documentary, be filmed for television | ⚠️ Medium |
+> | C | ==start to organise school visits== | Bắt đầu tổ chức tham quan trường học | arrange school trips, organize educational visits, coordinate school groups | ⚠️ Medium |
 >
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
->
-> *(For single-option: keep only 1 row and remove "Correct Answer" line)*
+> **✅ Correct Answer:** ==C. start to organise school visits==
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==Hành động / Kế hoạch tương lai== (Future plans)
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Education / Archaeology / Community Outreach==
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
+> - **Definition:** Hành động ==tổ chức các chuyến tham quan== cho học sinh đến địa điểm khai quật học, nhằm mục đích giáo dục và lan tỏa kiến thức.
 >
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
+> - **Denotation Nghĩa đen: Thuê nhân sự, liên hệ với các trường học, thiết kế lịch trình tham quan, chuẩn bị tài liệu hướng dẫn cho học sinh đến thăm địa điểm archaeological.
 >
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
+> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI: "museum display" (lưu trữ hiện vật tại bảo tàng, không phải đưa học sinh đến), "TV programme" (quảng bá qua truyền thông, không phải giáo dục trực tiếp).
 >
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Deep Dive:** Paraphrasing sâu hơn: "organise educational visits" → "coordinate trips for schools", "arrange tours for local students", "set up school excursions to the site".
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Nhìn thấy ==nhóm học sinh== mặc đồng phục trường đang đi dọc theo khu khai quật, với cuốn sổ tay ghi chép và camera chụp ảnh hiện vật.
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Nghe tiếng ==giải thích hướng dẫn viên== nói về lịch sử ngôi làng cổ, tiếng cười đùa của học sinh, tiếng bước chân trên đường mòn.
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Hành động cụ thể: ==liên hệ hiệu trưởng==, gửi email mời tham quan, chuẩn bị biển chỉ dẫn, huấn luyện hướng dẫn viên.
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
+> - `Verb + Noun`: organise + school visits, arrange + educational trips, coordinate + excursions
 >
-> - `Noun + of + Noun`: e.g., organisation of + event
+> - `Noun + of + Noun`: organisation of + visits, arrangement of + tours
 >
-> - `Adj + Noun`: e.g., local + businesses
+> - `Adj + Noun`: educational + visits, school + trips, local + schools
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "Our next step is to..."
 >
-> - "The job involves..."
+> - "We're planning to organise..."
 >
-> - "We need to..."
+> - "The focus will be on..."
 >
-> - "My responsibility is..."
+> - "We want to involve local schools..."
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==prepare a display for a museum==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Nghe giống vì các dự án archaeology thường có kết quả là hiện vật, và "display" là từ phổ biến khi nói về triển lãm.
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Đây là việc ==đưa hiện vật vào bảo tàng== để lưu trữ/trưng bày, không phải hoạt động giáo dục trực tiếp.
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
+> **Trap 2:** ==take part in a television programme==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Nghe giống vì nhiều dự án archaeology được quảng bá qua TV và từ "programme" xuất hiện trong câu hỏi.
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Đây là ==phương tiện truyền thông== quảng bá dự án, không phải kế hoạch cụ thể sau khi kết thúc công việc.
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "Well, now that the excavation is drawing to a close, we've been discussing our next steps. The museum in town has offered to host some of our finds, but we're thinking bigger than that. We really want to share this discovery with the younger generation, so we're hoping to start organising visits for local schools to come and see the site for themselves."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==start to organise school visits==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "The team has been brainstorming about post-project activities. One idea was to create a permanent display, but we felt that wouldn't reach enough people. We also considered doing a documentary, but that's quite expensive. So we've decided our priority should be educational outreach - we'll be working with nearby schools to arrange field trips to the excavation site next term."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==start to organise school visits==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
+## 🧠 Spaced Repetition Flashcards (18 Cards)
 
 ---
 
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/science-tech/archaeology/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==start to organise school visits==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Post-excavation planning*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** "We're going to arrange trips for local schools" / "We'll be organising educational visits"
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - "We want to involve schools in our work"
 >
-> - Kịch bản 3
+> - "Our plan is to coordinate school excursions"
 >
-> - Kịch bản 4
+> - "We're setting up tours for school children"
 >
-> - Kịch bản 5
+> - "The focus will be on educational outreach"
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Key paraphrase patterns: "organise → arrange/coordinate", "school visits → school trips/educational visits/excursions"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/science-tech/archaeology/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==start to organise school visits==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** organise + visits / arrange + trips / coordinate + excursions
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: plan, set up, work with, involve, engage
 >
->   - Nouns: ví dụ: music, concert
+>   - Nouns: local schools, nearby schools, schoolchildren, students, educational outreach, community engagement
 >
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** "Organise/arrange/coordinate" thường đi với "visits/trips/excursions", không đi với "display" hay "programme"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/science-tech/archaeology/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==start to organise school visits==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "However," "But," "Our priority," "What we really want to do," "The main focus will be"
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** Xuống giọng (Final/Certain) khi chốt phương án, sau khi đã đề cập các ý khác.
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Dấu hiệu chuyển từ ý tưởng sang kế hoạch thực tế, ưu tiên giáo dục thay vì lưu trữ hay quảng bá.
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/science-tech/archaeology/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==start to organise school visits==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
 ?
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /stɑːt tə ˈɔːɡənaɪz skuːl ˈvɪzɪts/ → /stɑːttəˈɔːɡənaɪzskuːlˈvɪzɪts/
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
+> - **Linking:** "to organise" → /təˈɔː/ (liên âm t + ɔ), "school visits" → /skuːlˈvɪzɪts/ (l + v)
 >
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
+> - **Elision:** Nuốt âm 'd' nhẹ trong "and" nếu có nối với tiếp theo.
 >
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Weak Form:** "to" → /tə/ (âm lướt, không phát âm rõ /tuː/)
 
 ---
 
 ### Tier 2: Recognition - Every 2-3 Days (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/science-tech/archaeology/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "We're really keen to get local schools involved, so we'll be arranging field trips to the site next term."
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==start to organise school visits==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="arranging field trips"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: =="start to organise school visits"==
 >
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> **🧠 Logic Chain:** arrange → organise; field trips → school visits; get local schools involved → context of organising visits
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/science-tech/archaeology/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==prepare a display for a museum==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"The museum has offered to host some of our finds..."* → **Số phận** option này thế nào?
 ?
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
 > **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
+> Audio nhắc đến "museum" và "host/finds" nhưng đây là **đề nghị từ bảo tàng**, không phải kế hoạch chính của team. Signal "but we're thinking bigger than that" cho thấy team có ý định khác.
 >
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> **🔄 Reality Check:** Nghĩa thực sự của audio là team **phủ định** việc chỉ trưng bày tại bảo tàng, mà chọn hướng hoạt động giáo dục trực tiếp.
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/science-tech/archaeology/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="start to organise school visits"== với =="prepare a display for a museum"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
+> - **start to organise school visits:** Tập trung vào ==hoạt động giáo dục trực tiếp==, đưa học sinh đến địa điểm archaeological, mang tính tương tác và trải nghiệm.
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
+> - **prepare a display for a museum:** Tập trung vào ==lưu trữ và trưng bày hiện vật== tại không gian bảo tàng, mang tính tĩnh và quan sát.
 >
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> **🧱 Key Barrier:** Rào cản chính: cả hai đều liên quan đến "chia sẻ kết quả khai quật", nhưng phương pháp (giáo dục động vs. trưng bày tĩnh) khác nhau hoàn toàn.
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/science-tech/archaeology/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> *We want to share this discovery with the younger generation, so we'll be working with nearby ==schools== to arrange field ==trips==.*
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Chúng tôi muốn chia sẻ phát hiện này với thế hệ trẻ, nên sẽ làm việc với các trường lân cận để sắp xếp các chuyến đi thực địa.
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+> [!success] ✅ Answer: ==school visits / field trips==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
+> - **Plural/Singular:** Có 's' vì nói về nhiều chuyến tham quan (trips/visits), không phải chỉ một chuyến. Signal: "nearby schools" (plural).
 >
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
+> - **Spelling Trap:** Lưu ý lỗi chính tả: "excursions" (không phải "excursions"), "organise" (UK spelling với 's', không phải 'z').
 >
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> **🔗 Connects to:** ==start to organise school visits==
 
 ---
 
-### Tier 3: Elimination - Weekly (4 Cards)
+### Tier 3: Elimination - Weekly (5 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/science-tech/archaeology/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
-> **Context:** Map Labelling / Room Layout
+> **Context:** Site Tour Planning
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
->
-> *(vd: "It's immediately to your right when you enter.")*
+> **Audio Cue:** *"The entrance to the excavation area is on the south side. The school groups will be guided first to the main pit, then around to the storage sheds, and finally to the viewing platform."*
 >
 > ❓ **Reflex:** Hình dung vị trí trong đầu NGAY LẬP TỨC?
 ?
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> Mô tả vị trí: "South Entrance → Main Pit (stop 1) → Storage Sheds (move around) → Viewing Platform (final stop)"
 >
 > **⚠️ Spatial Traps:**
-> - "On the right hand side of the building" ≠ "On your right"
+> - "around to the sheds" ≠ "next to the sheds"
 >
-> - "Opposite" ≠ "Next to"
+> - "guided first to..." ≠ "guided only to..."
 >
-> - "Behind" ≠ "At the back of"
+> - "viewing platform" ≠ "visitor center"
 >
-> **🎯 Correct Position:** =={{LABEL}}==
+> **🎯 Correct Position:** ==School tour route==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
+#flashcards/ielts-listening/science-tech/archaeology/weekly/01-elimination
 ### Card 10: Option Elimination Drill *(MCQ only)*
 
-> **Question:** =={{QUESTION_STEM}}==
+> **Question:** ==What do the team plan to do after work ends this summer?==
 >
 > **Options:**
-> - A. {{OPTION_1}}
+> - A. prepare a display for a museum
 >
-> - B. {{OPTION_2}}
+> - B. take part in a television programme
 >
-> - C. {{OPTION_3}}
+> - C. start to organise school visits
 >
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
+> **Audio:** "The museum offered to host our finds, but we want to do more outreach. We considered a TV documentary but that's expensive. Our priority is to get local schools involved."
 >
 > ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
 ?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
+> [!success] ✅ Correct: ==C. start to organise school visits==
 >
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why A is wrong:** Được đề cập ("museum offered") nhưng bị phủ định bởi "but we want to do more" - đây không phải kế hoạch chính.
 >
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why B is wrong:** Được nhắc đến nhưng bị loại bỏ vì lý do thực tế ("expensive").
 >
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
+> **✅ Why C is correct:** Được xác nhận là "Our priority" và có cụm "get local schools involved" match với "organise school visits".
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
+#flashcards/ielts-listening/science-tech/archaeology/weekly/02-cross-confusion
 ### Card 11: Cross-Option Confusion *(MCQ only)*
 
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
+> **Confusing Pair:** ==prepare a display for a museum== vs ==start to organise school visits==
 >
 > ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
 ?
 > [!example] 🆚 Signal Decoding
 >
-> **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
+> **🅰️ Signals for Option A (Museum Display):**
+> - *"The museum will host..."*
 >
-> - *"Signal phrase 2"*
+> - *"We're creating an exhibition..."*
 >
-> - *"Signal phrase 3"*
+> - *"Artifacts will be displayed..."*
 >
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
+> → **Implies:** Option A focuses on static preservation and exhibition in a controlled museum setting.
 >
-> **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
+> **🅱️ Signals for Option B (School Visits):**
+> - *"We want to involve schools..."*
 >
-> - *"Signal phrase 2"*
+> - *"Educational outreach is our priority..."*
 >
-> - *"Signal phrase 3"*
+> - *"Children/students will come to the site..."*
 >
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
+> → **Implies:** Option B focuses on active education, community engagement, bringing people to the site.
 >
 > **🔑 Scientific Distinction:**
 >
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
+> - **Option A (Museum Display) focuses on:** Preserving artifacts for public viewing in an institutional setting (static, one-way communication).
 >
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
+> - **Option B (School Visits) focuses on:** Educational interaction and experiential learning through site visits (dynamic, two-way engagement).
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
+#flashcards/ielts-listening/science-tech/archaeology/weekly/03-validation
 ### Card 12: Answer Validation *(MCQ only)*
 
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
+> **Correct Answer:** ==start to organise school visits==
 >
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
+> **Audio excerpt:** "We've decided our priority should be educational outreach - we'll be working with nearby schools to arrange field trips to the excavation site next term."
 >
 > ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
 ?
 > [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
+> 1. ==educational outreach== → matches the purpose of school visits
 >
-> 2. ==phrase 2== → giải thích kết nối
+> 2. ==working with nearby schools== → directly confirms organising visits with schools
 >
-> 3. ==phrase 3== → giải thích kết nối
+> 3. ==arrange field trips== → synonym for "organise school visits"
 >
-> **🎯 Conclusion:** Tổng hợp logic
+> **🎯 Conclusion:** Key evidence chain: "educational outreach" + "working with schools" + "arrange field trips" = school visits
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/science-tech/archaeology/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
->
-> *(vd: "You've got a point, but..." / "I see what you mean, although...")*
+> **Audio:** *"The museum's offer sounds reasonable, but we're thinking about community engagement. TV would reach more people, yet schools are where the real impact is."*
 >
 > ❓ **Reflex:** Người nói THỰC SỰ ĐỒNG Ý hay PHẢN ĐỐI?
 ?
@@ -440,130 +374,127 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 >
 > **✅ Real Agreement Signals:**
 >
-> - *"Precisely"*
+> - *"Absolutely, schools are the priority"*
 >
-> - *"I couldn't agree more"*
+> - *"I completely agree with that approach"*
 >
-> - *"Spot on"*
->
-> - *"Absolutely"*
+> - *"That's exactly what we should do"*
 >
 > **❌ False Agreement Signals:**
 >
-> - *"You've got a point, but..."*
+> - *"The museum's offer sounds reasonable, but..."* (phủ định sau "but")
 >
-> - *"I suppose so..."* (ngập ngừng)
->
-> - *"That's one way to look at it..."*
+> - *"TV would be good, however..."* (chuyển hướng sau "however")
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/science-tech/archaeology/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==start to organise school visits==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
+> [!info] ⚡ Rapid Swap
+> ==organise school visits== ⚡ ==arrange educational trips== / ==coordinate school excursions==
 >
-> **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> **🧠 Instant Logic:** Direct synonym mapping: organise ↔ arrange/coordinate; school visits ↔ educational trips/school excursions. Focus on activity type, not specific location.
 
 ---
 
 ### Tier 4: Mastery - Bi-weekly (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/science-tech/archaeology/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "Well, we've got a few ideas for after the excavation wraps up. The local museum did suggest they could put on a display of some of the artifacts we found. And there's been some talk about doing a television documentary, though that would require quite a bit of funding. But what we're most excited about is bringing in local schools - we think giving children the chance to see an actual archaeological site would be really educational. So we'll be setting up visits for them next term."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** =="prepare a display for a museum"==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Audio nói "museum did suggest" và "put on a display"
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Đây là "suggestion" từ bên ngoài, bị "but" phủ định, team chọn hướng "most excited about" khác.
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** =="take part in a television programme"==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Audio nhắc "television documentary"
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Bị loại bỏ vì lý do thực tế ("would require quite a bit of funding"), không phải kế hoạch ưu tiên.
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **✅ Correct Answer:** ==start to organise school visits==
+> - *Why correct:* Được xác nhận bởi "most excited about", "bringing in local schools", "setting up visits" - rõ ràng là ưu tiên chính.
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/science-tech/archaeology/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** ==start to organise school visits==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "Our post-excavation plans are focused on education. We want to involve the community, especially young people. So we'll be working with nearby schools to arrange field trips to the site. This way, students can experience archaeology firsthand rather than just reading about it."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==working with nearby schools== → ==organise school==
 >
-> - ==Audio phrase== → ==Option word==
+> - ==arrange field trips== → ==visits==
 >
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> - ==focused on education== → context confirming school activity
+>
+> **🧠 Overall Logic:** Complete paraphrase chain: "working with schools" + "arrange field trips" = "organise school visits"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/science-tech/archaeology/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==start to organise school visits==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Post-excavation planning*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
+> 1. ==arrange school trips==
 >
-> 2. ==Paraphrase 2==
+> 2. ==coordinate educational excursions==
 >
 > **🎯 Goal:** Instant Recall
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
+#flashcards/ielts-listening/science-tech/archaeology/biweekly/04-synthesis
 ### Card 18: Complete Question Synthesis *(MCQ only)*
 
 > **Full Question Context:**
-> =={{QUESTION_STEM}}==
+> ==What do the team plan to do after work ends this summer?==
 >
 > **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
+> 1. **A. prepare a display for a museum** (❌) → Đề xuất từ bảo tàng, bị phủ định bằng "but", không phải ưu tiên.
 >
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
+> 2. **B. take part in a television programme** (❌) → Được nhắc nhưng bị loại vì lý do tài chính ("expensive"), không phải kế hoạch thực sự.
 >
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
+> 3. **C. start to organise school visits** (✅) → Được xác nhận là "most excited about", "our priority", cụ thể với "working with schools", "setting up visits".
 >
 > ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
 ?
 > [!success] 🎯 Deep Logic Breakdown
 > **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
+> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập ý tưởng trưng bày bảo tàng, sau đó dùng signal "but" chuyển sang ý tưởng TV, và dùng "most excited about/priority" để chốt đáp án là hoạt động giáo dục với trường học.
 >
 > **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
+> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy: đề xuất từ bên ngoài (museum) ≠ kế hoạch team; ý tưởng TV bị loại vì lý do thực tế.
 >
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
+> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng: "most excited about" + "bringing in schools" + "setting up visits" = "organise school visits".
 >
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
+> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài: Luôn lắng nghe signal từ phủ định ("but", "however") để xác định đáp án thực sự. Tìm từ nhấn mạnh như "priority", "most excited" để xác định phương án được chọn.
 
 ---
