@@ -305,11 +305,11 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ?
 > [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
 >
-> **❌ Why A is wrong:** Audio không nhắc đến ==keyword A==
+> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
 >
-> **❌ Why B is wrong:** Audio không nhắc đến ==keyword B==
+> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
 >
-> **✅ Why C is correct:** "audio phrase" ==option C keyword==
+> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
 
 ---
 
