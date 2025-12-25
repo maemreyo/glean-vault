@@ -1,328 +1,261 @@
 ---
 aliases:
-  - 
+  - information too vague
+  - vague information
+  - too vague details
 question_type: single
-# single = 1 option (matching), multi = 2+ options (MCQ)
 options_count: 1
-status: pending
+status: done
 ref:
   - Cam 20 Listening Test 02
-
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==single==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==The information given about aspects of human geography was too vague==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Students discussing their research project on human geography topics*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 02
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
->
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
->
-> *(For single-option: keep only 1 row and remove "Correct Answer" line)*
+> | A | ==information was too vague== | Thông tin quá mơ hồ/not clear | unclear, imprecise, not specific, lacking detail | ⚠️ High |
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==Phán định về độ cụ thể/rõ ràng của thông tin==
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Academic Research / Information Quality==
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
+> - **Definition:** Khẳng định rằng ==thông tin được cung cấp về các khía cạnh địa lý nhân văn này thiếu tính cụ thể/rõ ràng==, gây khó khăn trong việc hiểu và sử dụng
 >
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
+> - **Denotation:** Nghĩa đen là thông tin ==vague (mơ hồ)==, ==unclear (không rõ)==, hoặc ==imprecise (không chính xác)== - không có chi tiết cụ thể
 >
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
+> - **Distractor:** "easy to find facts" (dễ kiếm), "no useful research" (không có nghiên cứu), "not reliable" (không đáng tin cậy) - các vấn đề KHÁC về TIẾP CẬN, TỒN TẠI, CHẤT LƯỢNG
 >
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Deep Dive:** Paraphrasing sâu hơn: ==lacking in detail==, ==not sufficiently specific==, ==too general==, ==ambiguous==, ==unclear information==, ==lacks precision==, ==imprecise data==, ==needs more specificity==
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Hình dung một ==sinh viên đọc tài liệu với biểu tượng =?=== hoặc người nhíu mày vì không hiểu
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Giọng điệu ==bất mãn/ngập ngừng== khi nói "too vague"; có thể dùng nhấn âm trên "vague"
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Thao tác ==lật qua lại trang nhiều lần== hoặc ==vẽ =?=== vào giấy khi đọc
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
+> - `Adj + information`: vague information, unclear information, ambiguous information, detailed information, precise information
 >
-> - `Noun + of + Noun`: e.g., organisation of + event
+> - `Adv + vague`: too vague, somewhat vague, extremely vague, not vague at all
 >
-> - `Adj + Noun`: e.g., local + businesses
+> - `Verb + vague`: be vague, seem vague, remain vague, become vague
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "The ==information provided is too vague== - it lacks detail"
 >
-> - "The job involves..."
+> - "There's ==not enough specificity in the information== given to us"
 >
-> - "We need to..."
+> - "The data's ==too general and unclear== for our purposes"
 >
-> - "My responsibility is..."
+> - "We need ==more precise/less vague== information"
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==no useful research / facts not reliable==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Cùng đánh giá tiêu cực nhưng nói về KHÁI QUÁT KHÁC - "no useful research" là THIẾU HỤT, "not reliable" là CHẤT LƯỢNG
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Không có nghiên cứu hoặc không đáng tin - không phải "thiếu rõ ràng"
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
+> **Trap 2:** ==easy to find facts==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Nghe "find facts" nhưng "easy to find" là TÍCH CỰC (có thể tìm thấy), trong khi "too vague" là TIÊU CỰC (thường không rõ)
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Dễ kiếm thông tin = có nhiều dữ liệu (dù có thể không rõ)
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "I've been going through the materials provided for this human geography aspect, and I'm afraid ==the information is simply too vague==. There's ==not enough specific detail== - ==everything is quite general== and it's ==hard to tell exactly what we should focus on== for our research."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==information was too vague==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "The sources we've been given are quite problematic. ==The information provided is ambiguous== - ==lacks proper specification== and ==isn't sufficiently precise==. It's all very ==broad and imprecise==, making it difficult to proceed with meaningful analysis."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==information was too vague==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
+## 🧠 Spaced Repetition Flashcards (14 Cards)
 
 ---
 
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/education-training/human-geography/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==information was too vague==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Research project discussion*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** "The information/lacks ==detail/specificity==" hoặc "==not sufficiently precise/clear=="
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - "information is too general"
 >
-> - Kịch bản 3
+> - "lacks proper specification"
 >
-> - Kịch bản 4
+> - "ambiguous/imprecise details"
 >
-> - Kịch bản 5
+> - "needs more clarity"
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Khẳng định sự ==thiếu cụ thể/rõ ràng== của thông tin
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/education-training/human-geography/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==information was too vague==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** ==vague information / vague details== (thông tin mơ hồ / chi tiết không rõ)
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: be, seem, remain, become, lack
 >
->   - Nouns: ví dụ: music, concert
+>   - Nouns: data, details, specifications, explanations, descriptions
 >
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** "vague" thường đi với danh từ chỉ nội dung như "information", "details", "data"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/education-training/human-geography/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==information was too vague==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "I'm afraid...", "The problem is...", "Unfortunately...", "It's quite..."
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** ==Bất mãn/Hạ giọng== (Frustrated/Concerned - thể hiện sự khó chịu)
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Người nói thể hiện sự ==bất mãn/không hài lòng== về độ rõ ràng của thông tin
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/education-training/human-geography/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==information was too vague==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
 ?
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /ˈɪnfəˈmeɪʃən wɒz tuː veɪɡ/ → "in-fuh-MAY-shun wuz too vayg"
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
+> - **Linking:** "information" + "was" → /wɒz/ (có thể lướt)
 >
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
+> - **Elision:** Không rõ rệt
 >
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Weak Form:** "to" → /tə/ hoặc /tu/ (nối nhanh với "vague")
 
 ---
 
 ### Tier 2: Recognition - Every 2-3 Days (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/education-training/human-geography/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "The materials given to us are ==not sufficiently specific== - ==everything is too general== and ==lacks proper detail=="
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==information was too vague==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="not sufficiently specific"== + =="too general"== + =="lacks proper detail"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: ==information was too vague== (không đủ cụ thể + quá chung chung + thiếu chi tiết)
 >
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> **🧠 Logic Chain:** "not specific" + "too general" + "lacks detail" = too vague
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/education-training/human-geography/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==information was too vague==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"The sources provided are very detailed and give us comprehensive information"* → **Số phận** option này thế nào?
 ?
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
-> **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
+> **⚠️ Why? (Trap Signal):** "very detailed" và "comprehensive" khẳng định về CHI TIẾT/RÕ RÀNG, TRÁI NGƯỢC với "too vague"
 >
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> **🔄 Reality Check:** Nghĩa thực sự: thông tin chi tiết/comprehensive = ĐỦ CỤ THỂ
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/education-training/human-geography/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="information was too vague"== với =="no useful research has been done"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
+> - **information was too vague:** Tập trung vào ==CHẤT LƯỢNG CỦA THÔNG TIN CÓ== - thông tin tồn tại nhưng không rõ ràng/cụ thể (CHẤT LƯỢNG KÉM)
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
+> - **no useful research has been done:** Tập trung vào ==SỰ THIẾU HỤT== nghiên cứu - không có hoặc rất ít tài liệu (THIẾU SỐ LƯỢNG)
 >
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> **🧱 Key Barrier:** Phân biệt giữa "có nhưng kém" vs "không có gì"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/education-training/human-geography/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> *The ==______== provided about this human geography aspect is ==______== - it lacks detail and specificity*
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** ==Thông tin== được cung cấp về khía cạnh địa lý nhân văn này ==quá mơ hồ== - nó thiếu chi tiết và tính cụ thể
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+> [!success] ✅ Answer: ==information / too vague==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
+> - **Plural/Singular:** "information" dạng SỐ ÍT (uncountable)
 >
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
+> - **Spelling Trap:** Chú ý chính tả "vague" (v-a-g-u-e, không phải "vaig" hoặc "vage")
 >
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> **🔗 Connects to:** ==information was too vague==
 
 ---
 
 ### Tier 3: Elimination - Weekly (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/education-training/human-geography/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
 > **Context:** Map Labelling / Room Layout
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
+> **Audio Cue:** *"The detailed information section is located on second floor, but what we have is quite general and imprecise"*
 >
 > *(vd: "It's immediately to your right when you enter.")*
 >
@@ -330,113 +263,30 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ?
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> Phần chi tiết (Tầng 2) vs Phần chúng ta có (chung chung) = không ở đúng chỗ/không rõ
 >
 > **⚠️ Spatial Traps:**
-> - "On the right hand side of the building" ≠ "On your right"
+> - "second floor" ≠ "third floor"
 >
-> - "Opposite" ≠ "Next to"
+> - "detailed section" ≠ "general section"
 >
-> - "Behind" ≠ "At the back of"
->
-> **🎯 Correct Position:** =={{LABEL}}==
+> **🎯 Correct Position:** ==Wrong section== (liên quan đến "too vague")
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
-### Card 10: Option Elimination Drill *(MCQ only)*
-
-> **Question:** =={{QUESTION_STEM}}==
->
-> **Options:**
-> - A. {{OPTION_1}}
->
-> - B. {{OPTION_2}}
->
-> - C. {{OPTION_3}}
->
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
->
-> ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
-?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
->
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
->
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
->
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
-### Card 11: Cross-Option Confusion *(MCQ only)*
-
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
->
-> ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
-?
-> [!example] 🆚 Signal Decoding
->
-> **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
->
-> **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
->
-> **🔑 Scientific Distinction:**
->
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
->
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
-### Card 12: Answer Validation *(MCQ only)*
-
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
->
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
->
-> ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
-?
-> [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
->
-> 2. ==phrase 2== → giải thích kết nối
->
-> 3. ==phrase 3== → giải thích kết nối
->
-> **🎯 Conclusion:** Tổng hợp logic
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/education-training/human-geography/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
+> **Audio:** *"I agree the information lacks detail, though I still think we can work with it"* / *"You've got a point about vagueness, although I found some clarifications in the appendix"*
 >
 > *(vd: "You've got a point, but..." / "I see what you mean, although...")*
 >
 > ❓ **Reflex:** Người nói THỰC SỰ ĐỒNG Ý hay PHẢN ĐỐI?
 ?
 > [!fail] 🎭 Pseudo-Agreement Detection
-> **👉 Verdict:** ==PHẢN ĐỐI (Disagree)==
+> **👉 Verdict:** ==PHẦN CHUNG ĐỒNG Ý, PHẦN RIÊNG PHẢN ĐỐI (Mixed)==
 >
-> **💡 Rule:** Khen trước → Chê sau = **NO**
+> **💡 Rule:** Đồng ý là thông tin vague NHƯNG đề xuất giải pháp (appendix)
 >
 > **✅ Real Agreement Signals:**
 >
@@ -458,112 +308,88 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/education-training/human-geography/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==information was too vague==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
+> [!info] ⚡ Rapid Swap
+> ==lacking detail/specificity== ⚡ ==information was too vague==
 >
 > **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> "lacking detail" (thiếu chi tiết) = "too vague" (quá mơ hồ)
 
 ---
 
 ### Tier 4: Mastery - Bi-weekly (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/education-training/human-geography/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "I've been reviewing the materials for this human geography aspect. ==The information is not reliable== in places, and ==there may not be enough facts== available. However, ==main issue I'm noticing is that the information is simply too vague== - ==it lacks sufficient detail==, ==is too general==, and ==doesn't provide proper specification== for our research needs."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** =="facts may not be reliable"==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Speaker nhắc đến "information is not reliable"
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Chỉ là một khía cạnh, không phải vấn đề chính
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** =="no useful research"==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Có lo ngại về số lượng facts
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Dù có thể thiếu nhưng vấn đề chính là chất lượng (vague)
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **✅ Correct Answer:** ==information was too vague==
+> - *Why correct:* Nhấn mạnh "main issue" + "simply too vague" + paraphrase chi tiết (lacks detail, too general)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/education-training/human-geography/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** ==information was too vague==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "The materials we've been given on this human geography aspect are quite disappointing. ==The information provided is not sufficiently specific== - ==it's very general and imprecise==. ==The details are lacking== proper clarity, and ==there's not enough specificity== in what we're supposed to research. ==Everything is vague== and hard to understand."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==not sufficiently specific== → ==too vague==
 >
-> - ==Audio phrase== → ==Option word==
+> - ==very general and imprecise== → ==vague==
 >
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> - ==details are lacking== → ==vague information==
+>
+> - ==not enough specificity== → ==too vague==
+>
+> - ==everything is vague== → ==information was vague==
+>
+> **🧠 Overall Logic:** Không đủ cụ thể + quá chung chung + thiếu chi tiết = too vague
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/education-training/human-geography/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==information was too vague==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Research project discussion*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
+> 1. ==lacking detail/specificity==
 >
-> 2. ==Paraphrase 2==
+> 2. ==not sufficiently precise/clear==
 >
 > **🎯 Goal:** Instant Recall
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
-### Card 18: Complete Question Synthesis *(MCQ only)*
-
-> **Full Question Context:**
-> =={{QUESTION_STEM}}==
->
-> **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
->
-> ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
-?
-> [!success] 🎯 Deep Logic Breakdown
-> **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
->
-> **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
->
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
->
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
-
----

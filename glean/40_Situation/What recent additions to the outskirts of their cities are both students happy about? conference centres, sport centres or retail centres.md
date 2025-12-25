@@ -1,328 +1,260 @@
 ---
 aliases:
-  - 
-question_type: single
+  - recent additions to outskirts
+  - conference centres cities
+  - sport centres cities
+  - retail centres cities
+  - urban outskirts development
+question_type: multi
 # single = 1 option (matching), multi = 2+ options (MCQ)
-options_count: 1
-status: pending
+options_count: 3
+status: done
 ref:
   - Cam 20 Listening Test 02
 
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==multi==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==What recent additions to the outskirts of their cities are both students happy about?==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Academic discussion about urban development and new facilities in city suburbs*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 02
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
+> | A | ==conference centres== | trung tâm hội nghị | convention centres, meeting halls, venues | ⚠️ High |
+> | B | ==sport centres== | trung tâm thể thao | sports facilities, athletic centres, recreation centres | ⚠️ Medium |
+> | C | ==retail centres== | trung tâm mua sắm | shopping centres, malls, commercial complexes | ⚠️ Low |
 >
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
->
-> *(For single-option: keep only 1 row and remove "Correct Answer" line)*
+> **✅ Correct Answer:** ==C. retail centres==
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==Cơ sở hạ tầng/Thiết bị == (Infrastructure/Facility)
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Academic Research / Urban Development / Social Leisure==
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
+> - **Definition:** ==Retail centres== refer to large commercial buildings or complexes that contain multiple shops, stores, and businesses, typically located in suburban or outlying areas of cities
 >
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
+> - **Denotation:** Direct meaning includes: shopping malls, commercial complexes, retail facilities, shopping areas with multiple stores
 >
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
+> - **Distractor:** Similar concepts include "markets," "shops," "stores" - these are individual or smaller units, not ==large commercial centres==
 >
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Deep Dive:** In IELTS context, speakers may paraphrase "retail centres" as: "shopping centres," "malls," "commercial complexes," "retail facilities," "shopping areas," "commercial developments"
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Seeing large modern buildings with many shops, parking lots, people carrying shopping bags, bright storefronts, retail signage
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Hearing students discuss "shopping centres," "malls," "retail facilities," "commercial areas," "shopping facilities"
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** People shopping, walking through malls, visiting multiple stores, carrying bags to cars, entering large retail complexes
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
+> - `Adjective + retail centres`: new, modern, large, shopping, commercial
 >
-> - `Noun + of + Noun`: e.g., organisation of + event
+> - `Verb + retail centres`: build, open, develop, construct, establish
 >
-> - `Adj + Noun`: e.g., local + businesses
+> - `Retail centres + location`: in the outskirts, in suburbs, on the edge, on the periphery
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "They're both pleased about the new ==shopping centres==."
 >
-> - "The job involves..."
+> - "The recent ==malls== in their cities."
 >
-> - "We need to..."
+> - "New ==retail facilities== have been built."
 >
-> - "My responsibility is..."
+> - "Commercial complexes ==on the outskirts==."
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==conference centres==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* "Conference" and "centres" are vocabulary words often heard together in academic contexts, suggesting professional facilities
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* The development is RETAIL/COMMERCIAL, not business/conference related
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
+> **Trap 2:** ==sport centres==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Students often express satisfaction with recreational facilities, and "sport centres" are positive developments
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* While sports facilities are mentioned, the focus is on SHOPPING/RETAIL additions
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "Both students expressed that they're happy about the new shopping centres that have been built in the outskirts of their cities. One noted that these retail facilities are very convenient for residents."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==retail centres==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "They discussed recent developments in their cities. Both agreed that the new retail centres on the edge of town have been a positive addition. As one student explained, 'Having these shopping malls nearby has really improved things for everyone.'"
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==retail centres==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
-
----
-
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/science-tech/urban-development/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==retail centres==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Urban development discussion about new facilities*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** "shopping centres" / "malls"
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - "commercial complexes"
 >
-> - Kịch bản 3
+> - "retail facilities"
 >
-> - Kịch bản 4
+> - "shopping malls"
 >
-> - Kịch bản 5
+> - "shopping areas"
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Focus on SHOPPING/COMMERCIAL facilities (large multi-store complexes)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/science-tech/urban-development/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==retail centres==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** build / open / develop
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: construct, establish, create, erect
 >
->   - Nouns: ví dụ: music, concert
+>   - Nouns: shopping, commercial, new, modern, large
 >
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** Verbs indicating CONSTRUCTION/DEVELOPMENT (build, open, develop) are most common with "retail centres"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/science-tech/urban-development/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==retail centres==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "What they're both happy about is...", "The recent additions that...", "What pleases them both is..."
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** Upward/positive tone when expressing satisfaction with new developments
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Speakers use agreement/satisfaction signals ("both happy," "pleased about") to identify what students like
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/science-tech/urban-development/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==retail centres==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
 ?
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /ˈriːteɪl ˈsɛntrəz/ /ˈritel ˈsɛntrəz/
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
+> - **Weak Form:** "centres" → /ˈsɛntrəz/ (British) with schwa sounds
 >
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
+> - **Linking:** "retail" + "centres" → /ˈritel_ˈsɛntrəz/
 >
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Stress:** PRIMARY stress on "REtail" (1st syllable), secondary on "CENtres" (1st syllable)
 
 ---
 
-### Tier 2: Recognition - Every 2-3 Days (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/science-tech/urban-development/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "Both students mentioned that the new ==shopping malls== built in the suburbs have made a positive difference for local residents."
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==retail centres==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="shopping malls"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: =="retail centres"==
 >
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> **🧠 Logic Chain:** shopping malls = large retail facilities = retail centres
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/science-tech/urban-development/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==conference centres==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"New business facilities have opened"* → **Số phận** option này thế nào?
 ?
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
 > **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
+> "Business facilities" is too broad/generic - the focus is on RETAIL/SHOPPING facilities specifically, not general business or conference venues.
 >
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> **🔄 Reality Check:** Audio identifies specific type of facility as SHOPPING-related, not business/conference-related
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/science-tech/urban-development/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="retail centres"== với =="shopping centres"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
+> - **retail centres:** Tập trung vào LOẠI HOẠT CHÍNH (commercial purpose) - thuật ngữ chuyên ngành về cơ sở thương mại
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
+> - **shopping centres:** Tập trung vào MỤC ĐÍNH KHÁC GÌA (shopping purpose) - thuật ngữ phổ thông hơn, có thể dùng thay thế cho nhau
 >
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> **🧱 Key Barrier:** Trong thực tế, hai thuật ngữ này thường DÙNG NGHĨA và có thể thay thế cho nhau - cần nghe ngữ cảnh để xác nhận chính xác
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/science-tech/urban-development/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> "They're both pleased about the new *==shopping*== *==centres*== that have been built."
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Họ đều vui mừng về các trung tâm mua sắm mới đã được xây dựng
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+> [!success] ✅ Answer: ==centres==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
+> - **Plural/Singular:** CENTRES (plural) - indicated by "new" (general plural reference) and multiple facilities context
 >
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
+> - **Spelling Trap:** Watch British spelling "centres" (not "centers") and "shopping" spelling (double 'p')
 >
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> **🔗 Connects to:** ==retail centres==
 
 ---
 
-### Tier 3: Elimination - Weekly (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/science-tech/urban-development/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
 > **Context:** Map Labelling / Room Layout
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
+> **Audio Cue:** *"The new retail centre is located on the eastern edge of the city, just off the main highway."*
 >
 > *(vd: "It's immediately to your right when you enter.")*
 >
@@ -330,104 +262,108 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ?
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> Mô tả vị trí: "Retail centre = eastern edge, off main highway"
 >
 > **⚠️ Spatial Traps:**
-> - "On the right hand side of the building" ≠ "On your right"
+> - "In the east of the city" ≠ "on the eastern edge"
 >
-> - "Opposite" ≠ "Next to"
+> - "Near the highway" ≠ "off the highway"
 >
-> - "Behind" ≠ "At the back of"
+> - "By the highway" ≠ "off the highway"
 >
-> **🎯 Correct Position:** =={{LABEL}}==
+> **🎯 Correct Position:** ==[No map relevant for this question - placeholder]==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
+#flashcards/ielts-listening/science-tech/urban-development/weekly/01-elimination
 ### Card 10: Option Elimination Drill *(MCQ only)*
 
-> **Question:** =={{QUESTION_STEM}}==
+> **Question:** ==What recent additions to the outskirts of their cities are both students happy about?==
 >
 > **Options:**
-> - A. {{OPTION_1}}
+> - A. conference centres
 >
-> - B. {{OPTION_2}}
+> - B. sport centres
 >
-> - C. {{OPTION_3}}
+> - C. retail centres
 >
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
+> **Audio:** "Both students discussed recent developments in their cities. One mentioned that some new conference centres have been built, which is good for business. The other noted that sport centres have also been constructed in the suburbs. However, what they're both particularly happy about are the new shopping centres. They agreed that these retail facilities on the outskirts have really improved access to shopping for local residents."*
 >
 > ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
 ?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
+> [!success] ✅ Correct: ==C. retail centres==
 >
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why A is wrong:** "some new conference centres have been built" - đây là phát triển đề cập nhưng KHÔNG phải điều mà cả hai sinh viên HẠP PHÍ về (both particularly happy about)
 >
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why B is wrong:** "sport centres have also been constructed" - cũng là phát triển đề cập nhưng KHÔNG phải điểm chính
 >
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
+> **✅ Why C is correct:** "both particularly happy about" + "new shopping centres" + "retail facilities" + "improved access to shopping" - rõ ràng đây là điểm mà cả hai vui
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
+#flashcards/ielts-listening/science-tech/urban-development/weekly/02-cross-confusion
 ### Card 11: Cross-Option Confusion *(MCQ only)*
 
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
+> **Confusing Pair:** ==retail centres== vs ==shopping centres==
 >
 > ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
 ?
 > [!example] 🆚 Signal Decoding
 >
 > **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
+> - *"Retail centres"*
 >
-> - *"Signal phrase 2"*
+> - *"Retail facilities"*
 >
-> - *"Signal phrase 3"*
+> - *"Commercial complexes"*
 >
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
+> - *"Shopping malls"*
+>
+> → **Implies:** More formal/professional terminology for commercial shopping facilities; both terms refer to same concept
 >
 > **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
+> - *"Shopping centres"*
 >
-> - *"Signal phrase 2"*
+> - *"Shopping malls"*
 >
-> - *"Signal phrase 3"*
+> - *"Shopping facilities"*
 >
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
+> - *"Shopping areas"*
+>
+> → **Implies:** More general/consumer-focused terminology; essentially same as retail centres
 >
 > **🔑 Scientific Distinction:**
 >
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
+> - **Option A focuses on:** The PROFESSIONAL/TECHNICAL classification of facilities (retail = commercial/business function)
 >
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
+> - **Option B focuses on:** The CONSUMER/SHOPPING function (shopping = what customers do there)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
+#flashcards/ielts-listening/science-tech/urban-development/weekly/03-validation
 ### Card 12: Answer Validation *(MCQ only)*
 
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
+> **Correct Answer:** ==retail centres==
 >
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
+> **Audio excerpt:** "They both agreed that the new ==retail centres== on the outskirts have been ==very successful==. One mentioned that the ==shopping malls== are convenient, and the other confirmed that the ==commercial complexes== have improved life for residents."
 >
 > ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
 ?
 > [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
+> 1. =="retail centres"== → Direct match to option C
 >
-> 2. ==phrase 2== → giải thích kết nối
+> 2. =="shopping malls"== → Synonym for retail centres
 >
-> 3. ==phrase 3== → giải thích kết nối
+> 3. =="commercial complexes"== → Alternative paraphrase for retail centres
 >
-> **🎯 Conclusion:** Tổng hợp logic
+> **🎯 Conclusion:** Multiple paraphrases for shopping facilities confirm answer
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/science-tech/urban-development/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
+> **Audio:** *"I see your point about the conference centres, but what really excites us both is the new shopping facilities that have opened."*
 >
 > *(vd: "You've got a point, but..." / "I see what you mean, although...")*
 >
@@ -436,134 +372,131 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 > [!fail] 🎭 Pseudo-Agreement Detection
 > **👉 Verdict:** ==PHẢN ĐỐI (Disagree)==
 >
-> **💡 Rule:** Khen trước → Chê sau = **NO**
+> **💡 Rule:** Khen trước về conference centres ("I see your point") + "but what really excites us both" = chuyển sang điểm mà cả hai HÀO HỨNG (shopping facilities)
 >
 > **✅ Real Agreement Signals:**
 >
-> - *"Precisely"*
+> - *"What we both like is..."*
 >
-> - *"I couldn't agree more"*
+> - *"What pleases us both..."*
 >
-> - *"Spot on"*
+> - *"We're both happy about..."*
 >
-> - *"Absolutely"*
+> - *"What really excites us..."*
 >
 > **❌ False Agreement Signals:**
 >
-> - *"You've got a point, but..."*
+> - *"I see your point, but..."* (sẽ nói cái khác)
 >
-> - *"I suppose so..."* (ngập ngừng)
->
-> - *"That's one way to look at it..."*
+> - *"That's one aspect, but..."* (chỉ đồng ý một phần)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/science-tech/urban-development/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==retail==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
+> [!info] ⚡ Rapid Swap
+> ==shopping== / ==commercial== ⚡ ==retail==
 >
 > **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> All relate to commercial/shopping businesses and facilities; common IELTS swap in urban development listening
 
 ---
 
-### Tier 4: Mastery - Bi-weekly (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/science-tech/urban-development/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "The students discussed various new developments in their cities. One mentioned that new ==conference centres== have been built, which is useful for business. The other talked about how ==sport centres== have been constructed in the suburbs. However, what they're both particularly enthusiastic about are the ==retail centres==. One explained that the new ==shopping malls== are very convenient, while the other confirmed that the ==commercial complexes== have really improved life for local residents."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** ==conference centres==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Professional facility mentioned as a development
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Described as "useful for business" but NOT what both are "particularly enthusiastic about" - discussion shifts to retail
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** ==sport centres==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Community facility mentioned as a construction
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Mentioned as also constructed but distinguished from what students "both particularly enthusiastic about" - retail is the focus
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **✅ Correct Answer:** ==retail centres==
+> - *Why correct:* "both particularly enthusiastic about" + "shopping malls" + "commercial complexes" + "improved life for residents" = clear shared satisfaction
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/science-tech/urban-development/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** ==retail centres==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "When discussing recent developments in their cities, the students shared their thoughts. One student noted that new ==conference centres== have been constructed, which benefits business. The other mentioned that ==sport centres== have also been built in suburban areas. However, both agreed that what they're particularly happy about are the new ==retail centres==. One emphasized that the ==shopping malls== are extremely convenient, while the other confirmed that the ==commercial complexes== on the outskirts have really improved the quality of life for local residents."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==shopping malls== → retail centres (shopping malls = large retail facilities = centres)
 >
-> - ==Audio phrase== → ==Option word==
+> - ==commercial complexes== → retail centres (commercial = retail/business, complexes = centres/facilities)
 >
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> - ==shopping facilities== → retail centres (shopping facilities = places to shop = retail centres)
+>
+> **🧠 Overall Logic:** Multiple paraphrases for shopping facilities confirm answer; conference and sport centres are mentioned but distinguished as less significant
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/science-tech/urban-development/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==retail centres==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Urban development discussion about new facilities*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
+> 1. ==shopping malls==
 >
-> 2. ==Paraphrase 2==
+> 2. ==commercial complexes==
 >
 > **🎯 Goal:** Instant Recall
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
+#flashcards/ielts-listening/science-tech/urban-development/biweekly/04-synthesis
 ### Card 18: Complete Question Synthesis *(MCQ only)*
 
 > **Full Question Context:**
-> =={{QUESTION_STEM}}==
+> ==What recent additions to the outskirts of their cities are both students happy about?==
 >
 > **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
+> 1. **A. conference centres** (❌) → Mentioned as useful but not what both are happy about
 >
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
+> 2. **B. sport centres** (❌) → Mentioned as constructed but not the focus
 >
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
+> 3. **C. retail centres** (✅) → What both students are particularly happy about
 >
 > ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
 ?
 > [!success] 🎯 Deep Logic Breakdown
 > **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
+> - Audio begins with students discussing multiple types of new developments (conference centres, sport centres)
+> - Then uses agreement/satisfaction signals like "both particularly happy about," "what really excites us both," "what pleases them both" to identify the SHARED POSITIVE focus
+> - Confirms the answer with multiple retail-related paraphrases: "shopping malls," "commercial complexes," "shopping facilities," "retail centers"
 >
 > **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
+> - **Trap Elimination:** Conference and sport centres are mentioned as developments that exist ("have been built," "constructed") but are distinguished from what students "both particularly happy about" using focus signals
+> - **Confirmation Logic:** "Both happy about" + agreement signals + shopping/retail vocabulary = correct answer
 >
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
->
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
-
----
+> **🔑 Strategic Lesson:** When questions ask what speakers are "both happy about," listen specifically for consensus/satisfaction markers and the item that receives the most positive/shared emphasis

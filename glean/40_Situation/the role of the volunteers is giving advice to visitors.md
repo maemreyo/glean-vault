@@ -1,569 +1,373 @@
 ---
 aliases:
-  - 
+  - give advice visitors
+  - providing guidance guests
+  - offer information festival attendees
 question_type: single
-# single = 1 option (matching), multi = 2+ options (MCQ)
 options_count: 1
-status: pending
+status: done
 ref:
   - Cam 20 Listening Test 02
-
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==single==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==the role of the volunteers is==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Volunteering at community festivals*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 02
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
->
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
->
-> *(For single-option: keep only 1 row and remove "Correct Answer" line)*
+> | A | ==giving advice to visitors== | Cung cấp lời khuyên cho người tham quan | provide guidance, help guests, assist visitors, offer information | ⚠️ Medium |
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==Hành động / Trách nhiệm== (Action/Responsibility)
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Volunteering== / Customer Service
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
+> - **Definition:** Tình nguyện viên cung cấp ==thông tin hữu ích== và ==lời khuyên== giúp du khách/khách tham quan giải quyết vấn đề hoặc tìm hiểu tốt hơn về sự kiện
 >
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
+> - **Denotation:** "Giving advice" = "provide guidance" = "help with questions" = "offer information" = "assist with inquiries"
 >
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
+> - **Distractor:** "Collecting feedback" nghe giống vì cũng là tương tác với người tham quan, nhưng là ==thu thập thông tin== từ họ chứ không ==cung cấp== thông tin cho họ
 >
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Deep Dive:** Paraphrasing sâu = "help visitors with questions", "provide guidance on event", "offer suggestions to guests", "assist with inquiries"
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Hình dung tình nguyện viên đứng ở quầy thông tin, đang ==trả lời câu hỏi==, chỉ tay hướng dẫn, đọc bản đồ cho khách tham quan
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Nghe thấy tiếng hỏi "Excuse me, where is...", câu trả lời "You can find that..." hoặc tiếng cảm ơn "Thank you so much!"
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Tình nguyện viên nói "Let me help you", "If you have any questions, just ask", "Here's what you need to know"
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
+> - `Verb + Noun`: give + advice, provide + guidance, offer + help, assist + visitors
 >
-> - `Noun + of + Noun`: e.g., organisation of + event
->
-> - `Adj + Noun`: e.g., local + businesses
+> - `Adj + Noun`: useful + information, helpful + suggestions, detailed + advice, festival + enquiries
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "Your main responsibility is to ==give advice== to visitors"
 >
-> - "The job involves..."
+> - "We need people to ==provide guidance== to festival guests"
 >
-> - "We need to..."
+> - "You'll be ==helping visitors== with their questions"
 >
-> - "My responsibility is..."
+> - "The role involves ==offering information== to people attending the festival"
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==collecting feedback on events== (đánh lạc hướng)
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Cả hai đều là tương tác với người tham quan - nói chuyện, hỏi đáp. "Feedback" là thu thập ý kiến, nghe giống như tư vấn
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* "Collecting feedback" là ==lấy thông tin TỪ người tham quan==. "Giving advice" là ==cung cấp thông tin CHO người tham quan== - chiều khác nhau hoàn toàn
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
+> **Trap 2:** ==helping people find their seats==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Cả hai đều là giúp đỡ khách tham quan. Sự khác biệt tinh tế - một bên giúp tìm chỗ ngồi, một bên tư vấn chung
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* "Finding seats" là công việc cụ thể, còn "giving advice" là ==trả lời các câu hỏi chung chung== về sự kiện, lộ trình, hoạt động
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "For the information booth volunteers, your role will be giving advice to visitors. People will approach you with all sorts of questions - what time does the concert start, where are the food courts, which activities are happening in the children's area. You'll need to be familiar with the festival schedule and venue map to provide accurate information."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==giving advice to visitors==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "We need volunteers at various entry points and information stands. Your main duty will be to give advice to visitors as they arrive. This might mean helping them plan their day, recommending which performances to see, or answering practical questions about facilities like toilets and first aid stations."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==giving advice to visitors==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
-
----
-
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/social-leisure/volunteering/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==giving advice to visitors==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Volunteering at community festivals*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** "Your role is to ==provide guidance== to people attending"
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - "You'll be ==helping visitors== with their questions"
 >
-> - Kịch bản 3
+> - "The job involves ==giving advice== to festival guests"
 >
-> - Kịch bản 4
+> - "Volunteers will ==offer suggestions== to visitors"
 >
-> - Kịch bản 5
+> - "Your main task is to ==assist people== with enquiries"
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Cung cấp thông tin và hỗ trợ khách tham quan
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/social-leisure/volunteering/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==giving advice to visitors==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** give + advice
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: provide, offer, give, deliver
 >
->   - Nouns: ví dụ: music, concert
+>   - Nouns: guidance, help, information, assistance, suggestions
 >
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** "Advice" thường đi với "to visitors/guests/attendees/people"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/social-leisure/volunteering/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==giving advice to visitors==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "Your main responsibility is...", "You'll be...", "The key task involves...", "What you'll do is..."
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** Xuống giọng (Certain/Informative) khi mô tả trách nhiệm cụ thể
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Signpost báo hiệu đang mô tả vai trò tình nguyện viên
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/social-leisure/volunteering/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==giving advice to visitors==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
 ?
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /ɡɪvɪŋ ədˈvaɪs tə ˈvɪzɪtəz/
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
+> - **Linking:** "giving advice" → /ɡɪvɪŋədˈvaɪs/
 >
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
+> - **Elision:** Âm /n/ trong "giving" có thể bị nuốt nhẹ khi nối với "advice"
 >
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Weak Form:** "to" thành /tə/ trong "advice to"
 
 ---
 
-### Tier 2: Recognition - Every 2-3 Days (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "We need volunteers to help provide guidance to visitors at the festival information points"
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==giving advice to visitors==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="provide guidance to visitors at the festival information points"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: =="giving advice to visitors"==
 >
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> **🧠 Logic Chain:** Provide guidance = give advice; visitors at festival = visitors (người tham quan)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==collecting feedback on events==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"Your role is NOT to collect opinions FROM visitors, but TO give them information"* → **Số phận** option này thế nào?
 ?
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
 > **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
+> Audio nói "NOT to collect opinions FROM" (từ khách) và "TO give them information" (cho khách) - rõ ràng hai chiều khác nhau
 >
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> **🔄 Reality Check:** "Collecting feedback" là lấy ý kiến khách, "giving advice" là cung cấp thông tin cho khách
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="giving advice to visitors"== với =="collecting feedback on events"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
+> - **giving advice to visitors:** Tập trung vào ==cung cấp thông tin== cho khách - trả lời câu hỏi, hướng dẫn, tư vấn về sự kiện
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
+> - **collecting feedback on events:** Tập trung vào ==thu thập ý kiến TỪ khách== - hỏi xem họ nghĩ gì về sự kiện, có thích không
 >
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> **🧱 Key Barrier:** Dựa trên chiều thông tin - TO visitors (cho) vs FROM visitors (lấy)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> "Your main responsibility is to give advice to the festival ==______=="
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Trách nhiệm chính của bạn là đưa lời khuyên cho người tham quan lễ hội
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+> [!success] ✅ Answer: ==visitors==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
+> - **Plural/Singular:** Có 's' - nhiều người tham quan đến lễ hội
 >
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
+> - **Spelling Trap:** Lưu ý: visitor + s = visitors, không phải visiters
 >
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> **🔗 Connects to:** ==giving advice to visitors==
 
 ---
 
-### Tier 3: Elimination - Weekly (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
-> **Context:** Map Labelling / Room Layout
+> **Context:** Festival Venue Layout
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
->
-> *(vd: "It's immediately to your right when you enter.")*
+> **Audio Cue:** *"You'll be stationed at the main entrance information desk where visitors first arrive, to give them advice about the festival"*
 >
 > ❓ **Reflex:** Hình dung vị trí trong đầu NGAY LẬP TỨC?
 ?
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> Tình nguyện viên đứng ở ==quầy thông tin lối vào chính== nơi khách tham quan đến đầu tiên, để tư vấn cho họ về lễ hội
 >
 > **⚠️ Spatial Traps:**
-> - "On the right hand side of the building" ≠ "On your right"
+> - "Near the exit" ≠ "main entrance"*
 >
-> - "Opposite" ≠ "Next to"
+> - "At a specific booth" ≠ "information desk"*
 >
-> - "Behind" ≠ "At the back of"
+> - "Inside the venue" ≠ "where visitors first arrive"*
 >
-> **🎯 Correct Position:** =={{LABEL}}==
+> **🎯 Correct Position:** ==Main entrance - information desk==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
-### Card 10: Option Elimination Drill *(MCQ only)*
-
-> **Question:** =={{QUESTION_STEM}}==
->
-> **Options:**
-> - A. {{OPTION_1}}
->
-> - B. {{OPTION_2}}
->
-> - C. {{OPTION_3}}
->
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
->
-> ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
-?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
->
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
->
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
->
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
-### Card 11: Cross-Option Confusion *(MCQ only)*
-
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
->
-> ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
-?
-> [!example] 🆚 Signal Decoding
->
-> **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
->
-> **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
->
-> **🔑 Scientific Distinction:**
->
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
->
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
-### Card 12: Answer Validation *(MCQ only)*
-
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
->
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
->
-> ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
-?
-> [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
->
-> 2. ==phrase 2== → giải thích kết nối
->
-> 3. ==phrase 3== → giải thích kết nối
->
-> **🎯 Conclusion:** Tổng hợp logic
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/social-leisure/volunteering/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
->
-> *(vd: "You've got a point, but..." / "I see what you mean, although...")*
+> **Audio:** *"I understand your suggestion about gathering feedback from visitors, but what we really need is people to provide them with helpful advice and guidance"*
 >
 > ❓ **Reflex:** Người nói THỰC SỰ ĐỒNG Ý hay PHẢN ĐỐI?
 ?
 > [!fail] 🎭 Pseudo-Agreement Detection
 > **👉 Verdict:** ==PHẢN ĐỐI (Disagree)==
 >
-> **💡 Rule:** Khen trước → Chê sau = **NO**
+> **💡 Rule:** Khen trước → Chê sau = **NO** - "I understand your suggestion" nhưng "but what we really need" là phủ định
 >
 > **✅ Real Agreement Signals:**
 >
-> - *"Precisely"*
+> - *"Precisely, giving advice is key"*
 >
-> - *"I couldn't agree more"*
+> - *"Absolutely, they need guidance"*
 >
-> - *"Spot on"*
->
-> - *"Absolutely"*
+> - *"Spot on, that's exactly what visitors need"*
 >
 > **❌ False Agreement Signals:**
 >
-> - *"You've got a point, but..."*
+> - *"I see what you mean about feedback, but..."*
 >
-> - *"I suppose so..."* (ngập ngừng)
+> - *"That makes sense, although..."*
 >
-> - *"That's one way to look at it..."*
+> - *"You've got a point, however..."*
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/social-leisure/volunteering/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==giving advice to visitors==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
+> [!info] ⚡ Rapid Swap
+> ==giving advice== ⚡ ==providing guidance / offering help / assisting visitors==
 >
-> **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> **🧠 Instant Logic:** Giving advice = providing guidance = offering help/assistance
 
 ---
 
-### Tier 4: Mastery - Bi-weekly (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "I want to clarify the volunteer roles available. Some positions involve collecting feedback from visitors about their experience at the festival. Others might be helping people find their seats in the performance areas. But the main information desk role we're looking for is giving advice to visitors. You'll answer questions about the schedule, help with directions, and provide guidance on what to see and do."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** =="collecting feedback from visitors"==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Nhắc đến trước với "Some positions involve..." và liên quan đến tương tác với khách
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Audio nói rõ "But the main...role...is giving advice" - feedback chỉ là vai trò khác, không phải chính
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** =="helping people find their seats"==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Cũng được nhắc như một vai trò tình nguyện viên khác
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* "But" phân định rõ và "main information desk role" xác định giving advice là trách nhiệm chính
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **✅ Correct Answer:** ==giving advice to visitors==
+> - *Why correct:* Audio dùng "main...role...is" để nhấn mạnh vai trò chính, và li kê cụ thể công việc: answer questions, help with directions, provide guidance
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** =="giving advice to visitors"==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "For the information volunteer positions, we need people who can give advice to visitors confidently. When people arrive at the festival, they'll have many questions - where to go, what's happening, which activities are suitable for their families. Your role will be to provide guidance and helpful information to make their experience better."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==provide guidance and helpful information== → ==giving advice==
 >
-> - ==Audio phrase== → ==Option word==
+> - ==answer questions...where to go== → ==giving advice (về hướng dẫn)==
 >
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> - **🧠 Overall Logic:** Mọi cụm từ đều chỉ vào việc cung cấp thông tin hữu ích cho người tham quan
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==giving advice to visitors==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Volunteering at community festivals*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
+> 1. ==providing guidance to visitors==
 >
-> 2. ==Paraphrase 2==
+> 2. ==offering help to festival guests==
 >
 > **🎯 Goal:** Instant Recall
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
-### Card 18: Complete Question Synthesis *(MCQ only)*
-
-> **Full Question Context:**
-> =={{QUESTION_STEM}}==
->
-> **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
->
-> ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
-?
-> [!success] 🎯 Deep Logic Breakdown
-> **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
->
-> **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
->
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
->
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
 
 ---

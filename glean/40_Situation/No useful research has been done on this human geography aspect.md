@@ -1,328 +1,261 @@
 ---
 aliases:
-  - 
+  - no useful research
+  - no useful studies
+  - research not useful
 question_type: single
-# single = 1 option (matching), multi = 2+ options (MCQ)
 options_count: 1
-status: pending
+status: done
 ref:
   - Cam 20 Listening Test 02
-
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==single==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==No useful research has been done on this human geography aspect==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Students discussing their research project on human geography topics*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 02
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
->
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
->
-> *(For single-option: keep only 1 row and remove "Correct Answer" line)*
+> | A | ==no useful research has been done== | Không có nghiên cứu hữu ích được thực hiện | lack of studies, insufficient data, poor literature | ⚠️ High |
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==Phán định về sự thiếu hụt tài liệu nghiên cứu==
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Academic Research / Human Geography==
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
+> - **Definition:** Khẳng định rằng ==không tồn tại nghiên cứu chất lượng/hữu ích== về khía cạnh địa lý nhân văn này, khiến việc thu thập thông tin gặp khó khăn
 >
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
+> - **Denotation:** Nghĩa đen là chưa có ai ==thực hiện (has been done)== nghiên cứu mang lại giá trị thực tiễn cho chủ đề này
 >
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
+> - **Distractor:** "easy to find facts" (dễ tìm thông tin), "too vague" (quá mơ hồ), "not reliable" (không đáng tin cậy) - đánh giá tiêu cực nhưng ở khía cạnh khác
 >
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Deep Dive:** Paraphrasing sâu hơn: ==lack of relevant studies==, ==scarce literature==, ==insufficient data available==, ==poorly researched area==, ==gaps in existing research==
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Hình dung một ==sinh viên ngồi trước máy tính với trang web hiển thị "No results found"== hoặc thư viện nơi không có sách về chủ đề đó
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Giọng điệu ==thất vọng, thở dài== khi nói "no useful research"; có thể dùng nhấn âm trên "no" và "useful"
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Thao tác ==gõ từ khóa và thấy kết quả rỗng== hoặc ==lật trang sách nhưng không thấy thông tin liên quan==
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
+> - `Adj + research`: useful research, relevant research, extensive research, limited research, scarce research
 >
-> - `Noun + of + Noun`: e.g., organisation of + event
+> - `Verb + research`: conduct research, carry out research, do research, find research, access research
 >
-> - `Adj + Noun`: e.g., local + businesses
+> - `Adj + studies`: useful studies, relevant studies, existing studies, previous studies
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "I've been searching, but there's ==no useful research available== on this topic"
 >
-> - "The job involves..."
+> - "There's a ==lack of relevant studies== in this particular area"
 >
-> - "We need to..."
+> - "The literature is ==quite limited/scanty== for this aspect"
 >
-> - "My responsibility is..."
+> - "Unfortunately, ==insufficient research has been carried out== on this"
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==easy to find facts==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Nghe "find" và "facts" nhưng "easy to find" KHÁI QUÁT KHÁC với "no useful research" - một là TÍCH CỰC, một là TIÊU CỰC
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Dễ kiếm thông tin = có nhiều nghiên cứu/hữu ích
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
+> **Trap 2:** ==too vague / not reliable==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Cũng đánh giá tiêu cực nhưng nói về CHẤT LƯỢNG của thông tin, không phải SỰ TỒN TẠI của nghiên cứu
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Thông tin có sẵn nhưng không rõ ràng hoặc không đáng tin
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "I've been looking into this human geography aspect for our project, and I'm afraid the situation isn't great. ==There's no useful research has been done== on it - ==scarcely any academic papers== or ==relevant studies== to draw from."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==no useful research has been done==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "This appears to be a ==poorly researched area==. Despite searching through various databases and journals, ==I couldn't find any meaningful studies== that would help with our investigation. ==The literature is very limited== for this topic."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==no useful research has been done==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
+## 🧠 Spaced Repetition Flashcards (14 Cards)
 
 ---
 
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/education-training/human-geography/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==no useful research has been done==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Research project discussion*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** "There's ==a lack of/studies==" hoặc "==scarce/limited literature=="
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - "Very few relevant studies available"
 >
-> - Kịch bản 3
+> - "Poorly documented area"
 >
-> - Kịch bản 4
+> - "Gaps in the existing research"
 >
-> - Kịch bản 5
+> - "Insufficient academic sources"
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Khẳng định sự ==thiếu hụt/khan hiếm== nghiên cứu về chủ đề
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/education-training/human-geography/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==no useful research==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** ==find/access/useful research== (tìm kiếm/truy cập/nghiên cứu hữu ích)
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: conduct, carry out, undertake, publish, review
 >
->   - Nouns: ví dụ: music, concert
+>   - Nouns: studies, literature, papers, sources, data
 >
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** "research" thường đi với tính từ đánh giá chất lượng như "useful", "relevant", "extensive"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/education-training/human-geography/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==no useful research==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "Unfortunately...", "I'm afraid...", "The problem is...", "To be honest..."
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** ==Hạ giọng/Chán nản== (Disappointed/Concerned - biểu lộ lo ngại)
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Người nói thể hiện sự ==không hài lòng/lo lắng== về tình trạng nghiên cứu
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/education-training/human-geography/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==no useful research==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
 ?
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /nəʊ ˈjuːsfʊl rɪˈsɜːtʃ/ → "nooh yoo-sfuhl ri-surch"
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
+> - **Linking:** "no" + "useful" có thể nối nhẹ
 >
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
+> - **Elision:** Âm 'h' trong "research" thường không phát âm
 >
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Weak Form:** Không rõ rệt, phát âm đầy đủ
 
 ---
 
 ### Tier 2: Recognition - Every 2-3 Days (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/education-training/human-geography/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "I've been searching through the databases, but unfortunately there's ==a lack of relevant studies== and ==the literature is quite limited== for this topic"
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==no useful research has been done==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="a lack of relevant studies"== + =="literature is quite limited"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: ==no useful research has been done== (thiếu nghiên cứu liên quan + tài liệu hạn chế)
 >
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> **🧠 Logic Chain:** "lack of studies" + "limited literature" = không có nghiên cứu hữu ích
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/education-training/human-geography/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==no useful research==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"This topic's been well-documented with plenty of sources"* → **Số phận** option này thế nào?
 ?
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
-> **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
+> **⚠️ Why? (Trap Signal):** "well-documented with plenty of sources" là khẳng định về RỘNG RÃI thông tin, TRÁI NGƯỢC với "no useful research"
 >
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> **🔄 Reality Check:** Nghĩa thực sự: chủ đề được nghiên cứu kỹ = có nhiều nghiên cứu/hữu ích
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/education-training/human-geography/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="no useful research"== với =="the information was too vague"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
+> - **no useful research:** Tập trung vào ==SỰ THIẾU HỤT KHÁI QUÁT== của nghiên cứu - không có hoặc rất ít tài liệu (THIẾU SỐ LƯỢNG)
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
+> - **the information was too vague:** Tập trung vào ==CHẤT LƯỢNG TỒI== của thông tin đã có - thông tin tồn tại nhưng không rõ ràng (CHẤT LƯỢNG KÉM)
 >
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> **🧱 Key Barrier:** Phân biệt giữa "không có gì" vs "có nhưng kém chất lượng"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/education-training/human-geography/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> *Despite extensive searching, I couldn't find any ==______== that would be helpful for our project*
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Mặc dù tìm kiếm rộng rãi, tôi không thể tìm thấy bất kỳ ==nghiên cứu hữu ích== nào giúp ích cho dự án của chúng ta
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+> [!success] ✅ Answer: ==useful research==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
+> - **Plural/Singular:** "research" ở dạng SỐ ÍT (uncountable) trong tiếng Anh
 >
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
+> - **Spelling Trap:** "research" KHÔNG có 'es' cuối cùng - đây là danh từ không đếm được
 >
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> **🔗 Connects to:** ==no useful research has been done==
 
 ---
 
 ### Tier 3: Elimination - Weekly (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/education-training/human-geography/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
 > **Context:** Map Labelling / Room Layout
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
+> **Audio Cue:** *"Unfortunately, the section containing research materials is closed for renovation, so we can't access the sources we need"*
 >
 > *(vd: "It's immediately to your right when you enter.")*
 >
@@ -330,113 +263,30 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ?
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> Phần tài liệu nghiên cứu ĐANG ĐÓNG = không thể tiếp cận (giống khái niệm "no useful research")
 >
 > **⚠️ Spatial Traps:**
-> - "On the right hand side of the building" ≠ "On your right"
+> - "closed for renovation" ≠ "under maintenance"
 >
-> - "Opposite" ≠ "Next to"
+> - "can't access" ≠ "restricted access"
 >
-> - "Behind" ≠ "At the back of"
->
-> **🎯 Correct Position:** =={{LABEL}}==
+> **🎯 Correct Position:** ==Closed section== (liên quan đến việc không tìm thấy nguồn)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
-### Card 10: Option Elimination Drill *(MCQ only)*
-
-> **Question:** =={{QUESTION_STEM}}==
->
-> **Options:**
-> - A. {{OPTION_1}}
->
-> - B. {{OPTION_2}}
->
-> - C. {{OPTION_3}}
->
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
->
-> ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
-?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
->
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
->
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
->
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
-### Card 11: Cross-Option Confusion *(MCQ only)*
-
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
->
-> ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
-?
-> [!example] 🆚 Signal Decoding
->
-> **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
->
-> **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
->
-> **🔑 Scientific Distinction:**
->
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
->
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
-### Card 12: Answer Validation *(MCQ only)*
-
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
->
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
->
-> ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
-?
-> [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
->
-> 2. ==phrase 2== → giải thích kết nối
->
-> 3. ==phrase 3== → giải thích kết nối
->
-> **🎯 Conclusion:** Tổng hợp logic
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/education-training/human-geography/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
+> **Audio:** *"I see your point about the lack of literature, but I still think we can work with what we have"* / *"That's true about scarce studies, although I found a few recent papers"*
 >
 > *(vd: "You've got a point, but..." / "I see what you mean, although...")*
 >
 > ❓ **Reflex:** Người nói THỰC SỰ ĐỒNG Ý hay PHẢN ĐỐI?
 ?
 > [!fail] 🎭 Pseudo-Agreement Detection
-> **👉 Verdict:** ==PHẢN ĐỐI (Disagree)==
+> **👉 Verdict:** ==PHẦN CHUNG ĐỒNG Ý, PHẦN RIÊNG PHẢN ĐỐI (Mixed)==
 >
-> **💡 Rule:** Khen trước → Chê sau = **NO**
+> **💡 Rule:** Đồng ý về sự thiếu hụt nhưng đưa ra giải pháp thay thế
 >
 > **✅ Real Agreement Signals:**
 >
@@ -458,112 +308,86 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/education-training/human-geography/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==no useful research==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
+> [!info] ⚡ Rapid Swap
+> ==lack of relevant studies== ⚡ ==no useful research==
 >
 > **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> "lack of" (thiếu) + "relevant studies" (nghiên cứu liên quan) = không có nghiên cứu hữu ích
 
 ---
 
 ### Tier 4: Mastery - Bi-weekly (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/education-training/human-geography/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "I've been investigating this human geography aspect for days now. ==The information I did find was quite vague==, and ==some facts didn't seem very reliable== either. On top of that, ==the available facts might not be relevant== to what we're studying. But the biggest issue is that ==there's simply no useful research been done== on this - the literature base is practically non-existent."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** =="the information was too vague"==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Speaker nhắc đến "information was quite vague"
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Chỉ là một khía cạnh cụ thể, không phản ánh tình trạng tổng thể
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** =="the facts may not be reliable"==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Được nhắc đến như một vấn đề riêng
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Dù không đáng tin nhưng ít nhất còn có, không giống "no research at all"
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **✅ Correct Answer:** ==no useful research has been done==
+> - *Why correct:* Được nhấn mạnh là "biggest issue" và "literature base is practically non-existent"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/education-training/human-geography/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** ==no useful research has been done==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "I'm afraid I have some disappointing news regarding our research topic. After spending hours ==searching through academic databases== and ==reviewing various journals==, ==I couldn't locate any relevant studies==. It seems this particular aspect of human geography ==hasn't been properly studied== before. ==The existing literature is virtually non-existent==, which means we'll have to approach our project from a different angle."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==searching through academic databases== → ==trying to find research==
 >
-> - ==Audio phrase== → ==Option word==
+> - ==couldn't locate any relevant studies== → ==no useful research==
 >
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> - ==hasn't been properly studied== → ==not been done effectively==
+>
+> - ==existing literature is virtually non-existent== → ==no useful research==
+>
+> **🧠 Overall Logic:** Tìm kiếm không thấy + chưa được nghiên cứu + không có tài liệu = no useful research
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/education-training/human-geography/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==no useful research==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Research project discussion*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
+> 1. ==lack of relevant studies==
 >
-> 2. ==Paraphrase 2==
+> 2. ==scarce/limited literature==
 >
 > **🎯 Goal:** Instant Recall
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
-### Card 18: Complete Question Synthesis *(MCQ only)*
-
-> **Full Question Context:**
-> =={{QUESTION_STEM}}==
->
-> **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
->
-> ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
-?
-> [!success] 🎯 Deep Logic Breakdown
-> **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
->
-> **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
->
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
->
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
-
----

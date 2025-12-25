@@ -1,328 +1,259 @@
 ---
 aliases:
-  - 
+  - information interesting
+  - interesting information
+  - fascinating information
 question_type: single
-# single = 1 option (matching), multi = 2+ options (MCQ)
 options_count: 1
-status: pending
+status: done
 ref:
   - Cam 20 Listening Test 02
-
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==single==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==The information provided about this human geography aspect was interesting==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Students discussing their research project on human geography topics*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 02
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
->
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
->
-> *(For single-option: keep only 1 row and remove "Correct Answer" line)*
+> | A | ==information was interesting== | Thông tin thú vị/hấp dẫn | fascinating, engaging, compelling, noteworthy | ⚠️ Medium |
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==Phán định tính thú vị/hấp dẫn của thông tin==
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Academic Research / Engagement Level==
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
+> - **Definition:** Khẳng định rằng ==thông tin được cung cấp về khía cạnh địa lý nhân văn này thu hút, đáng quan tâm hoặc gây hứng thú== cho người nghiên cứu
 >
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
+> - **Denotation:** Nghĩa đen là thông tin ==interesting (thú vị/hấp dẫn)==, ==fascinating (cuốn hút)==, hoặc ==compelling (gây ấn tượng)== - tạo sự thích thú trong việc nghiên cứu
 >
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
+> - **Distractor:** "easy to find facts" (dễ kiếm), "no useful research" (không có nghiên cứu), "too vague/not reliable" (mơ hồ/không tin cậy) - các vấn đề KHÁC về KHẢ NĂNG, TỒN TẠI, CHẤT LƯỢNG
 >
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Deep Dive:** Paraphrasing sâu hơn: ==fascinating==, ==engaging==, ==compelling==, ==noteworthy==, ==captivating==, ==intriguing==, ==worthy of attention==, ==appealing==, ==grabbing my interest==
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Hình dung một ==sinh viên đọc tài liệu với ánh mắt sáng lấp lánh== hoặc người gật đầu tán thưởng
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Giọng điệu ==hào hứng/táo bạo== khi nói "interesting"; có thể dùng nhấn âm trên "interesting"
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Thao tác ==gạch chú/trang thú vị== hoặc ==nhanh lật trang muốn đọc tiếp==
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
->
-> - `Noun + of + Noun`: e.g., organisation of + event
->
-> - `Adj + Noun`: e.g., local + businesses
+> - `Adj + information`: interesting information, fascinating information, valuable information, useful information, reliable information
+> - `Verb + interesting`: find interesting, discover interesting, came across interesting, stumbled upon interesting
+> - `Interesting + noun`: interesting facts, interesting details, interesting findings, interesting discoveries
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "The ==information provided was fascinating== - really engaging"
 >
-> - "The job involves..."
+> - "I found ==some really interesting facts== about this aspect"
 >
-> - "We need to..."
+> - "The data was ==compelling and worthwhile=="
 >
-> - "My responsibility is..."
+> - "I was ==drawn to this information== immediately"
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==easy to find facts / no useful research==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Nghe "find facts" hoặc "no research" nhưng "interesting" KHÁI QUÁT KHÁC - nói về TÍNH THÚ VỊ, không phải KHẢ NĂNG/TỒN TẠI
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Dễ kiếm hoặc không có nghiên cứu = KHÔNG liên quan đến độ thú vị
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
+> **Trap 2:** ==too vague / not reliable==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Cùng nói về CHẤT LƯỢNG của thông tin nhưng "vague/not reliable" là TIÊU CỰC, trong khi "interesting" là TÍCH CỰC (thú vị)
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Thông tin kém chất lượng vs thông tin thú vị - hai khía cạnh khác nhau
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "I've been going through the materials about this aspect of human geography, and I have to say, ==the information provided was quite interesting==. There were ==some fascinating details== and ==compelling facts== that ==really grabbed my attention==. I'm actually looking forward to working with this."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==information was interesting==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "When I started reading about this human geography aspect, ==the information provided was surprisingly engaging==. It contained ==intriguing data points== and ==noteworthy findings== that I hadn't expected. ==The material was truly captivating== and kept me reading until the end."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==information was interesting==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
+## 🧠 Spaced Repetition Flashcards (14 Cards)
 
 ---
 
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/education-training/human-geography/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==information was interesting==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Research project discussion*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** "The information was ==fascinating/engaging==" hoặc "==found some really interesting facts/data=="
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - "compelling material"
 >
-> - Kịch bản 3
+> - "captivating information"
 >
-> - Kịch bản 4
+> - "worthwhile findings"
 >
-> - Kịch bản 5
+> - "grabbed my attention"
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Khẳng định sự ==thú vị/hấp dẫn== của thông tin
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/education-training/human-geography/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==information was interesting==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** ==find/come across interesting information== (tìm thấy/chạm vào thông tin thú vị)
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: discover, provide, give, present
 >
->   - Nouns: ví dụ: music, concert
+>   - Nouns: facts, data, details, material, content
 >
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** "interesting" thường đi với từ chỉ phản ứng tích cực như "fascinating", "engaging", "compelling"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/education-training/human-geography/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==information was interesting==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "I have to say...", "Actually...", "To my surprise...", "I was really..."
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** ==Lên giọng/Hào hứng== (Enthusiastic/Pleasant - thể hiện sự thích thú)
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Người nói thể hiện sự ==hào hứng/tán thưởng== về thông tin
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/education-training/human-geography/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==information was interesting==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
 ?
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /ˈɪnfəˈmeɪʃən wɒz ˈɪntrəstɪŋ/ → "in-fuh-MAY-shun wuz IN-truh-sting"
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
+> - **Linking:** "information" + "was" → /wɒz/
 >
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
+> - **Elision:** Không rõ rệt
 >
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Weak Form:** Không rõ rệt
 
 ---
 
 ### Tier 2: Recognition - Every 2-3 Days (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/education-training/human-geography/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "The materials provided were ==fascinating and engaging== - there were ==some really compelling facts== that ==grabbed my attention=="
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==information was interesting==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="fascinating and engaging"== + =="compelling facts"== + =="grabbed my attention"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: ==information was interesting== (thú vị + hấp dẫn + gây ấn tượng)
 >
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> **🧠 Logic Chain:** "fascinating" + "engaging" + "compelling" = interesting
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/education-training/human-geography/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==information was interesting==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"The information provided was disappointing and lacked engaging content"* → **Số phận** option này thế nào?
 ?
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
-> **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
+> **⚠️ Why? (Trap Signal):** "disappointing" và "lacked engaging content" khẳng định về THẤT VỌNG, KHÔNG THÚ VỊ, TRÁI NGƯỢC với "interesting"
 >
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> **🔄 Reality Check:** Nghĩa thực sự: thông tin thất vọng/không hấp dẫn = KHÔNG thú vị
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/education-training/human-geography/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="information was interesting"== với =="information was too vague"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
+> - **information was interesting:** Tập trung vào ==TÍNH THÚ VỊ/HẤP DẪN== của thông tin - gây hứng thú cho người đọc (TÍCH CỰC)
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
+> - **information was too vague:** Tập trung vào ==CHẤT LƯỢNG CỦA THÔNG TIN== - không rõ ràng/cụ thể (CHẤT LƯỢNG)
 >
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> **🧱 Key Barrier:** Phân biệt giữa "thú vị" vs "không rõ ràng" - hai đánh giá khác nhau
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/education-training/human-geography/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> *The ==______== provided about this human geography aspect was ==______== - it really caught my attention*
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** ==Thông tin== được cung cấp về khía cạnh địa lý nhân văn này ==thú vị/hấp dẫn== - nó thực sự thu hút sự chú ý của tôi
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+> [!success] ✅ Answer: ==information / interesting==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
+> - **Plural/Singular:** "information" dạng SỐ ÍT (uncountable)
 >
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
+> - **Spelling Trap:** Chú ý chính tả "interesting" (i-n-t-e-r-e-s-t-i-n-g, 3 'e')
 >
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> **🔗 Connects to:** ==information was interesting==
 
 ---
 
 ### Tier 3: Elimination - Weekly (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/education-training/human-geography/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
 > **Context:** Map Labelling / Room Layout
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
+> **Audio Cue:** *"The section with engaging materials about this aspect is located on fourth floor - you should check it out"*
 >
 > *(vd: "It's immediately to your right when you enter.")*
 >
@@ -330,113 +261,30 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ?
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> Phần tài liệu hấp dẫn (Tầng 4) = nên xem (giống khái niệm "interesting")
 >
 > **⚠️ Spatial Traps:**
-> - "On the right hand side of the building" ≠ "On your right"
+> - "fourth floor" ≠ "fifth floor"
 >
-> - "Opposite" ≠ "Next to"
+> - "engaging materials" ≠ "dull materials"
 >
-> - "Behind" ≠ "At the back of"
->
-> **🎯 Correct Position:** =={{LABEL}}==
+> **🎯 Correct Position:** ==Engaging section== (liên quan đến "interesting")
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
-### Card 10: Option Elimination Drill *(MCQ only)*
-
-> **Question:** =={{QUESTION_STEM}}==
->
-> **Options:**
-> - A. {{OPTION_1}}
->
-> - B. {{OPTION_2}}
->
-> - C. {{OPTION_3}}
->
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
->
-> ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
-?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
->
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
->
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
->
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
-### Card 11: Cross-Option Confusion *(MCQ only)*
-
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
->
-> ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
-?
-> [!example] 🆚 Signal Decoding
->
-> **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
->
-> **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
->
-> **🔑 Scientific Distinction:**
->
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
->
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
-### Card 12: Answer Validation *(MCQ only)*
-
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
->
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
->
-> ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
-?
-> [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
->
-> 2. ==phrase 2== → giải thích kết nối
->
-> 3. ==phrase 3== → giải thích kết nối
->
-> **🎯 Conclusion:** Tổng hợp logic
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/education-training/human-geography/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
+> **Audio:** *"I agree the information was engaging, though I'm not sure if it's reliable"* / *"You've got a point about how interesting it is, although I found some parts quite confusing"*
 >
 > *(vd: "You've got a point, but..." / "I see what you mean, although...")*
 >
 > ❓ **Reflex:** Người nói THỰC SỰ ĐỒNG Ý hay PHẢN ĐỐI?
 ?
 > [!fail] 🎭 Pseudo-Agreement Detection
-> **👉 Verdict:** ==PHẢN ĐỐI (Disagree)==
+> **👉 Verdict:** ==PHẦN ĐỒNG Ý VỀ THÚ VỊ, PHẦN PHẢN ĐỐI VỀ CHẤT LƯỢNG (Mixed)==
 >
-> **💡 Rule:** Khen trước → Chê sau = **NO**
+> **💡 Rule:** Đồng ý là thú vị NHƯNG có lo ngại về khía cạnh khác (reliable/confusing)
 >
 > **✅ Real Agreement Signals:**
 >
@@ -458,112 +306,90 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/education-training/human-geography/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==information was interesting==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
+> [!info] ⚡ Rapid Swap
+> ==fascinating/engaging material== ⚡ ==interesting information==
 >
 > **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> "fascinating" (cuốn hút) + "engaging" (hấp dẫn) = interesting
 
 ---
 
 ### Tier 4: Mastery - Bi-weekly (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/education-training/human-geography/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "I've been reviewing the materials about this human geography aspect. ==The information may not be entirely reliable==, and ==there are some vague sections==. However, ==the information provided was quite interesting== - ==it was fascinating and engaging==, with ==compelling facts== that ==really grabbed my attention==. ==The content was captivating== despite some quality issues."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** =="information may not be reliable"==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Speaker nhắc đến "may not be entirely reliable"
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Chỉ là một lưu ý nhỏ, không phải phản ánh chính
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** =="information was too vague"==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Speaker đề cập "some vague sections"
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Chỉ là một phần, không phải tổng thể
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **✅ Correct Answer:** ==information was interesting==
+> - *Why correct:* Speaker nhấn mạnh "quite interesting" + "fascinating and engaging" + "compelling"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/education-training/human-geography/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** ==information was interesting==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "When I first opened the materials provided about this human geography aspect, I was pleasantly surprised. ==The information was genuinely fascinating== - ==it contained intriguing data== and ==noteworthy findings== that I hadn't expected. ==The content was compelling and engaging==, ==captivating from start to finish==. ==I found the material truly interesting== and worth exploring further."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==genuinely fascinating== → ==interesting==
 >
-> - ==Audio phrase== → ==Option word==
+> - ==intriguing data== → ==interesting information==
 >
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> - ==noteworthy findings== → ==interesting content==
+>
+> - ==compelling and engaging== → ==interesting==
+>
+> - ==captivating from start to finish== → ==interesting==
+>
+> - ==truly interesting== → ==interesting==
+>
+> **🧠 Overall Logic:** Nhiều paraphrase thú vị (fascinating, intriguing, noteworthy, compelling, engaging, captivating) = information was interesting
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/education-training/human-geography/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==information was interesting==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Research project discussion*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
+> 1. ==fascinating/engaging==
 >
-> 2. ==Paraphrase 2==
+> 2. ==compelling/captivating==
 >
 > **🎯 Goal:** Instant Recall
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
-### Card 18: Complete Question Synthesis *(MCQ only)*
-
-> **Full Question Context:**
-> =={{QUESTION_STEM}}==
->
-> **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
->
-> ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
-?
-> [!success] 🎯 Deep Logic Breakdown
-> **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
->
-> **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
->
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
->
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
-
----

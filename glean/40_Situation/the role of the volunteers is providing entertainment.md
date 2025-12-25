@@ -1,569 +1,373 @@
 ---
 aliases:
-  - 
+  - providing entertainment
+  - performing for festival
+  - putting on shows event
 question_type: single
-# single = 1 option (matching), multi = 2+ options (MCQ)
 options_count: 1
-status: pending
+status: done
 ref:
   - Cam 20 Listening Test 02
-
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==single==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==the role of the volunteers is==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Volunteering at community festivals*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 02
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
->
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
->
-> *(For single-option: keep only 1 row and remove "Correct Answer" line)*
+> | A | ==providing entertainment== | Cung cấp giải trí | performing, shows, entertainment acts, activities | ⚠️ Medium |
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==Hành động / Trách nhiệm== (Action/Responsibility)
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Volunteering== / Performance
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
+> - **Definition:** Tình nguyện viên tự ==biểu diễn hoặc tổ chức hoạt động giải trí== cho khách tham quan tại lễ hội
 >
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
+> - **Denotation:** "Providing entertainment" = "performing" = "putting on shows" = "entertaining the audience"
 >
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
+> - **Distractor:** "Introducing speakers" nghe giống vì cũng diễn ra trên sân khấu, nhưng đó là ==giới thiệu người khác== chứ không phải ==tình nguyện viên tự biểu diễn==
 >
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Deep Dive:** Paraphrasing sâu = "putting on performances", "organizing entertainment", "providing shows", "entertaining festival guests"
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Hình dung tình nguyện viên đang ==biểu diễn== trên sân khấu nhỏ, chơi nhạc cụ, múa, hoặc tổ chức trò chơi trẻ em
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Tiếng nhạc, tiếng cười, tiếng vỗ tay, tiếng cảm ơn "Great performance!" sau mỗi màn trình diễn
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Người tổ chức nói "You'll be ==entertaining== visitors with short performances", hoặc tình nguyện viên nói "Let me sing a song for you"
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
+> - `Verb + Noun`: provide + entertainment, put on + shows, perform + music, entertain + audience
 >
-> - `Noun + of + Noun`: e.g., organisation of + event
->
-> - `Adj + Noun`: e.g., local + businesses
+> - `Noun + Preposition + Noun`: entertainment + for + visitors, performances + by + volunteers, shows + at + festival
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "Your main role is ==providing entertainment== for children"
 >
-> - "The job involves..."
+> - "Volunteers will be ==putting on shows== throughout the day"
 >
-> - "We need to..."
+> - "We need people to ==perform music== at the small stage"
 >
-> - "My responsibility is..."
+> - "The task involves ==entertaining festival attendees== between main events"
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==introducing guest speakers== (đánh lạc hướng)
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Cả hai đều diễn ra trên sân khấu, đều liên quan đến hoạt động trước công chúng
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* "Introducing speakers" là người ==đứng ngoài sân khấu== để giới thiệu người khác. "Providing entertainment" là tình nguyện viên ==tự lên sân khấu biểu diễn==
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
+> **Trap 2:** ==giving advice to visitors== (đánh lạc hướng)
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Cả hai đều là tương tác với khách tham quan, đều là hoạt động hỗ trợ
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* "Giving advice" là cung cấp thông tin, trả lời câu hỏi. "Providing entertainment" là ==tạo niềm vui, giải trí== cho khách
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "For the family area, we need volunteers who can provide entertainment. This could be as simple as playing some music, doing magic tricks for kids, or putting on small puppet shows. The aim is to keep families engaged while parents attend other festival activities. We'll provide the basic equipment, but you'll need to bring your own instruments or props if you have them."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==providing entertainment==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "One of our most popular volunteer positions is providing entertainment. Throughout the festival, we have various small stages where volunteers can put on short performances. We're looking for musicians who can play acoustic sets, dancers, magicians - anyone who can create a fun atmosphere and entertain visitors between the main events. It doesn't have to be professional, just enthusiastic and willing to share your talents."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==providing entertainment==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
-
----
-
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/social-leisure/volunteering/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==providing entertainment==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Volunteering at community festivals*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** "Your role is to ==entertain== festival visitors"
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - "You'll be ==putting on shows== for families"
 >
-> - Kịch bản 3
+> - "The job involves ==providing entertainment== between main events"
 >
-> - Kịch bản 4
+> - "Volunteers will be ==performing== on small stages"
 >
-> - Kịch bản 5
+> - "Your task is to ==keep people entertained=="
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Tạo niềm vui, giải trí cho khách tham quan
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/social-leisure/volunteering/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==providing entertainment==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** provide + entertainment
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: put on, perform, entertain, organize
 >
->   - Nouns: ví dụ: music, concert
+>   - Nouns: shows, performances, music, acts, fun
 >
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** "Entertainment" thường đi với "provide, put on, perform"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/social-leisure/volunteering/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==providing entertainment==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "This could be...", "We're looking for...", "The aim is to...", "One popular position is..."
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** Lên giọng (Enthusiatic/Welcoming) khi mô tả hoạt động vui vẻ
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Signpost báo hiệu sắp mô tả vai trò giải trí
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/social-leisure/volunteering/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==providing entertainment==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
 ?
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /prəˈvaɪdɪŋ ˌɛntəˈteɪnmənt/
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
+> - **Linking:** "providing entertainment" → /prəˈvaɪdɪŋˌɛn/
 >
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
+> - **Elision:** Âm /t/ trong "entertainment" có thể bị nuốt nhẹ
 >
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Weak Form:** Không có weak forms rõ rệt trong cụm này
 
 ---
 
-### Tier 2: Recognition - Every 2-3 Days (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "We need volunteers to put on shows and keep families entertained at the festival"
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==providing entertainment==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="put on shows and keep families entertained"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: =="providing entertainment"==
 >
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> **🧠 Logic Chain:** Put on shows = providing entertainment; keep families entertained = provision result
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==introducing guest speakers==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"You're NOT introducing anyone, YOU are the one performing for the audience"* → **Số phận** option này thế nào?
 ?
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
 > **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
+> Audio dùng "NOT introducing anyone" để phủ định và "YOU are the one performing" để khẳng định - người nói chính là người biểu diễn
 >
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> **🔄 Reality Check:** "Introducing speakers" là giới thiệu người khác, "providing entertainment" là tự biểu diễn
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="providing entertainment"== với =="introducing guest speakers"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
+> - **providing entertainment:** Tập trung vào ==tình nguyện viên tự biểu diễn== - chơi nhạc, múa, ảo thuật, trò chơi để giải trí cho khách
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
+> - **introducing guest speakers:** Tập trung vào ==người giới thiệu== - đứng ngoài sân khấu cầm micro, nói trước, không phải người biểu diễn chính
 >
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> **🧱 Key Barrier:** Dựa trên ai là người biểu diễn - tình nguyện viên vs người được giới thiệu
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> "We need volunteers to provide ==______== between the main events"
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Chúng tôi cần tình nguyện viên cung cấp giải trí giữa các sự kiện chính
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+> [!success] ✅ Answer: ==entertainment==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
+> - **Plural/Singular:** Không có s/es - entertainment là danh từ không đếm được
 >
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
+> - **Spelling Trap:** Lưu ý: entertainment - không có 's' cuối cùng
 >
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> **🔗 Connects to:** ==providing entertainment==
 
 ---
 
-### Tier 3: Elimination - Weekly (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
-> **Context:** Map Labelling / Room Layout
+> **Context:** Festival Venue Layout
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
->
-> *(vd: "It's immediately to your right when you enter.")*
+> **Audio Cue:** *"Small entertainment stages are located in the family area, between the food court and the children's playground"*
 >
 > ❓ **Reflex:** Hình dung vị trí trong đầu NGAY LẬP TỨC?
 ?
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> Các sân khấu nhỏ ==nằm ở khu vực gia đình==, giữa quầy ăn và khu vui chơi trẻ em - nơi tình nguyện viên biểu diễn giải trí
 >
 > **⚠️ Spatial Traps:**
-> - "On the right hand side of the building" ≠ "On your right"
+> - "Near main stage" ≠ "in family area"*
 >
-> - "Opposite" ≠ "Next to"
+> - "Next to food court" ≠ "between food court and playground"*
 >
-> - "Behind" ≠ "At the back of"
+> - "In children's area" ≠ "small entertainment stages"*
 >
-> **🎯 Correct Position:** =={{LABEL}}==
+> **🎯 Correct Position:** ==Family area - between food court and playground==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
-### Card 10: Option Elimination Drill *(MCQ only)*
-
-> **Question:** =={{QUESTION_STEM}}==
->
-> **Options:**
-> - A. {{OPTION_1}}
->
-> - B. {{OPTION_2}}
->
-> - C. {{OPTION_3}}
->
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
->
-> ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
-?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
->
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
->
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
->
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
-### Card 11: Cross-Option Confusion *(MCQ only)*
-
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
->
-> ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
-?
-> [!example] 🆚 Signal Decoding
->
-> **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
->
-> **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
->
-> **🔑 Scientific Distinction:**
->
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
->
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
-### Card 12: Answer Validation *(MCQ only)*
-
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
->
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
->
-> ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
-?
-> [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
->
-> 2. ==phrase 2== → giải thích kết nối
->
-> 3. ==phrase 3== → giải thích kết nối
->
-> **🎯 Conclusion:** Tổng hợp logic
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/social-leisure/volunteering/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
->
-> *(vd: "You've got a point, but..." / "I see what you mean, although...")*
+> **Audio:** *"I understand that introducing speakers is important, but what families really appreciate is volunteers providing entertainment to keep kids happy"*
 >
 > ❓ **Reflex:** Người nói THỰC SỰ ĐỒNG Ý hay PHẢN ĐỐI?
 ?
 > [!fail] 🎭 Pseudo-Agreement Detection
 > **👉 Verdict:** ==PHẢN ĐỐI (Disagree)==
 >
-> **💡 Rule:** Khen trước → Chê sau = **NO**
+> **💡 Rule:** Khen trước → Chê sau = **NO** - "I understand...is important" nhưng "but what families really appreciate" là phủ định
 >
 > **✅ Real Agreement Signals:**
 >
-> - *"Precisely"*
+> - *"Precisely, entertainment is what's needed"*
 >
-> - *"I couldn't agree more"*
+> - *"Absolutely, that would keep kids happy"*
 >
-> - *"Spot on"*
->
-> - *"Absolutely"*
+> - *"Spot on, performances make the difference"*
 >
 > **❌ False Agreement Signals:**
 >
-> - *"You've got a point, but..."*
+> - *"I see what you mean about speakers, but..."*
 >
-> - *"I suppose so..."* (ngập ngừng)
+> - *"That makes sense, although..."*
 >
-> - *"That's one way to look at it..."*
+> - *"You've got a point, however..."*
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/social-leisure/volunteering/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==providing entertainment==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
+> [!info] ⚡ Rapid Swap
+> ==providing entertainment== ⚡ ==putting on shows / performing music / entertaining visitors==
 >
-> **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> **🧠 Instant Logic:** Providing entertainment = putting on shows = performing
 
 ---
 
-### Tier 4: Mastery - Bi-weekly (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "Let me explain the different volunteer roles for the festival. Some positions involve introducing guest speakers before main talks. Others might be helping visitors find their seats. However, one of the most rewarding roles is providing entertainment. You'll be putting on small shows, playing music, or doing simple performances to keep people - especially children - engaged between events. We need volunteers who are enthusiastic and willing to share their talents, whether that's singing, dancing, or magic tricks."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** =="introducing guest speakers before main talks"==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Được nhắc đến trước với "Some positions involve..." và diễn ra trên sân khấu
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Audio nói rõ "However, one of the most rewarding roles is providing entertainment" - giới thiệu chỉ là một vai trò khác
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** =="helping visitors find their seats"==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Cũng liên quan đến hỗ trợ khách, được nhắc như vai trò khác
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* "However, one of the most rewarding roles is providing entertainment" - tìm chỗ ngồi là vai trò khác
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **✅ Correct Answer:** ==providing entertainment==
+> - *Why correct:* Audio dùng "most rewarding roles is providing entertainment" để nhấn mạnh, và mô tả cụ thể: putting on small shows, playing music, doing simple performances
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** =="providing entertainment"==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "Throughout the festival, we have designated entertainment areas where volunteers can provide entertainment. These aren't professional performances, but rather informal activities to create a fun atmosphere. You might play acoustic music, perform simple magic tricks, tell jokes, or organize games. The key is to engage visitors and create a welcoming environment between the main scheduled events on the big stages."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==create a fun atmosphere / engage visitors== → ==providing entertainment==
 >
-> - ==Audio phrase== → ==Option word==
+> - ==informal activities...acoustic music, magic tricks== → ==entertainment==
 >
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> - **🧠 Overall Logic:** Mọi hoạt động được mô tả đều nhằm mục đích giải trí, tạo niềm vui cho khách
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==providing entertainment==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Volunteering at community festivals*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
+> 1. ==putting on shows==
 >
-> 2. ==Paraphrase 2==
+> 2. ==entertaining festival visitors==
 >
 > **🎯 Goal:** Instant Recall
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
-### Card 18: Complete Question Synthesis *(MCQ only)*
-
-> **Full Question Context:**
-> =={{QUESTION_STEM}}==
->
-> **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
->
-> ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
-?
-> [!success] 🎯 Deep Logic Breakdown
-> **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
->
-> **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
->
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
->
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
 
 ---

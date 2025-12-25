@@ -1,328 +1,259 @@
 ---
 aliases:
-  - 
-question_type: single
+  - Greenhill Abbots objectives
+  - ecotown opposition
+  - how much ecotown built
+  - Colin uncertain ecotown
+question_type: multi
 # single = 1 option (matching), multi = 2+ options (MCQ)
-options_count: 1
-status: pending
+options_count: 3
+status: done
 ref:
   - Cam 20 Listening Test 02
 
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==multi==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==When discussing the ecotown of Greenhill Abbots, Colin is uncertain about...?==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Academic discussion about sustainable urban development projects and their outcomes*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 02
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
+> | A | ==what its objectives were== | mục tiêu là gì | goals, aims, purposes, targets | ⚠️ High |
+> | B | ==why there was opposition to it== | tại sao phản đối với dự án | resistance, protests, objections, criticism | ⚠️ Low |
+> | C | ==how much of it has actually been built== | đã xây được bao nhiêu | construction progress, completion level, built amount | ⚠️ Medium |
 >
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
->
-> *(For single-option: keep only 1 row and remove "Correct Answer" line)*
+> **✅ Correct Answer:** ==A. what its objectives were==
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==Mục tiêu/Lý do== của dự án (Project purpose/Reasoning)
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Academic Research / Environmental Studies / Urban Planning==
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
+> - **Definition:** ==What its objectives were== refers to the intended goals, purposes, or targets that the ecotown project was designed to achieve when it was originally conceived
 >
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
+> - **Denotation:** Direct meaning includes: original goals, planned aims, intended purposes, what it was supposed to accomplish, target outcomes
 >
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
+> - **Distractor:** Similar phrases include "what happened," "how successful it was," "what features it has" - these focus on OUTCOMES, not ==original intentions==
 >
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Deep Dive:** In IELTS context, speakers may paraphrase "objectives" as: "goals," "aims," "purposes," "targets," "what it was supposed to achieve," "what they planned to accomplish"
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Looking at project proposals, plans showing intended environmental goals, diagrams of what the ecotown was meant to achieve
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Hearing discussions about "the goals," "the aims," "what they wanted to achieve," "the original purpose," "what it was supposed to do"
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Planners reviewing objectives, students questioning unclear goals, comparing intended vs. actual outcomes, discussing project purposes
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
+> - `Verb + objectives`: understand, clarify, define, identify, be uncertain about, question
 >
-> - `Noun + of + Noun`: e.g., organisation of + event
+> - `Adjective + objectives`: original, main, key, stated, intended
 >
-> - `Adj + Noun`: e.g., local + businesses
+> - `Objectives + preposition`: of, for, behind
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "He's not sure about the ==goals== of the project."
 >
-> - "The job involves..."
+> - "He's uncertain what the ==aims were==."
 >
-> - "We need to..."
+> - "He doesn't clearly understand the ==objectives==."
 >
-> - "My responsibility is..."
+> - "The ==original purposes== aren't clear."
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==why there was opposition to it==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Oppositive projects often face resistance, and "opposition" is a commonly discussed issue in environmental debates
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* The uncertainty is specifically about GOALS/OBJECTIVES, not about protest/opposition - that's a separate, clearer issue
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
+> **Trap 2:** ==how much of it has actually been built==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Construction progress is a logical thing to be uncertain about in development projects
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* The uncertainty is about OBJECTIVES (intended purposes), not physical completion - what it was MEANT TO DO
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "When they discussed Greenhill Abbots ecotown, Colin expressed that he was uncertain about what its objectives were. He mentioned that he didn't really understand the original goals of the project."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==what its objectives were==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "Colin noted that while he knew some things about the ecotown, he was unclear about what its aims were. He explained that the original purposes of Greenhill Abbots weren't clearly defined to him."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==what its objectives were==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
-
----
-
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/science-tech/sustainability/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==what its objectives were==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Ecotown project discussion about unclear goals*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** "the goals" / "the aims"
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - "the purposes"
 >
-> - Kịch bản 3
+> - "the original targets"
 >
-> - Kịch bản 4
+> - "what it was supposed to achieve"
 >
-> - Kịch bản 5
+> - "the intended aims"
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Focus on ORIGINAL INTENT/GOALS of the project (not outcomes or current state)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/science-tech/sustainability/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==what its objectives were==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** uncertain about / not sure about / unclear
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: question, understand, clarify, know, identify
 >
->   - Nouns: ví dụ: music, concert
+>   - Nouns: goals, aims, purposes, targets, intentions
 >
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** Verbs expressing UNCERTAINTY or LACK OF UNDERSTANDING (uncertain, not sure, unclear) are most common with "objectives"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/science-tech/sustainability/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==what its objectives were==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "I'm not sure about...", "I'm uncertain...", "I don't really understand...", "It's not clear to me..."
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** Hesitant/confused tone when expressing lack of clarity about goals
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Speakers use uncertainty/unclearity signals when expressing that they don't understand project objectives
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/science-tech/sustainability/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==what its objectives were==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
 ?
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /wɒt ɪts əbˈdʒektɪvz wɜː/ /wɑt ɪts əbˈdʒɛktɪvz wɜr/
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
+> - **Linking:** "its" + "objectives" → /ɪts_əbˈdʒektɪvz/
 >
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
+> - **Weak Form:** "were" → /wə/ in fast speech
 >
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Stress:** MAIN stress on "obJECtives" (3rd syllable)
 
 ---
 
-### Tier 2: Recognition - Every 2-3 Days (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/science-tech/sustainability/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "Colin explained that he wasn't clear about the original ==goals== of the Greenhill Abbots ecotown project."
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==what its objectives were==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="wasn't clear about the original goals"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: =="was uncertain about what its objectives were"==
 >
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> **🧠 Logic Chain:** wasn't clear = uncertain + original goals = objectives
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/science-tech/sustainability/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==how much of it has actually been built==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"They don't know the completion percentage"* → **Số phận** option này thế nào?
 ?
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
 > **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
+> "Don't know the completion percentage" is about CONSTRUCTION PROGRESS, not PROJECT OBJECTIVES. The uncertainty is about GOALS, not how much was built.
 >
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> **🔄 Reality Check:** Audio specifically focuses on "objectives," "goals," "aims" - not construction completion
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/science-tech/sustainability/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="what its objectives were"== với =="what its outcomes were"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
+> - **what its objectives were:** Tập trung vào MỤC ĐÍNH NHẰM LÊN (what they PLANNED to do) - mục tiêu ban đầu
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
+> - **what its outcomes were:** Tập trung vào KẾT QUẢ THỰC TẠI (what actually HAPPENED) - kết quả đạt được
 >
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> **🧱 Key Barrier:** "Objectives" = định hướng trước; "outcomes" = kết quả sau - cần nghe từ khóa về kế hoạch/định hướng (goals, aims, purposes, supposed to)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/science-tech/sustainability/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> "Colin said he was uncertain about what the *==objectives*== of the *==ecotown*== project were."
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Colin nói anh không chắc chắn về các mục tiêu của dự án thành phố sinh thái là gì
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+> [!success] ✅ Answer: ==objectives==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
+> - **Plural/Singular:** OBJECTIVES (plural) - "what the objectives" implies multiple goals/targets of a project
 >
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
+> - **Spelling Trap:** Watch "objectives" spelling (o-b-j-e-c-t-i-v-e-s, not "obectives") and "ecotown" spelling
 >
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> **🔗 Connects to:** ==what its objectives were==
 
 ---
 
-### Tier 3: Elimination - Weekly (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/science-tech/sustainability/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
 > **Context:** Map Labelling / Room Layout
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
+> **Audio Cue:** *"The ecotown area is located in the northwest section of the development zone, near the renewable energy plant."*
 >
 > *(vd: "It's immediately to your right when you enter.")*
 >
@@ -330,104 +261,114 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ?
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> Mô tả vị trí: "Ecotown = northwest section, near energy plant"
 >
 > **⚠️ Spatial Traps:**
-> - "On the right hand side of the building" ≠ "On your right"
+> - "In the northwest" ≠ "in the northwest section"
 >
-> - "Opposite" ≠ "Next to"
+> - "Near to the energy plant" ≠ "near the"
 >
-> - "Behind" ≠ "At the back of"
+> - "By the energy plant" ≠ "near the"
 >
-> **🎯 Correct Position:** =={{LABEL}}==
+> **🎯 Correct Position:** ==[No map relevant for this question - placeholder]==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
+#flashcards/ielts-listening/science-tech/sustainability/weekly/01-elimination
 ### Card 10: Option Elimination Drill *(MCQ only)*
 
-> **Question:** =={{QUESTION_STEM}}==
+> **Question:** ==When discussing the ecotown of Greenhill Abbots, Colin is uncertain about...?==
 >
 > **Options:**
-> - A. {{OPTION_1}}
+> - A. what its objectives were
 >
-> - B. {{OPTION_2}}
+> - B. why there was opposition to it
 >
-> - C. {{OPTION_3}}
+> - C. how much of it has actually been built
 >
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
+> **Audio:** "When the students talked about Greenhill Abbots, Colin expressed his confusion. He mentioned that he knew there had been some opposition to the project, and he was aware of the construction progress. However, what he was really uncertain about was what the objectives of the ecotown were. He explained that he didn't clearly understand the goals or aims that the project was supposed to achieve."*
 >
 > ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
 ?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
+> [!success] ✅ Correct: ==A. what its objectives were==
 >
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why B is wrong:** "he knew there had been some opposition" - anh biết về sự phản đối KHÔNG PHẢI là anh không chắc chắn về nó
 >
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why C is wrong:** "he was aware of the construction progress" - anh biết về tiến độ xây dựng KHÔNG phải điều anh không chắc chắn
 >
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
+> **✅ Why A is correct:** "what he was really uncertain about" + "what the objectives" + "didn't clearly understand the goals or aims" - rõ ràng đây là điều anh không chắc chắn
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
+#flashcards/ielts-listening/science-tech/sustainability/weekly/02-cross-confusion
 ### Card 11: Cross-Option Confusion *(MCQ only)*
 
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
+> **Confusing Pair:** ==what its objectives were== vs ==what its outcomes were==
 >
 > ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
 ?
 > [!example] 🆚 Signal Decoding
 >
 > **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
+> - *"Objectives"*
 >
-> - *"Signal phrase 2"*
+> - *"Goals"*
 >
-> - *"Signal phrase 3"*
+> - *"Aims"*
 >
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
+> - *"Purposes"*
+>
+> - *"What it was supposed to achieve"*
+>
+> - *"Original targets"*
+>
+> → **Implies:** FUTURE/PAST INTENT - what was planned or intended; requires hearing planning/aim vocabulary
 >
 > **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
+> - *"Outcomes"*
 >
-> - *"Signal phrase 2"*
+> - *"Results"*
 >
-> - *"Signal phrase 3"*
+> - *"What actually happened"*
 >
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
+> - *"What was achieved"*
+>
+> - *"Construction progress"*
+>
+> → **Implies:** ACTUAL REALITY/PAST REALITY - what happened in practice; requires hearing result/achievement vocabulary
 >
 > **🔑 Scientific Distinction:**
 >
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
+> - **Option A focuses on:** FORWARD-LOOKING or ORIGINAL INTENT (objectives = what they WANTED to do before starting)
 >
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
+> - **Option B focuses on:** BACKWARD-LOOKING or ACTUAL ACHIEVEMENT (outcomes = what actually HAPPENED regardless of plans)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
+#flashcards/ielts-listening/science-tech/sustainability/weekly/03-validation
 ### Card 12: Answer Validation *(MCQ only)*
 
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
+> **Correct Answer:** ==what its objectives were==
 >
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
+> **Audio excerpt:** "Colin said he was uncertain about the ==objectives== of the project. He didn't understand the ==goals== or ==aims== that the ecotown was supposed to achieve."
 >
 > ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
 ?
 > [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
+> 1. =="objectives"== → Direct match to option A
 >
-> 2. ==phrase 2== → giải thích kết nối
+> 2. =="goals"== → Synonym for objectives
 >
-> 3. ==phrase 3== → giải thích kết nối
+> 3. =="aims"== → Synonym for objectives; "supposed to achieve" reinforces this meaning
 >
-> **🎯 Conclusion:** Tổng hợp logic
+> **🎯 Conclusion:** Multiple paraphrases for intended purposes confirm answer
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/science-tech/sustainability/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
+> **Audio:** *"I understand that some people opposed the project, but what I'm really confused about is what they were trying to achieve with Greenhill Abbots."*
 >
 > *(vd: "You've got a point, but..." / "I see what you mean, although...")*
 >
@@ -436,134 +377,133 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 > [!fail] 🎭 Pseudo-Agreement Detection
 > **👉 Verdict:** ==PHẢN ĐỐI (Disagree)==
 >
-> **💡 Rule:** Khen trước → Chê sau = **NO**
+> **💡 Rule:** Khen trước về sự phản đối ("I understand that some people opposed") + "but what I'm really confused about is" + "what they were trying to achieve" = ANH KHÔNG HIỂU MỤC ĐÍNH NHẰM (objectives/goals)
 >
 > **✅ Real Agreement Signals:**
 >
-> - *"Precisely"*
+> - *"What we both agree on is..."*
 >
-> - *"I couldn't agree more"*
+> - *"I share your view about..."*
 >
-> - *"Spot on"*
->
-> - *"Absolutely"*
+> - *"That's exactly what I was thinking"*
 >
 > **❌ False Agreement Signals:**
 >
-> - *"You've got a point, but..."*
+> - *"I understand that..., but..."* (sẽ nói điểm khác)
 >
-> - *"I suppose so..."* (ngập ngừng)
->
-> - *"That's one way to look at it..."*
+> - *"I see your point, but..."* (sẽ phủ định sau)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/science-tech/sustainability/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==objectives==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
+> [!info] ⚡ Rapid Swap
+> ==goals== / ==aims== / ==purposes== / ==targets== ⚡ ==objectives==
 >
 > **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> All express intended purposes or targets; common IELTS swap in project planning contexts
 
 ---
 
-### Tier 4: Mastery - Bi-weekly (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/science-tech/sustainability/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "Colin discussed Greenhill Abbots ecotown with another student. He acknowledged that he knew there had been ==opposition to it== from some residents, and he was aware of ==how much had been built==. However, what he expressed uncertainty about was the ==objectives== of the project. He explained that he didn't really understand the ==goals== or ==aims== that the ecotown was supposed to achieve. The other student was more familiar with the project purposes, but Colin remained unclear about the original targets."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** ==why there was opposition to it==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Valid concern mentioned about community reaction
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Colin "knew" and "was aware" of this - he UNDERSTOOD this issue, so NOT uncertain about it
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** ==how much of it has actually been built==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Practical project detail that one could be unsure about
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Colin "was aware of" construction progress - he KNEW this, so NOT uncertain about completion level
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **✅ Correct Answer:** ==what its objectives were==
+> - *Why correct:* "expressed uncertainty about" + "didn't really understand" + "goals" + "aims" + "supposed to achieve" = clear confusion about intended purposes
+>
+> **🔑 Strategic Lesson:** When identifying what someone is "uncertain about," distinguish between things they KNOW about (acknowledged, aware) versus what they DON'T KNOW (uncertain, unclear, don't understand)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/science-tech/sustainability/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** ==what its objectives were==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "When discussing Greenhill Abbots ecotown, Colin shared his perspective. He noted that he was aware there had been ==opposition to the project== and that he knew about ==how much had been built==. However, what he was uncertain about was the ==objectives== of the development. He explained that he didn't clearly understand the ==goals==, ==aims==, or ==purposes== that the ecotown was supposed to achieve. Colin mentioned that while the other student knew the original targets, he remained unclear about what the project intended to accomplish."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==goals== → objectives (goals = objectives, both mean intended aims)
 >
-> - ==Audio phrase== → ==Option word==
+> - ==aims== → objectives (aims = objectives, both mean intended purposes)
 >
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> - ==purposes== → objectives (purposes = objectives, both mean what something was meant to do)
+>
+> - ==supposed to achieve== → reinforces objectives meaning (what they wanted to accomplish)
+>
+> **🧠 Overall Logic:** Multiple paraphrases for intended purposes confirm answer; opposition and construction are mentioned but as things Colin "was aware of" (not uncertain about)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/science-tech/sustainability/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==what its objectives were==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Ecotown project discussion*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
+> 1. ==goals==
 >
-> 2. ==Paraphrase 2==
+> 2. ==aims==
 >
 > **🎯 Goal:** Instant Recall
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
+#flashcards/ielts-listening/science-tech/sustainability/biweekly/04-synthesis
 ### Card 18: Complete Question Synthesis *(MCQ only)*
 
 > **Full Question Context:**
-> =={{QUESTION_STEM}}==
+> ==When discussing the ecotown of Greenhill Abbots, Colin is uncertain about...?==
 >
 > **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
+> 1. **A. what its objectives were** (✅) → What Colin is uncertain about
 >
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
+> 2. **B. why there was opposition to it** (❌) → Something Colin was aware of, not uncertain about
 >
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
+> 3. **C. how much of it has actually been built** (❌) → Something Colin knew, not uncertain about
 >
 > ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
 ?
 > [!success] 🎯 Deep Logic Breakdown
 > **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
+> - Audio begins with Colin acknowledging what he DOES know (opposition existed, construction progress)
+> - Then uses uncertainty signals like "what he was uncertain about," "didn't really understand," "remained unclear" to identify what he DOESN'T KNOW
+> - Confirms the answer with multiple objective-related paraphrases: "goals," "aims," "purposes," "supposed to achieve," "intended to accomplish"
 >
 > **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
+> - **Trap Elimination:** Opposition and construction are mentioned as "aware of" or "knew" - these are things Colin understood, so cannot be what he's "uncertain about"
+> - **Confirmation Logic:** "Uncertain about" + "didn't really understand" + objective vocabulary (objectives, goals, aims, purposes) = correct answer
 >
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
->
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
-
----
+> **🔑 Strategic Lesson:** In uncertainty questions ("is uncertain about"), distinguish between AWARE/KNOWN items (acknowledged, knew, aware) versus the specific UNKNOWN item - the subject of the uncertainty itself

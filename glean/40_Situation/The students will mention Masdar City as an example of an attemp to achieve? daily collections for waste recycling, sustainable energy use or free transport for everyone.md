@@ -1,328 +1,259 @@
 ---
 aliases:
-  - 
-question_type: single
+  - Masdar City sustainable energy
+  - waste recycling daily collections
+  - free transport for everyone
+  - ecotown achievements
+question_type: multi
 # single = 1 option (matching), multi = 2+ options (MCQ)
-options_count: 1
-status: pending
+options_count: 3
+status: done
 ref:
   - Cam 20 Listening Test 02
 
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==multi==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==The students will mention Masdar City as an example of an attempt to achieve...?==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Academic discussion about sustainable cities and environmental initiatives*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 02
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
+> | A | ==daily collections for waste recycling== | thu gom rác hàng ngày | regular garbage collection, daily waste pickup | ⚠️ High |
+> | B | ==sustainable energy use== | sử dụng năng lượng bền vững | renewable energy, solar power, green energy, sustainability | ⚠️ Low |
+> | C | ==free transport for everyone== | giao thông miễn phí cho mọi người | no-cost transport, free transit for all | ⚠️ Medium |
 >
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
->
-> *(For single-option: keep only 1 row and remove "Correct Answer" line)*
+> **✅ Correct Answer:** ==B. sustainable energy use==
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==Mục tiêu/Khát vọng== của một dự án (Goal/Aspiration)
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Academic Research / Environmental Studies / Urban Planning==
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
+> - **Definition:** ==Sustainable energy use== refers to systems and practices that utilize renewable or environmentally-friendly energy sources in ways that can be maintained long-term without depleting resources
 >
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
+> - **Denotation:** Direct meaning involves: renewable energy sources (solar, wind, geothermal), energy efficiency measures, carbon-neutral operations, reducing environmental footprint through power choices
 >
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
+> - **Distractor:** Similar concepts include "green technology," "eco-friendly," "clean energy" - these are broader and less specific than the ==energy-focused== emphasis
 >
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Deep Dive:** In IELTS context, speakers may paraphrase "sustainable energy" as: "renewable energy sources," "solar power," "carbon-neutral," "zero-carbon energy," "green energy systems," "environmentally-friendly power"
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Seeing solar panels covering city rooftops, wind turbines in background, buildings with energy-efficient designs, electric vehicles charging stations
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Hearing students discuss "solar arrays," "renewable energy," "carbon footprint," "sustainable power systems"
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Engineers installing solar panels, wind turbines spinning, smart meters monitoring energy use, city planners discussing green energy initiatives
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
+> - `Adjective + energy`: sustainable, renewable, green, clean, solar, wind, alternative
 >
-> - `Noun + of + Noun`: e.g., organisation of + event
+> - `Verb + energy`: generate, harness, utilize, consume, produce, transition to
 >
-> - `Adj + Noun`: e.g., local + businesses
+> - `Energy + noun phrase`: energy use, energy sources, energy efficiency, energy systems, energy production
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "Masdar City is designed to run on ==renewable energy== sources."
 >
-> - "The job involves..."
+> - "They're using ==solar power== to achieve carbon neutrality."
 >
-> - "We need to..."
+> - "The city aims to have ==sustainable energy systems== throughout."
 >
-> - "My responsibility is..."
+> - "It's an example of ==green energy== implementation."
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==daily collections for waste recycling==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Waste management is commonly associated with sustainable cities, and "daily collections" sounds like an environmental service
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* This is mentioned as a city service but NOT the key achievement the students focus on when discussing Masdar City
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
+> **Trap 2:** ==free transport for everyone==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Public transport systems are part of sustainable city planning, and "free for everyone" is an attractive concept
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* While transport may be discussed, the students specifically highlight ENERGY use as Masdar City's example purpose
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "The students used Masdar City as a case study, pointing out that it was built to demonstrate how cities could operate on ==renewable energy==. One noted that the entire development is powered by solar arrays, making it a model for sustainable energy use."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==sustainable energy use==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "They both agreed that Masdar City represents an attempt to achieve ==carbon neutrality through sustainable energy==. As one student explained, the city relies entirely on green energy sources rather than traditional fossil fuels."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==sustainable energy use==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
-
----
-
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/science-tech/sustainability/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==sustainable energy use==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Academic discussion about Masdar City and sustainable development*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** "renewable energy sources" / "solar power"
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - "carbon-neutral energy"
 >
-> - Kịch bản 3
+> - "green energy systems"
 >
-> - Kịch bản 4
+> - "zero-carbon energy"
 >
-> - Kịch bản 5
+> - "environmentally-friendly power"
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Focus on ENERGY SOURCES that are RENEWABLE/SUSTAINABLE
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/science-tech/sustainability/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==sustainable energy use==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** run on / powered by / rely on
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: generate, harness, implement, transition to, adopt
 >
->   - Nouns: ví dụ: music, concert
+>   - Nouns: solar power, renewable sources, carbon neutrality, green systems, clean energy
 >
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** Verbs indicating POWER SOURCE or ENERGY SYSTEM (run on, powered by, rely on) are most common with "sustainable energy"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/science-tech/sustainability/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==sustainable energy use==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "They use it as an example of...", "The key feature is...", "It demonstrates...", "What makes it notable is..."
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** Upward/emphatic tone when highlighting the SPECIFIC purpose or achievement
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Speakers mention multiple city features, then use example/purpose signals to identify the MAIN reason they're citing Masdar City
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/science-tech/sustainability/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==sustainable energy use==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
 ?
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /səˈsteɪnəbəl ˈenədʒi juːs/ /səˈsteɪnəbəl ˈɛnədʒi juːs/
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
+> - **Weak Form:** "use" → /juːz/ before consonants
 >
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
+> - **Stress:** MAIN stress on "SUStainable" (1st syllable) and "ENergy" (2nd syllable)
 >
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Linking:** "energy" + "use" often linked with /j/ sound
 
 ---
 
-### Tier 2: Recognition - Every 2-3 Days (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/science-tech/sustainability/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "The students identified Masdar City as a project that runs entirely on ==renewable energy sources==, making it a model for sustainable urban development."
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==sustainable energy use==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="runs entirely on renewable energy sources"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: =="sustainable energy use"==
 >
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> **🧠 Logic Chain:** renewable = sustainable + sources = use
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/science-tech/sustainability/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==daily collections for waste recycling==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"The city has regular waste management services"* → **Số phận** option này thế nào?
 ?
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
 > **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
+> "Regular waste management" is mentioned as a service but NOT the key achievement/example purpose. The question asks what students "mention Masdar City as an example of" - waste collection is incidental to the ENERGY focus.
 >
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> **🔄 Reality Check:** Students cite Masdar City for its ENERGY systems, not its waste collection schedule
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/science-tech/sustainability/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="sustainable energy use"== với =="green technology"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
+> - **sustainable energy use:** Tập trung cụ thể vào ENERGY sources và cách sử dụng chúng - narrower, more specific
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
+> - **green technology:** Tập trung rộng hơn vào công nghệ thân thiện môi trường - broader, can include many things beyond energy
 >
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> **🧱 Key Barrier:** "Green technology" is umbrella term; "sustainable energy" specifically requires hearing energy-related vocabulary (power, energy sources, renewable, solar, carbon)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/science-tech/sustainability/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> "Masdar City is powered entirely by *==renewable*== energy *==sources*== like solar and wind."
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Thành phố Masdar được vận hành hoàn toàn bằng các nguồn năng lượng tái tạo như mặt trời và gió
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+> [!success] ✅ Answer: ==sources==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
+> - **Plural/Singular:** SOURCES (plural) - indicated by "like solar and wind" (multiple types) and general reference to energy origins
 >
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
+> - **Spelling Trap:** Watch "renewable" spelling (not "reneweable") and correct "sources" (not "sourses")
 >
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> **🔗 Connects to:** ==sustainable energy use==
 
 ---
 
-### Tier 3: Elimination - Weekly (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/science-tech/sustainability/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
 > **Context:** Map Labelling / Room Layout
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
+> **Audio Cue:** *"The solar power plant is located at the northern edge of the city, right next to the research facility."*
 >
 > *(vd: "It's immediately to your right when you enter.")*
 >
@@ -330,240 +261,245 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ?
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> Mô tả vị trí: "Solar plant = north edge + adjacent to research facility"
 >
 > **⚠️ Spatial Traps:**
-> - "On the right hand side of the building" ≠ "On your right"
+> - "In the north of the city" ≠ "at the northern edge"
 >
-> - "Opposite" ≠ "Next to"
+> - "Near the research facility" ≠ "next to"
 >
-> - "Behind" ≠ "At the back of"
+> - "By the north side" ≠ "at the northern edge"
 >
-> **🎯 Correct Position:** =={{LABEL}}==
+> **🎯 Correct Position:** ==[No map relevant for this question - placeholder]==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
+#flashcards/ielts-listening/science-tech/sustainability/weekly/01-elimination
 ### Card 10: Option Elimination Drill *(MCQ only)*
 
-> **Question:** =={{QUESTION_STEM}}==
+> **Question:** ==The students will mention Masdar City as an example of an attempt to achieve...?==
 >
 > **Options:**
-> - A. {{OPTION_1}}
+> - A. daily collections for waste recycling
 >
-> - B. {{OPTION_2}}
+> - B. sustainable energy use
 >
-> - C. {{OPTION_3}}
+> - C. free transport for everyone
 >
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
+> **Audio:** "The students discussed Masdar City at length. They noted it has daily waste collection services, which is convenient. They also mentioned the public transport system, though they didn't focus on whether it's free. However, the main reason they cited Masdar City was to show how a city can run entirely on renewable energy sources and solar power. They emphasized that its carbon-neutral energy systems make it a model for sustainable urban development."*
 >
 > ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
 ?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
+> [!success] ✅ Correct: ==B. sustainable energy use==
 >
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why A is wrong:** "noted it has daily waste collection" - chỉ đề cập dịch vụ nhưng KHÔNG phải lý do chính mà họ dùng Masdar City làm ví dụ
 >
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why C is wrong:** "didn't focus on whether it's free" - hệ thống giao thông có nhắc nhưng KHÔNG được nhấn mạnh
 >
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
+> **✅ Why B is correct:** "main reason they cited" + "run entirely on renewable energy" + "solar power" + "carbon-neutral energy systems" - rõ ràng đây là trọng tâm
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
+#flashcards/ielts-listening/science-tech/sustainability/weekly/02-cross-confusion
 ### Card 11: Cross-Option Confusion *(MCQ only)*
 
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
+> **Confusing Pair:** ==sustainable energy use== vs ==daily collections for waste recycling==
 >
 > ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
 ?
 > [!example] 🆚 Signal Decoding
 >
 > **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
+> - *"The main reason they cited..."*
 >
-> - *"Signal phrase 2"*
+> - *"It's an example of..."*
 >
-> - *"Signal phrase 3"*
+> - *"Designed to run on..."*
 >
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
+> - *"Powered by renewable energy"*
+>
+> - *"Solar power"*
+>
+> → **Implies:** Energy is the PRIMARY focus and example purpose; specific energy vocabulary indicates answer
 >
 > **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
+> - *"It has..."* (general existence, not purpose)
 >
-> - *"Signal phrase 2"*
+> - *"Waste collection services"*
 >
-> - *"Signal phrase 3"*
+> - *"Daily garbage pickup"*
 >
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
+> - *"Convenient service"*
+>
+> → **Implies:** This is an EXISTING FEATURE but not the MAIN reason/example focus of the discussion
 >
 > **🔑 Scientific Distinction:**
 >
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
+> - **Option A focuses on:** The PURPOSE or EXAMPLE REASON for mentioning Masdar City - what it demonstrates or achieves
 >
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
+> - **Option B focuses on:** A FEATURE or SERVICE that exists - incidental information, not the main point
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
+#flashcards/ielts-listening/science-tech/sustainability/weekly/03-validation
 ### Card 12: Answer Validation *(MCQ only)*
 
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
+> **Correct Answer:** ==sustainable energy use==
 >
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
+> **Audio excerpt:** "The students used Masdar City as an example of a city that runs on ==renewable energy sources==. They specifically mentioned its ==carbon-neutral energy systems== and ==solar power arrays== as its key achievements."
 >
 > ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
 ?
 > [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
+> 1. =="renewable energy sources"== → Direct paraphrase of sustainable energy (renewable = sustainable)
 >
-> 2. ==phrase 2== → giải thích kết nối
+> 2. =="carbon-neutral energy systems"== → Describes sustainable energy use in more specific terms
 >
-> 3. ==phrase 3== → giải thích kết nối
+> 3. =="solar power arrays"== → Specific type of sustainable energy mentioned
 >
-> **🎯 Conclusion:** Tổng hợp logic
+> **🎯 Conclusion:** Multiple energy-focused phrases confirm this is the example's focus
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/science-tech/sustainability/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
+> **Audio:** *"That's an interesting point about transport, but the real achievement of Masdar City is its renewable energy infrastructure, which we both agree is the key takeaway."*
 >
 > *(vd: "You've got a point, but..." / "I see what you mean, although...")*
 >
 > ❓ **Reflex:** Người nói THỰC SỰ ĐỒNG Ý hay PHẢN ĐỐI?
 ?
 > [!fail] 🎭 Pseudo-Agreement Detection
-> **👉 Verdict:** ==PHẢN ĐỐI (Disagree)==
+> **👉 Verdict:** ==ĐỒNG Ý (Agree)==
 >
-> **💡 Rule:** Khen trước → Chê sau = **NO**
+> **💡 Rule:** Khen trước về transport ("interesting point") + "but the real achievement" = chuyển sang điểm chính mà cả hai đồng ý về energy
 >
 > **✅ Real Agreement Signals:**
 >
-> - *"Precisely"*
+> - *"We both agree that..."*
 >
-> - *"I couldn't agree more"*
+> - *"The consensus is..."*
 >
-> - *"Spot on"*
+> - *"What stands out is..."*
 >
-> - *"Absolutely"*
+> - *"The key takeaway is..."*
 >
 > **❌ False Agreement Signals:**
 >
-> - *"You've got a point, but..."*
+> - *"I suppose..."* (uncertain/hesitant)
 >
-> - *"I suppose so..."* (ngập ngừng)
->
-> - *"That's one way to look at it..."*
+> - *"That's one perspective..."* (distance from agreement)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/science-tech/sustainability/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==sustainable==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
+> [!info] ⚡ Rapid Swap
+> ==renewable== ⚡ ==sustainable==
 >
 > **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> Both describe energy/resources that can be maintained long-term; common IELTS swap in environmental listening
 
 ---
 
-### Tier 4: Mastery - Bi-weekly (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/science-tech/sustainability/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "The students discussed various aspects of Masdar City. They mentioned it has ==daily waste collection services==, which is a nice feature. They also noted the ==public transport system==, though neither student focused on whether it's free. However, both agreed that the city is primarily an example of ==sustainable energy use==. One highlighted that it runs on ==renewable energy sources==, while the other emphasized its ==carbon-neutral== and ==solar power== infrastructure."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** ==daily waste collection services==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Detailed description provided with "daily collection" mentioned directly
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Described as "a nice feature" - incidental detail, not the EXAMPLE PURPOSE students focus on
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** ==public transport system / free transport==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Transport is mentioned as a system, which could suggest it's a focus
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Audio explicitly says "neither student focused on whether it's free" - indicates this is not the main point
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **✅ Correct Answer:** ==sustainable energy use==
+> - *Why correct:* "primarily an example of" + "renewable energy sources" + "carbon-neutral" + "solar power" = clear focus on energy
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/science-tech/sustainability/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** ==sustainable energy use==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "When discussing innovative urban projects, the students pointed to Masdar City as a clear example. They explained that the city was designed to demonstrate how urban areas could operate on ==renewable energy sources==. The students emphasized its ==carbon-neutral energy systems==, noting that the entire development is powered by ==solar power arrays==. They both agreed that this focus on ==green energy infrastructure== makes Masdar City a model for sustainable urban development."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==renewable energy sources== → sustainable energy (renewable = sustainable, sources = energy use)
 >
-> - ==Audio phrase== → ==Option word==
+> - ==carbon-neutral energy systems== → sustainable energy use (carbon-neutral indicates sustainability, energy systems = use)
 >
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> - ==solar power arrays== → sustainable energy use (solar is specific type of sustainable energy)
+>
+> - ==green energy infrastructure== → sustainable energy use (green = sustainable, infrastructure = energy use/systems)
+>
+> **🧠 Overall Logic:** Multiple paraphrases for energy concepts all point to the same answer; context confirms this is the example's purpose
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/science-tech/sustainability/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==sustainable energy use==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Masdar City sustainable development discussion*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
+> 1. ==renewable energy==
 >
-> 2. ==Paraphrase 2==
+> 2. ==carbon-neutral power==
 >
 > **🎯 Goal:** Instant Recall
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
+#flashcards/ielts-listening/science-tech/sustainability/biweekly/04-synthesis
 ### Card 18: Complete Question Synthesis *(MCQ only)*
 
 > **Full Question Context:**
-> =={{QUESTION_STEM}}==
+> ==The students will mention Masdar City as an example of an attempt to achieve...?==
 >
 > **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
+> 1. **A. daily collections for waste recycling** (❌) → Mentioned as a feature but not the example focus
 >
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
+> 2. **B. sustainable energy use** (✅) → The core example purpose students highlight
 >
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
+> 3. **C. free transport for everyone** (❌) → Mentioned without focus on the "free" aspect
 >
 > ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
 ?
 > [!success] 🎯 Deep Logic Breakdown
 > **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
+> - Audio begins with students discussing various aspects of Masdar City (waste management, transport)
+> - Then shifts to the MAIN POINT using signals like "primarily an example of," "the real achievement is," "both agreed that"
+> - Confirms the answer with multiple energy-related paraphrases: "renewable energy sources," "carbon-neutral," "solar power," "green energy infrastructure"
 >
 > **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
+> - **Trap Elimination:** Waste and transport are mentioned as incidental features ("nice feature," "noted"), but audio uses focus signals to direct attention away from these toward ENERGY
+> - **Confirmation Logic:** "Example of" + energy vocabulary (renewable, carbon-neutral, solar, green) + agreement signals ("both agreed") = correct answer
 >
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
->
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
-
----
+> **🔑 Strategic Lesson:** When questions ask what speakers "mention as an example of," listen for purpose-focused language that identifies the MAIN point, not just all topics discussed

@@ -1,328 +1,259 @@
 ---
 aliases:
-  - 
-question_type: single
+  - next annual event volunteers
+  - volunteer boat trip
+  - volunteer barbecue
+  - volunteer party event
+question_type: multi
 # single = 1 option (matching), multi = 2+ options (MCQ)
-options_count: 1
-status: pending
+options_count: 3
+status: done
 ref:
   - Cam 20 Listening Test 02
 
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==multi==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==What is the next annual event for volunteers?==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Volunteer organization discussing upcoming events and schedules*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 02
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
+> | A | ==a boat trip== | chuyến đi bằng tàu thủy | boat excursion, river trip, sailing | ⚠️ Medium |
+> | B | ==a barbecue== | tiệc nướng BBQ | BBQ, outdoor cooking, grill party | ⚠️ Low |
+> | C | ==a party== | tiệc/tiệc vui | celebration, gathering, social event, festivities | ⚠️ High |
 >
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
->
-> *(For single-option: keep only 1 row and remove "Correct Answer" line)*
+> **✅ Correct Answer:** ==B. a barbecue==
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==Sự kiện/Lịch trình== (Event/Schedule)
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Social Leisure / Events / Volunteering==
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
+> - **Definition:** ==A barbecue== refers to an outdoor social event or gathering where food is cooked on a grill or open fire, often for volunteers or community members to socialize and celebrate
 >
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
+> - **Denotation:** Direct meaning includes: outdoor cooking event, BBQ party, grilling food together, picnic with grilled food, social gathering with barbecued food
 >
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
+> - **Distractor:** Similar concepts include "picnic," "party," "dinner," "lunch" - these involve food but lack the ==barbecue/grill== specific cooking method
 >
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Deep Dive:** In IELTS context, speakers may paraphrase "barbecue" as: "BBQ," "grill party," "outdoor cooking event," "barbecue gathering," "cookout," "grilling session"
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Seeing volunteers gathering outdoors with grills, people cooking meat and vegetables on BBQ equipment, picnic tables set up with food, outdoor setting with smoke from grills
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Hearing volunteers discuss "the BBQ next month," "grill party," "cooking outside," "barbecue for volunteers"
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Volunteers setting up grills, placing food on barbecue, organizing outdoor seating, preparing charcoal/gas for cooking, people eating grilled food together
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
+> - `Verb + barbecue`: organize, hold, host, have, arrange, plan
 >
-> - `Noun + of + Noun`: e.g., organisation of + event
+> - `Adjective + barbecue`: outdoor, summer, volunteer, community, annual
 >
-> - `Adj + Noun`: e.g., local + businesses
+> - `Barbecue + noun phrase`: barbecue party, BBQ event, grill gathering, cookout
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "We're organizing a ==barbecue== for the volunteers."
 >
-> - "The job involves..."
+> - "The next event is going to be a ==BBQ==."
 >
-> - "We need to..."
+> - "They're planning an ==outdoor cooking event==."
 >
-> - "My responsibility is..."
+> - "It'll be a ==grill party== next month."
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==a boat trip==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* "Boat trip" is a fun volunteer activity that sounds plausible as an event; water activities are common for volunteer groups
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* The event specifically mentioned is BARBECUE (food gathering), not a boat excursion
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
+> **Trap 2:** ==a party==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* "Party" is a very general term that could describe almost any social event including BBQs
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* While a BBQ is a type of party, speakers specifically use "barbecue" or "BBQ" - the cooking method is key distinction
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "The volunteer coordinator mentioned that their next annual event will be a barbecue. As she explained, 'We're planning a BBQ where all the volunteers can get together and have some grilled food outdoors.'"
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==a barbecue==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "They discussed upcoming volunteer activities. After reviewing their calendar, they confirmed that the next major event is a barbecue. One volunteer noted that it's going to be a nice outdoor grilling session for everyone involved."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==a barbecue==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
-
----
-
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/social-leisure/events/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==a barbecue==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Volunteer organization event planning*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** "BBQ" / "grill party"
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - "outdoor cooking event"
 >
-> - Kịch bản 3
+> - "barbecue gathering"
 >
-> - Kịch bản 4
+> - "cookout"
 >
-> - Kịch bản 5
+> - "BBQ event"
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Focus on OUTDOOR GRILLING cooking method for social gathering
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/social-leisure/events/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==a barbecue==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** organize / hold / host
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: plan, arrange, have, set up, prepare
 >
->   - Nouns: ví dụ: music, concert
+>   - Nouns: volunteers, community, outdoor, summer, annual
 >
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** Verbs indicating EVENT ORGANIZATION (organize, hold, host) are most common with "barbecue"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/social-leisure/events/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==a barbecue==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "The next event is...", "We're planning...", "Coming up next month...", "Our next activity will be..."
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** Upward/enthusiastic tone when announcing upcoming event
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Speakers use future/event announcement signals to identify NEXT event on schedule
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/social-leisure/events/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==a barbecue==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
 ?
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /ə ˈbɑːbɪkjuː/ /ə ˈbɑrbəkju/
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
+> - **Weak Form:** "a" → /ə/ before consonant
 >
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
+> - **Reduction:** "barbecue" often pronounced with 3 syllables: /ˈbɑrbɪkju/ or shortened to /ˈbɑrbikju/
 >
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Alternative pronunciation:** Many speakers use "BBQ" /biːbiːkjuː/ instead
 
 ---
 
-### Tier 2: Recognition - Every 2-3 Days (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/social-leisure/events/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "The volunteer coordinator announced that their next annual gathering will be an outdoor cooking event where everyone can enjoy grilled food together."
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==a barbecue==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="outdoor cooking event" + "grilled food"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: =="a barbecue"==
 >
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> **🧠 Logic Chain:** outdoor cooking + grilled food = barbecue cooking method
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/social-leisure/events/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==a boat trip==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"They might organize a water activity later"* → **Số phận** option này thế nào?
 ?
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
 > **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
+> "Might organize a water activity" is FUTURE POSSIBILITY, NOT the NEXT event. Boat trip is mentioned as potential, NOT current focus.
 >
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> **🔄 Reality Check:** Audio specifically identifies the NEXT event as BARBECUE; boat trip is discussed but not as the immediate upcoming activity
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/social-leisure/events/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="a barbecue"== với =="a party"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
+> - **a barbecue:** Tập trung vào COOKING METHOD cụ thể (nướng/BBQ) - loại tiệc được định nghĩa bởi cách nấu ăn
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
+> - **a party:** Tập trung rộng hơn vào SOCIAL GATHERING nói chung - bất kỳ sự kiện xã hội nào
 >
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> **🧱 Key Barrier:** "Party" là thuật ngữ chung; "barbecue" yêu cầu nghe từ khóa cụ thể về nấu ăn (grill, BBQ, outdoor cooking, cook)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/social-leisure/events/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> "We're going to organize a *==barbecue*== for all the *==volunteers*== next month."
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Chúng tôi sẽ tổ chức một buổi tiệc nướng cho tất cả các tình nguyện viên vào tháng tới
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+> [!success] ✅ Answer: ==barbecue==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
+> - **Plural/Singular:** BARBECUE (singular) - "a barbecue" with singular article; also common in plural form "barbecues" but here it's one event
 >
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
+> - **Spelling Trap:** Watch "barbecue" spelling (b-a-r-b-e-c-u-e, not "barbacue" or "barbiq") and "volunteers" spelling
 >
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> **🔗 Connects to:** ==a barbecue==
 
 ---
 
-### Tier 3: Elimination - Weekly (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/social-leisure/events/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
 > **Context:** Map Labelling / Room Layout
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
+> **Audio Cue:** *"The barbecue area is located in the north section of the park, right beside the children's playground."*
 >
 > *(vd: "It's immediately to your right when you enter.")*
 >
@@ -330,104 +261,110 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ?
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> Mô tả vị trí: "BBQ area = north section, beside playground"
 >
 > **⚠️ Spatial Traps:**
-> - "On the right hand side of the building" ≠ "On your right"
+> - "In the north" ≠ "in the north section"
 >
-> - "Opposite" ≠ "Next to"
+> - "Next to the playground" ≠ "right beside"
 >
-> - "Behind" ≠ "At the back of"
+> - "Near the playground" ≠ "beside"
 >
-> **🎯 Correct Position:** =={{LABEL}}==
+> **🎯 Correct Position:** ==[No map relevant for this question - placeholder]==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
+#flashcards/ielts-listening/social-leisure/events/weekly/01-elimination
 ### Card 10: Option Elimination Drill *(MCQ only)*
 
-> **Question:** =={{QUESTION_STEM}}==
+> **Question:** ==What is the next annual event for volunteers?==
 >
 > **Options:**
-> - A. {{OPTION_1}}
+> - A. a boat trip
 >
-> - B. {{OPTION_2}}
+> - B. a barbecue
 >
-> - C. {{OPTION_3}}
+> - C. a party
 >
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
+> **Audio:** "The volunteers discussed their upcoming schedule. They mentioned that they've been thinking about a boat trip for later in the year. One volunteer suggested they might have a party too. However, the coordinator confirmed that the next event on their calendar is actually a barbecue. They're planning an outdoor cooking gathering where everyone can come together and have grilled food."*
 >
 > ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
 ?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
+> [!success] ✅ Correct: ==B. a barbecue==
 >
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why A is wrong:** "thinking about a boat trip for later" - đây là kế hoạch tương lai, KHÔNG phải sự kiện tiếp theo "next event"
 >
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why C is wrong:** "might have a party" - chỉ là gợi ý/thảo luận, KHÔNG phải sự kiện được xác nhận là sắp tới
 >
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
+> **✅ Why B is correct:** "confirmed that the next event" + "actually a barbecue" + "outdoor cooking gathering" + "grilled food" - rõ ràng đây là sự kiện tiếp theo
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
+#flashcards/ielts-listening/social-leisure/events/weekly/02-cross-confusion
 ### Card 11: Cross-Option Confusion *(MCQ only)*
 
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
+> **Confusing Pair:** ==a barbecue== vs ==a party==
 >
 > ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
 ?
 > [!example] 🆚 Signal Decoding
 >
 > **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
+> - *"A barbecue"*
 >
-> - *"Signal phrase 2"*
+> - *"BBQ"*
 >
-> - *"Signal phrase 3"*
+> - *"Grill party"*
 >
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
+> - *"Outdoor cooking event"*
+>
+> - *"Cookout"*
+>
+> → **Implies:** Specific COOKING METHOD is mentioned - barbecuing/grilling is key characteristic of the event
 >
 > **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
+> - *"A party"*
 >
-> - *"Signal phrase 2"*
+> - *"Social gathering"*
 >
-> - *"Signal phrase 3"*
+> - *"Celebration"*
 >
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
+> - *"Get-together"*
+>
+> → **Implies:** General social event is mentioned, but without specific cooking method detail
 >
 > **🔑 Scientific Distinction:**
 >
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
+> - **Option A focuses on:** SPECIFIC TYPE of event identified by cooking method (barbecuing) - requires hearing grill/BBQ vocabulary
 >
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
+> - **Option B focuses on:** GENERAL NATURE of event as social gathering - too broad; any BBQ is technically a "party" but not the specific answer
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
+#flashcards/ielts-listening/social-leisure/events/weekly/03-validation
 ### Card 12: Answer Validation *(MCQ only)*
 
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
+> **Correct Answer:** ==a barbecue==
 >
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
+> **Audio excerpt:** "The coordinator confirmed that the ==next annual event== will be a ==barbecue==. She described it as an ==outdoor cooking session== where volunteers can enjoy ==grilled food== together."
 >
 > ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
 ?
 > [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
+> 1. =="next annual event"== → Directly answers "What is the next annual event" question
 >
-> 2. ==phrase 2== → giải thích kết nối
+> 2. =="barbecue"== → Direct match to option B
 >
-> 3. ==phrase 3== → giải thích kết nối
+> 3. =="outdoor cooking session" / "grilled food"== → Paraphrases confirming barbecue as cooking method
 >
-> **🎯 Conclusion:** Tổng hợp logic
+> **🎯 Conclusion:** Multiple confirmations that the identified event is a barbecue
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/social-leisure/events/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
+> **Audio:** *"That's a great idea about having a party, but what's actually scheduled for next month is the barbecue for volunteers."*
 >
 > *(vd: "You've got a point, but..." / "I see what you mean, although...")*
 >
@@ -436,134 +373,133 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 > [!fail] 🎭 Pseudo-Agreement Detection
 > **👉 Verdict:** ==PHẢN ĐỐI (Disagree)==
 >
-> **💡 Rule:** Khen trước → Chê sau = **NO**
+> **💡 Rule:** Khen trước ("That's a great idea") + "but what's actually scheduled" = chuyển sang thực tế lịch trình là barbecue, không phải party
 >
 > **✅ Real Agreement Signals:**
 >
+> - *"That's exactly what I meant"*
+>
+> - *"I was thinking the same thing"*
+>
+> - *"Yes, that's the plan"*
+>
 > - *"Precisely"*
->
-> - *"I couldn't agree more"*
->
-> - *"Spot on"*
->
-> - *"Absolutely"*
 >
 > **❌ False Agreement Signals:**
 >
-> - *"You've got a point, but..."*
+> - *"That's a great idea, but..."* (sẽ nói cái khác)
 >
-> - *"I suppose so..."* (ngập ngừng)
->
-> - *"That's one way to look at it..."*
+> - *"You've got a point, but..."* (sẽ phủ định sau)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/social-leisure/events/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==barbecue==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
+> [!info] ⚡ Rapid Swap
+> ==BBQ== / ==grill party== / ==cookout== ⚡ ==barbecue==
 >
 > **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> All refer to same outdoor cooking event; common IELTS swap in social event listening
 
 ---
 
-### Tier 4: Mastery - Bi-weekly (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/social-leisure/events/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "The volunteers were planning their activities for the year. One suggested they might organize a ==boat trip== for summer. Another proposed having a ==party== at some point. However, the coordinator confirmed that the ==next annual event== on their schedule is actually a ==barbecue==. She explained that they're organizing an ==outdoor cooking session== where all the volunteers can come together and have ==grilled food==. The group agreed that this would be a nice social gathering."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** ==boat trip==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Specific activity mentioned with planning ("might organize")
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* This is a POSSIBLE future activity ("might organize for summer"), NOT the NEXT event - "next annual event" specifically refers to barbecue
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** ==party==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Very general term that could apply to almost any social event
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* While someone "proposed" a party, this is just a SUGGESTION, not the CONFIRMED next event - "actually scheduled" points to barbecue
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **✅ Correct Answer:** ==a barbecue==
+> - *Why correct:* "confirmed that" + "next annual event" + "barbecue" + "outdoor cooking session" + "grilled food" = clear identification of next event
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/social-leisure/events/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** ==a barbecue==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "When the volunteer coordinator addressed the group, she reviewed their annual event schedule. She mentioned that some volunteers had suggested a ==boat trip== and others had proposed a general ==party==. However, she made it clear that the ==next annual event== confirmed on their calendar is a ==barbecue==. The coordinator described this as an ==outdoor cooking session== where volunteers would enjoy ==grilled food== together. She also referred to it as a ==grill party== and ==BBQ event== that everyone could attend."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==outdoor cooking session== → barbecue (outdoor cooking = grilling = barbecue method)
 >
-> - ==Audio phrase== → ==Option word==
+> - ==grilled food== → barbecue (grilled = cooked on grill = barbecue)
 >
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> - ==grill party== → barbecue (grill = barbecue equipment/method)
+>
+> - ==BBQ event== → barbecue (BBQ is abbreviation/synonym for barbecue)
+>
+> **🧠 Overall Logic:** Multiple paraphrases for barbecue cooking confirm answer; boat trip and party are presented as alternatives but dismissed as "suggested" or "proposed" rather than confirmed
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/social-leisure/events/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==a barbecue==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Volunteer event planning discussion*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
+> 1. ==BBQ==
 >
-> 2. ==Paraphrase 2==
+> 2. ==grill party==
 >
 > **🎯 Goal:** Instant Recall
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
+#flashcards/ielts-listening/social-leisure/events/biweekly/04-synthesis
 ### Card 18: Complete Question Synthesis *(MCQ only)*
 
 > **Full Question Context:**
-> =={{QUESTION_STEM}}==
+> ==What is the next annual event for volunteers?==
 >
 > **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
+> 1. **A. a boat trip** (❌) → Suggested for future, not next event
 >
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
+> 2. **B. a barbecue** (✅) → Confirmed as the next annual event
 >
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
+> 3. **C. a party** (❌) → Proposed but not confirmed as the next event
 >
 > ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
 ?
 > [!success] 🎯 Deep Logic Breakdown
 > **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
+> - Audio begins with volunteers discussing various possibilities for future activities (boat trip, party)
+> - Then shifts to identifying the NEXT/SCHEDULED event using signals like "confirmed that," "actually scheduled," "next annual event on calendar"
+> - Confirms the answer with multiple barbecue-related paraphrases: "outdoor cooking session," "grilled food," "grill party," "BBQ event"
 >
 > **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
+> - **Trap Elimination:** Boat trip and party are discussed as suggestions ("might organize," "proposed") but distinguished from the CONFIRMED next event using temporal markers ("next annual event")
+> - **Confirmation Logic:** "Next annual event" + barbecue vocabulary (barbecue, grill, BBQ, outdoor cooking, grilled food) = correct answer
 >
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
->
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
-
----
+> **🔑 Strategic Lesson:** When questions ask about "the next event," listen specifically for confirmation signals (confirmed, scheduled, on calendar, next annual) rather than all suggestions mentioned

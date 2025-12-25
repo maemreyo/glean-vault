@@ -1,569 +1,373 @@
 ---
 aliases:
-  - 
+  - helping people find seats
+  - guiding visitors seats
+  - seating assistance guests
 question_type: single
-# single = 1 option (matching), multi = 2+ options (MCQ)
 options_count: 1
-status: pending
+status: done
 ref:
   - Cam 20 Listening Test 02
-
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==single==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==the role of the volunteers is==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Volunteering at community festivals*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 02
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
->
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
->
-> *(For single-option: keep only 1 row and remove "Correct Answer" line)*
+> | A | ==helping people find their seats== | Giúp mọi người tìm chỗ ngồi của họ | guide people to seats, show seating, assist with seating | ⚠️ Medium |
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==Hành động / Trách nhiệm== (Action/Responsibility)
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Volunteering== / Venue Management
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
+> - **Definition:** Tình nguyện viên hỗ trợ người tham quan ==định vị chỗ ngồi== của họ tại khu vực biểu diễn hoặc sân khấu
 >
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
+> - **Denotation:** "Helping people find their seats" = "guide people to seating" = "show where to sit" = "assist with seating arrangements"
 >
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
+> - **Distractor:** "Giving advice" nghe giống vì cũng là hỗ trợ khách, nhưng đó là trả lời câu hỏi chung chứ không phải ==hướng dẫn đến chỗ ngồi cụ thể==
 >
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Deep Dive:** Paraphrasing sâu = "direct people to their allocated seats", "help guests locate their seating areas", "guide audience members to their places", "assist with seating arrangements"
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Hình dung tình nguyện viên cầm vé hoặc bản đồ khu vực ngồi, đang ==chỉ tay hướng dẫn== khách đến số ghế hoặc khu vực của họ
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Tiếng khách hỏi "Where is seat A15?", câu trả lời "Go down this aisle, second row on your right", tiếng cảm ơn "Thank you!"
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Người tổ chức nói "Your job is to ==direct people== to their assigned seating areas"
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
+> - `Verb + Noun`: find + seats, locate + seating, guide + people, show + places, direct + guests
 >
-> - `Noun + of + Noun`: e.g., organisation of + event
->
-> - `Adj + Noun`: e.g., local + businesses
+> - `Noun + Preposition + Noun`: seating + for + events, seats + in + rows, assigned + areas
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "Your role will be ==helping people find their seats== in the main auditorium"
 >
-> - "The job involves..."
+> - "Volunteers are needed to ==guide guests== to their assigned seating"
 >
-> - "We need to..."
+> - "You'll be ==assisting people== with finding their places"
 >
-> - "My responsibility is..."
+> - "The job involves ==showing visitors== where to sit"
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==giving advice to visitors== (đánh lạc hướng)
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Cả hai đều là hỗ trợ khách tham quan, đều là nói chuyện trả lời câu hỏi
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* "Giving advice" là cung cấp thông tin chung về lễ hội (lịch trình, hoạt động). "Finding seats" là ==hướng dẫn đến vị trí cụ thể== cho ghế của từng người
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
+> **Trap 2:** ==providing entertainment==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Cả hai đều diễn ra tại khu vực biểu diễn nơi khách ngồi và xem biểu diễn
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* "Providing entertainment" là người biểu diễn. "Helping find seats" là tình nguyện viên ==đứng ngoài sân khấu== hỗ trợ khách tìm chỗ
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "For the main stage performances, we need volunteers to help people find their seats. Many attendees will have reserved seating with specific row and seat numbers. Your task will be to check their tickets and guide them to the correct area - whether it's front row, back section, or one of the side areas."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==helping people find their seats==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "We're expecting a full house for the evening concerts. Volunteers in this role will be stationed at various entry points to the seating area. You'll be helping people find their seats by checking their ticket details and directing them to the right row and seat number. Please be patient as people may arrive in groups and need assistance together."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==helping people find their seats==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
-
----
-
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/social-leisure/volunteering/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==helping people find their seats==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Volunteering at community festivals*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** "Your role is to ==guide people== to their seats"
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - "You'll be ==assisting visitors== with locating their seating"
 >
-> - Kịch bản 3
+> - "The job involves ==directing guests== to their assigned places"
 >
-> - Kịch bản 4
+> - "Volunteers will ==help people find== where to sit"
 >
-> - Kịch bản 5
+> - "Your main task is ==showing audience members== to their seats"
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Hướng dẫn khách đến vị trí ghế của họ
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/social-leisure/volunteering/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==helping people find their seats==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** find + seats
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: locate, guide, direct, show, assist
 >
->   - Nouns: ví dụ: music, concert
+>   - Nouns: seating, places, assigned areas, rows
 >
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** "Seats" thường đi với "find, locate, guide to, show"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/social-leisure/volunteering/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==helping people find their seats==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "Your task will be...", "You'll be stationed at...", "For this role...", "What you need to do is..."
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** Xuống giọng (Certain/Instrucional) khi mô tả trách nhiệm cụ thể
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Signpost báo hiệu đang mô tả công việc hướng dẫn chỗ ngồi
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/social-leisure/volunteering/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==helping people find their seats==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
 ?
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /ɡɛlpɪŋ ˈpiːpl faɪnd ðeə siːts/
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
+> - **Linking:** "find their" → /faɪndðeə/, "their seats" → /ðeəsiːts/
 >
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
+> - **Elision:** Âm /r/ trong "their" có thể bị nuốt nhẹ
 >
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Weak Form:** "to" thành /tə/ trong "find their seats to"
 
 ---
 
-### Tier 2: Recognition - Every 2-3 Days (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "We need volunteers at the seating area entrance to guide guests to their assigned seats"
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==helping people find their seats==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="guide guests to their assigned seats"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: =="helping people find their seats"==
 >
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> **🧠 Logic Chain:** Guide to assigned seats = help find seats; guests = people
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==giving advice about the schedule==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"Your job is NOT to answer questions about timing, but to direct them physically to their seats"* → **Số phận** option này thế nào?
 ?
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
 > **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
+> Audio nói "NOT to answer questions about timing" (lịch trình) và "direct them physically" - khác nhau về kiểu hỗ trợ
 >
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> **🔄 Reality Check:** "Giving advice about schedule" là tư vấn thông tin chung, "finding seats" là hướng dẫn vật lý đến vị trí cụ thể
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="helping people find their seats"== với =="giving advice to visitors"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
+> - **helping people find their seats:** Tập trung vào ==hướng dẫn vật lý== - dẫn tay, chỉ đường đến chỗ ngồi cụ thể dựa trên vé
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
+> - **giving advice to visitors:** Tập trung vào ==trả lời câu hỏi thông tin== - lịch trình, hoạt động, nhà vệ sinh, không chỉ định vị trí ghế
 >
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> **🧱 Key Barrier:** Dựa trên kết quả hành động - đưa đến chỗ ngồi vs cung cấp thông tin chung
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> "Your main duty is to help people find their ==______== in the auditorium"
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Nhiệm vụ chính của bạn là giúp mọi người tìm chỗ ngồi của họ trong khán phòng
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+> [!success] ✅ Answer: ==seats==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
+> - **Plural/Singular:** Có 's' - mỗi người một ghế nhưng "their" chỉ về nhiều người và nhiều ghế
 >
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
+> - **Spelling Trap:** Lưu ý: seat + s = seats, không phải seets
 >
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> **🔗 Connects to:** ==helping people find their seats==
 
 ---
 
-### Tier 3: Elimination - Weekly (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
-> **Context:** Map Labelling / Room Layout
+> **Context:** Seating Area Layout
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
->
-> *(vd: "It's immediately to your right when you enter.")*
+> **Audio Cue:** *"The seating area is divided into front, middle, and back sections. Rows are numbered from the stage. People need help finding their seats in section B"*
 >
 > ❓ **Reflex:** Hình dung vị trí trong đầu NGAY LẬP TỨC?
 ?
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> Khu vực ngồi chia làm 3 phần: trước, giữa, sau. Hàng được đánh số từ sân khấu. Tình nguyện viên hỗ trợ tìm ghế trong khu vực B
 >
 > **⚠️ Spatial Traps:**
-> - "On the right hand side of the building" ≠ "On your right"
+> - "Section A" ≠ "Section B"*
 >
-> - "Opposite" ≠ "Next to"
+> - "Near the stage" ≠ "back section"*
 >
-> - "Behind" ≠ "At the back of"
+> - "Row numbers from back" ≠ "numbered from the stage"*
 >
-> **🎯 Correct Position:** =={{LABEL}}==
+> **🎯 Correct Position:** ==Section B - middle/back area==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
-### Card 10: Option Elimination Drill *(MCQ only)*
-
-> **Question:** =={{QUESTION_STEM}}==
->
-> **Options:**
-> - A. {{OPTION_1}}
->
-> - B. {{OPTION_2}}
->
-> - C. {{OPTION_3}}
->
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
->
-> ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
-?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
->
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
->
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
->
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
-### Card 11: Cross-Option Confusion *(MCQ only)*
-
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
->
-> ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
-?
-> [!example] 🆚 Signal Decoding
->
-> **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
->
-> **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
->
-> **🔑 Scientific Distinction:**
->
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
->
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
-### Card 12: Answer Validation *(MCQ only)*
-
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
->
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
->
-> ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
-?
-> [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
->
-> 2. ==phrase 2== → giải thích kết nối
->
-> 3. ==phrase 3== → giải thích kết nối
->
-> **🎯 Conclusion:** Tổng hợp logic
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/social-leisure/volunteering/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
->
-> *(vd: "You've got a point, but..." / "I see what you mean, although...")*
+> **Audio:** *"I understand that providing information is important, but physically guiding people to their seats is what we really need help with today"*
 >
 > ❓ **Reflex:** Người nói THỰC SỰ ĐỒNG Ý hay PHẢN ĐỐI?
 ?
 > [!fail] 🎭 Pseudo-Agreement Detection
 > **👉 Verdict:** ==PHẢN ĐỐI (Disagree)==
 >
-> **💡 Rule:** Khen trước → Chê sau = **NO**
+> **💡 Rule:** Khen trước → Chê sau = **NO** - "I understand...is important" nhưng "but...is what we really need" là phủ định
 >
 > **✅ Real Agreement Signals:**
 >
-> - *"Precisely"*
+> - *"Precisely, guiding to seats is key"*
 >
-> - *"I couldn't agree more"*
+> - *"Absolutely, that's the main task"*
 >
-> - *"Spot on"*
->
-> - *"Absolutely"*
+> - *"Spot on, seating assistance is critical"*
 >
 > **❌ False Agreement Signals:**
 >
-> - *"You've got a point, but..."*
+> - *"I see what you mean about information, but..."*
 >
-> - *"I suppose so..."* (ngập ngừng)
+> - *"That makes sense, although..."*
 >
-> - *"That's one way to look at it..."*
+> - *"You've got a point, however..."*
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/social-leisure/volunteering/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==helping people find their seats==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
+> [!info] ⚡ Rapid Swap
+> ==find their seats== ⚡ ==guide people to seats / locate seating / direct guests to places==
 >
-> **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> **🧠 Instant Logic:** Finding seats = guiding = locating seating = directing
 
 ---
 
-### Tier 4: Mastery - Bi-weekly (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "Let me explain the different volunteer roles for the concert area. Some volunteers will be selling tickets at the entrance. Others might be giving advice about the schedule. But the main seating assistance role involves helping people find their seats. You'll check their tickets and physically guide them to their row and seat number - whether it's in the front section, back area, or side seating."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** =="selling tickets at the entrance"==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Được nhắc đến trước với "Some volunteers will be..." và liên quan đến khu vực biểu diễn
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Audio nói rõ "But the main seating assistance role involves helping people find their seats" - bán vé là vai trò khác
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** =="giving advice about the schedule"==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Cũng được nhắc như một vai trò tình nguyện viên khác
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* "But the main seating assistance role" xác định rõ helping find seats là trách nhiệm chính
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **✅ Correct Answer:** ==helping people find their seats==
+> - *Why correct:* Audio dùng "main seating assistance role involves" để nhấn mạnh, và li kê cụ thể công việc: check tickets, physically guide to row and seat number
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** =="helping people find their seats"==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "We need volunteers specifically for the seating area. Your job will be helping people find their seats when they arrive for performances. This means checking their ticket information, which will show their assigned row and seat number, and then guiding them to the correct location. Many people might be unfamiliar with the venue layout, so your assistance will be really valuable."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==checking their ticket information== → ==helping people find their seats== (cách xác định chỗ ngồi)
 >
-> - ==Audio phrase== → ==Option word==
+> - ==guiding them to the correct location== → ==helping find their seats==
 >
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> - **🧠 Overall Logic:** Mọi cụm từ đều chỉ vào việc hỗ trợ khách định vị trí ghế của họ
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==helping people find their seats==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Volunteering at community festivals*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
+> 1. ==guide people to their seats==
 >
-> 2. ==Paraphrase 2==
+> 2. ==direct guests to their seating areas==
 >
 > **🎯 Goal:** Instant Recall
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
-### Card 18: Complete Question Synthesis *(MCQ only)*
-
-> **Full Question Context:**
-> =={{QUESTION_STEM}}==
->
-> **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
->
-> ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
-?
-> [!success] 🎯 Deep Logic Breakdown
-> **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
->
-> **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
->
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
->
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
 
 ---

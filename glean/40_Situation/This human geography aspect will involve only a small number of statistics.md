@@ -1,328 +1,257 @@
 ---
 aliases:
-  - 
+  - small number of statistics
+  - limited statistics
+  - few data points
+  - minimal statistical data
 question_type: single
 # single = 1 option (matching), multi = 2+ options (MCQ)
 options_count: 1
-status: pending
+status: done
 ref:
   - Cam 20 Listening Test 02
 
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==single==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==This human geography aspect will involve only a small number of statistics.==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Academic discussion about research methodology and data availability*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 02
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
->
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
+> | A | ==involve only a small number of statistics== | chỉ bao gồm số liệu hạn chế | limited data, few statistics, minimal data points | ⚠️ High |
 >
 > *(For single-option: keep only 1 row and remove "Correct Answer" line)*
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==Đặc điểm phương pháp/Lượng dữ liệu== của nghiên cứu (Methodology characteristic / Data quantity)
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Academic Research / Data Collection / Research Planning==
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
+> - **Definition:** ==Involve only a small number of statistics== refers to a research project or study that uses minimal quantitative data, limited numerical findings, or few statistical measures to support conclusions
 >
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
+> - **Denotation:** Direct meaning includes: limited data availability, few statistics to analyze, minimal quantitative information, scarce numerical data, restricted statistical findings
 >
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
+> - **Distractor:** Similar phrases include "not accurate," "too complex," "hard to understand," "not useful" - these express quality or difficulty, not ==quantity/amount==
 >
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Deep Dive:** In IELTS context, speakers may paraphrase "small number of statistics" as: "limited data," "few statistics available," "minimal data points," "not many numerical findings," "scarce statistical information," "restricts us to just a few statistics"
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Looking at a research report with sparse tables, a few scattered data points on graphs, empty or minimal statistical charts
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Hearing expressions like "we only have a few figures," "the data is limited," "there aren't many statistics available," "we're restricted to minimal data"
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Researchers examining empty data tables, students noting limited information in reports, pointing out sparse numerical findings
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
+> - `Adjective + number of`: small, limited, few, minimal, restricted, low
 >
-> - `Noun + of + Noun`: e.g., organisation of + event
+> - `Verb + number`: involve, contain, have, provide, yield, generate
 >
-> - `Adj + Noun`: e.g., local + businesses
+> - `Number + of + noun`: statistics, data points, figures, numerical findings, data
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "There's only a ==limited amount of data== available."
 >
-> - "The job involves..."
+> - "We won't have many ==statistics to work with==."
 >
-> - "We need to..."
+> - "The study involves ==very few data points==."
 >
-> - "My responsibility is..."
+> - "We're restricted to a ==small number of statistics==."
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==statistics are not accurate==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Research discussions often question data quality, and "not accurate" sounds like a concern about statistics
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* The issue is AMOUNT/QUANTITY of data, not ACCURACY - "small number" indicates scarcity, not inaccuracy
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
+> **Trap 2:** ==too many statistics to analyze==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Statistical analysis often involves complex datasets, and "too many" could seem like a problem
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* This suggests OPPOSITE of what's stated - "small number" means too FEW, not too MANY
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "When they examined the human geography aspect, they found it would involve only a small number of statistics. As one student noted, 'There aren't many data points available for us to analyze.'"
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==involve only a small number of statistics==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "The students discussed that this particular aspect is limited in terms of data. One explained that they'd have to work with very few statistics, as there isn't much quantitative information available."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==involve only a small number of statistics==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
-
----
-
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/education-training/academic-research/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==involve only a small number of statistics==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Academic discussion about research data availability*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** "limited data" / "few statistics available"
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - "minimal data points"
 >
-> - Kịch bản 3
+> - "not many numerical findings"
 >
-> - Kịch bản 4
+> - "scarce statistical information"
 >
-> - Kịch bản 5
+> - "restricted to just a few statistics"
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Focus on LIMITED QUANTITY/AMOUNT of data (not quality or accuracy)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/education-training/academic-research/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==involve only a small number of statistics==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** involve / contain / have
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: provide, yield, generate, produce, work with
 >
->   - Nouns: ví dụ: music, concert
+>   - Nouns: data points, figures, numerical findings, statistical information, data
 >
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** Verbs indicating INCLUSION or AVAILABILITY (involve, contain, have) are most common with "statistics/data"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/education-training/academic-research/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==involve only a small number of statistics==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "The limitation is...", "The constraint is...", "The problem is...", "However..."
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** Downward/concerned tone when noting insufficiency or limitation
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Speakers identify limitation signals when discussing what research can or cannot accomplish in terms of data
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/education-training/academic-research/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==involve only a small number of statistics==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
 ?
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /ɪnˈvɒlv ˈəʊnli ə smɔːl ˈnʌmbər əv stəˈtɪstɪks/ /ɪnˈvɑlv ˈoʊnli ə smɔl ˈnʌmbər əv stəˈtɪstɪks/
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
+> - **Linking:** "only" + "a" → /oʊnli_ə/
 >
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
+> - **Weak Form:** "of" → /əv/ in fast speech
 >
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Stress:** MAIN stress on "inVOLVE" (2nd syllable), "NUMber" (2nd syllable), "staTIS" (2nd syllable)
 
 ---
 
-### Tier 2: Recognition - Every 2-3 Days (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/education-training/academic-research/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "They realized that the research project would involve ==very few data points==, as there isn't much statistical information available on this aspect."
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==involve only a small number of statistics==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="involve very few data points"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: =="involve only a small number of statistics"==
 >
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> **🧠 Logic Chain:** very few = only a small number + data points = statistics
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/education-training/academic-research/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==statistics are not accurate==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"The data has some reliability issues"* → **Số phận** option này thế nào?
 ?
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
 > **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
+> "Reliability issues" concerns DATA QUALITY, but the option is about AMOUNT ("small number"). "Not accurate" is about correctness, not quantity.
 >
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> **🔄 Reality Check:** Audio focuses on HOW MUCH data is available, not whether it's correct/reliable
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/education-training/academic-research/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="involve only a small number of statistics"== với =="statistics are not accurate"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
+> - **involve only a small number of statistics:** Tập trung vào SỐ LƯỢNG - có bao nhiêu con số liệu, không phải chất lượng
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
+> - **statistics are not accurate:** Tập trung vào CHẤT LƯỢNG/ĐÚNG ĐẮN - độ tin cậy của dữ liệu, không phải số lượng
 >
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> **🧱 Key Barrier:** "Not accurate" = chất liệu sai; "small number" = số lượng ít - cần nghe từ khóa về số lượng (few, limited, minimal, small, scarce)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/education-training/academic-research/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> "They will only have access to a *==limited*== number of *==statistics*== for this research."
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Họ sẽ chỉ được truy cập đến số lượng thống kê hạn chế cho nghiên cứu này
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+> [!success] ✅ Answer: ==statistics==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
+> - **Plural/Singular:** STATISTICS (plural) - general reference to data sets and findings, not a single statistic
 >
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
+> - **Spelling Trap:** Watch "statistics" spelling (st-A-T-I-S-T-I-C-S, double 't') and "limited" (not "limmited")
 >
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> **🔗 Connects to:** ==involve only a small number of statistics==
 
 ---
 
-### Tier 3: Elimination - Weekly (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/education-training/academic-research/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
 > **Context:** Map Labelling / Room Layout
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
+> **Audio Cue:** *"The statistics section with limited data is located in the southwest corner of the research facility, near the archives."*
 >
 > *(vd: "It's immediately to your right when you enter.")*
 >
@@ -330,104 +259,23 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ?
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> Mô tả vị trí: "Statistics section = southwest corner, near archives"
 >
 > **⚠️ Spatial Traps:**
-> - "On the right hand side of the building" ≠ "On your right"
+> - "In the southwest" ≠ "in the southwest corner"
 >
-> - "Opposite" ≠ "Next to"
+> - "Near to archives" ≠ "near the archives"
 >
-> - "Behind" ≠ "At the back of"
+> - "By the archives" ≠ "near the archives"
 >
-> **🎯 Correct Position:** =={{LABEL}}==
+> **🎯 Correct Position:** ==[No map relevant for this question - placeholder]==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
-### Card 10: Option Elimination Drill *(MCQ only)*
-
-> **Question:** =={{QUESTION_STEM}}==
->
-> **Options:**
-> - A. {{OPTION_1}}
->
-> - B. {{OPTION_2}}
->
-> - C. {{OPTION_3}}
->
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
->
-> ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
-?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
->
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
->
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
->
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
-### Card 11: Cross-Option Confusion *(MCQ only)*
-
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
->
-> ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
-?
-> [!example] 🆚 Signal Decoding
->
-> **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
->
-> **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
->
-> **🔑 Scientific Distinction:**
->
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
->
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
-### Card 12: Answer Validation *(MCQ only)*
-
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
->
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
->
-> ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
-?
-> [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
->
-> 2. ==phrase 2== → giải thích kết nối
->
-> 3. ==phrase 3== → giải thích kết nối
->
-> **🎯 Conclusion:** Tổng hợp logic
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/education-training/academic-research/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
+> **Audio:** *"I understand your concern about data accuracy, but what we're really facing is that there simply aren't many statistics to work with."*
 >
 > *(vd: "You've got a point, but..." / "I see what you mean, although...")*
 >
@@ -436,7 +284,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 > [!fail] 🎭 Pseudo-Agreement Detection
 > **👉 Verdict:** ==PHẢN ĐỐI (Disagree)==
 >
-> **💡 Rule:** Khen trước → Chê sau = **NO**
+> **💡 Rule:** Khen trước về chất liệu ("understand your concern about accuracy") + "but what we're really facing is" + "simply aren't many" = chuyển sang vấn đề SỐ LƯỢNG dữ liệu
 >
 > **✅ Real Agreement Signals:**
 >
@@ -444,126 +292,94 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 >
 > - *"I couldn't agree more"*
 >
-> - *"Spot on"*
+> - *"Exactly"*
 >
-> - *"Absolutely"*
+> - *"That's the point"*
 >
 > **❌ False Agreement Signals:**
 >
-> - *"You've got a point, but..."*
+> - *"I understand your concern, but..."* (sẽ phủ định sau)
 >
-> - *"I suppose so..."* (ngập ngừng)
->
-> - *"That's one way to look at it..."*
+> - *"That's one way to look at it..."* (đồng ý một phần nhưng không hoàn toàn)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/education-training/academic-research/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==small number==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
+> [!info] ⚡ Rapid Swap
+> ==limited== / ==few== / ==minimal== ⚡ ==small number==
 >
 > **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> All express low quantity or insufficiency; common IELTS swap in research methodology contexts
 
 ---
 
-### Tier 4: Mastery - Bi-weekly (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/education-training/academic-research/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "The students discussed various concerns about the human geography aspect. One worried that the ==statistics might not be accurate==, while another was concerned that there would be ==too many statistics to analyze==. However, they concluded that the real issue is that the research will involve ==only a small number of statistics==. As one explained, 'We're limited by the fact that there are very few data points available,' while the other confirmed they'd have to work with minimal statistical information."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** ==statistics might not be accurate==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Valid research concern about data quality
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* This is about ACCURACY/QUALITY, but the speakers focus on AMOUNT/QUANTITY - discussion shifts away from accuracy to quantity
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** ==too many statistics to analyze==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Concern about overwhelming data, which is realistic for research
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* This is OPPOSITE of what's stated - "small number" means too FEW, not too many; "only a small number" clearly indicates insufficiency
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **✅ Correct Answer:** ==involve only a small number of statistics==
+> - *Why correct:* "real issue is" + "limited by the fact" + "very few data points" + "minimal statistical information" = clear focus on quantity limitation
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/education-training/academic-research/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** ==involve only a small number of statistics==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "When evaluating the human geography research aspect, the students identified several potential challenges. Initially, one student was concerned that the ==statistics might not be accurate==, and another worried there would be ==too many statistics to analyze==. However, after reviewing available data, they agreed that the real constraint is that the research will involve ==only a small number of statistics==. One emphasized they're ==limited by very few data points==, while the other confirmed they'd have to work with ==minimal statistical information== and ==scarce numerical findings==."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==limited by very few data points== → involve only a small number of statistics (limited by = only, very few = small number, data points = statistics)
 >
-> - ==Audio phrase== → ==Option word==
+> - ==work with minimal statistical information== → involve only a small number of statistics (work with = involve, minimal = small/limited, statistical information = statistics)
 >
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> - ==scarce numerical findings== → involve only a small number of statistics (scarce = limited/small, numerical findings = statistics)
+>
+> **🧠 Overall Logic:** Multiple paraphrases for quantity limitation confirm answer; initial concerns (accuracy, too many) are dismissed in favor of "too few" issue
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/education-training/academic-research/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==involve only a small number of statistics==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Academic research data discussion*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
+> 1. ==limited data==
 >
-> 2. ==Paraphrase 2==
+> 2. ==few statistics available==
 >
 > **🎯 Goal:** Instant Recall
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
-### Card 18: Complete Question Synthesis *(MCQ only)*
-
-> **Full Question Context:**
-> =={{QUESTION_STEM}}==
->
-> **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
->
-> ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
-?
-> [!success] 🎯 Deep Logic Breakdown
-> **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
->
-> **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
->
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
->
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
-
----

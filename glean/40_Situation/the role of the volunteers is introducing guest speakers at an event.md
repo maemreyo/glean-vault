@@ -1,569 +1,371 @@
 ---
 aliases:
-  - 
+  - introducing guest speakers
+  - presenting event speakers
+  - announcing speakers presentations
 question_type: single
-# single = 1 option (matching), multi = 2+ options (MCQ)
 options_count: 1
-status: pending
+status: done
 ref:
   - Cam 20 Listening Test 02
-
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==single==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==the role of the volunteers is==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Volunteering at community festivals*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 02
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
->
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
->
-> *(For single-option: keep only 1 row and remove "Correct Answer" line)*
+> | A | ==introducing guest speakers at an event== | Giới thiệu diễn giả khách tại sự kiện | present speakers, announce guests, introduce presenters | ⚠️ Medium |
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==Hành động / Trách nhiệm== (Action/Responsibility)
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Volunteering== / Event Management
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
+> - **Definition:** Tình nguyện viên có trách nhiệm ==đưa diễn giả khách lên sân khấu==, giới thiệu họ với khán giả và thông báo về buổi trình diễn
 >
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
+> - **Denotation:** "Introducing guest speakers" = "present speakers" = "announce guests" = "host speaker sessions"
 >
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
+> - **Distractor:** "Providing entertainment" nghe giống vì cũng diễn ra trên sân khấu trước công chúng, nhưng đó là ==tình nguyện viên biểu diễn== chứ không phải người ==giới thiệu==
 >
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Deep Dive:** Paraphrasing sâu = "bring speakers on stage", "announce guest presenters", "host speaker introductions", "present guest speakers to audience"
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Hình dung tình nguyện viên đứng cạnh sân khấu, đang ==cầm micro== hoặc ==giới thiệu== người lên sân khấu trước công chúng
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Nghe thấy tiếng giới thiệu "Please welcome...", tiếng vỗ tay, tiếng cảm ơn, người nói "Next, we have..."
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Người tổ chức nói "You'll be ==introducing== the speakers for each session"
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
+> - `Verb + Noun`: introduce + speakers, present + guests, announce + presenters, host + sessions
 >
-> - `Noun + of + Noun`: e.g., organisation of + event
->
-> - `Adj + Noun`: e.g., local + businesses
+> - `Adj + Noun`: guest + speakers, invited + guests, featured + presenters, special + speakers
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "Your role will be ==introducing guest speakers== at the main stage"
 >
-> - "The job involves..."
+> - "We need volunteers to ==present the speakers== for each session"
 >
-> - "We need to..."
+> - "You'll be ==announcing guest speakers== before each talk"
 >
-> - "My responsibility is..."
+> - "The job involves ==hosting speaker introductions== throughout the event"
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==providing entertainment== (đánh lạc hướng)
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Cả hai đều diễn ra trên sân khấu - người lên sân khấu trước công chúng
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* "Providing entertainment" là tình nguyện viên ==tự biểu diễn== (nhạc, kịch, múa). "Introducing speakers" là người ==đứng ngoài sân khấu== nói trước, không phải người biểu diễn chính
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
+> **Trap 2:** ==contacting local businesses==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Cả hai đều là tương tác với người bên ngoài - giới thiệu hoặc liên hệ với nhóm khác
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* "Contacting businesses" là kết nối với tổ chức. "Introducing speakers" là giới thiệu ==cá nhân== lên sân khấu, không tổ chức
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "For the speaker sessions at the festival, we need volunteers to introduce guest speakers. Each session will have different speakers - authors, scientists, and community leaders. Your task will be to welcome them, briefly mention their background, and announce the title of their talk before they begin."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==introducing guest speakers at an event==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "We have a series of talks and presentations throughout the day. Volunteers in this role will be responsible for introducing guest speakers at each session. You'll announce their names, their affiliations, and the topic they'll be discussing. Please make sure to speak clearly so the entire audience can hear."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==introducing guest speakers at an event==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
-
----
-
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/social-leisure/volunteering/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==introducing guest speakers at an event==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Volunteering at community festivals*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** "You'll be ==announcing== the speakers for each session"
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - "Your role is to ==introduce== guest presenters"
 >
-> - Kịch bản 3
+> - "The job involves ==presenting speakers== to the audience"
 >
-> - Kịch bản 4
+> - "Volunteers will ==welcome guest speakers== on stage"
 >
-> - Kịch bản 5
+> - "Your main task is ==hosting speaker introductions=="
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Giới thiệu diễn giả trước khán giả
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/social-leisure/volunteering/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==introducing guest speakers at an event==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** introduce + speakers
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: present, announce, welcome, host
 >
->   - Nouns: ví dụ: music, concert
+>   - Nouns: guests, presenters, speakers, talks
 >
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** "Speakers" thường đi với "introduce, present, announce, welcome"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/social-leisure/volunteering/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==introducing guest speakers at an event==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "For each session...", "Before they begin...", "Next, we have...", "Please welcome..."
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** Lên giọng (Welcoming/Formal) khi giới thiệu diễn giả, Xuống giọng khi chốt
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Signpost báo hiệu sắp đến giới thiệu diễn giả mới
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/social-leisure/volunteering/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==introducing guest speakers at an event==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
 ?
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /ˌɪntrəˈdjuːsɪŋ ɡɛst ˈspiːkəz æt ən ɪˈvent/
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
+> - **Linking:** "introducing guest" → /ˌɪntrəˈdjuːsɪŋɡɛst/, "guest speakers" → /ɡɛstˈspiːkəz/
 >
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
+> - **Elision:** Âm /g/ trong "guest" có thể bị nuốt nhẹ khi nối
 >
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Weak Form:** "at" thành /ət/ trong "at an event"
 
 ---
 
-### Tier 2: Recognition - Every 2-3 Days (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "We need volunteers to announce guest presenters before each presentation begins"
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==introducing guest speakers at an event==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="announce guest presenters before each presentation begins"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: =="introducing guest speakers at an event"==
 >
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> **🧠 Logic Chain:** Announce presenters = introducing speakers; before presentation = at event
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==providing entertainment==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"Your job is NOT to perform on stage yourself, but to introduce the people who will"* → **Số phận** option này thế nào?
 ?
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
 > **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
+> Audio nói "NOT to perform on stage yourself" và "introduce the people who will" - phân định rõ là người giới thiệu, không phải người biểu diễn
 >
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> **🔄 Reality Check:** "Providing entertainment" là tự lên sân khấu biểu diễn, "introducing speakers" là giới thiệu người khác
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="introducing guest speakers at an event"== với =="providing entertainment"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
+> - **introducing guest speakers at an event:** Tập trung vào ==người giới thiệu== - đứng ngoài sân khấu, nói trước, cầm micro, không phải người biểu diễn chính
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
+> - **providing entertainment:** Tập trung vào ==người biểu diễn== - chính là người lên sân khấu thể hiện (nhạc, kịch, vũ đạo)
 >
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> **🧱 Key Barrier:** Dựa trên vai trò - giới thiệu người khác vs tự biểu diễn
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> "Your responsibility is to introduce guest ==______== for each session"
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Trách nhiệm của bạn là giới thiệu diễn giả khách cho mỗi buổi trình diễn
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+> [!success] ✅ Answer: ==speakers==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
+> - **Plural/Singular:** Có 's' - mỗi buổi có thể nhiều diễn giả, và "each session" ám chỉ nhiều lần
 >
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
+> - **Spelling Trap:** Lưu ý: speaker + s = speakers, không phải speekers
 >
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> **🔗 Connects to:** ==introducing guest speakers at an event==
 
 ---
 
-### Tier 3: Elimination - Weekly (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
-> **Context:** Map Labelling / Room Layout
+> **Context:** Stage/Event Layout
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
->
-> *(vd: "It's immediately to your right when you enter.")*
+> **Audio Cue:** *"Speakers will wait in the side room next to the stage. Volunteers need to stand at the microphone to introduce them before they walk onto the main platform"*
 >
 > ❓ **Reflex:** Hình dung vị trí trong đầu NGAY LẬP TỨC?
 ?
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> Diễn giả chờ ở ==phòng bên cạnh sân khấu==. Tình nguyện viên đứng ở micro cạnh sân khấu chính để giới thiệu trước khi họ bước lên
 >
 > **⚠️ Spatial Traps:**
-> - "On the right hand side of the building" ≠ "On your right"
+> - "On the stage" ≠ "next to the stage"*
 >
-> - "Opposite" ≠ "Next to"
+> - "In the audience" ≠ "at the microphone"*
 >
-> - "Behind" ≠ "At the back of"
+> - "Backstage" ≠ "side room next to the stage"*
 >
-> **🎯 Correct Position:** =={{LABEL}}==
+> **🎯 Correct Position:** ==Microphone - next to main stage==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
-### Card 10: Option Elimination Drill *(MCQ only)*
-
-> **Question:** =={{QUESTION_STEM}}==
->
-> **Options:**
-> - A. {{OPTION_1}}
->
-> - B. {{OPTION_2}}
->
-> - C. {{OPTION_3}}
->
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
->
-> ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
-?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
->
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
->
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
->
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
-### Card 11: Cross-Option Confusion *(MCQ only)*
-
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
->
-> ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
-?
-> [!example] 🆚 Signal Decoding
->
-> **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
->
-> **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
->
-> **🔑 Scientific Distinction:**
->
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
->
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
-### Card 12: Answer Validation *(MCQ only)*
-
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
->
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
->
-> ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
-?
-> [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
->
-> 2. ==phrase 2== → giải thích kết nối
->
-> 3. ==phrase 3== → giải thích kết nối
->
-> **🎯 Conclusion:** Tổng hợp logic
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/social-leisure/volunteering/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
->
-> *(vd: "You've got a point, but..." / "I see what you mean, although...")*
+> **Audio:** *"I agree that having performers is important, but what we actually need are volunteers to introduce them properly to the audience"*
 >
 > ❓ **Reflex:** Người nói THỰC SỰ ĐỒNG Ý hay PHẢN ĐỐI?
 ?
 > [!fail] 🎭 Pseudo-Agreement Detection
 > **👉 Verdict:** ==PHẢN ĐỐI (Disagree)==
 >
-> **💡 Rule:** Khen trước → Chê sau = **NO**
+> **💡 Rule:** Khen trước → Chê sau = **NO** - "I agree...is important" nhưng "but what we actually need" là phủ định
 >
 > **✅ Real Agreement Signals:**
 >
-> - *"Precisely"*
+> - *"Precisely, introducing them properly is key"*
 >
-> - *"I couldn't agree more"*
+> - *"Absolutely, that's exactly what we need"*
 >
-> - *"Spot on"*
->
-> - *"Absolutely"*
+> - *"Spot on, proper introductions matter"*
 >
 > **❌ False Agreement Signals:**
 >
-> - *"You've got a point, but..."*
+> - *"I see what you mean about performers, but..."*
 >
-> - *"I suppose so..."* (ngập ngừng)
+> - *"That makes sense, although..."*
 >
-> - *"That's one way to look at it..."*
+> - *"You've got a point, however..."*
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/social-leisure/volunteering/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==introducing guest speakers at an event==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
+> [!info] ⚡ Rapid Swap
+> ==introducing speakers== ⚡ ==announcing presenters / welcoming guests / hosting introductions==
 >
-> **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> **🧠 Instant Logic:** Introducing = announcing = welcoming = hosting
 
 ---
 
-### Tier 4: Mastery - Bi-weekly (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "Let me clarify what the stage volunteers will do. Some people think it involves providing entertainment like music or acting. Others might be helping with sound equipment. But the main responsibility is introducing guest speakers at an event. You'll stand at the front, announce each speaker's name and topic, then bring them onto the stage for their presentation."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** =="providing entertainment like music or acting"==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Được nhắc đến trước với "Some people think it involves..." và diễn ra trên sân khấu
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Audio nói rõ "But the main responsibility is introducing guest speakers" - tự biểu diễn là vai trò khác
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** =="helping with sound equipment"==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Cũng liên quan đến sân khấu và hỗ trợ biểu diễn
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* "But the main responsibility is introducing guest speakers" xác định rõ trách nhiệm chính là giới thiệu
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **✅ Correct Answer:** ==introducing guest speakers at an event==
+> - *Why correct:* Audio dùng "main responsibility is introducing" để nhấn mạnh, và li kê cụ thể công việc: stand at front, announce name and topic, bring them onto stage
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** =="introducing guest speakers at an event"==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "For the presentation sessions, we need volunteers specifically to introduce guest speakers. Each talk will feature a different expert or community leader. Your role will be to welcome them, mention their name and affiliation briefly, announce the title of their presentation, and then hand over the microphone so they can begin. This needs to be done smoothly between sessions."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==welcome them, mention their name, announce the title== → ==introducing guest speakers==
 >
-> - ==Audio phrase== → ==Option word==
->
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> - **🧠 Overall Logic:** Mọi cụm từ đều chỉ vào việc giới thiệu diễn giả với đầy đủ thông tin cơ bản
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==introducing guest speakers at an event==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Volunteering at community festivals*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
+> 1. ==announcing guest speakers==
 >
-> 2. ==Paraphrase 2==
+> 2. ==welcoming presenters on stage==
 >
 > **🎯 Goal:** Instant Recall
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
-### Card 18: Complete Question Synthesis *(MCQ only)*
-
-> **Full Question Context:**
-> =={{QUESTION_STEM}}==
->
-> **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
->
-> ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
-?
-> [!success] 🎯 Deep Logic Breakdown
-> **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
->
-> **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
->
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
->
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
 
 ---

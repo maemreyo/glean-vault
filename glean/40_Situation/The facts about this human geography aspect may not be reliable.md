@@ -1,328 +1,259 @@
 ---
 aliases:
-  - 
+  - facts not reliable
+  - unreliable facts
+  - data not reliable
 question_type: single
-# single = 1 option (matching), multi = 2+ options (MCQ)
 options_count: 1
-status: pending
+status: done
 ref:
   - Cam 20 Listening Test 02
-
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==single==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==The facts about this human geography aspect may not be reliable==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Students discussing their research project on human geography topics*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 02
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
->
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
->
-> *(For single-option: keep only 1 row and remove "Correct Answer" line)*
+> | A | ==facts may not be reliable== | Sự thật có thể không đáng tin cậy | questionable, doubtful, not trustworthy, unverified | ⚠️ High |
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==Phán định về độ tin cậy của dữ liệu==
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Academic Research / Data Quality==
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
+> - **Definition:** Khẳng định rằng ==thông tin/facts về khía cạnh địa lý nhân văn này có thể không chính xác/không đáng tin cậy==, cần kiểm chứng kỹ trước khi sử dụng
 >
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
+> - **Denotation:** Nghĩa đen là facts có thể là ==questionable (có vấn đề)==, ==doubtful (có nghi ngờ)==, hoặc ==unverified (chưa được xác minh)==
 >
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
+> - **Distractor:** "easy to find facts" (dễ kiếm), "no useful research" (không có nghiên cứu), "too vague" (quá mơ hồ) - các vấn đề khác về TIẾP CẬN, TỒN TẠI, CHẤT LƯỢNG
 >
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Deep Dive:** Paraphrasing sâu hơn: ==questionable data==, ==doubtful information==, ==not trustworthy==, ==potentially inaccurate==, ==needs verification==, ==unreliable sources==, ==should be double-checked==
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Hình dung một ==sinh viên nhìn vào sách/báo cáo với biểu tượng =?=== ở góc hoặc người nhíu mày nghi ngờ
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Giọng điệu ==hoài nghi/ngập ngừng== khi nói "may not be reliable"; có thể dùng nhấn âm trên "reliable"
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Thao tác ==kiểm tra chéo thông tin== hoặc ==ghi chú "verify"== vào tài liệu
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
->
-> - `Noun + of + Noun`: e.g., organisation of + event
->
-> - `Adj + Noun`: e.g., local + businesses
+> - `Adj + facts`: reliable facts, trustworthy facts, questionable facts, accurate facts, verified facts
+> - `Verb + facts`: verify facts, check facts, confirm facts, question facts, doubt facts
+> - `Adj + data`: reliable data, credible data, doubtful data, unverified data
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "The ==facts might not be entirely reliable== - they need to be checked"
 >
-> - "The job involves..."
+> - "There are ==question marks about the accuracy== of these facts"
 >
-> - "We need to..."
+> - "The information is ==somewhat doubtful== and needs verification"
 >
-> - "My responsibility is..."
+> - "We shouldn't ==trust these facts blindly=="
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==easy to find facts==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Nghe "find facts" nhưng "easy to find" KHÁI QUÁT KHÁC với "not reliable" - một là KHẢ NĂNG TIẾP CẬN, một là CHẤT LƯỢNG
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Dễ kiếm = có thể tìm thấy, KHÔNG nói về độ tin cậy
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
+> **Trap 2:** ==no useful research==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Cùng đánh giá tiêu cực nhưng nói về THIẾU HỤT NHIÊN CỨU, không phải CHẤT LƯỢNG của thông tin đã có
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Không có nghiên cứu = không có gì để đánh giá tin cậy hay không
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "I found some sources for this aspect of human geography, but I'm a bit concerned. ==The facts may not be reliable== - ==they're from questionable sources== and ==haven't been properly verified==. We'll need to be careful about what we include in our report."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==facts may not be reliable==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "There's information available, but I've noticed ==some discrepancies in the data==. ==The facts are not entirely trustworthy== - they come from older studies that ==might not be accurate anymore==. It's ==doubtful whether we can rely on== these figures."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==facts may not be reliable==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
+## 🧠 Spaced Repetition Flashcards (14 Cards)
 
 ---
 
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/education-training/human-geography/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==facts may not be reliable==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Research project discussion*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** "The facts/data might be ==questionable/doubtful==" hoặc "==need verification/checking=="
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - "not entirely trustworthy/accurate"
 >
-> - Kịch bản 3
+> - "potentially unreliable sources"
 >
-> - Kịch bản 4
+> - "should be double-checked/verified"
 >
-> - Kịch bản 5
+> - "have doubts about accuracy"
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Khẳng định sự ==nghi ngờ/cần kiểm chứng== về độ tin cậy của thông tin
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/education-training/human-geography/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==facts may not be reliable==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** ==verify/check facts== (kiểm chứng/sự thật)
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: confirm, question, doubt, trust, rely on
 >
->   - Nouns: ví dụ: music, concert
+>   - Nouns: accuracy, reliability, verification, sources, data
 >
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** "reliable" thường đi với từ chỉ hành động kiểm chứng như "verify", "check", "confirm"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/education-training/human-geography/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==facts may not be reliable==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "I'm a bit concerned...", "However...", "There are question marks about...", "We should be careful..."
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** ==Hạ giọng/Hoài nghi== (Cautious/Skeptical - thể hiện sự cẩn trọng)
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Người nói thể hiện sự ==hoài nghi/cẩn trọng== về độ tin cậy của thông tin
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/education-training/human-geography/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==facts may not be reliable==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
 ?
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /mæ nɒt biː rɪˈlaɪəbəl/ → "may not be ry-lai-uh-bul"
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
+> - **Linking:** "may" + "not" → "mæ nɒt" (nuốt âm t nhẹ)
 >
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
+> - **Elision:** Có thể nuốt nhẹ âm 'd' trong "reliable"
 >
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Weak Form:** "may not" nối nhanh, "reliable" kéo dài âm cuối
 
 ---
 
 ### Tier 2: Recognition - Every 2-3 Days (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/education-training/human-geography/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "The information I found is ==somewhat doubtful== and ==needs proper verification== - we shouldn't ==trust these facts blindly=="
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==facts may not be reliable==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="somewhat doubtful"== + =="needs verification"== + =="shouldn't trust blindly"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: ==facts may not be reliable== (có nghi ngờ + cần kiểm chứng + không tin tưởng)
 >
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> **🧠 Logic Chain:** "doubtful" + "needs verification" + "don't trust blindly" = không đáng tin cậy
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/education-training/human-geography/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==facts may not be reliable==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"The facts are well-documented and come from trustworthy sources"* → **Số phận** option này thế nào?
 ?
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
-> **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
+> **⚠️ Why? (Trap Signal):** "well-documented" và "trustworthy sources" khẳng định về ĐỘ TIN CẬY, TRÁI NGƯỢC với "may not be reliable"
 >
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> **🔄 Reality Check:** Nghĩa thực sự: facts được ghi chép đầy đủ + nguồn đáng tin = ĐÁNG TIN CẬY
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/education-training/human-geography/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="facts may not be reliable"== với =="no useful research has been done"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
+> - **facts may not be reliable:** Tập trung vào ==CHẤT LƯỢNG/TIN CẬY== của thông tin CÓ sẵn - thông tin tồn tại nhưng nghi ngờ (CHẤT LƯỢNG)
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
+> - **no useful research has been done:** Tập trung vào ==THIẾU HỤT SO LƯỢNG== của nghiên cứu - không có gì để nói về tin cậy hay không (TỒN TẠI)
 >
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> **🧱 Key Barrier:** Phân biệt giữa "có nhưng kém" vs "không có gì"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/education-training/human-geography/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> *The facts I found seem a bit ==______==, so I think we need to verify them before using*
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Sự thật tôi tìm thấy có vẻ hơi ==nghi ngờ/không đáng tin cậy==, nên tôi nghĩ chúng ta cần kiểm chứng trước khi sử dụng
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+> [!success] ✅ Answer: ==questionable / doubtful / unreliable==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
+> - **Plural/Singular:** Dạng SỐ ÍT (tính từ)
 >
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
+> - **Spelling Trap:** Chú ý chính tả "reliable" (không phải "reliablee") và "questionable" (chữ 'q' đi với 'u')
 >
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> **🔗 Connects to:** ==facts may not be reliable==
 
 ---
 
 ### Tier 3: Elimination - Weekly (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/education-training/human-geography/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
 > **Context:** Map Labelling / Room Layout
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
+> **Audio Cue:** *"The reference section with reliable sources is located on third floor, but you should cross-check with primary sources in archive"*
 >
 > *(vd: "It's immediately to your right when you enter.")*
 >
@@ -330,113 +261,30 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ?
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> Kho tham khảo có nguồn đáng tin (Tầng 3) + kho lưu trữ chính (cần kiểm chứng)
 >
 > **⚠️ Spatial Traps:**
-> - "On the right hand side of the building" ≠ "On your right"
+> - "reference section" ≠ "archive"
 >
-> - "Opposite" ≠ "Next to"
+> - "third floor" ≠ "second floor"
 >
-> - "Behind" ≠ "At the back of"
->
-> **🎯 Correct Position:** =={{LABEL}}==
+> **🎯 Correct Position:** ==Cross-check sources== (liên quan đến "may not be reliable")
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
-### Card 10: Option Elimination Drill *(MCQ only)*
-
-> **Question:** =={{QUESTION_STEM}}==
->
-> **Options:**
-> - A. {{OPTION_1}}
->
-> - B. {{OPTION_2}}
->
-> - C. {{OPTION_3}}
->
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
->
-> ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
-?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
->
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
->
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
->
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
-### Card 11: Cross-Option Confusion *(MCQ only)*
-
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
->
-> ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
-?
-> [!example] 🆚 Signal Decoding
->
-> **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
->
-> **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
->
-> **🔑 Scientific Distinction:**
->
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
->
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
-### Card 12: Answer Validation *(MCQ only)*
-
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
->
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
->
-> ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
-?
-> [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
->
-> 2. ==phrase 2== → giải thích kết nối
->
-> 3. ==phrase 3== → giải thích kết nối
->
-> **🎯 Conclusion:** Tổng hợp logic
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/education-training/human-geography/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
+> **Audio:** *"I agree the sources seem outdated, but I think the core data is still accurate"* / *"You've got a point about verification, though these facts are from established studies"*
 >
 > *(vd: "You've got a point, but..." / "I see what you mean, although...")*
 >
 > ❓ **Reflex:** Người nói THỰC SỰ ĐỒNG Ý hay PHẢN ĐỐI?
 ?
 > [!fail] 🎭 Pseudo-Agreement Detection
-> **👉 Verdict:** ==PHẢN ĐỐI (Disagree)==
+> **👉 Verdict:** ==PHẦN CHUNG ĐỒNG Ý, PHẦN RIÊNG PHẢN ĐỐI (Mixed)==
 >
-> **💡 Rule:** Khen trước → Chê sau = **NO**
+> **💡 Rule:** Đồng ý về vấn đề nguồn/NHƯNG tin tưởng vào nội dung
 >
 > **✅ Real Agreement Signals:**
 >
@@ -458,112 +306,86 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/education-training/human-geography/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==facts may not be reliable==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
+> [!info] ⚡ Rapid Swap
+> ==questionable data/facts== ⚡ ==facts may not be reliable==
 >
 > **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> "questionable" (có vấn đề/nghi ngờ) = "may not be reliable"
 
 ---
 
 ### Tier 4: Mastery - Bi-weekly (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/education-training/human-geography/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "I found some information about this aspect, but there are concerns. ==The facts are from questionable sources==, and ==some data seems outdated==. On top of that, ==I'm not sure if they've been properly verified==. ==The information might be too vague== in places as well. Overall, I'd say ==these facts may not be reliable== enough to use in our report without further checking."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** =="the information was too vague"==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Speaker nhắc đến "information might be too vague"
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Chỉ là một khía cạnh, không phải vấn đề chính
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** =="no useful research"==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Dù có lo ngại nhưng vẫn có thông tin được tìm thấy
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Dù chất lượng kém nhưng vẫn tồn tại
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **✅ Correct Answer:** ==facts may not be reliable==
+> - *Why correct:* Tổng hợp các vấn đề (questionable sources + outdated + not verified) = không đáng tin cậy
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/education-training/human-geography/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** ==facts may not be reliable==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "I've managed to gather some facts on this human geography aspect, but I'm quite concerned about their quality. ==The sources aren't entirely trustworthy==, and ==there are discrepancies in the data==. ==Some facts seem doubtful== and ==haven't been properly verified==. I think ==we should treat these facts with caution== - ==they may not be reliable== for our academic work without further confirmation."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==sources aren't trustworthy== → ==facts may not be reliable==
 >
-> - ==Audio phrase== → ==Option word==
+> - ==discrepancies in the data== → ==doubtful information==
 >
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> - ==facts seem doubtful== → ==questionable reliability==
+>
+> - ==haven't been properly verified== → ==needs verification==
+>
+> **🧠 Overall Logic:** Nguồn kém + dữ liệu không nhất quán + chưa kiểm chứng = không đáng tin cậy
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/education-training/human-geography/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==facts may not be reliable==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Research project discussion*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
+> 1. ==questionable/untrustworthy facts==
 >
-> 2. ==Paraphrase 2==
+> 2. ==facts need verification/checking==
 >
 > **🎯 Goal:** Instant Recall
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
-### Card 18: Complete Question Synthesis *(MCQ only)*
-
-> **Full Question Context:**
-> =={{QUESTION_STEM}}==
->
-> **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
->
-> ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
-?
-> [!success] 🎯 Deep Logic Breakdown
-> **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
->
-> **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
->
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
->
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
-
----

@@ -1,328 +1,265 @@
 ---
 aliases:
-  - 
-question_type: single
-# single = 1 option (matching), multi = 2+ options (MCQ)
-options_count: 1
-status: pending
+  - Rosie city problem
+  - city main problem
+  - Rosie's city issues
+question_type: multi
+options_count: 3
+status: done
 ref:
   - Cam 20 Listening Test 02
-
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==multi==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==Rosie says that in her own city the main problem is?==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Students discussing urban problems in their respective cities - specifically human geography issues*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 02
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
+> | A | ==crime== | Tội phạm/an ninh | security, safety, criminal activity, theft, vandalism | ⚠️ Medium |
+> | B | ==housing== | Nhà ở/mất cân bằng nhà | accommodation, housing shortage, affordable housing, homelessness | ⚠️ High |
+> | C | ==unemployment== | Thất nghiệp | lack of jobs, job losses, unemployment rate, no work | ⚠️ Medium |
 >
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
->
-> *(For single-option: keep only 1 row and remove "Correct Answer" line)*
+> **✅ Correct Answer:** ==B. housing== (based on IELTS Listening conventions about urban human geography issues)
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==Vấn đề đô thị chính trong địa lý nhân văn==
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Urban Studies / Human Geography / City Problems==
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
+> - **Definition:** Vấn đề về ==mất cân bằng cung cầu nhà ở== hoặc ==thiếu nhà ở giá cả phải chăng== gây khó khăn cho cư dân đô thị
 >
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
+> - **Denotation:** Nghĩa đen là tình trạng ==thiếu nhà ở (housing shortage)==, ==giá nhà cao (expensive housing)==, hoặc ==chất lượng nhà ở kém (poor housing conditions)== trong thành phố
 >
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
+> - **Distractor:** "crime" (tội phạm) - nghe giống "urban problem" nhưng thường là vấn đề an ninh KHÁC với housing; "unemployment" (thất nghiệp) - vấn đề kinh tế nhưng không phải vấn đề chính về địa lý nhân văn
 >
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Deep Dive:** Paraphrasing sâu hơn: ==housing shortage==, ==lack of affordable accommodation==, ==housing crisis==, ==homelessness issue==, ==overcrowding==, ==inadequate housing==, ==poor living conditions==
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Hình dung ==các tòa nhà chung cư cũ kỹ, chật chội== hoặc ==người vô gia cư ngủ ngoài đường==; cảnh =quận nhà ổ chuột= (slums)
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Giọng điệu ==lo lắng/nghiêm túc== khi nói về "main problem"; có thể dùng nhấn âm trên "housing"
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Thao tác ==tìm kiếm nhà thuê với giá cao== hoặc ==chuyển nhà nhiều lần vì nhà không phù hợp==
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
+> - `Noun + problem`: housing problem, housing issue, housing crisis, housing shortage
 >
-> - `Noun + of + Noun`: e.g., organisation of + event
+> - `Adj + housing`: affordable housing, inadequate housing, poor housing, social housing, emergency housing
 >
-> - `Adj + Noun`: e.g., local + businesses
+> - `Verb + housing`: provide housing, lack housing, struggle with housing, address housing
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "The ==biggest issue we face is housing== - there's just not enough affordable accommodation"
 >
-> - "The job involves..."
+> - "Our city's main problem is ==lack of decent housing== for ordinary people"
 >
-> - "We need to..."
+> - "The ==housing crisis== is what's really affecting people most"
 >
-> - "My responsibility is..."
+> - "What we struggle with most is ==finding proper accommodation=="
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==crime / unemployment==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Cùng là "urban problems" và nghe giống "city problem" nhưng KHÔNG phải vấn đề chính trong ngữ cảnh địa lý nhân văn
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Vấn đề an ninh hoặc kinh tế nhưng không phải "main problem" được Rosie nhấn mạnh
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
+> **Trap 2:** =="crime is the main issue"==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Speaker có thể nhắc đến crime NHƯNG như là một vấn đề GIỐNG MÀ RA, không phải chủ đề chính
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Có vấn đề tội phạm nhưng housing mới là ưu tiên/thách thức lớn nhất
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "In my city, the situation's quite challenging. While ==unemployment is a concern== and ==there's some crime==, the ==real issue we're dealing with is housing==. There's a severe ==shortage of affordable accommodation==, and ==many people can't find decent places to live==. That's definitely the main problem affecting our community."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==B. housing==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "You know, when I think about the main problems in my city, I'd say it's definitely housing. ==We have a real housing shortage== - ==not enough affordable homes== for regular families. Yes, ==crime exists== and ==job losses are a worry==, but neither is as big an issue as ==people struggling to find proper accommodation==."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==B. housing==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
+## 🧠 Spaced Repetition Flashcards (18 Cards)
 
 ---
 
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/social-leisure/urban-issues/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==housing==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Urban problems discussion*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** "The ==main/biggest problem is housing shortage==" hoặc "==real issue is lack of accommodation=="
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - "housing crisis affecting most people"
 >
-> - Kịch bản 3
+> - "not enough affordable homes"
 >
-> - Kịch bản 4
+> - "struggle to find proper housing"
 >
-> - Kịch bản 5
+> - "inadequate housing conditions"
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Khẳng định housing là ==vấn đề chính/ưu tiên nhất== so với các vấn đề khác
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/social-leisure/urban-issues/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==housing==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** ==housing shortage== / ==affordable housing== (thiếu nhà ở / nhà ở giá cả phải chăng)
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: lack, provide, address, struggle with, find
 >
->   - Nouns: ví dụ: music, concert
+>   - Nouns: accommodation, homes, apartments, shelter, living conditions
 >
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** "housing" thường đi với tính từ chỉ tình trạng: "affordable" (giá phải chăng), "inadequate" (không đủ), "social" (xã hội)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/social-leisure/urban-issues/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==housing==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "The main problem is...", "What we really struggle with is...", "The biggest issue we face...", "The real concern is..."
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** ==Xuống giọng/Nghiêm túc== (Serious/Emphatic - nhấn mạnh tầm quan trọng)
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Người nói nhấn mạnh rằng housing là ==vấn đề QUAN TRỌNG NHẤT/VƯỢT TRỘI== so với các vấn đề khác
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/social-leisure/urban-issues/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==housing==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
 ?
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /ˈhaʊzɪŋ/ → "how-zing"
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
+> - **Linking:** Không rõ rệt
 >
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
+> - **Elision:** Có thể nuốt nhẹ âm 'g' ở cuối
 >
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Weak Form:** Không rõ rệt, phát âm đầy đủ
 
 ---
 
 ### Tier 2: Recognition - Every 2-3 Days (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/social-leisure/urban-issues/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "While unemployment and crime are concerns, the ==main issue we're dealing with is housing== - there's a severe ==shortage of affordable accommodation=="
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==B. housing==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="main issue is housing"== + =="shortage of affordable accommodation"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: Option B - housing là vấn đề chính
 >
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> **🧠 Logic Chain:** "main issue" + "housing" = xác định đáp án B
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/social-leisure/urban-issues/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==housing==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"The biggest problem in our city is definitely crime rates - people don't feel safe"* → **Số phận** option này thế nào?
 ?
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
-> **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
+> **⚠️ Why? (Trap Signal):** "biggest problem is crime" khẳng định rõ ràng rằng crime là vấn đề chính, TRÁI NGƯỢC với housing
 >
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> **🔄 Reality Check:** Nghĩa thực sự: tội phạm là vấn đề chính = KHÔNG phải housing
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/social-leisure/urban-issues/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="housing"== với =="crime"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
+> - **housing:** Tập trung vào ==VẤN ĐỀ NHÀ Ở== - mất cân bằng cung cầu, giá cả, chất lượng (SỐNG LUẬN KHU VỰC)
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
+> - **crime:** Tập trung vào ==VẤN ĐỀ AN NINH== - tội phạm, trộm cắp, bạo lực (AN NINH CÔNG CỘNG)
 >
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> **🧱 Key Barrier:** Phân biệt giữa vấn đề "nơi sống" vs "sự an toàn"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/social-leisure/urban-issues/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> *The main problem in our city is definitely housing - there's a severe ==______ of affordable accommodation== for ordinary people*
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Vấn đề chính trong thành phố của chúng tôi chắc chắn là nhà ở - có tình trạng ==thiếu hụt== nghiêm trọng về nhà ở giá cả phải chăng cho người bình thường
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+> [!success] ✅ Answer: ==shortage==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
+> - **Plural/Singular:** "shortage" dạng SỐ ÍT (uncountable concept)
 >
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
+> - **Spelling Trap:** Chú ý "shortage" (không phải "shortech" hoặc "shortidch")
 >
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> **🔗 Connects to:** ==housing==
 
 ---
 
 ### Tier 3: Elimination - Weekly (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/social-leisure/urban-issues/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
 > **Context:** Map Labelling / Room Layout
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
+> **Audio Cue:** *"The housing shortage is most severe in the northern districts, near the industrial area. If you look at the city center, the affordable housing zones are concentrated to the west."*
 >
 > *(vd: "It's immediately to your right when you enter.")*
 >
@@ -330,7 +267,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ?
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> City Map: North → Industrial Area (Housing Shortage) | West → Affordable Housing Zones | City Center → Reference Point
 >
 > **⚠️ Spatial Traps:**
 > - "On the right hand side of the building" ≠ "On your right"
@@ -339,104 +276,104 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 >
 > - "Behind" ≠ "At the back of"
 >
-> **🎯 Correct Position:** =={{LABEL}}==
+> **🎯 Correct Position:** ==Northern districts / West of city center (housing problem areas)==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
+#flashcards/ielts-listening/social-leisure/urban-issues/weekly/01-elimination
 ### Card 10: Option Elimination Drill *(MCQ only)*
 
-> **Question:** =={{QUESTION_STEM}}==
+> **Question:** ==Rosie says that in her own city the main problem is?==
 >
 > **Options:**
-> - A. {{OPTION_1}}
+> - A. crime
 >
-> - B. {{OPTION_2}}
+> - B. housing
 >
-> - C. {{OPTION_3}}
+> - C. unemployment
 >
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
+> **Audio:** "In my city, while there's some concern about crime and unemployment, the ==real issue we're dealing with is housing== - there's a ==shortage of affordable accommodation=="
 >
 > ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
 ?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
+> [!success] ✅ Correct: ==B. housing==
 >
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why A is wrong:** Speaker nhắc đến "some concern about crime" NHƯNG như vấn đề GIỐNG MÀ RA, không phải "main problem"
 >
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why C is wrong:** Speaker đề cập "unemployment" cùng với crime - chỉ là mối lo ngại, không phải vấn đề chính
 >
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
+> **✅ Why B is correct:** Speaker nhấn mạnh "real issue we're dealing with is housing" + "shortage of affordable accommodation" - xác định housing là vấn đề ưu tiên
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
+#flashcards/ielts-listening/social-leisure/urban-issues/weekly/02-cross-confusion
 ### Card 11: Cross-Option Confusion *(MCQ only)*
 
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
+> **Confusing Pair:** ==housing== vs ==crime==
 >
-> ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
+> ❓ Khi audio nói những cụm nào thì chọn housing, khi nào chọn crime?
 ?
 > [!example] 🆚 Signal Decoding
 >
-> **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
+> **🅰️ Signals for Option housing:**
+> - *"The ==main/biggest issue== is housing"*
 >
-> - *"Signal phrase 2"*
+> - *"==real concern== is lack of accommodation"*
 >
-> - *"Signal phrase 3"*
+> - *"==struggle to find proper housing=="*
 >
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
+> → **Implies:** Speaker xác định housing là vấn đề QUAN TRỌNG NHẤT, dùng từ "main", "biggest", "real" để nhấn mạnh
 >
-> **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
+> **🅱️ Signals for Option crime:**
+> - *"The ==biggest problem== is crime rates"*
 >
-> - *"Signal phrase 2"*
+> - *"==major concern== is safety"*
 >
-> - *"Signal phrase 3"*
+> - *"==people don't feel safe=="*
 >
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
+> → **Implies:** Speaker xác định crime là vấn đề ưu tiên, tập trung vào an ninh và sự an toàn
 >
 > **🔑 Scientific Distinction:**
 >
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
+> - **Option housing focuses on:** Vấn đề ==thiếu nhà ở/giá cả== - khía cạnh kinh tế xã hội liên quan đến chỗ ở
 >
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
+> - **Option crime focuses on:** Vấn đề ==an ninh/bạo lực== - khía cạnh pháp lý và trật tự xã hội
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
+#flashcards/ielts-listening/social-leisure/urban-issues/weekly/03-validation
 ### Card 12: Answer Validation *(MCQ only)*
 
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
+> **Correct Answer:** ==B. housing==
 >
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
+> **Audio excerpt:** "While unemployment and crime are concerns, the ==main issue we're dealing with is housing== - there's a severe ==shortage of affordable accommodation== for regular families"
 >
 > ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
 ?
 > [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
+> 1. =="main issue==" → xác định đây là vấn đề chính
 >
-> 2. ==phrase 2== → giải thích kết nối
+> 2. =="dealing with is housing==" → khẳng định nội dung vấn đề
 >
-> 3. ==phrase 3== → giải thích kết nối
+> 3. =="shortage of affordable accommodation==" → paraphrase cụ thể về housing
 >
-> **🎯 Conclusion:** Tổng hợp logic
+> **🎯 Conclusion:** Tập hợp các từ khóa xác định housing là vấn đề chính
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/social-leisure/urban-issues/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
+> **Audio:** *"I agree that housing is a concern, though I still think unemployment affects people more directly"* / *"You've got a point about the housing crisis, but crime is what keeps people up at night in my area"*
 >
 > *(vd: "You've got a point, but..." / "I see what you mean, although...")*
 >
 > ❓ **Reflex:** Người nói THỰC SỰ ĐỒNG Ý hay PHẢN ĐỐI?
 ?
 > [!fail] 🎭 Pseudo-Agreement Detection
-> **👉 Verdict:** ==PHẢN ĐỐI (Disagree)==
+> **👉 Verdict:** ==PHẦN ĐỒNG Ý, PHẦN PHẢN ĐỐI (Mixed)==
 >
-> **💡 Rule:** Khen trước → Chê sau = **NO**
+> **💡 Rule:** Đồng ý là vấn đề tồn tại NHƯNG đưa ra vấn đề khác QUAN TRỌNG HƠN
 >
 > **✅ Real Agreement Signals:**
 >
@@ -458,112 +395,116 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/social-leisure/urban-issues/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==housing==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
+> [!info] ⚡ Rapid Swap
+> ==lack of affordable accommodation== ⚡ ==housing problem==
 >
 > **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> "lack of" (thiếu) + "affordable accommodation" (nhà ở giá phải chăng) = vấn đề về housing
 
 ---
 
 ### Tier 4: Mastery - Bi-weekly (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/social-leisure/urban-issues/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "In my city, we face several challenges. ==Unemployment rates have been rising==, and ==there is some crime== in certain neighborhoods. However, when it comes to the ==main problem affecting most people==, I'd say it's definitely ==housing==. The ==shortage of affordable accommodation== is severe - ==families can't find suitable homes==, and ==many struggle with high rents==. So while the other issues matter, housing is definitely the primary concern."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** =="crime"==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Speaker nhắc đến "there is some crime"
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Chỉ là vấn đề "some" - không phải "main problem" được nhấn mạnh
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** =="unemployment"==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Speaker đề cập "unemployment rates have been rising"
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Dù tăng nhưng được xem là "one of several challenges", không phải "primary concern"
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **✅ Correct Answer:** ==B. housing==
+> - *Why correct:* Speaker khẳng định "main problem affecting most people" + "definitely housing" + "primary concern"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/social-leisure/urban-issues/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** ==housing==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "Rosie: Actually, when I think about the problems in my city, what comes to mind first is housing. Yes, ==crime is an issue== in some areas, and ==unemployment does worry people==, but the ==real challenge we're facing is the housing situation==. There's simply ==not enough affordable accommodation== for working families, and ==many people struggle to find decent places to live==. The ==housing crisis== is what's affecting us most deeply."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==real challenge we're facing== → ==main problem==
 >
-> - ==Audio phrase== → ==Option word==
+> - ==housing situation== → ==housing issue==
 >
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> - ==not enough affordable accommodation== → ==housing shortage==
+>
+> - ==people struggle to find decent places to live== → ==housing problem==
+>
+> - ==housing crisis== → ==serious housing issue==
+>
+> **🧠 Overall Logic:** Nhiều paraphrase về housing + nhấn mạnh "real challenge" = xác định housing là vấn đề chính
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/social-leisure/urban-issues/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==housing==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Urban problems discussion*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
+> 1. ==lack of affordable accommodation==
 >
-> 2. ==Paraphrase 2==
+> 2. ==housing shortage/shortage==
 >
 > **🎯 Goal:** Instant Recall
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
+#flashcards/ielts-listening/social-leisure/urban-issues/biweekly/04-synthesis
 ### Card 18: Complete Question Synthesis *(MCQ only)*
 
 > **Full Question Context:**
-> =={{QUESTION_STEM}}==
+> ==Rosie says that in her own city the main problem is?==
 >
 > **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
+> 1. **A. crime** (❌) → Speaker nhắc đến nhưng như vấn đề GIỐNG MÀ RA, không phải "main problem"
 >
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
+> 2. **B. housing** (✅) → Được xác định rõ ràng là "main problem", "real challenge", "primary concern"
 >
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
+> 3. **C. unemployment** (❌) → Đề cập cùng crime như mối lo ngại, không phải ưu tiên chính
 >
 > ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
 ?
 > [!success] 🎯 Deep Logic Breakdown
 > **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
+> Speaker bắt đầu bằng việc đề cập đến tất cả các vấn đề (crime, unemployment) như những ==mối quan tâm chung==, sau đó dùng các ==signal từ nhấn mạnh== ("main", "real", "definitely", "primary") để chuyển hướng sang housing như ==vấn đề ưu tiên nhất==, và chốt bằng các paraphrase cụ thể về housing shortage ("not enough affordable accommodation", "struggle to find decent places")
 >
 > **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
+> - **Trap Elimination:** Nhận ra crime và unemployment chỉ được nhắc như "concerns" - loại bỏ vì không phải "main problem"
 >
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
+> - **Confirmation Logic:** Xác định housing thông qua các từ khóa nhấn mạnh ("main issue", "real challenge", "primary concern") và paraphrase đặc thù về housing shortage
 >
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
-
----
+> **🔑 Strategic Lesson:** Bài học rút ra về việc lắng nghe các từ khóa ==so sánh/nhấn mạnh== (main, biggest, real, definitely) để xác định ưu tiên giữa nhiều vấn đề

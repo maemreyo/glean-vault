@@ -1,328 +1,257 @@
 ---
 aliases:
-  - 
+  - research not relevant to course
+  - human geography irrelevant
+  - academic research topic unsuitable
+  - course not applicable
 question_type: single
 # single = 1 option (matching), multi = 2+ options (MCQ)
 options_count: 1
-status: pending
+status: done
 ref:
   - Cam 20 Listening Test 02
 
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==single==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==This human geography aspect may not be relevant to their course.==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Academic discussion about research topic suitability for human geography studies*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 02
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
->
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
+> | A | ==may not be relevant to their course== | có thể không phù hợp với khóa học | not suitable, doesn't fit, not applicable, outside scope | ⚠️ High |
 >
 > *(For single-option: keep only 1 row and remove "Correct Answer" line)*
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==Đánh giá/Sự phù hợp== của một đề tài nghiên cứu (Assessment/Suitability)
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Academic Research / Course Selection / Study Planning==
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
+> - **Definition:** ==Not relevant to their course== refers to a research topic or aspect that does not align with, connect to, or fit within the scope and requirements of their academic curriculum or program
 >
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
+> - **Denotation:** Direct meaning includes: outside the course scope, not covered in syllabus, doesn't match course requirements, inappropriate for their program, unrelated to their field of study
 >
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
+> - **Distractor:** Similar phrases include "not interesting," "too difficult," "not important," "waste of time" - these express personal opinions, not ==academic relevance==
 >
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Deep Dive:** In IELTS context, speakers may paraphrase "not relevant" as: "doesn't fit with our course," "it's outside the scope," "not really connected to what we're studying," "not suitable for our program," "doesn't match the syllabus," "not part of our curriculum"
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Looking at a course syllabus or module list, highlighting a research topic that doesn't align with any listed subjects, a student showing confusion about topic selection
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Hearing phrases like "doesn't fit," "outside our scope," "not really connected," "not suitable for our program," "doesn't match what we're doing"
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Students discussing course requirements, comparing topic list with syllabus, professor advising on suitability, students ruling out certain research aspects
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
+> - `Verb + relevant`: be, become, seem, prove, turn out, remain
 >
-> - `Noun + of + Noun`: e.g., organisation of + event
+> - `Preposition + relevant`: to, for, with
 >
-> - `Adj + Noun`: e.g., local + businesses
+> - `Adjective + relevant`: academically, course-, subject-, curriculum-, study-
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "This topic doesn't really ==fit with our course==."
 >
-> - "The job involves..."
+> - "It's ==outside the scope of our studies==."
 >
-> - "We need to..."
+> - "This isn't really ==connected to what we're studying==."
 >
-> - "My responsibility is..."
+> - "It's not ==suitable for our program==."
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==not interesting to research==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Students often express disinterest when topics don't match their interests, and "interesting" is a common reason for rejecting topics
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* The issue is ACADEMIC RELEVANCE to the course, not personal interest - the speakers are discussing course suitability, not enjoyment
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
+> **Trap 2:** ==too difficult to study==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Difficulty is a common concern for research topics, and "too difficult" sounds like a valid reason to avoid something
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* The focus is on RELEVANCE/APPLICABILITY, not complexity or difficulty level of the topic
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "When they reviewed the human geography aspect, they realized it might not be relevant to their course. As one student noted, 'This doesn't really fit with what we're studying in our modules.'"
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==may not be relevant to their course==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "The students discussed whether this particular aspect was suitable. They concluded that it's outside the scope of their current coursework, meaning it's not relevant to their course at this stage."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==may not be relevant to their course==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
-
----
-
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/education-training/academic-research/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==may not be relevant to their course==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Academic discussion about research topic suitability*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** "doesn't fit with our course" / "outside the scope"
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - "not suitable for our program"
 >
-> - Kịch bản 3
+> - "not connected to what we're studying"
 >
-> - Kịch bản 4
+> - "doesn't match our syllabus"
 >
-> - Kịch bản 5
+> - "not part of our curriculum"
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Focus on ACADEMIC SUITABILITY/SCOPE (relevance to what's being studied)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/education-training/academic-research/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==may not be relevant to their course==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** relevant to / fit with
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: seem, become, prove, turn out, remain
 >
->   - Nouns: ví dụ: music, concert
+>   - Nouns: our course, our program, our studies, our syllabus, our curriculum, the scope
 >
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** Preposition "to" most commonly follows "relevant"; "with" follows "fit"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/education-training/academic-research/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==may not be relevant to their course==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "The problem is...", "The issue is...", "The concern is...", "However..."
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** Hesitant/uncertain tone when considering whether topic fits, then falling tone when concluding it doesn't
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Speakers use hesitation or evaluation signals when assessing suitability, then conclude with negative relevance language
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/education-training/academic-research/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==may not be relevant to their course==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
 ?
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /meɪ nɒt biˈreləvənt tuː ðeə kɔːs/ /meɪ nɑt rəˈlɛvənt tə ðɛr kɔrs/
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
+> - **Linking:** "not" + "be" → /nɒt_bi/ or /no_b/
 >
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
+> - **Weak Form:** "to" → /tə/ or /tu/
 >
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Stress:** MAIN stress on "releVANT" (2nd syllable)
 
 ---
 
-### Tier 2: Recognition - Every 2-3 Days (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/education-training/academic-research/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "When they checked the course syllabus, they realized that this human geography aspect doesn't really ==fit with what they're studying== in their modules."
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==may not be relevant to their course==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="doesn't really fit with what they're studying"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: =="not relevant to their course"==
 >
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> **🧠 Logic Chain:** fit with = relevant + what they're studying = course
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/education-training/academic-research/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==may not be interesting to research==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"They don't think it's exciting"* → **Số phận** option này thế nào?
 ?
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
 > **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
+> "Not exciting" or "not interesting" is about personal enjoyment/engagement, NOT ACADEMIC RELEVANCE to the course. The discussion is about COURSE SUITABILITY.
 >
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> **🔄 Reality Check:** Audio focuses on whether the topic FITS WITH or IS RELEVANT TO what they're studying, not whether they enjoy it
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/education-training/academic-research/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="not relevant to their course"== với =="not interesting to research"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
+> - **not relevant to their course:** Tập trung vào ACADEMIC FIT - topic có phù hợp với khung chương trình học hay không
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
+> - **not interesting to research:** Tập trung vào CÁ NHÂN/HỨNG THÚ VỊ - chủ đề có hấp dẫn hay không, không liên quan đến nội dung học
 >
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> **🧱 Key Barrier:** "Interesting" là cảm xúc cá nhân; "relevant" là đánh giá học thuật - cần nghe từ khóa như "course," "syllabus," "modules," "curriculum"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/education-training/academic-research/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> "They decided that this *==aspect*== of human geography is outside the *==scope*== of their studies."
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Họ quyết định rằng khía cạnh này của địa lý con người nằm ngoài phạm vi nghiên cứu của họ
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+> [!success] ✅ Answer: ==scope==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
+> - **Plural/Singular:** SCOPE (singular) - "the scope" with singular article "the"
 >
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
+> - **Spelling Trap:** Watch for "s-c-o-p-e" spelling (not "scoup" or "scoop")
 >
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> **🔗 Connects to:** ==may not be relevant to their course==
 
 ---
 
-### Tier 3: Elimination - Weekly (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/education-training/academic-research/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
 > **Context:** Map Labelling / Room Layout
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
+> **Audio Cue:** *"The research section that's relevant to their module is located on the second floor, just past the main entrance."*
 >
 > *(vd: "It's immediately to your right when you enter.")*
 >
@@ -330,104 +259,23 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ?
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> Mô tả vị trí: "Research section = second floor, past main entrance"
 >
 > **⚠️ Spatial Traps:**
-> - "On the right hand side of the building" ≠ "On your right"
+> - "In the second floor" ≠ "on the second floor"
 >
-> - "Opposite" ≠ "Next to"
+> - "By the entrance" ≠ "past the entrance"
 >
-> - "Behind" ≠ "At the back of"
+> - "Next to entrance" ≠ "just past"
 >
-> **🎯 Correct Position:** =={{LABEL}}==
+> **🎯 Correct Position:** ==[No map relevant for this question - placeholder]==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
-### Card 10: Option Elimination Drill *(MCQ only)*
-
-> **Question:** =={{QUESTION_STEM}}==
->
-> **Options:**
-> - A. {{OPTION_1}}
->
-> - B. {{OPTION_2}}
->
-> - C. {{OPTION_3}}
->
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
->
-> ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
-?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
->
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
->
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
->
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
-### Card 11: Cross-Option Confusion *(MCQ only)*
-
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
->
-> ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
-?
-> [!example] 🆚 Signal Decoding
->
-> **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
->
-> **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
->
-> - *"Signal phrase 2"*
->
-> - *"Signal phrase 3"*
->
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
->
-> **🔑 Scientific Distinction:**
->
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
->
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
-### Card 12: Answer Validation *(MCQ only)*
-
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
->
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
->
-> ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
-?
-> [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
->
-> 2. ==phrase 2== → giải thích kết nối
->
-> 3. ==phrase 3== → giải thích kết nối
->
-> **🎯 Conclusion:** Tổng hợp logic
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/education-training/academic-research/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
+> **Audio:** *"I see what you mean about the topic, but honestly, it's not really relevant to what we're covering in our course at the moment."*
 >
 > *(vd: "You've got a point, but..." / "I see what you mean, although...")*
 >
@@ -436,7 +284,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 > [!fail] 🎭 Pseudo-Agreement Detection
 > **👉 Verdict:** ==PHẢN ĐỐI (Disagree)==
 >
-> **💡 Rule:** Khen trước → Chê sau = **NO**
+> **💡 Rule:** Khen trước ("I see what you mean") + "but honestly" + "not really" = PHỦ ĐỊNH rõ ràng
 >
 > **✅ Real Agreement Signals:**
 >
@@ -444,126 +292,96 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 >
 > - *"I couldn't agree more"*
 >
-> - *"Spot on"*
+> - *"Exactly"*
 >
-> - *"Absolutely"*
+> - *"Spot on"*
 >
 > **❌ False Agreement Signals:**
 >
-> - *"You've got a point, but..."*
+> - *"I see what you mean, but..."* (phủ định sau)
 >
-> - *"I suppose so..."* (ngập ngừng)
+> - *"You've got a point, but..."* (sẽ chê sau)
 >
-> - *"That's one way to look at it..."*
+> - *"That's one way to look at it..."* (không đồng ý)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/education-training/academic-research/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==relevant==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
+> [!info] ⚡ Rapid Swap
+> ==suitable== / ==fit with== / ==connected to== ⚡ ==relevant==
 >
 > **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> All express compatibility/appropriateness for a purpose or context; common IELTS swap in academic listening
 
 ---
 
-### Tier 4: Mastery - Bi-weekly (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/education-training/academic-research/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "The students discussed the human geography aspect at length. One thought it would be ==interesting to research==, while the other was concerned it might be ==too difficult==. However, when they reviewed their course requirements, they concluded that the aspect is ==not relevant to their course==. As one put it, 'It's outside the scope of what we're studying in our modules.' The other agreed, noting that 'it doesn't fit with our syllabus.'"
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** ==interesting to research==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Expresses positive evaluation of the topic
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* This is about personal interest/engagement, NOT academic relevance to the course - discussion shifts to COURSE SUITABILITY
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** ==too difficult==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Practical concern that could disqualify a topic
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Difficulty is dismissed; the focus moves to RELEVANCE - speakers don't decide based on difficulty
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **✅ Correct Answer:** ==not relevant to their course==
+> - *Why correct:* "concluded that" + "outside the scope" + "doesn't fit with our syllabus" + "not relevant" = clear academic suitability concern
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/education-training/academic-research/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** ==may not be relevant to their course==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "When the students evaluated this human geography aspect, they had doubts about its suitability. Initially, one wondered if it would be ==interesting to research== and the other worried it might be ==too difficult==. However, after checking their course documentation, they realized it ==doesn't fit with what they're studying==. They agreed that the aspect is ==outside the scope of their modules== and ==not part of their curriculum==."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==doesn't fit with what they're studying== → not relevant to their course (fit with = relevant, what they're studying = course)
 >
-> - ==Audio phrase== → ==Option word==
+> - ==outside the scope of their modules== → not relevant to their course (outside scope = not relevant, modules = course)
 >
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> - ==not part of their curriculum== → not relevant to their course (not part of = not relevant, curriculum = course)
+>
+> **🧠 Overall Logic:** Multiple paraphrases for unsuitability confirm answer; initial concerns (interesting, difficult) are dismissed in favor of relevance issue
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/education-training/academic-research/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==may not be relevant to their course==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Academic research topic discussion*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
+> 1. ==outside the scope==
 >
-> 2. ==Paraphrase 2==
+> 2. ==doesn't fit with our studies==
 >
 > **🎯 Goal:** Instant Recall
-
----
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
-### Card 18: Complete Question Synthesis *(MCQ only)*
-
-> **Full Question Context:**
-> =={{QUESTION_STEM}}==
->
-> **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
->
-> ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
-?
-> [!success] 🎯 Deep Logic Breakdown
-> **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
->
-> **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
->
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
->
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
-
----
