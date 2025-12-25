@@ -1,323 +1,252 @@
 ---
 aliases:
-  - 
-question_type: single
-# single = 1 option (matching), multi = 2+ options (MCQ)
-options_count: 1
-status: pending
+  - when volunteers start working
+  - volunteer start week
+  - week beginning for new volunteers
+question_type: multi
+options_count: 3
+status: done
 ref:
   - Cam 20 Listening Test 02
 
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==multi==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==New volunteers will start working in the week beginning?==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Volunteering at festivals - discussing volunteer schedule and training timeline*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cambridge 20 Listening Test 02
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
+> | A | ==2 Sep== | starting on September 2nd | beginning of September, early September | ⚠️ High |
+> | B | ==9 Sep== | starting on September 9th | mid-September, second week | ⚠️ Medium |
+> | C | ==23 Sep== | starting on September 23rd | late September, end of month | ⚠️ Low |
 >
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
->
-> *(For single-option: keep only 1 row and remove "Correct Answer" line)*
+> **✅ Correct Answer:** ==B. 9 Sep==
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==Thời gian==
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Volunteering== at ==Festivals==
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
+> - **Definition:** Specific ==date== when new volunteers begin their duties and training program
 >
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
+> - **Denotation:** The ==starting point== in time for volunteer activities, referring to a calendar date in September
 >
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
+> - **Distractor:** Similar dates like "2 September" (early), "23 September" (late) - need to listen carefully for modifiers like "not until", "actually", or specific phrases
 >
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Deep Dive:** In IELTS Listening, time/date questions often involve ==comparison phrases== such as "not the first week", "the second week", "after the training", or specific calendar references. Listen for phrases like "week beginning", "starting from", or "commencing" to identify the correct temporal reference
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Looking at a ==calendar page== with September highlighted, seeing volunteer schedule posted on a notice board
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Coordinator saying "So, we're looking at the week beginning..." or "Your actual duties start from..."
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Circling dates on a schedule, marking volunteer start date in diary
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
+> - `Verb + Noun`: schedule + volunteers, arrange + training, begin + working, start + duties
 >
-> - `Noun + of + Noun`: e.g., organisation of + event
+> - `Noun + of + Noun`: week + of + September, beginning + of + September
 >
-> - `Adj + Noun`: e.g., local + businesses
+> - `Adj + Noun`: new + volunteers, actual + work, training + session
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "I'm afraid we can't start until the week beginning the 9th"
 >
-> - "The job involves..."
+> - "The training session's actually in the week of September 9th"
 >
-> - "We need to..."
+> - "We're looking at starting work from the week beginning September 9th"
 >
-> - "My responsibility is..."
+> - "You'll be beginning your duties in the second week of September"
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** =="2 Sep" mentioned first==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Speaker may mention "2 September" as when they wanted to start or when something else happens, using "but" or "however" to negate it
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* The date 2 September might be when training was planned or when other activities occur, but NOT when volunteers actually start working
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
+> **Trap 2:** =="23 Sep" as late option==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Speaker might mention late September as a contingency or for future events, making it sound like a possibility
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* 23 September could refer to a different event, backup plan, or future festival, not the current volunteer start date
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "We originally planned for the week beginning September 2nd, but the training's been moved, so you won't be starting until the week beginning September 9th instead."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==B. 9 Sep==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "Your induction's on the 2nd, but you won't be doing any actual work then. The week you'll be starting your duties is the week beginning September 9th."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==B. 9 Sep==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
-
----
-
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/social-leisure/volunteering/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==2 Sep / 9 Sep / 23 Sep==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Volunteers starting week*
 >
 > ❓ **Question:** Liệt kê ==3 kịch bản paraphrasing== mà người nói có thể dùng?
 ?
 > [!success] 💡 Possible Scripts
-> 1. **Action (Hành động):** ví dụ: Hiring ==a live band==
+> 1. **Time reference (Thời gian):** Starting in the ==second week of September==
 >
-> 2. **Object/Person (Đối tượng):** ví dụ: Booking ==the magician==
+> 2. **Date modification (Sửa ngày):** Not ==September 2nd== but ==September 9th==
 >
-> 3. **Abstract (Trừu tượng):** ví dụ: Organising ==fun activities==
+> 3. **Period description (Mô tả giai đoạn):** The week following ==the training session==
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Listen for phrases that modify or clarify the initial date mentioned, paying attention to "actually", "instead", or time relationship phrases
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/social-leisure/volunteering/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==week beginning 9 Sep==
 >
 > ❓ **Question:** Những ==V+N collocations== phổ biến đi kèm? (KHÔNG dùng lại từ gốc)
 ?
 > [!note] 🗝️ Collocations
-> - **Verbs:** ví dụ: ==perform==, ==play==, ==dance==
+> - **Verbs:** ==schedule==, ==arrange==, ==commence==, ==begin==
 >
-> - **Nouns:** ví dụ: ==music==, ==concert==, ==comedy==
+> - **Nouns:** ==session==, ==induction==, ==training==, ==period==
 >
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** Often used with temporal markers like "from", "in", "during", or "until"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/social-leisure/volunteering/daily/03-signpost
 ### Card 3: Signpost Detection
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==9 Sep==
 >
 > ❓ **Question:** Những ==từ nối (signpost)== thường đi trước/sau khi nói về ý này?
 ?
 > [!tip] 🚦 Signposts
-> - **Before:** ví dụ: "So," "As for," "Regarding..."
+> - **Before:** "So," "Actually," "We've decided," "The thing is"
 >
-> - **After:** ví dụ: "which involves," "that means..."
+> - **After:** "instead of," "rather than," "not the 2nd"
 >
-> **🎧 Audio Cue:** Cụm từ nghe được
+> **🎧 Audio Cue:** Phrases that indicate a change or correction from previously mentioned dates
 
 ---
 
-### Tier 2: Recognition - Every 2-3 Days (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/01-reverse
 ### Card 4: Reverse Matching (Thực chiến)
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "The week you'll actually be starting is the one beginning September 9th. Not the week of the 2nd - that's just for the paperwork."
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==B. 9 Sep==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="week beginning September 9th"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: =="9 Sep"== trong option
 >
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> **🧠 Logic Chain:** Speaker explicitly states "starting is... week beginning September 9th" while negating September 2nd
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/02-trap
 ### Card 5: Trap Identification
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==2 Sep==
 >
 > ❓ **Question:** Những ==dấu hiệu phủ định== (negation signals) nào cho thấy đáp án này đã bị ==LOẠI==?
 ?
 > [!fail] 🛑 Negation Signals
-> - *"We thought about doing X, but..."* ==Dự định nhưng không làm==
+> - *"We thought about September 2nd, but..."* ==Dự định nhưng không làm==
 >
-> - *"X used to be popular, however..."* ==Quá khứ==
+> - *"September 2nd is for paperwork, not..."* ==Không phải thời gian thực==
 >
-> - *"Instead of X, we decided to..."* ==Thay thế==
+> - *"Not the week of the 2nd, but..."* ==Phủ định trực tiếp==
 >
-> - *"We've run out of time for X..."* ==Không làm được==
+> - *"We've pushed it back from..."* ==Dời từ ngày đó==
 >
-> **⚠️ Other Traps:** Too expensive, not available...>
+> **⚠️ Other Traps:** Date confusion with other events, mishearing similar-sounding dates
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/03-differentiate
 ### Card 6: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="2 Sep"== với =="9 Sep"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
+> - **2 Sep:** Often mentioned as ==initial plan==, ==paperwork date==, or ==when training WAS scheduled== (but changed)
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
+> - **9 Sep:** The ==actual start date== for volunteer work, when duties ==commence==
 >
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> **🧱 Key Barrier:** Listening carefully for negation phrases that rule out 2 Sep
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/04-cloze
 ### Card 7: Context Cloze (Điền từ)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> *Your duties will begin in the week ___ September 9th, not the week of the 2nd.*
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Nhiệm vụ của bạn sẽ bắt đầu vào tuần bắt đầu ngày 9 tháng 9, không phải tuần ngày 2.
 >
 > ❓ **Question:** ==Điền vào chỗ trống==?
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> [!success] ✅ Answer: ==beginning==
+> **🔗 Connects to:** ==9 Sep==
 >
-> **💡 Why:** Giải thích logic
+> **💡 Why:** The phrase "week beginning X date" is a common IELTS pattern for specifying calendar weeks, and "beginning" is the key word that connects to the date
 
 ---
 
-### Tier 3: Elimination - Weekly (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
+#flashcards/ielts-listening/social-leisure/volunteering/weekly/01-elimination
 ### Card 8: Option Elimination Drill *(MCQ only)*
 
-> **Question:** =={{QUESTION_STEM}}==
+> **Question:** ==New volunteers will start working in the week beginning?==
 >
 > **Options:**
-> - A. {{OPTION_1}}
-> - B. {{OPTION_2}}
-> - C. {{OPTION_3}}
+> - A. 2 Sep
+> - B. 9 Sep
+> - C. 23 Sep
 >
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
+> **Audio:** "We were hoping to start on September 2nd, but that's been postponed. And September 23rd is far too late - the festival's already started by then. So we're going with the week beginning September 9th."
 >
 > ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
 ?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
+> [!success] ✅ Correct: ==B. 9 Sep==
 >
-> **❌ Why A is wrong:** Audio không nhắc đến ==keyword A==
+> **❌ Why A is wrong:** Audio nói "been postponed" - ngày 2 Sep đã bị dời
 >
-> **❌ Why B is wrong:** Audio không nhắc đến ==keyword B==
+> **❌ Why C is wrong:** Audio nói "far too late - festival's already started" - ngày 23 Sep quá muộn
 >
-> **✅ Why C is correct:** "audio phrase" ==option C keyword==
+> **✅ Why B is correct:** "going with the week beginning September 9th" - xác nhận ngày 9 Sep
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
+#flashcards/ielts-listening/social-leisure/volunteering/weekly/02-cross-confusion
 ### Card 9: Cross-Option Confusion *(MCQ only)*
 
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
+> **Confusing Pair:** ==2 Sep== vs ==9 Sep==
 >
 > ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
 ?
@@ -325,142 +254,142 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 >
 > | Audio Cue | → Option |
 > |-----------|----------|
-> | "cụm từ 1" | ==A. option A== |
-> | "cụm từ 2" | ==A. option A== |
-> | "cụm từ 3" | ==B. option B== |
-> | "cụm từ 4" | ==B. option B== |
+> | "original plan was," "we thought about," "hoping to start" | ==A. 2 Sep== (trước khi sửa) |
+> | "postponed," "pushed back," "not until" | ==B. 9 Sep== (ngày thực tế) |
+> | "week beginning September 9th" | ==B. 9 Sep== |
+> | "actual start," "you'll be working from" | ==B. 9 Sep== |
 >
 > **🔑 Core Distinction:**
-> - **A** = focus area A
-> - **B** = focus area B
+> - **A (2 Sep)** = Original/Planned date (often negated)
+> - **B (9 Sep)** = Actual/Confirmed date (final answer)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
+#flashcards/ielts-listening/social-leisure/volunteering/weekly/03-validation
 ### Card 10: Answer Validation *(MCQ only)*
 
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
+> **Correct Answer:** ==9 Sep==
 >
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
+> **Audio excerpt:** "The induction's on the 2nd, and then the week you'll actually be starting your duties is the week beginning September 9th."
 >
 > ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
 ?
 > [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
+> 1. =="actually be starting"== → emphasizes this is the real start date, not the 2nd
 >
-> 2. ==phrase 2== → giải thích kết nối
+> 2. =="week beginning September 9th"== → directly states the calendar week
 >
-> 3. ==phrase 3== → giải thích kết nối
+> 3. =="your duties"== → confirms this refers to when work/volunteering begins
 >
-> **🎯 Conclusion:** Tổng hợp logic
+> **🎯 Conclusion:** The speaker confirms September 9th as the actual start while differentiating it from the earlier induction date on September 2nd
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-chain
+#flashcards/ielts-listening/social-leisure/volunteering/weekly/04-chain
 ### Card 11: Paraphrase Chain
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==9 Sep==
 >
 > ❓ **Question:** Tạo ==chuỗi paraphrasing 4 levels== cho ý này?
 ?
 > [!info] 🔗 Paraphrase Chain
-> 1. **Direct:** Cùng nghĩa, từ khác
+> 1. **Direct:** September 9th, the 9th of September, nine September
 >
-> 2. **Related:** Ý nghĩa liên quan
+> 2. **Related:** The second week of September, mid-September, the week after the 2nd
 >
-> 3. **Contextual:** Theo ngữ cảnh cụ thể
+> 3. **Contextual:** The week following induction, after the training session, post-paperwork week
 >
-> 4. **Implicit:** Ý nghĩa ẩn dụ
+> 4. **Implicit:** The actual start date (as opposed to planned date), when duties commence
 >
-> **💡 Core Thread:** Chủ đề xuyên suốt
+> **💡 Core Thread:** All variants point to the same specific calendar reference in mid-September
 
 ---
 
-### Tier 4: Mastery - Bi-weekly (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/01-full-trap
 ### Card 12: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "We've got the orientation scheduled for September 2nd, and some people might be coming in then. But for actual volunteering work, we're looking at September 23rd. Oh wait, sorry, I'm getting mixed up - it's not the 23rd either, that's for the winter festival. The week you'll be working is the one beginning September 9th."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** =="2 Sep"==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* "orientation scheduled for September 2nd"
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* This is for orientation, not actual volunteering work; speaker clarifies "but for actual volunteering..."
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** =="23 Sep"==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* "we're looking at September 23rd"
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Speaker immediately corrects themselves "sorry, I'm getting mixed up" - it's for a different festival
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **✅ Correct Answer:** ==9 Sep==
+> - *Why correct:* Final clarification "The week you'll be working is the one beginning September 9th"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/02-script-match
 ### Card 13: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** ==9 Sep==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "Right, so regarding when you'll be starting - not September 2nd, that's just paperwork. And definitely not September 23rd, that's when the festival ends. The actual week you'll begin your volunteer duties is the week beginning September 9th. That gives you enough time to get familiar with everything."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - =="week beginning September 9th"== → =="9 Sep"== (exact match)
 >
-> - ==Audio phrase== → ==Option word==
+> - =="actual week you'll begin"== → confirms this is the real start date
 >
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> - =="start your volunteer duties"== → connects to working, not just orientation
+>
+> **🧠 Overall Logic:** The speaker negates both alternative dates (2 Sep for paperwork, 23 Sep as festival end) and explicitly confirms September 9th as the volunteer work start date
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/03-speed
 ### Card 14: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==9 Sep==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Volunteer start date*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
+> 1. ==the second week of September==
 >
-> 2. ==Paraphrase 2==
+> 2. ==mid-September==
 >
 > **🎯 Goal:** Instant Recall
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/04-synthesis
 ### Card 15: Complete Question Synthesis *(MCQ only)*
 
 > **Full Question Context:**
-> =={{QUESTION_STEM}}==
+> ==New volunteers will start working in the week beginning?==
 >
 > **All Options:**
 > | Option | Status | Key Signal |
 > |--------|--------|------------|
-> | A. {{OPTION_1}} | ❌ | why wrong |
-> | B. {{OPTION_2}} | ❌ | why wrong |
-> | C. {{OPTION_3}} | ✅ | why correct |
+> | A. 2 Sep | ❌ | negated as "paperwork only" or "postponed" |
+> | B. 9 Sep | ✅ | confirmed as "week beginning September 9th" |
+> | C. 23 Sep | ❌ | described as "too late" or "different event" |
 >
 > ❓ Tóm tắt toàn bộ logic chọn đáp án trong 1-2 câu?
 ?
 > [!success] 🎯 Complete Analysis
-> **Summary:** Audio focus vào [concept C] thông qua phrases "X" và "Y", trong khi [concept A] và [concept B] không được đề cập hoặc bị phủ định bởi "Z"
+> **Summary:** Audio mentions September 2nd as initial plan or paperwork date, September 23rd as too late or wrong event, but explicitly confirms September 9th as the actual volunteer work start date using "week beginning" phrasing
 >
-> **🔑 Key Lesson:** Bài học rút ra cho dạng câu hỏi này
+> **🔑 Key Lesson:** For date questions, listen for negation phrases that rule out distractor dates and confirmation phrases that identify the correct temporal reference
 
 ---

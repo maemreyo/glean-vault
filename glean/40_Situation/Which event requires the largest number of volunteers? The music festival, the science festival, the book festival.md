@@ -1,323 +1,252 @@
 ---
 aliases:
-  - 
-question_type: single
-# single = 1 option (matching), multi = 2+ options (MCQ)
-options_count: 1
-status: pending
+  - largest volunteer event
+  - most volunteers needed
+  - festival requiring most volunteers
+question_type: multi
+options_count: 3
+status: done
 ref:
   - Cam 20 Listening Test 02
 
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==multi==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** ==Which event requires the largest number of volunteers?==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Volunteering at festivals - discussing staffing needs for different festival events*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cambridge 20 Listening Test 02
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
+> | A | ==the music festival== = =event focused on music performance | musical event, concert festival | ⚠️ High |
+> | B | ==the science festival== = =event focused on science exhibits | science event, exhibition, educational fair | ⚠️ Medium |
+> | C | ==the book festival== = =event focused on books and literature | literary festival, book fair, reading event | ⚠️ Low |
 >
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
->
-> *(For single-option: keep only 1 row and remove "Correct Answer" line)*
+> **✅ Correct Answer:** ==A. the music festival==
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==Số lượng/Đánh giá==
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Volunteering== at ==Festivals==
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
+> - **Definition:** The festival event that demands the ==highest number of volunteers== for staffing and organization
 >
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
+> - **Denotation:** The event with the ==greatest volunteer requirement== in terms of people needed, referring to comparative quantity across different festivals
 >
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
+> - **Distractor:** "Science festival" might be described as large or busy; "book festival" might be mentioned as having many volunteers but not the most
 >
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Deep Dive:** In IELTS Listening, superlative questions about "largest/most/biggest" require listening for ==comparative and superlative language== such as "the biggest is", "requires the most", "needs the largest number", "more than any other", or "far exceeds". Listen for quantity phrases and comparative structures
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Large crowds at music festival, many volunteers ==helping with crowd control==, ticket checking, and event coordination
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Coordinator saying "The music festival needs the most people" or "It's by far the largest"
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Volunteers managing crowds, checking tickets, guiding attendees at busy music venue
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
+> - `Verb + Noun`: require + volunteers, need + people, staff + event, organize + festival
 >
-> - `Noun + of + Noun`: e.g., organisation of + event
+> - `Noun + of + Noun`: number + of + volunteers, majority + of + staff
 >
-> - `Adj + Noun`: e.g., local + businesses
+> - `Adj + Noun`: largest + number, most + volunteers, biggest + event
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "The music festival needs the most volunteers"
 >
-> - "The job involves..."
+> - "We require the largest number of staff for the music festival"
 >
-> - "We need to..."
+> - "The music festival is by far the biggest in terms of staffing"
 >
-> - "My responsibility is..."
+> - "More volunteers are needed for the music festival than any other event"
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** =="the science festival" described as large==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Speaker might say the science festival is "big" or "requires lots of people"
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Science festival is described as large but NOT as the "largest" or "most" - needs comparison language
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
+> **Trap 2:** =="the book festival" with many volunteers mentioned==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* Book festival might be discussed in detail, listing many volunteer roles
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* Book festival may need many volunteers but fewer than the music festival - not the "largest number"
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "The book festival needs quite a few volunteers, maybe fifty or so. The science festival's bigger, we're looking at around seventy. But the music festival - that's our biggest event by far, requiring the largest number of volunteers - we need at least a hundred people."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==A. the music festival==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "In terms of staffing requirements, the science festival needs many people, and the book festival also requires quite a lot. However, the music festival demands far more volunteers than either of those - it's definitely the event that needs the most help."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==A. the music festival==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
-
----
-
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/social-leisure/volunteering/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==music festival / science festival / book festival==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Largest volunteer requirement*
 >
 > ❓ **Question:** Liệt kê ==3 kịch bản paraphrasing== mà người nói có thể dùng?
 ?
 > [!success] 💡 Possible Scripts
-> 1. **Action (Hành động):** ví dụ: Hiring ==a live band==
+> 1. **Superlative language (Ngôn ngữ so sánh nhất):** The ==music festival requires the most volunteers==
 >
-> 2. **Object/Person (Đối tượng):** ví dụ: Booking ==the magician==
+> 2. **Comparison focus (So sánh):** We need ==far more people for the music festival== than the others
 >
-> 3. **Abstract (Trừu tượng):** ví dụ: Organising ==fun activities==
+> 3. **Quantity emphasis (Nhấn mạnh số lượng):** The ==music festival has the greatest staffing needs==
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Listen for superlatives ("most", "largest", "biggest") and comparative phrases that establish ranking
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/social-leisure/volunteering/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==largest number of volunteers==
 >
 > ❓ **Question:** Những ==V+N collocations== phổ biến đi kèm? (KHÔNG dùng lại từ gốc)
 ?
 > [!note] 🗝️ Collocations
-> - **Verbs:** ví dụ: ==perform==, ==play==, ==dance==
+> - **Verbs:** ==require==, ==need==, ==demand==, ==call for==
 >
-> - **Nouns:** ví dụ: ==music==, ==concert==, ==comedy==
+> - **Nouns:** ==staff==, ==people==, =personnel==, ==helpers==
 >
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** Often used with superlatives "largest", "most", "greatest", or comparatives "more", "far more", "much more"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/social-leisure/volunteering/daily/03-signpost
 ### Card 3: Signpost Detection
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==the music festival==
 >
 > ❓ **Question:** Những ==từ nối (signpost)== thường đi trước/sau khi nói về ý này?
 ?
 > [!tip] 🚦 Signposts
-> - **Before:** ví dụ: "So," "As for," "Regarding..."
+> - **Before:** "In terms of," "As for," "When it comes to," "Regarding"
 >
-> - **After:** ví dụ: "which involves," "that means..."
+> - **After:** "by far the biggest," "needs the most," "requires the largest number"
 >
-> **🎧 Audio Cue:** Cụm từ nghe được
+> **🎧 Audio Cue:** Phrases introducing comparison and superlative language about staffing requirements
 
 ---
 
-### Tier 2: Recognition - Every 2-3 Days (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/01-reverse
 ### Card 4: Reverse Matching (Thực chiến)
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "The book festival will need around fifty volunteers, and the science festival is looking at about seventy-five. But the music festival requires far more - it's by far our biggest event, needing at least a hundred volunteers, so that's definitely the one requiring the largest number of helpers."
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==A. the music festival==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="music festival requires far more... by far our biggest event"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: =="largest number of volunteers"== và ="music festival"==
 >
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> **🧠 Logic Chain:** Speaker uses specific numbers (50, 75, 100+) and superlative "by far our biggest" to establish music festival as needing the most volunteers
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/02-trap
 ### Card 5: Trap Identification
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==the science festival==
 >
 > ❓ **Question:** Những ==dấu hiệu phủ định== (negation signals) nào cho thấy đáp án này đã bị ==LOẠI==?
 ?
 > [!fail] 🛑 Negation Signals
-> - *"We thought about doing X, but..."* ==Dự định nhưng không làm==
+> - *"needs quite a few, but..."* ==Nhiều nhưng không nhiều nhất==
 >
-> - *"X used to be popular, however..."* ==Quá khứ==
+> - *"not as many as"*, *"fewer than"*, *"less than"* ==So sánh thấp hơn==
 >
-> - *"Instead of X, we decided to..."* ==Thay thế==
+> - *"big, but not the biggest"* ==Lớn nhưng không lớn nhất==
 >
-> - *"We've run out of time for X..."* ==Không làm được==
+> - *"requires more than X, but far less than Y"* ==Không phải cao nhất==
 >
-> **⚠️ Other Traps:** Too expensive, not available...>
+> **⚠️ Other Traps:** Events described with positive language (big, needs many) but not with superlatives
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/03-differentiate
 ### Card 6: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="science festival"== với =="music festival"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
+> - **science festival:** Described as needing =="quite a few"== or =="many"== volunteers but ==NOT "the most"==
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
+> - **music festival:** Described with =="by far the biggest"==, =="requires the most"==, =="far more than"==
 >
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> **🧱 Key Barrier:** Listening for superlative vs positive quantity language - distinguishing "big" from "biggest"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/social-leisure/volunteering/recognition/04-cloze
 ### Card 7: Context Cloze (Điền từ)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> *The science festival needs many volunteers, and the book festival also requires quite a lot. However, the music festival needs ___ more people than either of those events - it's definitely the one requiring the largest number.*
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Hội thảo khoa học cần nhiều tình nguyện viên, và lễ hội sách cũng cần khá nhiều. Tuy nhiên, lễ hội âm nhạc cần nhiều người hơn bất kỳ sự kiện nào trong số đó - chắc chắn là sự kiện cần số lượng lớn nhất.
 >
 > ❓ **Question:** ==Điền vào chỗ trống==?
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> [!success] ✅ Answer: ==far==
+> **🔗 Connects to:** ==the music festival (largest number)==
 >
-> **💡 Why:** Giải thích logic
+> **💡 Why:** "Far more" is a comparative phrase indicating the music festival needs significantly more volunteers than the others, establishing it as the event requiring the largest number
 
 ---
 
-### Tier 3: Elimination - Weekly (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
+#flashcards/ielts-listening/social-leisure/volunteering/weekly/01-elimination
 ### Card 8: Option Elimination Drill *(MCQ only)*
 
-> **Question:** =={{QUESTION_STEM}}==
+> **Question:** ==Which event requires the largest number of volunteers?==
 >
 > **Options:**
-> - A. {{OPTION_1}}
-> - B. {{OPTION_2}}
-> - C. {{OPTION_3}}
+> - A. the music festival
+> - B. the science festival
+> - C. the book festival
 >
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
+> **Audio:** "The book festival will need around fifty volunteers. For the science festival, we're looking at about seventy-five people. But the music festival - that's our flagship event, our biggest by far. We're going to need over a hundred volunteers for that one."
 >
 > ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
 ?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
+> [!success] ✅ Correct: ==A. the music festival==
 >
-> **❌ Why A is wrong:** Audio không nhắc đến ==keyword A==
+> **❌ Why B is wrong:** Audio nói "about seventy-five" - ít hơn "over a hundred" của music festival
 >
-> **❌ Why B is wrong:** Audio không nhắc đến ==keyword B==
+> **❌ Why C is wrong:** Audio nói "around fifty" - ít nhất trong 3 sự kiện
 >
-> **✅ Why C is correct:** "audio phrase" ==option C keyword==
+> **✅ Why A is correct:** "biggest by far," "over a hundred volunteers" - xác nhận music festival cần nhiều nhất
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
+#flashcards/ielts-listening/social-leisure/volunteering/weekly/02-cross-confusion
 ### Card 9: Cross-Option Confusion *(MCQ only)*
 
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
+> **Confusing Pair:** ==science festival== vs ==music festival==
 >
 > ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
 ?
@@ -325,142 +254,144 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 >
 > | Audio Cue | → Option |
 > |-----------|----------|
-> | "cụm từ 1" | ==A. option A== |
-> | "cụm từ 2" | ==A. option A== |
-> | "cụm từ 3" | ==B. option B== |
-> | "cụm từ 4" | ==B. option B== |
+> | "around seventy-five," "quite a few," "many" | ==B. science festival== (nhiều nhưng không nhiều nhất) |
+> | "by far the biggest," "requires the most," "over a hundred" | ==A. music festival== (nhiều nhất) |
+> | "needs about," "looking at around" | ==B. science festival== |
+> | "far more than," "exceeds all others" | ==A. music festival== |
 >
 > **🔑 Core Distinction:**
-> - **A** = focus area A
-> - **B** = focus area B
+> - **B (science festival)** = Many/large quantity but not the maximum
+> - **A (music festival)** = Highest quantity/superlative
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
+#flashcards/ielts-listening/social-leisure/volunteering/weekly/03-validation
 ### Card 10: Answer Validation *(MCQ only)*
 
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
+> **Correct Answer:** ==the music festival==
 >
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
+> **Audio excerpt:** "In terms of volunteer numbers, the science festival will need about seventy people, and the book festival roughly fifty. However, the music festival requires significantly more - it needs over a hundred volunteers, making it by far the event that needs the largest number of helpers."
 >
 > ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
 ?
 > [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
+> 1. =="significantly more"== → comparative phrase showing music festival needs more
 >
-> 2. ==phrase 2== → giải thích kết nối
+> 2. =="over a hundred volunteers"== → specific quantity that exceeds other festivals' numbers
 >
-> 3. ==phrase 3== → giải thích kết nối
+> 3. =="by far the event that needs the largest number"== → superlative confirming music festival as highest
 >
-> **🎯 Conclusion:** Tổng hợp logic
+> **🎯 Conclusion:** The speaker uses specific numbers (70, 50, 100+) and comparative/superlative language to establish the music festival as requiring the most volunteers
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-chain
+#flashcards/ielts-listening/social-leisure/volunteering/weekly/04-chain
 ### Card 11: Paraphrase Chain
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==the music festival==
 >
 > ❓ **Question:** Tạo ==chuỗi paraphrasing 4 levels== cho ý này?
 ?
 > [!info] 🔗 Paraphrase Chain
-> 1. **Direct:** Cùng nghĩa, từ khác
+> 1. **Direct:** music festival, the musical event, concert festival
 >
-> 2. **Related:** Ý nghĩa liên quan
+> 2. **Related:** the biggest event, the largest festival, the flagship event
 >
-> 3. **Contextual:** Theo ngữ cảnh cụ thể
+> 3. **Contextual:** most volunteers needed, greatest staffing requirement, highest number of helpers
 >
-> 4. **Implicit:** Ý nghĩa ẩn dụ
+> 4. **Implicit:** requires the most, needs far more than others, by far the biggest
 >
-> **💡 Core Thread:** Chủ đề xuyên suốt
+> **💡 Core Thread:** All variations point to the music festival as having the highest volunteer requirement through quantity-based descriptors
 
 ---
 
-### Tier 4: Mastery - Bi-weekly (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/01-full-trap
 ### Card 12: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "Let me break down our volunteer needs for each festival. The book festival is our smallest in terms of staffing - we'll need about forty volunteers. The science festival is much larger - we're projecting around eighty people for that one. But the music festival? That's our major event. It requires by far the largest number of volunteers - we need at least a hundred and twenty people, maybe even more. It's easily the biggest staffing challenge we face."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** =="the book festival"==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* "we'll need about forty volunteers"
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Described as "smallest in terms of staffing" - lowest quantity
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** =="the science festival"==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* "much larger," "projecting around eighty people"
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Described as larger than book festival but "but the music festival?" indicates it's not the largest
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **✅ Correct Answer:** ==the music festival==
+> - *Why correct:* Explicitly stated as "requires by far the largest number" with "at least a hundred and twenty" vs 40 and 80
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/02-script-match
 ### Card 13: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** ==the music festival==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "When considering volunteer requirements across our different events, the book festival will need roughly fifty people. The science festival is busier - we estimate around seventy volunteers. However, the music festival demands far more. It's our biggest event and requires significantly more helpers than the other two combined. So the music festival is definitely the event that needs the largest number of volunteers."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - =="our biggest event"== → identifies music festival as the largest
 >
-> - ==Audio phrase== → ==Option word==
+> - =="demands far more"== → comparative phrase showing higher quantity
 >
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> - =="significantly more helpers than the other two combined"== → superlative by comparison
+>
+> - =="event that needs the largest number of volunteers"== → direct match to question
+>
+> **🧠 Overall Logic:** Speaker provides specific numbers and uses comparative/superlative language ("far more", "significantly more", "biggest") to clearly establish the music festival as requiring the most volunteers
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/03-speed
 ### Card 14: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==the music festival==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Largest volunteer requirement*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
+> 1. ==the biggest event==
 >
-> 2. ==Paraphrase 2==
+> 2. ==requires the most people==
 >
 > **🎯 Goal:** Instant Recall
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/04-synthesis
 ### Card 15: Complete Question Synthesis *(MCQ only)*
 
 > **Full Question Context:**
-> =={{QUESTION_STEM}}==
+> ==Which event requires the largest number of volunteers?==
 >
 > **All Options:**
 > | Option | Status | Key Signal |
 > |--------|--------|------------|
-> | A. {{OPTION_1}} | ❌ | why wrong |
-> | B. {{OPTION_2}} | ❌ | why wrong |
-> | C. {{OPTION_3}} | ✅ | why correct |
+> | A. the music festival | ✅ | identified as "by far the biggest", "requires the most" |
+> | B. the science festival | ❌ | described as "many" or "large" but NOT "the largest" |
+> | C. the book festival | ❌ | described as "smallest" or with lowest numbers |
 >
 > ❓ Tóm tắt toàn bộ logic chọn đáp án trong 1-2 câu?
 ?
 > [!success] 🎯 Complete Analysis
-> **Summary:** Audio focus vào [concept C] thông qua phrases "X" và "Y", trong khi [concept A] và [concept B] không được đề cập hoặc bị phủ định bởi "Z"
+> **Summary:** Audio provides numbers for science and book festivals but uses superlative language ("by far the biggest", "requires the most", "far more") to establish the music festival as needing the largest number of volunteers
 >
-> **🔑 Key Lesson:** Bài học rút ra cho dạng câu hỏi này
+> **🔑 Key Lesson:** For "largest/most" superlative questions, listen for ranking language - distinguish between positive descriptions ("many", "large") and superlative descriptors ("most", "largest", "by far the biggest")
 
 ---
