@@ -26,7 +26,7 @@
       "**/*.excalidraw.md, 99_Templates/**/*.md"
     ],
     "openRandomNote": true,
-    "autoNextNote": false,
+    "autoNextNote": true,
     "disableFileMenuReviewOptions": false,
     "maxNDaysNotesReviewQueue": 365,
     "showRibbonIcon": true,
