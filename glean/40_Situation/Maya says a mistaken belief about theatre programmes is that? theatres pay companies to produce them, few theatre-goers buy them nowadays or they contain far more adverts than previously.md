@@ -35,23 +35,29 @@ ref:
 >
 > **Topic Category:** ==Theatre / Business Model / Misconception==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Nghĩa là ==mối quan hệ khách hàng (client relationship)== - nhà hát là khách trả tiền cho công ty sản xuất programme
 >
 > - **Denotation:** Nghĩa đen là ==pay = trả tiền== - giao dịch tài chính nơi nhà hát thanh toán cho nhà sản xuất
 >
 > - **Distractor:** "few buy nowadays" nghe giống "unpopular" - có thể hiểu là người không thích/nhưng không phải sai lầm về mối quan hệ
 >
-> - **Deep Dive:** Paraphrasing: **theatres pay companies → theatres finance/commission/fund programmes, theatres are clients, theatres hire producers**
+> - **Deep Dive:** Paraphrasing: ==theatres pay companies → theatres finance/commission/fund programmes, theatres are clients, theatres hire producers==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==independent production, self-funded, company pays theatre, independent business, autonomous, no theatre funding==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==pay/fund== → Syn: ==finance, sponsor, subsidize== | Ant: ==withdraw, withhold, bankrupt==
+>   - ==commission/hire== → Syn: ==contract, engage, employ== | Ant: ==fire, dismiss, terminate==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Hình dung nhà hát viết check cho công ty sản xuất programme - nhà hát là khách
+> - **Visual:** Hình dung nhà hát viết một tấm séc lớn (writing a large check) cho công ty sản xuất programme - nhà hát đóng vai trò là khách hàng (client) trả tiền cho dịch vụ
 >
-> - **Auditory:** Nghe người nói: *"People think the ==theatre pays== the printer," *"The ==funds come from== the venue"*
+> - **Auditory:** Nghe người nói nhấn mạnh bằng tone giọng đính chính (corrective tone): *"People think the ==theatre pays== the printer," *"The ==funds come from== the venue"*
 >
-> - **Action:** Hành động xem hóa đơn thanh toán từ nhà hát
+> - **Action:** Hành động xem một bản hợp đồng dịch vụ (service contract) nơi nhà hát cam kết thanh toán chi phí sản xuất (production costs)
 >
 > **🔗 Collocation Patterns:**
 > - `Verb + Noun`: pay + company, commission + producer, finance + production
@@ -63,7 +69,7 @@ ref:
 >
 > - "Companies are ==commissioned by== the theatre..."
 >
-> - "The ==funds come from== the venue..."*
+> - "The ==funds come from== the venue..."
 > - "Theatres ==hire/pay producers== to make programmes..."
 
 > [!warning] ⚠️ Traps & Distractors
@@ -92,34 +98,37 @@ ref:
 
 ---
 
-## 🧠 Spaced Repetition Flashcards
+## 🧠 Spaced Repetition Flashcards (20 Cards)
 
 ---
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
 #flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-programmes/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==theatres pay companies to produce them==
 >
 > **Context:** *Maya discussing theatre programme misconceptions*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Audio sẽ dùng từ ==commission/fund/finance== để paraphrase "pay companies"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==theatres finance / fund / commission==
+> - ==funds come from the venue==
+> - ==theatre pays the producer==
+> - ==theatres commission programmes==
 >
-> **🥈 Other possibilities:**
-> - Audio nhắc ==hire/pay producers==
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==independent producers==
+> - ==self-funded companies==
+> - ==companies work autonomously==
+> - ==no financial support from theatres==
 >
-> - Audio nói ==theatres finance/commission==
->
-> - Audio dùng ==venue pays company==
->
-> - Audio nói ==funds come from theatre==
->
-> **🔑 Core Concept:** Tất cả diễn tả ==mối quan hệ tài chính nơi nhà hát trả tiền cho công ty==
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -494,5 +503,57 @@ ref:
 > - **Confirmation Logic:** Từ khóa "mistakenly think" + cụm paraphrase cho pay = chính xác là misconception đang hỏi
 >
 > **🔑 Strategic Lesson:** Trong MCQ về misconception (sai lầm), tập trung vào từ trực tiếp nêu sai lầm ("mistakenly think", "wrong belief", "misconception is", "people get wrong") thay vì các факt background
+
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-programmes/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==theatres pay companies to produce them==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==theatres finance the entire production=="
+> 2. "==fewer theatre-goers buy them nowadays=="
+> 3. "==companies are commissioned by the venue=="
+> 4. "==independent producers funding themselves=="
+> 5. "==theatre pays the printing company=="
+> 6. "==contain much more advertising than before=="
+> 7. "==funds are provided by the theatre directly=="
+> 8. "==autonomous businesses with no theatre support=="
+> 9. "==theatres hire producers to make them=="
+> 10. "==self-funded projects with no venue help=="
+?
+> [!info] 📊 Classification Result
+> 1. ==theatres finance the entire production== → ==[✅]== (Paraphrase trực tiếp của theatre pay)
+> 2. ==fewer theatre-goers buy them nowadays== → ==[⚠️]== (Bẫy nội dung về sự phổ biến, không phải mối quan hệ tài chính)
+> 3. ==companies are commissioned by the venue== → ==[✅]== (Sự thuê mướn bởi nhà hát = trả tiền)
+> 4. ==independent producers funding themselves== → ==[❌]== (Ngược lại với theatre pay)
+> 5. ==theatre pays the printing company== → ==[✅]== (Mô tả hành động trả tiền cụ thể)
+> 6. ==contain much more advertising than before== → ==[⚠️]== (Bẫy nội dung, sự thay đổi về quảng cáo không phải là ai trả tiền)
+> 7. ==funds are provided by the theatre directly== → ==[✅]== (Xác nhận nguồn tiền từ nhà hát)
+> 8. ==autonomous businesses with no theatre support== → ==[❌]== (Logic đảo chiều: độc lập và không có hỗ trợ tài chính)
+> 9. ==theatres hire producers to make them== → ==[✅]== (Hành động thuê mướn = trả tiền cho dịch vụ)
+> 10. ==self-funded projects with no venue help== → ==[❌]== (Trái ngược hoàn toàn với việc được nhà hát tài trợ)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-programmes/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==theatres pay companies to produce them==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"People tend to view these companies as ==independent businesses== or ==self-funded producers==, but actually it's a ==client relationship== where the venue..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK A (Theatres pay companies)==
+>
+> **🧠 Reason:** Cấu trúc "view as X but actually Y" (X = independent/self-funded, Y = client relationship) đã phủ định tính chất độc lập (Antonyms) và khẳng định tính chất phụ thuộc tài chính (pay relationship). 
+> - Independent = Antonym of Pay/Hire
+> - → Not independent = Paid Client Relationship.
+>
+> **🎯 Skill:** Nhận định đúng mối quan hệ tài chính khi người nói phủ định các đặc điểm "độc lập/tự tài trợ" (Antonyms) để mô tả thực tế nhà hát chi trả.
 
 ---

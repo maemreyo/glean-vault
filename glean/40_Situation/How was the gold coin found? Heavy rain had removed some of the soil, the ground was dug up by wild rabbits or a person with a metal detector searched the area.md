@@ -35,7 +35,7 @@ ref:
 >
 > **Topic Category:** ==Archaeology / Excavation / Nature's role==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Nghĩa là ==phát hiện nhờ thiên nhiên (natural exposure)== - mưa/bão/lũ bóc đất để lộ hiện vật
 >
 > - **Denotation:** Nghĩa đen là ==removed some soil = bóc đất== - quá trình tự nhiên tẩy đất lớp trên
@@ -43,15 +43,21 @@ ref:
 > - **Distractor:** "rabbits dug up" nghe giống "disturbed ground" nhưng đó là tác động sinh vật, không phải thời tiết
 >
 > - **Deep Dive:** Paraphrasing: ==rain removed soil → washed away, rain exposed, rain revealed, weather uncovered==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==buried deeper, hidden by mud, covered by landslide, remained concealed, obscure==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==remove/wash away== → Syn: ==erode, strip, scour== | Ant: ==deposit, pile up, accumulate==
+>   - ==expose/reveal== → Syn: ==uncover, show, manifest== | Ant: ==bury, hide, mask==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Hình dung mưa lớn rơi xuống, nước chảy xói đất, bóc dần lớp đất để lộ đồng vàng
+> - **Visual:** Hình dung mưa lớn rơi xuống liên tục nhiều ngày, nước chảy xói đất (soil erosion), bóc dần lớp đất mùn bên trên để lộ ánh kim của đồng vàng
 >
-> - **Auditory:** Nghe người nói: *"The rain ==washed away== the topsoil," *"Heavy rain ==exposed== it"*
+> - **Auditory:** Nghe người nói nhấn mạnh bằng tone giọng ngạc nhiên/thú vị về sự may mắn: *"The rain ==washed away== the topsoil," *"Heavy rain ==exposed== it"*
 >
-> - **Action:** Hành động nhìn vào mảng đất bị mưa xói, thấy hiện vật
+> - **Action:** Hành động nhìn vào mảng đất bị mưa xói (eroded patch), cúi xuống nhặt đồng xu vừa mới lộ diện (just appeared)
 >
 > **🔗 Collocation Patterns:**
 > - `Verb + Noun`: remove + soil, wash + away, erode + earth
@@ -93,34 +99,37 @@ ref:
 
 ---
 
-## 🧠 Spaced Repetition Flashcards
+## 🧠 Spaced Repetition Flashcards (20 Cards)
 
 ---
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
 #flashcards/ielts-listening/cam-20-test-3/science-tech/archaeological-discovery/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==Heavy rain had removed some of the soil==
 >
 > **Context:** *Archaeology team finding gold coin*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Audio sẽ dùng từ ==washed away/exposed== để paraphrase "removed soil"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==heavy rain washed away / eroded==
+> - ==weather exposed / uncovered==
+> - ==revealed by rain / storm==
+> - ==removed by nature==
 >
-> **🥈 Other possibilities:**
-> - Audio nhắc ==rain removed/eroded==
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==buried deeper==
+> - ==covered by mud / landslide==
+> - ==remained concealed==
+> - ==obscured by layers of earth==
 >
-> - Audio nói ==weather uncovered==
->
-> - Audio dùng ==topsoil washed==
->
-> - Audio nói ==appeared at surface==
->
-> **🔑 Core Concept:** Tất cả diễn tả ==quá trình mưa/bão tự nhiên bóc đất để lộ hiện vật==
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 <!--SR:!2025-12-26,1,230-->
 
 ---
@@ -512,5 +521,57 @@ ref:
 >
 > **🔑 Strategic Lesson:** Trong MCQ về nguyên nhân (cause), tập trung vào từ chỉ ra chủ yếu/ chính yếu ("purely", "actually", "down to", "key factor") thay vì các đề cập phụ
 <!--SR:!2025-12-29,4,270-->
+
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeological-discovery/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==Heavy rain had removed some of the soil==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==heavy rain washed away the top layer=="
+> 2. "==didn't need metal detectors or any equipment=="
+> 3. "==naturally exposed by weather=="
+> 4. "==rabbits digging up the ground around there=="
+> 5. "==soil eroded by constant storms=="
+> 6. "==modern equipment revealed its location=="
+> 7. "==was revealed purely by the weather=="
+> 8. "==artifact remained buried deeper under mud=="
+> 9. "==weather uncovered the gold artifact=="
+> 10. "==buried under thick landslide layers=="
+?
+> [!info] 📊 Classification Result
+> 1. ==heavy rain washed away the top layer== → ==[✅]== (Paraphrase trực tiếp của rain removing soil)
+> 2. ==didn't need metal detectors or any equipment== → ==[⚠️]== (Bẫy loại trừ, xác nhận không phải do thiết bị nhưng không nói rõ là do mưa)
+> 3. ==naturally exposed by weather== → ==[✅]== (Đặc điểm của bóc đất do mưa)
+> 4. ==rabbits digging up the ground around there== → ==[⚠️]== (Bẫy thực thể, có hoạt động đào nhưng không phải nguyên nhân tìm thấy coin)
+> 5. ==soil eroded by constant storms== → ==[✅]== (Sự xói mòn do bão mưa = bóc đất)
+> 6. ==modern equipment revealed its location== → ==[❌]== (Ngược lại với phát hiện tự nhiên)
+> 7. ==was revealed purely by the weather== → ==[✅]== (Synonym của phát hiện do mưa)
+> 8. ==artifact remained buried deeper under mud== → ==[❌]== (Trái ngược với việc bị bóc đất lộ ra)
+> 9. ==weather uncovered the gold artifact== → ==[✅]== (Paraphrase của rain removed soil)
+> 10. ==buried under thick landslide layers== → ==[❌]== (Logic đảo chiều: bị che phủ thêm thay vì được lộ ra)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeological-discovery/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==Heavy rain had removed some of the soil==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"People thought it would remain ==buried deeper== or be ==covered by more mud== during the storm, but actually the rain ==stripped away== the top earth..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK A (Heavy rain removed soil)==
+>
+> **🧠 Reason:** Cấu trúc "thought it would be X but actually Y" (X = buried/covered, Y = stripped away/removed) sử dụng sự phủ định dự đoán tiêu cực để khẳng định kết quả tích cực (phát hiện nhờ mưa). 
+> - Buried/Covered = Antonyms of Removed/Exposed
+> - → Not buried = Exposed.
+>
+> **🎯 Skill:** Nhận định đúng hướng tác động của thiên nhiên ngay cả khi người nói liệt kê các khả năng "bị vùi lấp" (Antonyms) trước đó.
 
 ---

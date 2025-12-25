@@ -35,7 +35,7 @@ ref:
 >
 > **Topic Category:** ==Academic / Research / Education==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Nghĩa là ==độc nhất, chưa từng được nghiên cứu== - chủ đề mới lạ, không ai đụng đến
 >
 > - **Denotation:** Nghĩa đen là ==not chosen before== - chưa được chọn, chưa có người làm
@@ -43,15 +43,21 @@ ref:
 > - **Distractor:** "easy to research" nghe giống "available information" nhưng đó là về độ khó, không phải về tính độc đáo
 >
 > - **Deep Dive:** Paraphrasing: ==had not been chosen → nobody had selected, unique, original, fresh, untouched==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==already taken, booked, popular, chosen by many, common, repetitive==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==choose/select== → Syn: ==pick, opt for, decide on== | Ant: ==reject, decline, bypass==
+>   - ==available== → Syn: ==free, unoccupied, untouched== | Ant: ==taken, occupied, filled==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Hình dung Finn nhìn danh sách các chủ đề, tìm thấy chủ đề của mình ==chưa có ai check==
+> - **Visual:** Hình dung Finn nhìn danh sách các chủ đề, tìm thấy chủ đề của mình ==chưa có ai check== (dòng trống)
 >
-> - **Auditory:** Nghe người nói: *"It's completely new," "Nobody's done it," "It's fresh," "Original"*
+> - **Auditory:** Nghe người nói nhấn mạnh bằng tone giọng nhẹ nhõm/phấn khởi: *"It's completely new," "Nobody's done it," "It's fresh," "Original"*
 >
-> - **Action:** Hành động kiểm tra danh sách topic, thấy tên chủ đề chưa bị chọn
+> - **Action:** Hành động kiểm tra danh sách topic, ngón tay lướt qua các ô và dừng lại ở ô trống mang tên topic của mình
 >
 > **🔗 Collocation Patterns:**
 > - `Verb + Noun`: choose + topic, select + subject, pick + theme
@@ -93,34 +99,37 @@ ref:
 
 ---
 
-## 🧠 Spaced Repetition Flashcards
+## 🧠 Spaced Repetition Flashcards (20 Cards)
 
 ---
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
 #flashcards/ielts-listening/cam-20-test-3/education-training/academic-research/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==had not been chosen by other students==
 >
 > **Context:** *Finn feeling pleased about research topic choice*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Audio sẽ dùng từ ==nobody had chosen/selected== để paraphrase
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==nobody had chosen / selected / picked==
+> - ==still available==
+> - ==untouched / fresh / new==
+> - ==completely original==
 >
-> **🥈 Other possibilities:**
-> - Audio nhắc ==completely new/original==
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==already taken / booked==
+> - ==popular choice==
+> - ==repetitive==
+> - ==already selected by others==
 >
-> - Audio nói ==untouched/fresh==
->
-> - Audio dùng ==still available==
->
-> - Audio nói ==no one else picked==
->
-> **🔑 Core Concept:** Tất cả diễn tả ==tính độc đáo, chưa từng được chọn== của chủ đề nghiên cứu
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -496,5 +505,57 @@ ref:
 > - **Confirmation Logic:** Multiple paraphrases (nobody chosen, untouched, available, nobody's done work) converging vào cùng ý nghĩa
 >
 > **🔑 Strategic Lesson:** Trong MCQ, tập trung vào từ chỉ ra quan điểm chính hoặc cảm xúc chủ đạo của người nói ("pleased", "really happy", "what matters")
+
+#flashcards/ielts-listening/cam-20-test-3/education-training/academic-research/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==had not been chosen by other students==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==nobody had selected our topic yet=="
+> 2. "==easy to research with plenty of material=="
+> 3. "==completely untouched by others=="
+> 4. "==already taken by two groups=="
+> 5. "==still available on the list=="
+> 6. "==module leader never heard of it=="
+> 7. "==completely fresh and original=="
+> 8. "==a very popular choice among students=="
+> 9. "==no other student had picked it=="
+> 10. "==repetitive and common subject=="
+?
+> [!info] 📊 Classification Result
+> 1. ==nobody had selected our topic yet== → ==[✅]== (Paraphrase trực tiếp)
+> 2. ==easy to research with plenty of material== → ==[⚠️]== (Bẫy nội dung, lợi ích khác không phải do chưa ai chọn)
+> 3. ==completely untouched by others== → ==[✅]== (Đặc điểm của chủ đề chưa ai chọn)
+> 4. ==already taken by two groups== → ==[❌]== (Ngược lại với not chosen)
+> 5. ==still available on the list== → ==[✅]== (Trạng thái của topic chưa được chọn)
+> 6. ==module leader never heard of it== → ==[⚠️]== (Bẫy chủ thể, giáo viên chưa biết nhưng Finn vui vì sinh viên khác chưa chọn)
+> 7. ==completely fresh and original== → ==[✅]== (Tính chất của topic chưa ai làm)
+> 8. ==a very popular choice among students== → ==[❌]== (Logic đảo chiều: nhiều người chọn)
+> 9. ==no other student had picked it== → ==[✅]== (Paraphrase của not chosen by other students)
+> 10. ==repetitive and common subject== → ==[❌]== (Trái ngược với tính độc đáo)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-3/education-training/academic-research/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==had not been chosen by other students==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We were lucky because most of the other good topics were ==already taken== or ==popular choices== that several students had already ==booked==..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK B (had not been chosen)==
+>
+> **🧠 Reason:** Khi nói các topics khác "already taken" hoặc "popular", nó gián tiếp khẳng định topic của Finn thuộc nhóm thiểu số/độc nhất còn lại (available).
+> - Other topics = taken/popular
+> - → Our topic = not chosen/available.
+>
+> **🎯 Skill:** Nhận biết đáp án đúng thông qua việc mô tả tình trạng "đã bị chiếm hết" của các phương án gây nhiễu khác.
 
 ---

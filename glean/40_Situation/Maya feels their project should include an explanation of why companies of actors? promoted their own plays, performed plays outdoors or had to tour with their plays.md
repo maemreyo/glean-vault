@@ -35,7 +35,7 @@ ref:
 >
 > **Topic Category:** ==Theatre / Business Model / Historical Context==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Nghĩa là ==phải lưu diễn và đi khắp nơi (travelling company)== - nhóm kịch phải di chuyển để kiếm khán giả
 >
 > - **Denotation:** Nghĩa đen là ==tour = lưu diễn, đi vòng (performance tour)== - nhóm diễn xuất ở nhiều địa điểm
@@ -43,15 +43,21 @@ ref:
 > - **Distractor:** "promoted their own plays" nghe giống "independent company" nhưng đó là về marketing, không phải về sự cần thiết phải lưu diễn
 >
 > - **Deep Dive:** Paraphrasing: ==had to tour → needed to travel, itinerant company, moving from place to place, touring==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==stayed put, remained in one theatre, fixed location, residency, non-travelling, permanent base==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==tour/travel== → Syn: ==roam, journey, itinerate== | Ant: ==stay, settle, remain==
+>   - ==move/relocate== → Syn: ==shift, transfer, migrate== | Ant: ==fix, stabilize, anchor==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Hình dung nhóm kịch lũa lũa, di chuyển từ thành phố này sang thành phố khác, vở diễn tay, đạo cụ trên xe
+> - **Visual:** Hình dung nhóm kịch lũa lũa, di chuyển từ thành phố này sang thành phố khác (moving from town to town), vở diễn tay, đạo cụ và phục trang (props and costumes) chất đầy trên xe ngựa
 >
-> - **Auditory:** Nghe người nói: *"They ==travelled around==," *"They had to ==move from town to town==," *"It was an ==itinerant life=="*
+> - **Auditory:** Nghe người nói nhấn mạnh bằng tone giọng giải thích/đề xuất: *"They ==travelled around==," *"They had to ==move from town to town==," *"It was an ==itinerant life=="*
 >
-> - **Action:** Hành động đóng gói đạo cụ, lên xe, di chuyển đến địa điểm mới
+> - **Action:** Hành động đóng gói đạo cụ (packing up), lên xe di chuyển, thiết lập sân khấu mới (setting up a new stage) ở mỗi điểm dừng
 >
 > **🔗 Collocation Patterns:**
 > - `Verb + Noun`: tour + with + plays, travel + with + company, perform + in + places
@@ -93,34 +99,37 @@ ref:
 
 ---
 
-## 🧠 Spaced Repetition Flashcards
+## 🧠 Spaced Repetition Flashcards (20 Cards)
 
 ---
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
 #flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-companies/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==had to tour with their plays==
 >
 > **Context:** *Maya suggesting theatre research topics*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Audio sẽ dùng từ ==travelled/toured around== để paraphrase "had to tour"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==travelled around / extensively==
+> - ==itinerant company / troupe==
+> - ==moved from place to place / town to town==
+> - ==touring the country==
 >
-> **🥈 Other possibilities:**
-> - Audio nhắc ==itinerant company==
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==stayed put / remained stationary==
+> - ==fixed location / residency==
+> - ==permanent base in one theatre==
+> - ==non-travelling company==
 >
-> - Audio nói ==moved from place to place==
->
-> - Audio dùng ==traveling/performing in different places==
->
-> - Audio nói ==couldn't stay in one town==
->
-> **🔑 Core Concept:** Tất cả diễn tả ==nhóm kịch phải di chuyển/du lịch== để kiếm khán giả
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -496,5 +505,57 @@ ref:
 > - **Confirmation Logic:** Multiple paraphrases (travelled extensively, itinerant, had to move, economic necessity) converging vào cùng ý nghĩa
 >
 > **🔑 Strategic Lesson:** Trong MCQ về nguyên nhân/ý nghĩa, tập trung vào từ chỉ ra "chính yếu/tốt thiết thực tế" (fundamental, necessity, essential, key reason) thay vì các hoạt động cụ thể
+
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-companies/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==had to tour with their plays==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==moved from town to town performing=="
+> 2. "==they promoted their work independently=="
+> 3. "==itinerant companies travelling extensively=="
+> 4. "==stayed in one location for their entire career=="
+> 5. "==necessity to move from place to place=="
+> 6. "==performed plays in the open air=="
+> 7. "==toured the country due to limited audiences=="
+> 8. "==remained in a fixed theatre residency=="
+> 9. "==had to travel to find new audiences=="
+> 10. "==established a permanent base in London=="
+?
+> [!info] 📊 Classification Result
+> 1. ==moved from town to town performing== → ==[✅]== (Paraphrase trực tiếp của tour)
+> 2. ==they promoted their work independently== → ==[⚠️]== (Bẫy nội dung, hoạt động quảng bá không phải là lý do di chuyển)
+> 3. ==itinerant companies travelling extensively== → ==[✅]== (Đặc điểm của nhóm kịch lưu diễn)
+> 4. ==stayed in one location for their entire career== → ==[❌]== (Ngược lại với tour)
+> 5. ==necessity to move from place to place== → ==[✅]== (Lý do kinh tế cho việc tour)
+> 6. ==performed plays in the open air== → ==[⚠️]== (Bẫy địa điểm, diễn ngoài trời là detail phụ)
+> 7. ==toured the country due to limited audiences== → ==[✅]== (Xác nhận mục đích của việc lưu diễn)
+> 8. ==remained in a fixed theatre residency== → ==[❌]== (Logic đảo chiều: định cư thay vì lưu diễn)
+> 9. ==had to travel to find new audiences== → ==[✅]== (Paraphrase của had to tour)
+> 10. ==established a permanent base in London== → ==[❌]== (Trái ngược với tính chất lưu động)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-companies/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==had to tour with their plays==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"People assume they had a ==fixed location== or a ==permanent base== in a specific theatre, but the reality was ==no theatre would keep them longer than a week==..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK C (had to tour)==
+>
+> **🧠 Reason:** Khi nói "không rạp nào giữ họ quá một tuần" (no theatre would keep them), nó gián tiếp phủ định "fixed location/permanent base" (Antonyms) và bắt buộc họ phải di chuyển liên tục (tour). 
+> - Fixed base = Antonym of Tour
+> - → Not fixed base = Tour.
+>
+> **🎯 Skill:** Nhận diện nhu cầu di chuyển ngay cả khi người nói mô tả sự "từ chối/không thể định cư" (Refusal of Antonym) tại một địa điểm cố định.
 
 ---

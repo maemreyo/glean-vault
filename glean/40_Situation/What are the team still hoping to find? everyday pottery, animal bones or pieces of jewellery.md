@@ -35,23 +35,29 @@ ref:
 >
 > **Topic Category:** ==Archaeology / Excavation / Artifact Discovery==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Nghĩa là ==vật trang sức, trang sức== - các vật trang sức/đồ mỹ có giá trị cao, thường được người giàu sở hữu
 >
 > - **Denotation:** Nghĩa đen là ==jewellery = trang sức== - các vật trang sức/đồ mỹ cá nhân
 >
 > - **Distractor:** "animal bones" nghe giống "skeletal remains" nhưng đó là bằng chứng sinh học, không phải giá trị
 >
-> - **Deep Dive:** Paraphrasing: **jewellery → ornaments, decorative items, precious objects, personal adornments, valuables**
+> - **Deep Dive:** Paraphrasing: ==jewellery → ornaments, decorative items, precious objects, personal adornments, valuables==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==utilitarian items, everyday objects, common domestic ware, non-decorative, plain utensils, biological remains==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==discover/uncover== → Syn: ==reveal, unearth, expose== | Ant: ==conceal, hide, bury==
+>   - ==hope/aspire== → Syn: ==desire, yearn, crave== | Ant: ==dread, fear, avoid==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Hình dung các vật trang sức vàng/bạc, sáng bóng lấp lánh, có thiết kế tinh xảo
+> - **Visual:** Hình dung các vật trang sức vàng/bạc, sáng bóng lấp lánh (glittering gold), có thiết kế tinh xảo (intricate designs)
 >
-> - **Auditory:** Nghe người nói: *"precious items," *"ornaments," *"shiny objects," *"decorative pieces"*
+> - **Auditory:** Nghe người nói nhấn mạnh bằng tone giọng hào hứng (excited tone): *"precious items," *"ornaments," *"shiny objects," *"decorative pieces"*
 >
-> - **Action:** Hành động đào kỹ lưỡng tìm vật nhỏ, lắc nhẹ để nghe tiếng va chạm
+> - **Action:** Hành động đào kỹ lưỡng (careful excavation) tìm vật nhỏ, lắc nhẹ để nghe tiếng va chạm (light clinking sound)
 >
 > **🔗 Collocation Patterns:**
 > - `Noun + of + Noun`: pieces + of + jewellery, fragments + of + ornaments
@@ -93,34 +99,37 @@ ref:
 
 ---
 
-## 🧠 Spaced Repetition Flashcards
+## 🧠 Spaced Repetition Flashcards (20 Cards)
 
 ---
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
 #flashcards/ielts-listening/cam-20-test-3/science-tech/archaeological-finds/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==pieces of jewellery==
 >
 > **Context:** *Archaeology team discussing excavation finds*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Audio sẽ dùng từ ==precious items/valuables== để paraphrase "jewellery"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==precious items / valuables==
+> - ==ornaments / decorations==
+> - ==personal adornments==
+> - ==gold or silver objects==
 >
-> **🥈 Other possibilities:**
-> - Audio nhắc ==ornaments/decorations==
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==utilitarian items==
+> - ==everyday domestic objects==
+> - ==common household ware==
+> - ==biological / skeletal remains==
 >
-> - Audio nói ==personal adornments==
->
-> - Audio dùng ==gold/silver objects==
->
-> - Audio nói ==shiny/precious things==
->
-> **🔑 Core Concept:** Tất cả diễn tả ==vật trang sức/tiền sản có giá trị cao==
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 <!--SR:!2025-12-26,1,230-->
 
 ---
@@ -501,5 +510,57 @@ ref:
 >
 > **🔑 Strategic Lesson:** Trong MCQ về hy vọng/kỳ vọng, tập trung vào từ chỉ ra **sự mong đợi thực sự** ("still hoping", "really hoping", "would be most", "significant") thay vì các tìm kiếm chung
 <!--SR:!2025-12-26,1,230-->
+
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeological-finds/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==pieces of jewellery==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==precious ornaments worn as decorations=="
+> 2. "==we found plenty of common pottery everywhere=="
+> 3. "==personal adornments made of valuable gold=="
+> 4. "==strictly utilitarian items for daily use=="
+> 5. "==highly prized artifacts and jewellery fragments=="
+> 6. "==interesting skeletal remains for study=="
+> 7. "==shiny objects of great intrinsic value=="
+> 8. "==everyday domestic ware showing no decoration=="
+> 9. "==decorative treasures from the wealthy elite=="
+> 10. "==plain household utensils with zero market value=="
+?
+> [!info] 📊 Classification Result
+> 1. ==precious ornaments worn as decorations== → ==[✅]== (Paraphrase trực tiếp của jewellery)
+> 2. ==we found plenty of common pottery everywhere== → ==[⚠️]== (Bẫy nội dung về vật phổ biến đã tìm thấy)
+> 3. ==personal adornments made of valuable gold== → ==[✅]== (Mô tả cụ thể của trang sức quý)
+> 4. ==strictly utilitarian items for daily use== → ==[❌]== (Ngược lại với jewellery)
+> 5. ==highly prized artifacts and jewellery fragments== → ==[✅]== (Hạng mục trang sức/giá trị)
+> 6. ==interesting skeletal remains for study== → ==[⚠️]== (Bẫy nội dung về xương động vật)
+> 7. ==shiny objects of great intrinsic value== → ==[✅]== (Đặc điểm của đồ trang sức quý)
+> 8. ==everyday domestic ware showing no decoration== → ==[❌]== (Logic đảo chiều: đồ gia dụng thường)
+> 9. ==decorative treasures from the wealthy elite== → ==[✅]== (Nhóm đối tượng của jewellery)
+> 10. ==plain household utensils with zero market value== → ==[❌]== (Trái ngược hoàn toàn với vật quý giá)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeological-finds/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==pieces of jewellery==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We weren't looking for ==plain utensils== or ==everyday domestic items==; our goal was to unearth something far more ==precious== and ==decorative==..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK C (Pieces of jewellery)==
+>
+> **🧠 Reason:** Cấu trúc "weren't looking for X; goal was Z" (X = plain/everyday, Z = precious/decorative) đã phủ định tính chất tầm thường (Antonyms) và khẳng định tính chất quý giá (jewellery). 
+> - Plain/Utilitarian = Antonym of Decorative/Jewellery
+> - → Not plain/everyday = Precious/Jewellery.
+>
+> **🎯 Skill:** Nhận diện mục tiêu tìm kiếm khi người nói bác bỏ các đặc điểm "thông thường/gia dụng" (Antonyms) để mô tả thực tế giá trị cao.
 
 ---

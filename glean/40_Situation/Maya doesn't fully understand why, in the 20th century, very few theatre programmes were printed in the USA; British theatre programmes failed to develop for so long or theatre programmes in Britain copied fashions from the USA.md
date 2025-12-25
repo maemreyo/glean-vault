@@ -35,7 +35,7 @@ ref:
 >
 > **Topic Category:** ==History / Cultural Evolution / Comparison==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Nghĩa là ==không phát triển/đứng yên trong thời gian dài== - thiếu đổi mới, tiến bộ chậm
 >
 > - **Denotation:** Nghĩa đen là ==failed to develop = không phát triển được== - không có sự cải thiện hay đổi mới
@@ -43,15 +43,21 @@ ref:
 > - **Distractor:** "copied fashions" nghe giống "influenced by" nhưng đó là hoạt động tích cực (coppying), không phải thiếu phát triển
 >
 > - **Deep Dive:** Paraphrasing: ==failed to develop → stagnated, didn't progress, lagged behind, remained unchanged, slow development==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==thrived, evolved rapidly, innovative leap, progressed quickly, transformed, advanced==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==fail/neglect== → Syn: ==miss out, omit, bypass== | Ant: ==succeed, achieve, attain==
+>   - ==develop/evolve== → Syn: ==progress, advance, grow== | Ant: ==stagnate, regress, stop==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Hình dung các chương trình nhà hát qua nhiều thế kỷ trông giống nhau, thiếu sự đổi mới
+> - **Visual:** Hình dung các chương trình nhà hát qua nhiều thế kỷ trông giống hệt nhau (visually identical), thiếu sự đổi mới về màu sắc và bố cục (lack of layout innovation)
 >
-> - **Auditory:** Nghe người nói: *"They ==stayed the same== for decades," *"They ==didn't change==," *"There was ==no progress=="*
+> - **Auditory:** Nghe người nói nhấn mạnh bằng tone giọng bối rối/hoài nghi: *"They ==stayed the same== for decades," *"They ==didn't change==," *"There was ==no progress=="*
 >
-> - **Action:** Hành động so sánh programme cũ và mới thấy không khác biệt
+> - **Action:** Hành động so sánh programme cũ (19th) và mới (20th) thấy không có sự tiến hóa (no evolution), cảm giác như giậm chân tại chỗ (running in place)
 >
 > **🔗 Collocation Patterns:**
 > - `Verb + to + V`: fail + to + develop, manage + to + progress
@@ -78,7 +84,7 @@ ref:
 >
 > - *Why it's tricky:* Đây là một điểm thật, nhưng Maya bối rối là tại sao programme Anh "failed to develop"
 >
-> * *Actual meaning:* Maya đang so sánh hai hiện tượng - Mỹ có ít programme nhưng Anh có nhiều song lại "failed to develop"
+> - *Actual meaning:* Maya đang so sánh hai hiện tượng - Mỹ có ít programme nhưng Anh có nhiều song lại "failed to develop"
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
@@ -93,34 +99,37 @@ ref:
 
 ---
 
-## 🧠 Spaced Repetition Flashcards
+## 🧠 Spaced Repetition Flashcards (20 Cards)
 
 ---
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
 #flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-development/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==British theatre programmes failed to develop for so long==
 >
 > **Context:** *Maya puzzled about theatre programme development*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Audio sẽ dùng từ ==stagnant/didn't progress== để paraphrase "failed to develop"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==stagnant / stagnated==
+> - ==didn't progress / evolve / develop==
+> - ==stayed the same / unchanged==
+> - ==lagged behind==
 >
-> **🥈 Other possibilities:**
-> - Audio nhắc ==stayed the same==
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==thrived / evolved rapidly==
+> - ==innovative leap / breakthrough==
+> - ==progressed quickly==
+> - ==transformed significantly==
 >
-> - Audio nói ==lagged behind==
->
-> - Audio dùng ==no progress/innovation==
->
-> - Audio nói ==little development==
->
-> **🔑 Core Concept:** Tất cả diễn tả ==tình trạng thiếu phát triển/đứng yên== trong thời gian dài
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -493,5 +502,57 @@ ref:
 > - **Confirmation Logic:** Multiple paraphrases (stagnated, didn't progress, stayed unchanged) converging vào cùng ý nghĩa - lack of development
 >
 > **🔑 Strategic Lesson:** Trong MCQ về cause/reason for confusion, tập trung vào từ chỉ ra điểm chính/mối quan tâm thực sự ("the real issue", "key problem", "main question", "puzzling thing")
+
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-development/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==British theatre programmes failed to develop for so long==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==stayed stagnant for decades=="
+> 2. "==American programmes were relatively scarce=="
+> 3. "==they didn't really progress or evolve=="
+> 4. "==evolved rapidly during the 20th century=="
+> 5. "==remained largely unchanged=="
+> 6. "==copied American fashions at times=="
+> 7. "==lagged behind in terms of innovation=="
+> 8. "==underwent a major transformation=="
+> 9. "==little to no development seen=="
+> 10. "==innovative designs appeared quickly=="
+?
+> [!info] 📊 Classification Result
+> 1. ==stayed stagnant for decades== → ==[✅]== (Paraphrase trực tiếp của failed to develop)
+> 2. ==American programmes were relatively scarce== → ==[⚠️]== (Bẫy chủ thể, thông tin về Mỹ không phải về sự phát triển của Anh)
+> 3. ==they didn't really progress or evolve== → ==[✅]== (Đặc điểm của việc thiếu phát triển)
+> 4. ==evolved rapidly during the 20th century== → ==[❌]== (Ngược lại với failed to develop)
+> 5. ==remained largely unchanged== → ==[✅]== (Trạng thái đứng yên)
+> 6. ==copied American fashions at times== → ==[⚠️]== (Bẫy hành động, nhắc đến sự học hỏi nhưng không phải là thiếu phát triển)
+> 7. ==lagged behind in terms of innovation== → ==[✅]== (Phát triển chậm hơn đối thủ)
+> 8. ==underwent a major transformation== → ==[❌]== (Logic đảo chiều: thay đổi lớn)
+> 9. ==little to no development seen== → ==[✅]== (Paraphrase của failed to develop)
+> 10. ==innovative designs appeared quickly== → ==[❌]== (Trái ngược với sự trì trệ)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-development/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==British theatre programmes failed to develop for so long==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"People expected them to ==evolve rapidly== or ==transform== like the American versions, but surprisingly they ==didn't do that at all==..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK B (failed to develop)==
+>
+> **🧠 Reason:** Cấu trúc "expected to X but didn't do X at all" (X = evolve/transform) đã phủ định sự kỳ vọng về tiến bộ, khẳng định tình trạng đứng yên (Antonym của evolve). 
+> - Antonyms of stagnate = evolve/transform
+> - → Didn't evolve/transform = Stagnate (Failed to develop).
+>
+> **🎯 Skill:** Nhận biết đáp án khi người nói phủ định các kỳ vọng về sự thay đổi/tiến bộ (Antonyms) để mô tả thực tế trì trệ.
 
 ---

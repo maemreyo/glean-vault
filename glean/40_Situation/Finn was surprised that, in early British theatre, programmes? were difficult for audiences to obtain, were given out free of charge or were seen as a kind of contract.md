@@ -35,7 +35,7 @@ ref:
 >
 > **Topic Category:** ==Theatre / Historical Context / Business Practice==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Nghĩa là ==có tính chất hợp đồng, cam kết pháp lý== - programme được xem như thỏa thuận giữa nhà hát và khán giả
 >
 > - **Denotation:** Nghĩa đen là ==contract = hợp đồng== - văn bản pháp lý có ràng buộc quyền lợi
@@ -43,19 +43,25 @@ ref:
 > - **Distractor:** "free of charge" nghe giống "accessible/available" nhưng đó là về giá tiền, không phải về tính chất
 >
 > - **Deep Dive:** Paraphrasing: ==seen as contract → viewed as agreement, treated as binding document, considered as promise/commitment==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==informal handout, non-binding, temporary paper, loose leaflet, unofficial, no legal status==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==see/view as== → Syn: ==regard, consider, treat as== | Ant: ==ignore, disregard, overlook==
+>   - ==bind== → Syn: ==commit, obligate, pledge== | Ant: ==free, release, exempt==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Hình dung người khán giả thế kỷ trước cầm programme, coi nó như ==bằng chứng cam kết== đã trả tiền
+> - **Visual:** Hình dung người khán giả thế kỷ trước cầm programme, coi nó như ==bằng chứng cam kết== hoặc vật chứng pháp lý (legal evidence) đã trả tiền
 >
-> - **Auditory:** Nghe người nói: *"They were actually treated like ==legal agreements==", "You could hold onto it as your proof of payment"*
+> - **Auditory:** Nghe người nói nhấn mạnh bằng tone giọng ngạc nhiên/thú vị: *"They were actually treated like ==legal agreements==", "You could hold onto it as your proof of payment"*
 >
-> - **Action:** Hành động xuất trình programme để chứng minh quyền lợi
+> - **Action:** Hành động xuất trình programme để chứng minh quyền lợi của mình (validate rights) khi vào rạp
 >
 > **🔗 Collocation Patterns:**
 > - `Verb + Noun`: see + as, view + as, treat + as, consider + as
-> - `Noun + of + Noun`: kind + of + contract, type + of + agreement
+> - `Noun + prep + Noun`: kind + of + contract, type + of + agreement
 > - `Adj + Noun`: binding + contract, legal + document, formal + agreement
 
 > [!example] 🎙️ Real Audio Phrases
@@ -93,34 +99,37 @@ ref:
 
 ---
 
-## 🧠 Spaced Repetition Flashcards
+## 🧠 Spaced Repetition Flashcards (20 Cards)
 
 ---
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
 #flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-distribution/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==were seen as a kind of contract==
 >
 > **Context:** *Finn surprised by early theatre programme practices*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Audio sẽ dùng từ ==agreement/legal document== để paraphrase "contract"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==agreement / legal agreement==
+> - ==binding document==
+> - ==proof of purchase / payment==
+> - ==legal status==
 >
-> **🥈 Other possibilities:**
-> - Audio nhắc ==binding document==
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==informal handouts==
+> - ==loose leaflets==
+> - ==non-binding==
+> - ==no legal standing==
 >
-> - Audio nói ==treated as formal==
->
-> - Audio dùng ==proof of purchase==
->
-> - Audio nói ==right to enter==
->
-> **🔑 Core Concept:** Tất cả diễn tả ==tính chất pháp lý/cam kết== của programme như một hợp đồng
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -496,5 +505,57 @@ ref:
 > - **Confirmation Logic:** Multiple paraphrases (legal agreement, binding document, proof of purchase, legal status) converging vào contract concept
 >
 > **🔑 Strategic Lesson:** Khi nghe so sánh/mô tả khái niệm, tập trung vào từ mô tả nature/essence (với "the key", "actually", "essentially") hơn là các chi tiết phụ
+
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-distribution/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==were seen as a kind of contract==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==treated as a legal agreement=="
+> 2. "==distributed free of charge=="
+> 3. "==binding document between you and the theatre=="
+> 4. "==just informal handouts=="
+> 5. "==served as proof of payment=="
+> 6. "==difficult for audiences to obtain=="
+> 7. "==had full legal status=="
+> 8. "==were non-binding leaflets=="
+> 9. "==considered a proof of purchase=="
+> 10. "==mere promotional papers=="
+?
+> [!info] 📊 Classification Result
+> 1. ==treated as a legal agreement== → ==[✅]== (Paraphrase trực tiếp)
+> 2. ==distributed free of charge== → ==[⚠️]== (Bẫy giá tiền, không phải bản chất pháp lý)
+> 3. ==binding document between you and the theatre== → ==[✅]== (Đặc điểm của hợp đồng)
+> 4. ==just informal handouts== → ==[❌]== (Ngược lại với tính chất hợp đồng)
+> 5. ==served as proof of payment== → ==[✅]== (Bằng chứng thanh toán là một phần của hợp đồng)
+> 6. ==difficult for audiences to obtain== → ==[⚠️]== (Bẫy độ sẵn có, không liên quan đến tính chất pháp lý)
+> 7. ==had full legal status== → ==[✅]== (Xác nhận tính pháp lý của contract)
+> 8. ==were non-binding leaflets== → ==[❌]== (Logic đảo chiều dùng để phủ định tính pháp lý)
+> 9. ==considered a proof of purchase== → ==[✅]== (Chứng minh mua hàng = hợp đồng giao dịch)
+> 10. ==mere promotional papers== → ==[❌]== (Chỉ là giấy quảng cáo, không có tính ràng buộc)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-distribution/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==were seen as a kind of contract==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"People tend to think they were just ==informal handouts== or ==non-binding leaflets==, but actually they weren't..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK C (were seen as contract)==
+>
+> **🧠 Reason:** Cấu trúc "think they were X but actually they weren't" (X = informal/non-binding) đã phủ định bẫy và khẳng định tính chất ngược lại (formal/binding/contract).
+> - Antonyms of contract = informal/non-binding
+> - → Not informal/non-binding = contract.
+>
+> **🎯 Skill:** Nhận định đúng đáp án khi người nói phủ định các đặc tính đối lập (Antonyms) của phương án đúng.
 
 ---

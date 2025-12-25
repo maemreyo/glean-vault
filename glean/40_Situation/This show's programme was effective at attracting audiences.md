@@ -31,18 +31,27 @@ ref:
 >
 > **Topic Category:** ==Media / Entertainment / Success==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Chương trình ==thành công trong việc== thu hút, giữ chân hoặc thu hút được số lượng lớn khán giả, người xem, người theo dõi, hoặc khán giả đến tham gia theo dõi các hoạt động.
 > - **Denotation Nghĩa đen:** Kết quả là người xem có hứng thú, đánh giá cao, hoặc số người theo dõi/tương tác lớn, hoặc chương trình có lượt xem/truy cập cao.
 > - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI: "popular" (phổ biến), "well-attended" (nhiều người đến), "successful" (thành công).
-> - **Deep Dive:** Paraphrasing sâu hơn: "effective at attracting" → "successful in drawing", "attracted large audiences", "engaged viewers successfully", "appealed to many", "built up a following", "captured attention".
+> - **Deep Dive:** Paraphrasing sâu hơn: ==effective at attracting → successful in drawing, attracted large audiences, engaged viewers successfully, appealed to many, built up a following, captured attention==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==failed to draw, unpopular, ignored, low ratings, struggled to engage, small audience, niche interest only==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==attract/draw== → Syn: ==allure, entice, pull in== | Ant: ==repel, deter, discourage==
+>   - ==engage/connect== → Syn: ==interact, involve, captivate== | Ant: ==bore, alienate, detach==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Nhìn thấy ==phòng chiếu đầy=== người xếp hàng, khán giả ngồi nghiêm túc hoặc vỗ tay, hoặc nhìn thấy báo cáo rating cao, lượt xem/truy cập khủng khiếp trên mạng xã hội.
-> - **Auditory:** Nghe tiếng ==vỗ tay=== hoặc tiếng ==hoan hô=== từ khán giả, tiếng nói bình luận sôi nổi, hoặc người chia sẻ về sự hấp dẫn của chương trình trên mạng xã hội.
-> - **Action:** Hành động cụ thể: đánh giá rating, xem số liệu lượt xem, soạn thảo về chiến lược thu hút khán giả, phân tích phản hồi người xem.
+> - **Visual:** Nhìn thấy ==phòng chiếu đầy=== người xếp hàng (queuing people), khán giả ngồi nghiêm túc hoặc vỗ tay (applauding audience), hoặc nhìn thấy báo cáo rating cao (high ratings), lượt xem/truy cập khủng khiếp trên mạng xã hội
+>
+> - **Auditory:** Nghe tiếng ==vỗ tay=== hoặc tiếng ==hoan hô=== từ khán giả (cheers), tiếng nói bình luận sôi nổi (lively discussion), hoặc người chia sẻ về sự hấp dẫn của chương trình trên mạng xã hội
+>
+> - **Action:** Hành động cụ thể: đánh giá rating (evaluating ratings), xem số liệu lượt xem (checking viewership), soạn thảo về chiến lược thu hút khán giả (drafting strategy), phân tích phản hồi (analyzing feedback)
+>
 > **🔗 Collocation Patterns:**
 > - `Verb + Noun`: be + effective at + attracting, attract + audiences, draw + in, build + following, engage + viewers, appeal + to
 > - `Adj + Noun`: successful + in drawing, large + audiences, good + ratings, popular + show
@@ -79,32 +88,37 @@ ref:
 
 ---
 
-## 🧠 Spaced Repetition Flashcards (14 Cards)
+## 🧠 Spaced Repetition Flashcards (20 Cards)
 
 ---
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
 #flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==was effective at attracting audiences==
 >
 > **Context:** *Show programme audience success*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
+?
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==attracted large audiences / viewership==
+> - ==successful in drawing in people==
+> - ==engaged viewers effectively==
+> - ==appealed to a wide range of viewers==
 >
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "It attracted large audiences" / "It proved successful in drawing..."
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==failed to draw interest==
+> - ==struggled to engage audiences==
+> - ==ignored by the public==
+> - ==small / niche audience only==
 >
-> **🥈 Other possibilities:**
-> - "It consistently drew viewers..."
-> - "Audiences really responded to..."
-> - "It built up a considerable following..."
-> - "It generated significant engagement..."
-> - "It managed to capture widespread attention..."
->
-> **🔑 Core Concept:** Key paraphrase patterns: "effective at attracting → attracted large audiences/proved successful/engaged viewers"
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -340,4 +354,56 @@ ref:
 > 1. ==proved successful in drawing==
 > 2. ==attracted large audiences==
 > **🎯 Goal:** Instant Recall
+#flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==was effective at attracting audiences==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==succesfully drew in a huge crowd of viewers=="
+> 2. "==it was very popular with theatre-goers previously=="
+> 3. "==remarkably effective at building a loyal following=="
+> 4. "==completely failed to draw any public interest=="
+> 5. "==managed to capture widespread national attention=="
+> 6. "==was well-attended by local residents only=="
+> 7. "==was exceptionally effective at engaging people=="
+> 8. "==struggled to build up any following at all=="
+> 9. "==viewership numbers exceeded all expectations=="
+> 10. "==ignored by the vast majority of the audience=="
+?
+> [!info] 📊 Classification Result
+> 1. ==succesfully drew in a huge crowd of viewers== → ==[✅]== (Paraphrase của effective at attracting)
+> 2. ==it was very popular with theatre-goers previously== → ==[⚠️]== (Bẫy nội dung về sự phổ biến, không phải hiệu quả thu hút)
+> 3. ==remarkably effective at building a loyal following== → ==[✅]== (Đặc điểm của sự thu hút hiệu quả)
+> 4. ==completely failed to draw any public interest== → ==[❌]== (Ngược lại với effective at attracting)
+> 5. ==managed to capture widespread national attention== → ==[✅]== (Hành động thu hút hiệu quả)
+> 6. ==was well-attended by local residents only== → ==[⚠️]== (Bẫy nội dung về quy mô tham gia)
+> 7. ==was exceptionally effective at engaging people== → ==[✅]== (Xác nhận hiệu quả thu hút/kết nối)
+> 8. ==struggled to build up any following at all== → ==[❌]== (Logic đảo chiều: gặp khó khăn thay vì hiệu quả)
+> 9. ==viewership numbers exceeded all expectations== → ==[✅]== (Paraphrase của sự thu hút số lượng lớn)
+> 10. ==ignored by the vast majority of the audience== → ==[❌]== (Trái ngược hoàn toàn với việc thu hút thành công)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==was effective at attracting audiences==
+>
+> **❓ Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"Early reviews suggested it might be ==ignored== or ==unpopular==, but it certainly ==wasn't a niche interest==; in fact, it ==pulled in a massive following==..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK effective at attracting==
+>
+> **🧠 Reason:** Cấu trúc "suggested X but certainly wasn't Y; in fact Z" (X = ignored/unpopular, Y = niche interest, Z = pulled in massive following) đã phủ định sự thất bại (Antonyms) và khẳng định sự thu hút (effectiveness). 
+> - Ignored/Unpopular = Antonyms of Attracting
+> - → Pulled in massive following = Effective at attracting.
+>
+> **🎯 Skill:** Nhận diện sự thành công khi người nói phản bác các dự đoán tiêu biểu về sự "bị ngó lơ/không phổ biến" (Antonyms) của chương trình.
+
 ---

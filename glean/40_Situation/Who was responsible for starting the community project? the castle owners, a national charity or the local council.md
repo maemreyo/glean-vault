@@ -34,23 +34,26 @@ ref:
 >
 > **Topic Category:** ==Project Management / Community Initiative==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Các ==chủ sở hữu lâu đài== là người hoặc tổ chức có quyền sở hữu pháp lý hoặc quản lý tòa lâu đài, có thể khởi xướng các dự án hoặc cho phép sử dụng khu đất cho mục đích công cộng.
->
-> - **Denotation:** Nghĩa đen:** Người sở hữu, chủ, người nắm giữ chìa khóa quản lý hoặc chủ quyền tài sản lâu đài, có quyền quyết định về việc khai quật học tại địa điểm.
->
+> - **Denotation Nghĩa đen:** Người sở hữu, chủ, người nắm giữ chìa khóa quản lý hoặc chủ quyền tài sản lâu đài, có quyền quyết định về việc khai quật học tại địa điểm.
 > - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI: "national charity" (tổ chức quốc gia, nghe quen thuộc), "local council" (cơ quan chính quyền, nghe hợp lý).
+> - **Deep Dive:** Paraphrasing sâu hơn: ==castle owners → proprietors of the castle, owners of the estate, those who own the castle; responsible for starting → initiated the project, launched the excavation, began the archaeology work, driving force==
 >
-> - **Deep Dive:** Paraphrasing sâu hơn: "castle owners" → "proprietors of the castle", "owners of the estate", "those who own the castle"; "responsible for starting" → "initiated the project", "launched the excavation", "began the archaeology work".
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==disowned property, abandoned site, public domain, unmanaged estate, no legal owner, vacant property==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==own/possess== → Syn: ==hold, retain, keep== | Ant: ==lose, yield, surrender==
+>   - ==initiate/launch== → Syn: ==originate, set up, institute== | Ant: ==terminate, stop, abolish==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Nhìn thấy ==chủ lâu đài== đang đứng trước cổng đá lớn, tay nắm chìa khóa trong túi, hoặc là hình họp đồng với nhân viên dự án trong phòng khách lớn của lâu đài.
+> - **Visual:** Nhìn thấy ==chủ lâu đài== đang đứng trước cổng đá lớn, tay nắm chìa khóa (holding keys) trong túi, hoặc là hình ảnh ký kết hợp đồng (signing contracts) trong phòng khách lớn của lâu đài
 >
-> - **Auditory:** Nghe tiếng ==thỏa thuận trong cuộc họp== giữa chủ lâu đài và các bên quan tâm dự án, hoặc tiếng họp động tại hội đồng địa phương với từ "đồng ý".
+> - **Auditory:** Nghe tiếng ==thỏa thuận trong cuộc họp== (agreement in meetings) giữa chủ lâu đài và các bên quan tâm dự án, hoặc tiếng đóng dấu (stamping documents) xác nhận dự án
 >
-> - **Action:** Hành động cụ thể: ký hợp đồng phát xướng dự án, cấp phép khai quật, kiểm tra tiến độ công việc, đến thăm hiện trường.
+> - **Action:** Hành động cụ thể: ký hợp đồng phát xướng dự án (issuing the project), cấp phép khai quật (granting permission), kiểm tra tiến độ công việc (inspecting progress), đến thăm hiện trường (visiting the site)
 >
 > **🔗 Collocation Patterns:**
 > - `Verb + Noun`: start + a project, initiate + work, launch + an initiative, begin + excavation
@@ -92,32 +95,37 @@ ref:
 
 ---
 
-## 🧠 Spaced Repetition Flashcards (18 Cards)
+## 🧠 Spaced Repetition Flashcards (20 Cards)
 
 ---
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
 #flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==The castle owners==
 >
 > **Context:** *Project origin/initiator*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "The castle owners approached us..." / "The project was initiated by those who own the castle"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==castle proprietors initiated it==
+> - ==project started by those who own the estate==
+> - ==owners of the castle approached us==
+> - ==driving force behind the project was the owners==
 >
-> **🥈 Other possibilities:**
-> - "The proprietors of the castle suggested..."
-> - "The owners of the estate wanted to..."
-> - "The castle owners offered support..."
-> - "The project came from the castle..."
-> - "Those responsible for the castle grounds..."
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==site in public domain==
+> - ==property with no legal owners==
+> - ==abandoned estate without management==
+> - ==unclaimed land with no proprietor==
 >
-> **🔑 Core Concept:** Key paraphrase patterns: "responsible for starting → initiated by/launched by/started by"; "castle owners → proprietors/owners of the estate/owners of the castle"
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -456,5 +464,57 @@ ref:
 > - **Trap Elimination:** Phân tích kỹ thuật gài bẫy: "speculation" ≠ reality; "involved" ≠ initiated; "showed interest" ≠ took responsibility.
 > - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng: "actually came from" + "themselves approached" + "provided both financial and logistical support" = castle owners initiated.
 > **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài: Tìm từ xác nhận thực tế như "actually", "the records show", "themselves" để xác định phương án đúng giữa các giả định nghe hợp lý.
+
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==The castle owners==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==castle proprietors were the driving force behind it=="
+> 2. "==local council was thought to be the organizer=="
+> 3. "==owners of the estate approached us with the idea=="
+> 4. "==excavated site is part of the public domain=="
+> 5. "==those who own the castle launched the initiative=="
+> 6. "==national charity expressed interest in supporting=="
+> 7. "==project was started by the owners themselves=="
+> 8. "==abandoned property with no clear ownership=="
+> 9. "==initiated by the people who manage the castle grounds=="
+> 10. "==unclaimed land where no owners were present=="
+?
+> [!info] 📊 Classification Result
+> 1. ==castle proprietors were the driving force behind it== → ==[✅]== (Paraphrase của castle owners)
+> 2. ==local council was thought to be the organizer== → ==[⚠️]== (Bẫy nội dung về hội đồng địa phương)
+> 3. ==owners of the estate approached us with the idea== → ==[✅]== (Hành động khởi xướng của chủ sở hữu)
+> 4. ==excavated site is part of the public domain== → ==[❌]== (Ngược lại với sở hữu tư nhân/owners)
+> 5. ==those who own the castle launched the initiative== → ==[✅]== (Đặc điểm của người chịu trách nhiệm)
+> 6. ==national charity expressed interest in supporting== → ==[⚠️]== (Bẫy nội dung về tổ chức từ thiện)
+> 7. ==project was started by the owners themselves== → ==[✅]== (Khẳng định tính chính danh của chủ sở hữu)
+> 8. ==abandoned property with no clear ownership== → ==[❌]== (Logic đảo chiều: vô chủ)
+> 9. ==initiated by the people who manage the castle grounds== → ==[✅]== (Xác nhận vai trò quản lý/sở hữu)
+> 10. ==unclaimed land where no owners were present== → ==[❌]== (Trái ngược hoàn toàn với việc có chủ khởi xướng)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==The castle owners==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We assumed the site was ==unmanaged== or ==publicly owned==, but the ==owners of the estate== stepped in to say it was their ==private initiative==..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK A (The castle owners)==
+>
+> **🧠 Reason:** Cấu trúc "assumed X but Y stepped in" (X = unmanaged/public, Y = owners/private initiative) đã phủ định tính chất công cộng (Antonyms) và khẳng định vai trò của chủ sở hữu (owners). 
+> - Public/Unmanaged = Antonym of Private/Owners
+> - → Private initiative = Owners initiated.
+>
+> **🎯 Skill:** Nhận diện chủ thể khởi xướng khi người nói đính chính các giả định về "đất công/đất vô chủ" (Antonyms) bằng việc xác nhận quyền sở hữu tư nhân.
 
 ---

@@ -32,20 +32,26 @@ ref:
 >
 > **Topic Category:** ==Culture / Media / Theatre==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Một chương trình hay ấn phẩm ==chứa thông tin sâu sắc, phân tích chi tiết== về nội dung, bối cảnh, hoặc thông điệp có liên quan đến chương trình/show đó.
 > - **Denotation:** Nghĩa đen: Tài liệu, ấn phẩm, chương trình có cung cấp các thông tin, chi tiết, phân tích, đánh giá, hoặc sự mô tả chi tiết về nội dung show.
 > - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI: "reviews" (nhận xét), "summaries" (tóm tắt), "synopsis" (tóm lược).
-> - **Deep Dive:** Paraphrasing sâu hơn: "contains insights → offers details, provides analysis, gives in-depth information, includes examination"
+> - **Deep Dive:** Paraphrasing sâu hơn: ==contains insights → offers details, provides analysis, gives in-depth information, includes examination==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==superficial details, basic listing, surface level info, cursory summary, void of depth, lacks analysis==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==contain/include== → Syn: ==incorporate, comprise, embody== | Ant: ==exclude, omit, lack==
+>   - ==examine/analyze== → Syn: ==scrutinize, investigate, probe== | Ant: ==ignore, overlook, neglect==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Nhìn thấy ==sách mỏng, ấn phẩm chi tiết== với các chương phân tích, hình ảnh minh họa, hoặc trang bìa được thiết kế đẹp với nhiều thông tin.
+> - **Visual:** Nhìn thấy ==sách mỏng, ấn phẩm chi tiết== với các chương phân tích (chapters of analysis), hình ảnh minh họa, hoặc trang bìa được thiết kế đẹp với nhiều thông tin (richly informative cover)
 >
-> - **Auditory:** Nghe tiếng ==xòe lật sách== hoặc giấy, âm thanh nhẹ khi đọc những đoạn trích dẫn hoặc mô tả chi tiết.
+> - **Auditory:** Nghe tiếng ==xòe lật sách== (flipping pages) hoặc giấy, âm thanh nhẹ khi đọc những đoạn trích dẫn hoặc mô tả chi tiết (reading detailed excerpts)
 >
-> - **Action:** Hành động cụ thể: đọc các phần thông tin, tham khảo phân tích, xem xét chi tiết trong ấn phẩm.
+> - **Action:** Hành động cụ thể: đọc các phần thông tin (reading sections), tham khảo phân tích (referencing analysis), xem xét chi tiết (examining details) trong ấn phẩm
 >
 > **🔗 Collocation Patterns:**
 > - `Verb + Noun`: contain + insights, offer + details, provide + analysis, include + information
@@ -85,34 +91,37 @@ ref:
 
 ---
 
-## 🧠 Spaced Repetition Flashcards (14 Cards)
+## 🧠 Spaced Repetition Flashcards (20 Cards)
 
 ---
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
 #flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==contains insights into the show==
 >
 > **Context:** *Show programme content*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "It offers detailed analysis..." / "It provides in-depth information..."
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==offers detailed analysis==
+> - ==provides in-depth information==
+> - ==includes examination of themes==
+> - ==gives deep understanding / background==
 >
-> **🥈 Other possibilities:**
-> - "Contains information about..."
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==superficial summary==
+> - ==basic listing / surface level==
+> - ==cursory overview==
+> - ==lacks professional depth==
 >
-> - "Includes examination of..."
->
-> - "Gives background on..."
->
-> - "Provides details about..."
->
-> **🔑 Core Concept:** Key paraphrase patterns: "contains insights → provides detailed analysis/offers information/includes examination"
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -361,5 +370,57 @@ ref:
 > 2. ==offers in-depth information==
 >
 > **🎯 Goal:** Instant Recall
+
+#flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==contains insights into the show==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==offers a professional analysis of themes=="
+> 2. "==it includes audience reviews at the back=="
+> 3. "==provides in-depth context and background=="
+> 4. "==a very superficial listing of cast names=="
+> 5. "==examines the underlying meaning of the show=="
+> 6. "==contains a lot of commercial advertising=="
+> 7. "==gives viewers a deep level of understanding=="
+> 8. "==only provides basic surface level facts=="
+> 9. "==includes an examination of the production's origins=="
+> 10. "==lacks any kind of professional depth or analysis=="
+?
+> [!info] 📊 Classification Result
+> 1. ==offers a professional analysis of themes== → ==[✅]== (Paraphrase của insights)
+> 2. ==it includes audience reviews at the back== → ==[⚠️]== (Bẫy nội dung, reviews không phải là insights chuyên môn)
+> 3. ==provides in-depth context and background== → ==[✅]== (Đặc điểm của thông tin sâu sắc)
+> 4. ==a very superficial listing of cast names== → ==[❌]== (Ngược lại với insights)
+> 5. ==examines the underlying meaning of the show== → ==[✅]== (Hành động phân tích sâu)
+> 6. ==contains a lot of commercial advertising== → ==[⚠️]== (Bẫy nội dung, quảng cáo không liên quan đến insights)
+> 7. ==gives viewers a deep level of understanding== → ==[✅]== (Mục tiêu của insights)
+> 8. ==only provides basic surface level facts== → ==[❌]== (Logic đảo chiều: hời hợt thay vì chuyên sâu)
+> 9. ==includes an examination of the production's origins== → ==[✅]== (Paraphrase của insights)
+> 10. ==lacks any kind of professional depth or analysis== → ==[❌]== (Trái ngược hoàn toàn với việc có insights)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==contains insights into the show==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"People expected just a ==basic summary== or a ==cursory overview== of the cast, but surprisingly it ==went far beyond surface level facts==..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK contains insights==
+>
+> **🧠 Reason:** Cấu trúc "expected X but surprisingly went beyond X" (X = basic summary/cursory overview) đã phủ định tính chất hời hợt (Antonyms) và khẳng định tính chất chuyên sâu (insights). 
+> - Basic summary = Antonym of Insight
+> - → Went beyond basic summary = Insight.
+>
+> **🎯 Skill:** Nhận ra giá trị thông tin ngay cả khi người nói mô tả nó bằng cách "vượt qua" các giới hạn của thông tin cơ bản (Antonyms).
 
 ---

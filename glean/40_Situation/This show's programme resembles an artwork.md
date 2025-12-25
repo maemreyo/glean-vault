@@ -31,18 +31,27 @@ ref:
 >
 > **Topic Category:** ==Culture / Arts / Aesthetics==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Chương trình/ấn phẩm ==có tính nghệ thuật, sáng tạo, thẩm mỹ cao== giống như một tác phẩm nghệ thuật, được thiết kế đẹp mắt, mang tính nghệ thuật và giá trị biểu tượng.
 > - **Denotation Nghĩa đen:** Ấn phẩm programme có hình thức, bố cục, nội dung được trình bày như một tác phẩm nghệ thuật, thể hiện tư duy sáng tạo và phong cách nghệ thuật riêng biệt.
 > - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI: "interesting" (thú vị), "creative" (sáng tạo), "beautiful" (đẹp).
-> - **Deep Dive:** Paraphrasing sâu hơn: "resembles" → "looks like", "shares qualities with", "has artistic merit", "is similar to art", "possesses aesthetic value"
+> - **Deep Dive:** Paraphrasing sâu hơn: ==resembles → looks like, shares qualities with, has artistic merit, is similar to art, possesses aesthetic value==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==plain, uninspired design, purely functional, utilitarian, mundane publication, lacks artistic vision==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==resemble/echo== → Syn: ==approximate, mirror, parallel== | Ant: ==differ, clash, contrast==
+>   - ==create/craft== → Syn: ==produce, fashion, compose== | Ant: ==destroy, ruin, dismantle==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Nhìn thấy ==sách mỏng, ấn phẩm có thiết kế trang trí== như một cuốn sách nghệ thuật, với hình minh họa nghệ thuật, bố cục đẹp, màu sắc hài hòa, và phông cách nghệ thuật độc đáo.
-> - **Auditory:** Nghe người ==trình bày== về chương trình như đang mô tả một tác phẩm nghệ thuật, giải thích về ý nghĩa và nguồn cảm hứng sáng tạo của nó.
-> - **Action:** Hành động cụ thể: mô tả hình thức, bàn luận về phong cách nghệ thuật, so sánh với các tác phẩm, cảm thán về giá trị thẩm mỹ.
+> - **Visual:** Nhìn thấy ==sách mỏng, ấn phẩm có thiết kế trang trí== (decorated booklets) như một cuốn sách nghệ thuật, với hình minh họa nghệ thuật (artistic illustrations), bố cục đẹp (beautiful layout), màu sắc hài hòa, và phông cách nghệ thuật độc đáo
+>
+> - **Auditory:** Nghe người ==trình bày== (presenting) về chương trình như đang mô tả một tác phẩm nghệ thuật, giải thích về ý nghĩa và nguồn cảm hứng sáng tạo (creative inspiration) của nó
+>
+> - **Action:** Hành động cụ thể: mô tả hình thức (describing form), bàn luận về phong cách nghệ thuật (discussing style), so sánh với các tác phẩm (comparing to works), cảm thán về giá trị thẩm mỹ (admiring aesthetic value)
+>
 > **🔗 Collocation Patterns:**
 > - `Verb + Noun`: resemble + an artwork, look + like + art, share + qualities + with, create + artistic + value
 > - `Adj + Noun`: artistic + merit, creative + piece, visual + masterpiece, aesthetic + value
@@ -78,33 +87,37 @@ ref:
 
 ---
 
-## 🧠 Spaced Repetition Flashcards (14 Cards)
+## 🧠 Spaced Repetition Flashcards (20 Cards)
 
 ---
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
 #flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==resembles an artwork==
 >
 > **Context:** *Show programme artistic quality*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "The programme looks like a piece of art" / "It has artistic qualities"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==looks like a piece of art==
+> - ==shares artistic qualities with masterpieces==
+> - ==possesses high aesthetic value==
+> - ==reminiscent of fine art==
 >
-> **🥈 Other possibilities:**
-> - "The design is reminiscent of..."
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==plain / uninspired design==
+> - ==purely functional / utilitarian==
+> - ==mundane publication / ordinary==
+> - ==lacks any artistic vision==
 >
-> - "It shares qualities with artworks..."
-> - "The programme itself is like a masterpiece..."
-> - "It possesses aesthetic value..."
-> - "The visual design approaches that of art..."
->
-> **🔑 Core Concept:** Key paraphrase patterns: "resembles artwork" → "looks like art/piece" / "has artistic qualities" / "shares visual similarities with"
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -342,4 +355,56 @@ ref:
 > 1. ==looks like a piece of art==
 > 2. ==shares artistic qualities with==
 > **🎯 Goal:** Instant Recall
+#flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==resembles an artwork==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==the design resembles that of a fine painting=="
+> 2. "==it is very interesting and engaging content=="
+> 3. "==possesses qualities similar to a masterpiece=="
+> 4. "==a purely functional and utilitarian layout=="
+> 5. "==has an aesthetic value equal to professional art=="
+> 6. "==was creative but not very artistic=="
+> 7. "==is practically a piece of art in itself=="
+> 8. "==plain and uninspired publication design=="
+> 9. "==typography mirrors that seen in galleries=="
+> 10. "==lacks any kind of sophisticated artistic vision=="
+?
+> [!info] 📊 Classification Result
+> 1. ==the design resembles that of a fine painting== → ==[✅]== (Paraphrase của resembles artwork)
+> 2. ==it is very interesting and engaging content== → ==[⚠️]== (Bẫy nội dung về sự thú vị, không phải nghệ thuật)
+> 3. ==possesses qualities similar to a masterpiece== → ==[✅]== (Đặc điểm của tác phẩm nghệ thuật)
+> 4. ==a purely functional and utilitarian layout== → ==[❌]== (Ngược lại với resembles artwork)
+> 5. ==has an aesthetic value equal to professional art== → ==[✅]== (Khẳng định giá trị thẩm mỹ cao)
+> 6. ==was creative but not very artistic== → ==[⚠️]== (Bẫy từ vựng, creative không bằng artwork)
+> 7. ==is practically a piece of art in itself== → ==[✅]== (Xác nhận tính nghệ thuật tuyệt đối)
+> 8. ==plain and uninspired publication design== → ==[❌]== (Logic đảo chiều: đơn điệu thay vì nghệ thuật)
+> 9. ==typography mirrors that seen in galleries== → ==[✅]== (Paraphrase của resembles artwork)
+> 10. ==lacks any kind of sophisticated artistic vision== → ==[❌]== (Trái ngược hoàn toàn với việc giống một tác phẩm nghệ thuật)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==resembles an artwork==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"Most people expect a ==utilitarian layout== or a ==mundane publication==, but this programme is far from being ==uninspired==; in fact, it's a ==visual masterpiece==..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK resembles artwork==
+>
+> **🧠 Reason:** Cấu trúc "far from being uninspired" và "expected A but is actually B" (A = utilitarian/mundane, B = masterpiece) đã phủ định tính chất tầm thường (Antonyms) và khẳng định tính chất nghệ thuật (artwork). 
+> - Utilitarian = Antonym of Artistic/Artwork
+> - → Far from uninspired / Masterpiece = Resembles artwork.
+>
+> **🎯 Skill:** Nhận biết chất lượng nghệ thuật khi người nói phủ định các đặc điểm "thông thường/chỉ để sử dụng" (Antonyms) để mô tả thực tế thẩm mỹ cao.
+
 ---

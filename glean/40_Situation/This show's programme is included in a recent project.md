@@ -31,20 +31,26 @@ ref:
 >
 > **Topic Category:** ==Museums / Exhibitions / Collections==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Chương trình/ấn phẩm ==được chọn làm một trong số ít=== các tác phẩm được trưng bày trong một triển lãm, cuộc triển lãm, hoặc dự án thu thập gần đây.
 > - **Denotation Nghĩa đen:** Được chọn, thêm vào, sàng lập, hoặc trưng bày cùng với các tác phẩm khác trong không gian triển lãm hoặc cuộc trưng bày nghệ thuật.
 > - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI: "displayed" (được trưng bày), "shown" (được cho xem).
-> - **Deep Dive:** Paraphrasing sâu hơn: "included in" → "part of", "featured in", "selected for", "one of few items in"; "recent project" → "new collection/exhibition", "recent exhibition/show", "contemporary display"
+> - **Deep Dive:** Paraphrasing sâu hơn: ==included in → part of, featured in, selected for, one of few items in; recent project → new collection/exhibition, recent exhibition/show, contemporary display==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==excluded from, omitted, rejected, discontinued project, left out, independent of the collection==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==include/incorporate== → Syn: ==embody, comprise, contain== | Ant: ==exclude, omit, remove==
+>   - ==select/choose== → Syn: ==pick, nominate, opt for== | Ant: ==reject, decline, refuse==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Nhìn thấy ==ảnh chụp=== của ấn phẩm chương trình ===trong=== phòng triển lãm, cùng với các đồ vật hiện vật khác được trưng bày.
+> - **Visual:** Nhìn thấy ==ảnh chụp=== của ấn phẩm chương trình ===trong=== phòng triển lãm (in the gallery), cùng với các đồ vật hiện vật khác được trưng bày (displayed with other artifacts)
 >
-> - **Auditory:** Nghe tiếng ==thảo luận== giữa các nhà quản lý triển lãm khi quyết định lựa chọn tác phẩm, hoặc tiếng người tham quan giải thích về ý nghĩa việc đưa chương trình vào trưng bày.
+> - **Auditory:** Nghe tiếng ==thảo luận== (discussion) giữa các nhà quản lý triển lãm (curators) khi quyết định lựa chọn tác phẩm (selecting works), hoặc tiếng người tham quan giải thích về ý nghĩa việc đưa chương trình vào trưng bày
 >
-> - **Action:** Hành động cụ thể: sắp xếp các tác phẩm, đánh giá tương thích, soạn thảo về bố cục trưng bày, kiểm tra các vật phẩm trước khi đưa vào triển lãm.
+> - **Action:** Hành động cụ thể: sắp xếp các tác phẩm (arranging works), đánh giá tương thích (evaluating compatibility), soạn thảo về bố cục trưng bày (drafting layout), kiểm tra các vật phẩm (inspecting items) trước khi đưa vào triển lãm
 >
 > **🔗 Collocation Patterns:**
 > - `Verb + Noun`: include + in, feature + in, select + for, choose + for
@@ -82,32 +88,37 @@ ref:
 
 ---
 
-## 🧠 Spaced Repetition Flashcards (14 Cards)
+## 🧠 Spaced Repetition Flashcards (20 Cards)
 
 ---
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
 #flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==included in a recent project==
 >
 > **Context:** *Exhibition/museum display*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
+?
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==selected for a recent exhibition==
+> - ==features as part of a contemporary project==
+> - ==incorporated into a new collection==
+> - ==one of few items chosen for display==
 >
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "It's been selected for a recent exhibition..." / "It features as part of a contemporary project..."
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==excluded from the exhibition==
+> - ==omitted from the project collection==
+> - ==rejected for the current show==
+> - ==left out of the museum display==
 >
-> **🥈 Other possibilities:**
-> - "It's incorporated into a new collection..."
-> - "Featured as one of the key items in..."
-> - "Chosen to be part of..."
-> - "Included in the current exhibition..."
-> - "One of few programmes selected for..."
->
-> **🔑 Core Concept:** Key paraphrase patterns: "included in → part of/featured in/selected for"
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -350,4 +361,56 @@ ref:
 > 2. ==featured as one of the key exhibits==
 >
 > **🎯 Goal:** Instant Recall
+#flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==included in a recent project==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==selected for the latest museum exhibition=="
+> 2. "==it was displayed in numerous theatres before=="
+> 3. "==incorporated as part of the new collection=="
+> 4. "==explicitly excluded from the project listing=="
+> 5. "==featured as a key item in the contemporary show=="
+> 6. "==many people remember seeing it in libraries=="
+> 7. "==one of the few artifacts chosen for this display=="
+> 8. "==omitted from the final exhibition selection=="
+> 9. "==selected to be included in the gallery project=="
+> 10. "==rejected and left out of the current project=="
+?
+> [!info] 📊 Classification Result
+> 1. ==selected for the latest museum exhibition== → ==[✅]== (Paraphrase của included in project)
+> 2. ==it was displayed in numerous theatres before== → ==[⚠️]== (Bẫy nội dung về sự trưng bày thông thường)
+> 3. ==incorporated as part of the new collection== → ==[✅]== (Đặc điểm của việc được bao gồm)
+> 4. ==explicitly excluded from the project listing== → ==[❌]== (Ngược lại với included)
+> 5. ==featured as a key item in the contemporary show== → ==[✅]== (Hành động đưa vào dự án)
+> 6. ==many people remember seeing it in libraries== → ==[⚠️]== (Bẫy nội dung về ký ức cá nhân)
+> 7. ==one of the few artifacts chosen for this display== → ==[✅]== (Sự lựa chọn có chủ đích)
+> 8. ==omitted from the final exhibition selection== → ==[❌]== (Logic đảo chiều: bị bỏ qua thay vì bao gồm)
+> 9. ==selected to be included in the gallery project== → ==[✅]== (Xác nhận việc được đưa vào dự án)
+> 10. ==rejected and left out of the current project== → ==[❌]== (Trái ngược hoàn toàn với việc được chọn)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==included in a recent project==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"Initial plans ==omitted== the programme from the list, and it was almost ==left out== of the archives, but the curators finally ==decided it couldn't be excluded==..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK included in project==
+>
+> **🧠 Reason:** Cấu trúc "omitted/left out but finally couldn't be excluded" đã sử dụng phủ định của phủ định (double negative): "couldn't be excluded" = "must be included". 
+> - Excluded = Antonym of Included
+> - → Couldn't be excluded = Included.
+>
+> **🎯 Skill:** Nhận diện sự bao gồm ngay cả khi người nói mô tả hành trình từ "bị bỏ qua" (Antonym) đến việc "không thể bị loại trừ" (Phủ định Antonym).
+
 ---

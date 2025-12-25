@@ -31,20 +31,26 @@ ref:
 >
 > **Topic Category:** ==Culture / Heritage / History==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Một chương trình/trình diễn ==có ý nghĩa lịch sử sâu sắc== đối với một quốc gia, đóng góp vào việc bảo tồn, ghi nhận hoặc lan tỏa văn hóa, di sản, hoặc lịch sử của dân tộc.
-> - **Denotation Nghĩa đen:** Chương trình có tính lịch sử, mang lại ký ức, ghi chép, hoặc phản ánh thời kỳ, sự kiện, hoặc nhân vật quan trọng đối với sự phát triển của một quốc gia hoặc cộng đồng dân tộc.
+> - **Denotation Nghĩa đen:** Chương trình có tính lịch sử, mang lại ký ức, ghi chép, hoặc phản ánh thời kỳ, sự kiện, hoặc nhân vật quan trọng đối with sự phát triển của một quốc gia hoặc cộng đồng dân tộc.
 > - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI: "famous" (nổi tiếng), "popular" (phổ biến), "well-known" (nổi danh).
-> - **Deep Dive:** Paraphrasing sâu hơn: "historically significant" → "of historical importance", "important for nation's history", "part of cultural heritage", "has historical value for the country", "matters nationally in terms of history".
+> - **Deep Dive:** Paraphrasing sâu hơn: ==historically significant → of historical importance, important for nation's history, part of cultural heritage, has historical value for the country, matters nationally in terms of history==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==of no historical value, culturally irrelevant, forgettable show, trivial event, lacks significance, ahistorical==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==preserve/save== → Syn: ==safeguard, conserve, maintain== | Ant: ==destroy, discard, abandon==
+>   - ==represent/embody== → Syn: ==symbolize, exemplify, manifest== | Ant: ==misrepresent, hide, distort==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Nhìn thấy ===sách lịch sử cũ===, ===cổ vật===, hoặc những hình ảnh đen trắng mang lại kỷ niệm quan trọng của một quốc gia, như quốc kỳ, huy hiệu, hoặc nhân vật lịch sử.
+> - **Visual:** Nhìn thấy ===sách lịch sử cũ=== (ancient history books), ===cổ vật=== (artifacts), hoặc những hình ảnh đen trắng mang lại kỷ niệm quan trọng của một quốc gia (nationally important memories)
 >
-> - **Auditory:** Nghe tiếng âm thanh nghiêm túc khi kể về lịch sử, hoặc tiếng vỗ tay khi trình bày các tài liệu lịch sử quan trọng.
+> - **Auditory:** Nghe tiếng âm thanh nghiêm túc khi kể về lịch sử (solemn historical narration), hoặc tiếng vỗ tay khi trình bày các tài liệu lịch sử quan trọng (presenting key documents)
 >
-> - **Action:** Hành động cụ thể: xem xét các tài liệu lịch sử, bàn luận về ý nghĩa lịch sử, soạn thảo về văn hóa dân tộc, viết các báo cáo về di sản.
+> - **Action:** Hành động cụ thể: xem xét các tài liệu lịch sử (reviewing historical docs), bàn luận về ý nghĩa lịch sử (discussing significance), soạn thảo về văn hóa dân tộc (drafting cultural reports)
 >
 > **🔗 Collocation Patterns:**
 > - `Verb + Noun`: be + significant for, have + historical importance, represent + nation's history, contribute + to + culture
@@ -83,32 +89,37 @@ ref:
 
 ---
 
-## 🧠 Spaced Repetition Flashcards (14 Cards)
+## 🧠 Spaced Repetition Flashcards (20 Cards)
 
 ---
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
 #flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==historically significant for a country==
 >
 > **Context:** *Show programme history*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "It's of historical importance for the nation..." / "It matters historically..."
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==of historical importance for the nation==
+> - ==matters historically / part of heritage==
+> - ==holds great historical value==
+> - ==nationally significant document==
 >
-> **🥈 Other possibilities:**
-> - "It represents part of the country's history..."
-> - "It has great historical value..."
-> - "It contributes to the nation's cultural heritage..."
-> - "It preserves important aspects of the culture..."
-> - "It's significant nationally..."
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==culturally irrelevant / trivial==
+> - ==no historical weight / value==
+> - ==temporary / forgettable event==
+> - ==purely commercial show==
 >
-> **🔑 Core Concept:** Key paraphrase patterns: "historically significant → of historical importance/matters historically/historically"
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -353,4 +364,56 @@ ref:
 > 2. ==matters historically / culturally important==
 >
 > **🎯 Goal:** Instant Recall
+#flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==historically significant for a country==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==it holds great historical importance nationally=="
+> 2. "==this show became very famous for its cast=="
+> 3. "==represents a crucial part of cultural heritage=="
+> 4. "==a purely trivial and forgettable performance=="
+> 5. "==matters deeply for our nation's history=="
+> 6. "==it was extremely popular with young audiences=="
+> 7. "==is historically significant for our shared memory=="
+> 8. "==lacks any kind of national or historical value=="
+> 9. "==documents a key period in the country's past=="
+> 10. "==was merely a commercial success at the time=="
+?
+> [!info] 📊 Classification Result
+> 1. ==it holds great historical importance nationally== → ==[✅]== (Paraphrase của historically significant)
+> 2. ==this show became very famous for its cast== → ==[⚠️]== (Bẫy nội dung về sự nổi tiếng, không phải lịch sử)
+> 3. ==represents a crucial part of cultural heritage== → ==[✅]== (Giá trị lịch sử dân tộc)
+> 4. ==a purely trivial and forgettable performance== → ==[❌]== (Ngược lại với significant)
+> 5. ==matters deeply for our nation's history== → ==[✅]== (Đặc điểm của tầm quan trọng lịch sử)
+> 6. ==it was extremely popular with young audiences== → ==[⚠️]== (Bẫy về sự phổ biến, không liên quan đến lịch sử)
+> 7. ==is historically significant for our shared memory== → ==[✅]== (Xác nhận giá trị lịch sử quốc gia)
+> 8. ==lacks any kind of national or historical value== → ==[❌]== (Logic đảo chiều: vô giá trị lịch sử)
+> 9. ==documents a key period in the country's past== → ==[✅]== (Paraphrase của historically significant)
+> 10. ==was merely a commercial success at the time== → ==[❌]== (Trái ngược hoàn toàn với việc có ý nghĩa lịch sử sâu sắc)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==historically significant for a country==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"Some dismissed it as a ==trivial event== or a ==forgettable show==, but historians argue that it was anything but ==culturally irrelevant==..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK historically significant==
+>
+> **🧠 Reason:** Cấu trúc "dismissed as X but anything but Y" (X = trivial/forgettable, Y = culturally irrelevant) đã phủ định tính chất vô giá trị (Antonyms) và khẳng định tính chất quan trọng (significant). 
+> - Culturally irrelevant = Antonym of Historically significant
+> - → Anything but culturally irrelevant = Significant.
+>
+> **🎯 Skill:** Nhận diện tầm quan trọng khi người nói phản bác các nhận định về sự "vô giá trị/không liên quan" (Antonyms) của sự kiện/chương trình.
+
 ---

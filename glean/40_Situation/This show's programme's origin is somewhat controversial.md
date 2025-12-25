@@ -31,18 +31,27 @@ ref:
 >
 > **Topic Category:** ==Culture / Heritage / History==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Nguồn gốc hoặc quá trình sáng tạo của một chương trình/trình diễn ===có một vài điểm chưa được xác nhận rõ==, dẫn đến tranh luận, sự khác biệt ý kiến, hoặc câu hỏi về ai thực sự là tác giả/sáng tạo ra nó.
 > - **Denotation Nghĩa đen:** Người hoặc tổ chức nào sáng tạo ra, viết, hoặc sáng lập chương trình đó; có các giả thuyết, ý kiến khác nhau về ai là người gốc hoặc nơi nó đến từ; không ai đồng tình về nguồn gốc chính xác.
 > - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI: "disputed" (tranh chấp), "unknown" (không biết), "uncertain" (không chắc chắn), "debatable" (có thể tranh luận).
-> - **Deep Dive:** Paraphrasing sâu hơn: "somewhat controversial" → "subject of debate", "sources disagree", "unclear origins", "disputed authorship", "questions remain", "not definitively known".
+> - **Deep Dive:** Paraphrasing sâu hơn: ==somewhat controversial → subject of debate, sources disagree, unclear origins, disputed authorship, questions remain, not definitively known==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==definitively known, undisputed origin, clear provenance, settled history, universally agreed, certain authorship==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==dispute/debate== → Syn: ==question, challenge, contest== | Ant: ==accept, concede, agree==
+>   - ==originate/start== → Syn: ==commence, inaugurate, pioneer== | Ant: ==terminate, conclude, end==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Nhìn thấy =nhà sử học hoặc nhà nghiên cứu= đang tranh luận, các sách cũ có nhiều ghi chú ở lề, hoặc là một tài liệu lịch sử bị đánh dấu hỏi chấm nhiều nơi khác.
-> - **Auditory:** Nghe tiếng =tranh luận sôi nổi===, người đưa ra các giả thuyết khác nhau, hoặc tiếng bàn luận căng thẳng khi bàn về nguồn gốc.
-> - **Action:** Hành động cụ thể: nghiên cứu tài liệu, so sánh các giả thuyết, phân tích bằng chứng, viết bài báo cáo tranh luận.
+> - **Visual:** Nhìn thấy =nhà sử học hoặc nhà nghiên cứu= đang tranh luận (historians debating), các sách cũ có nhiều ghi chú ở lề (annotated margins), hoặc là một tài liệu lịch sử bị đánh dấu hỏi chấm nhiều nơi khác (question marks on documents)
+>
+> - **Auditory:** Nghe tiếng =tranh luận sôi nổi=== (intense debate), người đưa ra các giả thuyết khác nhau (competing theories), hoặc tiếng bàn luận căng thẳng (tense discussion) khi bàn về nguồn gốc
+>
+> - **Action:** Hành động cụ thể: nghiên cứu tài liệu (researching docs), so sánh các giả thuyết (comparing hypotheses), phân tích bằng chứng (analyzing evidence), viết bài báo cáo tranh luận (drafting reports)
+>
 > **🔗 Collocation Patterns:**
 > - `Verb + Noun`: be + controversial, cause + dispute, lead + to + disagreement, remain + unclear, question + authorship
 > - `Adj + Noun`: somewhat + controversial, disputed + origin, uncertain + provenance, unclear + authorship
@@ -78,31 +87,37 @@ ref:
 
 ---
 
-## 🧠 Spaced Repetition Flashcards (14 Cards)
+## 🧠 Spaced Repetition Flashcards (20 Cards)
 
 ---
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
 #flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==origin is somewhat controversial==
 >
 > **Context:** *Show programme history*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "The authorship is disputed..." / "Historians disagree on..."
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==authorship is disputed==
+> - ==experts disagree on origins==
+> - ==sources present conflicting accounts==
+> - ==subject of long-standing debate==
 >
-> **🥈 Other possibilities:**
-> - "There's uncertainty about..."
-> - "The origins are unclear..."
-> - "Scholars can't agree..."
-> - "Sources present conflicting information..."
-> - **Questions remain about..."
-> **🔑 Core Concept:** Key paraphrase patterns: "disputed authorship → historians disagree/conflicting sources; unclear origins → unknown provenance/unclear source/uncertain authorship"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==definitively known creator==
+> - ==undisputed provenance==
+> - ==settled historical fact==
+> - ==unanimously agreed origins==
+>
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -341,4 +356,56 @@ ref:
 > 1. ==authorship is questioned==
 > 2. ==origins remain unclear==
 > **🎯 Goal:** Instant Recall
+#flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==origin is somewhat controversial==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==experts still disagree about who originated the piece=="
+> 2. "==historians are certain about the creator's identity=="
+> 3. "==the origins of the work are disputed by scholars=="
+> 4. "==a definitively known and well-documented provenance=="
+> 5. "==historical records present conflicting accounts of its source=="
+> 6. "==it was court composers who definitely wrote it=="
+> 7. "==authorship remains a subject of intense debate=="
+> 8. "==settled history with no questions remaining=="
+> 9. "==different sources point to various different creators=="
+> 10. "==unanimously agreed upon as a group collaboration=="
+?
+> [!info] 📊 Classification Result
+> 1. ==experts still disagree about who originated the piece== → ==[✅]== (Paraphrase của controversial origin)
+> 2. ==historians are certain about the creator's identity== → ==[❌]== (Ngược lại với controversial origin)
+> 3. ==the origins of the work are disputed by scholars== → ==[✅]== (Sự tranh cãi về nguồn gốc)
+> 4. ==a definitively known and well-documented provenance== → ==[❌]== (Logic đảo chiều: rõ ràng thay vì tranh cãi)
+> 5. ==historical records present conflicting accounts of its source== → ==[✅]== (Đặc điểm của sự tranh cãi)
+> 6. ==it was court composers who definitely wrote it== → ==[⚠️]== (Bẫy nội dung về tác giả cụ thể)
+> 7. ==authorship remains a subject of intense debate== → ==[✅]== (Khẳng định tính tranh luận)
+> 8. ==settled history with no questions remaining== → ==[❌]== (Trái ngược hoàn toàn với việc còn gây tranh cãi)
+> 9. ==different sources point to various different creators== → ==[✅]== (Xác nhận sự không thống nhất/tranh luận)
+> 10. ==unanimously agreed upon as a group collaboration== → ==[❌]== (Logic đảo chiều: nhất trí thay vì tranh cãi)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==origin is somewhat controversial==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"While early scholars claimed the authorship was ==definitively known== and its history ==settled==, modern research shows it's far from ==undisputed==..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK controversial origin==
+>
+> **🧠 Reason:** Cấu trúc "far from being X" (X = undisputed) đã phủ định sự nhất trí (Antonym) và khẳng định sự tranh cãi (controversial). 
+> - Undisputed = Antonym of Controversial
+> - → Far from undisputed = Controversial.
+>
+> **🎯 Skill:** Nhận ra tính tranh luận khi người nói phủ định các trạng thái "đã được giải quyết/không còn tranh cãi" (Antonyms) để mô tả thực tế phức tạp.
+
 ---

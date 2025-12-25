@@ -34,23 +34,26 @@ ref:
 >
 > **Topic Category:** ==Archaeology / Site Investigation==
 >
-> **🧠 5D Framework:**
-> - **Definition:** Hình dáng **nền móng công trnh nhìn thấy qua lớp đất thực vật**, do sự chênh lệch về độ dài hoặc màu sắc khi trồng trọt/cỏ, báo hiệu về cấu trúc dưới đất.
->
-> - **Denotation:** Nghĩa đen: Các vết lùm của ngôi nhà cũ, đường ranh giới, nền móng được nhìn thấy từ mặt đất do cách cây cỏ phát triển khác nhau trên nền cũ so với nền mới.
->
+> **🧠 6D Framework (Logic & Lexical):**
+> - **Definition:** Hình dáng **nền móng công trình nhìn thấy qua lớp đất thực vật**, do sự chênh lệch về độ dài hoặc màu sắc khi trồng trọt/cỏ, báo hiệu về cấu trúc dưới đất.
+> - **Denotation Nghĩa đen:** Các vết lùm của ngôi nhà cũ, đường ranh giới, nền móng được nhìn thấy từ mặt đất do cách cây cỏ phát triển khác nhau trên nền cũ so với nền mới.
 > - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI: "old records" (tài liệu văn bản, không phải bằng chứng vật lý), "unusual stones" (hiện vật riêng lẻ, không phải bằng chứng của ngôi làng nguyên vẹn).
+> - **Deep Dive:** Paraphrasing sâu hơn: ==visible in the grass → seen from ground level, crop marks, earthworks, outlines in the vegetation, patterns in the grass==
 >
-> - **Deep Dive:** Paraphrasing sâu hơn: "visible in the grass" → "seen from ground level", "crop marks", "earthworks", "outlines in the vegetation", "patterns in the grass".
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==buried invisible foundations, smooth terrain, uniform grass growth, no surface traces, hidden structures, featureless field==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==reveal/expose== → Syn: ==show, denote, signify== | Ant: ==conceal, mask, hide==
+>   - ==perceive/notice== → Syn: ==detect, observe, discern== | Ant: ==ignore, overlook, miss==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Nhìn thấy **vùng cỏ xanh thẫm nhạt xen kẽ nhau**, các đường tròn, ô vuông hoặc hình dọc có hệ thống, báo hiệu về cấu trúc dưới đất như những "bóng ma" trên mặt đất.
+> - **Visual:** Nhìn thấy **vùng cỏ xanh thẫm nhạt xen kẽ nhau** (alternating green tones), các đường tròn, ô vuông hoặc hình dọc có hệ thống, báo hiệu về cấu trúc dưới đất như những "bóng ma" trên mặt đất (ghosts on the ground)
 >
-> - **Auditory:** Nghe tiếng **gió thổi qua cỏ**, tiếng bước chân đi trên nền đất mềm, tiếng thì thầm của các nhà khảo cổ phân tích các đường vết.
+> - **Auditory:** Nghe tiếng **gió thổi qua cỏ** (wind through grass), tiếng bước chân đi trên nền đất mềm, tiếng thì thầm của các nhà khảo cổ phân tích các đường vết (analyzing marks)
 >
-> - **Action:** Hành động cụ thể: quan sát từ trên cao (aerial view), chụp ảnh từ máy bay không người lái, dùng định vị GPS đánh dấu vị trí các vết lùm.
+> - **Action:** Hành động cụ thể: quan sát từ trên cao (observing from above/aerial view), chụp ảnh từ máy bay không người lái (drones), dùng định vị GPS đánh dấu vị trí các vết lùm (marking patterns)
 >
 > **🔗 Collocation Patterns:**
 > - `Verb + Noun`: discover + structures, identify + foundations, notice + patterns, observe + crop marks
@@ -92,34 +95,37 @@ ref:
 
 ---
 
-## 🧠 Spaced Repetition Flashcards (18 Cards)
+## 🧠 Spaced Repetition Flashcards (20 Cards)
 
 ---
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
 #flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==bases of several structures visible in the grass==
 >
 > **Context:** *Archaeological site investigation*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "We could see the foundations of several buildings in the grass" / "crop marks revealed structure outlines"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==foundations of buildings visible in the grass==
+> - ==crop marks revealed structure outlines==
+> - ==patterns in the vegetation showed building bases==
+> - ==earthworks visible from above indicated structures==
 >
-> **🥈 Other possibilities:**
-> - "The patterns in the vegetation showed building bases"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==buried invisible foundations==
+> - ==featureless field with uniform growth==
+> - ==no surface traces of buildings==
+> - ==hidden structures beneath deep soil==
 >
-> - "Earthworks visible from above indicated ancient structures"
->
-> - "The outlines of several structures were clear in the grass"
->
-> - "We spotted foundations through the vegetation differences"
->
-> **🔑 Core Concept:** Key paraphrase patterns: "visible in grass → crop marks/earthworks/vegetation patterns", "structures → buildings/foundations"
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -464,5 +470,57 @@ ref:
 > - **Trap Elimination:** Phân tích kỹ thuật gài bẫy: "lucky discovery" nghe hấp dẫn nhưng bị "but" làm yếu; "unusual stones" nghe liên quan nhưng bị phủ định là không chứng minh.
 > - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng: "bases" + "several structures" + "visible in grass" + "convinced us" = bằng chứng vật lý trực tiếp.
 > **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài: Tìm từ nhấn mạnh như "crucial", "breakthrough", "really convinced us" để xác định bằng chứng quan trọng nhất khi có nhiều bằng chứng được đề cập.
+
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==bases of several structures visible in the grass==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==foundations clearly visible in the vegetation patterns=="
+> 2. "==uncovered old records lucky to find in the archives=="
+> 3. "==outlines of structures discernible through crop marks=="
+> 4. "==buried foundations remain completely invisible=="
+> 5. "==building bases identified by variations in grass growth=="
+> 6. "==strange stones scattered around the castle area=="
+> 7. "==earthworks seen from above indicating ancient buildings=="
+> 8. "==uniform grass growth showing no surface traces=="
+> 9. "==structure outlines spotted in the aerial photographs=="
+> 10. "==deeply hidden structures with no patterns on the field=="
+?
+> [!info] 📊 Classification Result
+> 1. ==foundations clearly visible in the vegetation patterns== → ==[✅]== (Paraphrase của bases in grass)
+> 2. ==uncovered old records lucky to find in the archives== → ==[⚠️]== (Bẫy nội dung về ghi chép cũ)
+> 3. ==outlines of structures discernible through crop marks== → ==[✅]== (Thuật ngữ chuyên môn của dấu vết trong cỏ)
+> 4. ==buried foundations remain completely invisible== → ==[❌]== (Ngược lại với visible)
+> 5. ==building bases identified by variations in grass growth== → ==[✅]== (Cơ chế của việc nhìn thấy trong cỏ)
+> 6. ==strange stones scattered around the castle area== → ==[⚠️]== (Bẫy nội dung về đá lạ)
+> 7. ==earthworks seen from above indicating ancient buildings== → ==[✅]== (Hành động xác nhận cấu trúc)
+> 8. ==uniform grass growth showing no surface traces== → ==[❌]== (Logic đảo chiều: đồng nhất, không có vết)
+> 9. ==structure outlines spotted in the aerial photographs== → ==[✅]== (Xác nhận việc nhận diện cấu trúc)
+> 10. ==deeply hidden structures with no patterns on the field== → ==[❌]== (Trái ngược hoàn toàn với việc hiện rõ)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==bases of several structures visible in the grass==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We expected to find ==hidden foundations== that were ==invisible to the naked eye==, but the ==vegetation patterns== made the structures ==impossible to miss==..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK B (Bases... visible in grass)==
+>
+> **🧠 Reason:** Cấu trúc "expected X but Y made it Z" (X = hidden/invisible, Y = vegetation patterns, Z = impossible to miss) đã phủ định sự "bí ẩn/biến mất" (Antonyms) và khẳng định sự hiển lộ (visible). 
+> - Invisible = Antonym of Visible
+> - → Impossible to miss = Highly visible.
+>
+> **🎯 Skill:** Nhận diện bằng chứng vật lý khi người nói phản bác giả định về sự "che giấu/không thấy được" (Antonyms) bằng các mô tả về sự tương phản trong cỏ.
 
 ---

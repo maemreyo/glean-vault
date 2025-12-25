@@ -34,23 +34,26 @@ ref:
 >
 > **Topic Category:** ==Education / Archaeology / Community Outreach==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Hành động ==tổ chức các chuyến tham quan== cho học sinh đến địa điểm khai quật học, nhằm mục đích giáo dục và lan tỏa kiến thức.
->
-> - **Denotation Nghĩa đen: Thuê nhân sự, liên hệ với các trường học, thiết kế lịch trình tham quan, chuẩn bị tài liệu hướng dẫn cho học sinh đến thăm địa điểm archaeological.
->
+> - **Denotation Nghĩa đen:** Thuê nhân sự, liên hệ với các trường học, thiết kế lịch trình tham quan, chuẩn bị tài liệu hướng dẫn cho học sinh đến thăm địa điểm archaeological.
 > - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI: "museum display" (lưu trữ hiện vật tại bảo tàng, không phải đưa học sinh đến), "TV programme" (quảng bá qua truyền thông, không phải giáo dục trực tiếp).
+> - **Deep Dive:** Paraphrasing sâu hơn: ==organise educational visits → coordinate trips for schools, arrange tours for local students, set up school excursions to the site==
 >
-> - **Deep Dive:** Paraphrasing sâu hơn: "organise educational visits" → "coordinate trips for schools", "arrange tours for local students", "set up school excursions to the site".
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==cancel school trips, discontinue educational outreach, private excavation only, restricted access, end student involvement==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==organise/arrange== → Syn: ==coordinate, schedule, systematize== | Ant: ==disorganize, mess up, confuse==
+>   - ==visit/tour== → Syn: ==explore, inspect, frequent== | Ant: ==avoid, shun, ignore==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Nhìn thấy ==nhóm học sinh== mặc đồng phục trường đang đi dọc theo khu khai quật, với cuốn sổ tay ghi chép và camera chụp ảnh hiện vật.
+> - **Visual:** Nhìn thấy ==nhóm học sinh== mặc đồng phục trường đang đi dọc theo khu khai quật, với cuốn sổ tay ghi chép (notebooks) và camera chụp ảnh hiện vật
 >
-> - **Auditory:** Nghe tiếng ==giải thích hướng dẫn viên== nói về lịch sử ngôi làng cổ, tiếng cười đùa của học sinh, tiếng bước chân trên đường mòn.
+> - **Auditory:** Nghe tiếng ==giải thích hướng dẫn viên== (guide's explanation) nói về lịch sử ngôi làng cổ, tiếng cười đùa của học sinh (students' laughter), tiếng bước chân trên đường mòn (footsteps on trails)
 >
-> - **Action:** Hành động cụ thể: ==liên hệ hiệu trưởng==, gửi email mời tham quan, chuẩn bị biển chỉ dẫn, huấn luyện hướng dẫn viên.
+> - **Action:** Hành động cụ thể: ==liên hệ hiệu trưởng== (contacting principals), gửi email mời tham quan (emailing invitations), chuẩn bị biển chỉ dẫn (preparing signposts), huấn luyện hướng dẫn viên (training guides)
 >
 > **🔗 Collocation Patterns:**
 > - `Verb + Noun`: organise + school visits, arrange + educational trips, coordinate + excursions
@@ -94,34 +97,37 @@ ref:
 
 ---
 
-## 🧠 Spaced Repetition Flashcards (18 Cards)
+## 🧠 Spaced Repetition Flashcards (20 Cards)
 
 ---
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
 #flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==start to organise school visits==
 >
 > **Context:** *Post-excavation planning*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "We're going to arrange trips for local schools" / "We'll be organising educational visits"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==arrange trips for local schools==
+> - ==coordinate educational visits==
+> - ==setting up tours for schoolchildren==
+> - ==involve local schools in on-site visits==
 >
-> **🥈 Other possibilities:**
-> - "We want to involve schools in our work"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==cancel scheduled school trips==
+> - ==halt educational outreach programs==
+> - ==close the site to public groups==
+> - ==restrit student access to findings==
 >
-> - "Our plan is to coordinate school excursions"
->
-> - "We're setting up tours for school children"
->
-> - "The focus will be on educational outreach"
->
-> **🔑 Core Concept:** Key paraphrase patterns: "organise → arrange/coordinate", "school visits → school trips/educational visits/excursions"
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -496,5 +502,57 @@ ref:
 > - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng: "most excited about" + "bringing in schools" + "setting up visits" = "organise school visits".
 >
 > **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài: Luôn lắng nghe signal từ phủ định ("but", "however") để xác định đáp án thực sự. Tìm từ nhấn mạnh như "priority", "most excited" để xác định phương án được chọn.
+
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==start to organise school visits==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==coordinate field trips for the local primary school=="
+> 2. "==prepare a permanent museum exhibition of the finds=="
+> 3. "==setting up educational tours for secondary students=="
+> 4. "==decided to discontinue our school outreach program=="
+> 5. "==working with nearby schools to arrange on-site visits=="
+> 6. "==film a documentary for a national television channel=="
+> 7. "==arrange for groups of students to visit the excavation=="
+> 8. "==cancel all upcoming school excursions to the site=="
+> 9. "==organise trips for local schoolchildren next term=="
+> 10. "==restrict all student access to the archaeological site=="
+?
+> [!info] 📊 Classification Result
+> 1. ==coordinate field trips for the local primary school== → ==[✅]== (Paraphrase của school visits)
+> 2. ==prepare a permanent museum exhibition of the finds== → ==[⚠️]== (Bẫy nội dung về trưng bày bảo tàng)
+> 3. ==setting up educational tours for secondary students== → ==[✅]== (Đặc điểm của tham quan trường học)
+> 4. ==decided to discontinue our school outreach program== → ==[❌]== (Ngược lại với start to organise)
+> 5. ==working with nearby schools to arrange on-site visits== → ==[✅]== (Hành động tổ chức tham quan)
+> 6. ==film a documentary for a national television channel== → ==[⚠️]== (Bẫy nội dung về chương trình TV)
+> 7. ==arrange for groups of students to visit the excavation== → ==[✅]== (Xác nhận việc cho học sinh tham quan)
+> 8. ==cancel all upcoming school excursions to the site== → ==[❌]== (Logic đảo chiều: hủy chuyến đi)
+> 9. ==organise trips for local schoolchildren next term== → ==[✅]== (Paraphrase trực tiếp)
+> 10. ==restrict all student access to the archaeological site== → ==[❌]== (Trái ngược hoàn toàn với việc mời học sinh đến)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==start to organise school visits==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We were worried we'd have to ==restrict access== or ==cancel the educational program== due to safety, but we found a way so we ==won't have to stop school trips== after all..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK C (Start to organise school visits)==
+>
+> **🧠 Reason:** Cấu trúc "worried we'd have to X but found a way so we won't have to Y" (X = restrict/cancel, Y = stop school trips) đã phủ định việc dừng (Antonym) và khẳng định việc tiếp tục/bắt đầu (organise visits). 
+> - Stop visits = Antonym of Start/Organise visits
+> - → Won't have to stop = Will continue/start to organise.
+>
+> **🎯 Skill:** Nhận diện kế hoạch thực sự ngay cả khi người nói mô tả rủi ro "bị hủy/hạn chế" (Antonyms) trước khi xác nhận thực hiện.
 
 ---

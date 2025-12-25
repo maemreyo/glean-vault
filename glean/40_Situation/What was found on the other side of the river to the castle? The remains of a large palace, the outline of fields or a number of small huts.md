@@ -34,23 +34,26 @@ ref:
 >
 > **Topic Category:** ==Archaeology / Settlement Patterns==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Các ===công trình nhà ở nhỏ== (small huts/dwellings) được phát hiện, thường là nhà ở dân thường hoặc công trình phụ trợ, không phải cấu trúc lớn hoặc quan trọng.
->
-> - **Denotation:** Nghĩa đen: Các ngôi nhà nhỏ đơn giản làm bằng gỗ, đất hoặc đá, thường có quy mô nhỏ, dùng làm nơi ở hoặc làm việc, có thể là một phần của ngôi làng nhỏ hoặc khu định cư.
->
+> - **Denotation Nghĩa đen:** Các ngôi nhà nhỏ đơn giản làm bằng gỗ, đất hoặc đá, thường có quy mô nhỏ, dùng làm nơi ở hoặc làm việc, có thể là một phần của ngôi làng nhỏ hoặc khu định cư.
 > - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI: "palace" (cấu trúc lớn, nghe giống "royal building"), "fields" (đất nông nghiệp, nghe giống "cultivated area").
+> - **Deep Dive:** Paraphrasing sâu hơn: ==small huts → modest dwellings, tiny houses, small domestic structures, simple dwellings; a number of → several, multiple, a series of==
 >
-> - **Deep Dive:** Paraphrasing sâu hơn: "small huts" → "modest dwellings", "tiny houses", "small domestic structures", "simple dwellings"; "a number of" → "several", "multiple", "a series of".
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==grand palace, royal residence, massive structure, imposing building, vast estate, urban center==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==discover/locate== → Syn: ==unearth, pinpoint, find== | Ant: ==lose, misplace, miss==
+>   - ==inhabit/occupy== → Syn: ==dwell, reside, live== | Ant: ==abandon, vacate, leave==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Nhìn thấy ===nhóm túp nhỏ=== xếp thành vòng tròn hoặc hàng dọc bên kia dòng sông, mái tranh thấp, tường gạch hoặc gỗ sậm màu, đối lập với lâu đài lớn bên sông.
+> - **Visual:** Nhìn thấy ===nhóm túp nhỏ=== xếp thành vòng tròn (circular cluster) hoặc hàng dọc bên kia dòng sông, mái tranh thấp (thatched roofs), tường gỗ sậm màu, đối lập với lâu đài lớn (grand castle)
 >
-> - **Auditory:** Nghe tiếng ===nước sông=== chảy róc rách, tiếng gió thổi qua các túp nhỏ, tiếng động vật hoang dã quanh khu định cư.
+> - **Auditory:** Nghe tiếng ===nước sông=== chảy róc rách (babbling water), tiếng gió thổi qua túp nhỏ (wind whistling), tiếng bước chân trên nền nhà cổ (footsteps on floorings)
 >
-> - **Action:** Hành động cụ thể: đào đất bằng xẻng nhỏ, quét lớp đất mới, chụp ảnh từ trên cao để nhìn thấy quy mô phân bố.
+> - **Action:** Hành động cụ thể: đào đất bằng xẻng nhỏ (digging with trowels), quét sạch lớp đất (brushing soil), chụp ảnh từ trên cao (taking aerial photos) để nhìn rõ quy mô
 >
 > **🔗 Collocation Patterns:**
 > - `Verb + Noun`: discover + huts, find + dwellings, uncover + structures, locate + remains
@@ -92,34 +95,37 @@ ref:
 
 ---
 
-## 🧠 Spaced Repetition Flashcards (18 Cards)
+## 🧠 Spaced Repetition Flashcards (20 Cards)
 
 ---
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
 #flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==a number of small huts==
 >
 > **Context:** *Survey across river from castle*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "We discovered a cluster of small dwellings" / "Several huts were found"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==cluster of small dwellings==
+> - ==series of modest houses==
+> - ==several small domestic structures==
+> - ==group of simple huts==
 >
-> **🥈 Other possibilities:**
-> - "A series of modest houses"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==grand royal palace==
+> - ==massive imposing residence==
+> - ==vast agricultural fields==
+> - ==single large building==
 >
-> - "Multiple small structures arranged..."
->
-> - "Dwellings in a settlement pattern"
->
-> - "Small domestic buildings"
->
-> **🔑 Core Concept:** Key paraphrase patterns: "small huts → dwellings/modest houses", "a number of → several/cluster/series"
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -465,5 +471,57 @@ ref:
 > - **Trap Elimination:** Phân tích kỹ thuật gài bẫy: "remains of palace" nghe hấp dẫn nhưng chỉ là kỳ vọng/speculation; "outline of fields" nghe liên quan context nhưng không phải phát hiện chính.
 > - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng: "main discovery" + "cluster/series" + "small/modest" = a number of small huts.
 > **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài: Tìm từ nhấn mạnh như "actually", "primary discovery", "main" để xác định phát hiện thực tế khi có nhiều đặc điểm được đề cập. Dùng signal chuyển hướng "However" để xác định đâu là thực tế.
+
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==a number of small huts==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==discovered a collection of modest dwellings=="
+> 2. "==found the remains of a grand royal palace=="
+> 3. "==series of small huts in a circular formation=="
+> 4. "==surveyed agricultural field boundaries nearby=="
+> 5. "==cluster of domestic structures across the river=="
+> 6. "==excavated an imposing royal residence area=="
+> 7. "==several simple dwellings where commoners lived=="
+> 8. "==outline of fields extending to the south bank=="
+> 9. "==identified a group of tiny houses in a settlement=="
+> 10. "==vast palace complex showing its grand scale=="
+?
+> [!info] 📊 Classification Result
+> 1. ==discovered a collection of modest dwellings== → ==[✅]== (Paraphrase của small huts)
+> 2. ==found the remains of a grand royal palace== → ==[⚠️]== (Bẫy nội dung về cung điện lớn)
+> 3. ==series of small huts in a circular formation== → ==[✅]== (Mô tả đặc điểm của huts)
+> 4. ==surveyed agricultural field boundaries nearby== → ==[⚠️]== (Bẫy nội dung về đất nông nghiệp)
+> 5. ==cluster of domestic structures across the river== → ==[✅]== (Xác nhận vị trí và loại hình)
+> 6. ==excavated an imposing royal residence area== → ==[❌]== (Ngược lại với modest huts)
+> 7. ==several simple dwellings where commoners lived== → ==[✅]== (Phù hợp với tính chất của huts)
+> 8. ==outline of fields extending to the south bank== → ==[⚠️]== (Bẫy nội dung về cánh đồng)
+> 9. ==identified a group of tiny houses in a settlement== → ==[✅]== (Paraphrase trực tiếp)
+> 10. ==vast palace complex showing its grand scale== → ==[❌]== (Logic đảo chiều: cung điện đồ sộ)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==a number of small huts==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We weren't looking at ==grand residences== or a ==massive palace==; our discovery was far more ==modest==, consisting of ==low-scale dwellings==..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK C (A number of small huts)==
+>
+> **🧠 Reason:** Cấu trúc "weren't looking for X; discovery was Y" (X = grand/massive, Y = modest/low-scale) đã phủ định các công trình lớn (Antonyms) và khẳng định các công trình nhỏ (huts). 
+> - Grand/Palace = Antonym of Modest/Huts
+> - → Far more modest = Huts.
+>
+> **🎯 Skill:** Nhận diện loại hình kiến trúc khi người nói bác bỏ các đặc điểm "hoành tráng/quy mô lớn" (Antonyms) để mô tả thực tế đơn sơ.
 
 ---

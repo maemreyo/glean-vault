@@ -35,7 +35,7 @@ ref:
 >
 > **Topic Category:** ==History / Theatre / Cultural Artifacts==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Nghĩa là ==sáng tạo, độc đáo, mới lạ== - phản ánh sự đổi mới trong nội dung và thiết kế
 >
 > - **Denotation:** Nghĩa đen là ==original== = nguyên bản, xuất phát từ nguồn gốc, không sao chép
@@ -43,15 +43,21 @@ ref:
 > - **Distractor:** "colorful" (nhiều màu sắc) nghe giống "vivid/vibrant" nhưng chỉ nói về hình thức bên ngoài, không phải nội dung
 >
 > - **Deep Dive:** Paraphrasing: ==original → unique, innovative, creative, imaginative, pioneering==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==unimportant, standardized, common, copying, unoriginal, less imaginative==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==show/display== → Syn: ==exhibit, demonstrate, manifest== | Ant: ==hide, conceal, suppress==
+>   - ==create== → Syn: ==innovate, pioneer, develop== | Ant: ==copy, imitate, replicate==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
 > - **Visual:** Hình dung các chương trình nhà hát thế kỷ 18 với ==thiết kế nghệ thuật==, ==bản vẽ minh họa thủ công==, ==font chữ cổ điển==
 >
-> - **Auditory:** Nghe người nói: *"They were far more creative in those days"* hoặc *"There was much more imagination in the early programmes"*
+> - **Auditory:** Nghe người nói nhấn mạnh bằng tone giọng ngạc nhiên: *"They were far more creative in those days"* hoặc *"There was much more imagination in the early programmes"*
 >
-> - **Action:** Hành động lật qua các trang sách lịch sử nhà hát, so sánh sự đổi mới
+> - **Action:** Hành động lật qua các trang sách lịch sử nhà hát, so sánh sự đổi mới vs sự rập khuôn sau này
 >
 > **🔗 Collocation Patterns:**
 > - `Adj + Noun`: original + design, original + content, original + concept
@@ -93,34 +99,37 @@ ref:
 
 ---
 
-## 🧠 Spaced Repetition Flashcards
+## 🧠 Spaced Repetition Flashcards (20 Cards)
 
 ---
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
 #flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-history/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==more original==
 >
 > **Context:** *Students comparing 18th vs 19th century theatre programmes*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Audio sẽ dùng từ ==creative/creativity== để paraphrase "original"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==creative / creativity==
+> - ==innovative / innovation==
+> - ==imaginative / imagination==
+> - ==unique==
 >
-> **🥈 Other possibilities:**
-> - Audio nhắc ==innovative/innovation==
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==standardized==
+> - ==copying / copying templates==
+> - ==common / ordinary==
+> - ==less imaginative==
 >
-> - Audio nói ==imaginative/imagination==
->
-> - Audio dùng ==unique==
->
-> - Audio nói ==pioneering==
->
-> **🔑 Core Concept:** Các từ này đều diễn tả tính chất ==sáng tạo, độc đáo, mới lạ== của các chương trình nhà hát thế kỷ 18
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -495,5 +504,59 @@ ref:
 > - **Confirmation Logic:** Multiple paraphrases (creative, innovative, imaginative, unique) đều converging vào cùng một ý nghĩa - original
 >
 > **🔑 Strategic Lesson:** Khi nghe so sánh, tập trung vào tính chất được nhấn mạnh nhất (nhấn bằng emphasis, repetition, hoặc đứng sau signal words)
+
+---
+
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-history/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==more original==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==quite creative=="
+> 2. "==more colourful illustrations=="
+> 3. "==showed real imagination=="
+> 4. "==just copying templates=="
+> 5. "==truly unique=="
+> 6. "==detailed information=="
+> 7. "==innovative designs=="
+> 8. "==seem less imaginative=="
+> 9. "==imaginative approach=="
+> 10. "==ordinary programs=="
+?
+> [!info] 📊 Classification Result
+> 1. ==quite creative== → ==[✅]== (Paraphrase của original)
+> 2. ==more colourful illustrations== → ==[⚠️]== (Bẫy visual, nhắc đến hình ảnh nhưng không phải bản chất sáng tạo)
+> 3. ==showed real imagination== → ==[✅]== (Đặc điểm của sự sáng tạo)
+> 4. ==just copying templates== → ==[❌]== (Ngược lại với sự sáng tạo/nguyên bản)
+> 5. ==truly unique== → ==[✅]== (Synonym của original)
+> 6. ==detailed information== → ==[⚠️]== (Bẫy nội dung, nói về số lượng thông tin thay vì chất lượng sáng tạo)
+> 7. ==innovative designs== → ==[✅]== (Đặc điểm của sự đổi mới/sáng tạo)
+> 8. ==seem less imaginative== → ==[❌]== (Logic đảo chiều dùng để so sánh 19th century)
+> 9. ==imaginative approach== → ==[✅]== (Cách tiếp cận sáng tạo)
+> 10. ==ordinary programs== → ==[❌]== (Phủ định sự độc lập/sáng tạo)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-history/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==more original==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"Compared to the earlier ones, the later 19th century programmes ==seemed to be copying templates== and were ==far less imaginative==..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK A (more original)==
+>
+> **🧠 Reason:** Audio có thể dùng câu phủ định cho vật phẩm so sánh (19th century) để xác nhận tính chất ngược lại cho 18th century. 
+> - 19th century = copying/less imaginative 
+> - → 18th century = original/more imaginative.
+>
+> **🎯 Skill:** Nhận định đúng hướng so sánh ngay cả khi người nói dùng cấu trúc phủ định đối tượng liên quan.
 
 ---
