@@ -401,6 +401,7 @@ ref:
 >
 > **✅ Correct Answer:** ==bases of several structures visible in the grass==
 > - *Why correct:* Được xác nhận là "ultimately convinced us", "see the physical evidence", "bases of several buildings" - bằng chứng vật lý trực tiếp.
+<!--SR:!2025-12-29,4,270-->
 
 ---
 

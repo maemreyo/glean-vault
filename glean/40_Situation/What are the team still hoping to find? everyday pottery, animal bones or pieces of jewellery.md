@@ -121,6 +121,7 @@ ref:
 > - Audio nói ==shiny/precious things==
 >
 > **🔑 Core Concept:** Tất cả diễn tả ==vật trang sức/tiền sản có giá trị cao==
+<!--SR:!2025-12-26,1,230-->
 
 ---
 
@@ -140,6 +141,7 @@ ref:
 >   - Nouns: ornaments, valuables, treasures, artifacts
 >
 > **💡 Pattern Note:** Thường đi với ==pieces of/fragments of/necklaces/rings + jewelry==
+<!--SR:!2025-12-26,1,230-->
 
 ---
 
@@ -156,6 +158,7 @@ ref:
 > - **📈 Tone Shift:** Lên giọng (hy vọng, phấn khởi) - thể hiện sự mong chờ tích cực về vật có giá trị
 >
 > **🎧 Decoding:** Signpost báo hiệu người nói đang ==nêu hy vọng/tham vọng== về phát hiện
+<!--SR:!2025-12-28,3,250-->
 
 ---
 
@@ -173,6 +176,7 @@ ref:
 > - **Linking:** "of" + "jewellery" → /əv ˈdʒuːlri/, nối âm nhẹ
 > - **Elision:** Nuốt âm /w/ trong "jewellery" khi nói nhanh
 > - **Weak Form:** "of" thường thành /əv/
+<!--SR:!2025-12-29,4,270-->
 
 ---
 
@@ -194,6 +198,7 @@ ref:
 > - Tương đương với: =="pieces of jewellery"==
 >
 > **🧠 Logic Chain:** "precious ornaments" = "jewellery" (vật trang sức/đồ mỹ)
+<!--SR:!2025-12-29,4,270-->
 
 ---
 
@@ -211,6 +216,7 @@ ref:
 > "Household items/Common" gợi ý về phổ biến → dễ hiểu là quan trọng/tìm kiếm chính
 >
 > **🔄 Reality Check:** Team đang ==h vọng tìm vật giá trị cao== (jewellery) chứ không phải đồ thường
+<!--SR:!2025-12-26,1,230-->
 
 ---
 
@@ -227,6 +233,7 @@ ref:
 > - **animal bones:** Tập trung vào ==ý nghĩa nghiên cứu== - bằng chứng sinh học/fauna
 >
 > **🧱 Key Barrier:** "jewellery" = valuable items, "bones" = research material
+<!--SR:!2025-12-29,4,270-->
 
 ---
 
@@ -247,6 +254,7 @@ ref:
 > - **Spelling Trap:** Lưu ý đuôi "-ry" (jewellery) không phải "-ery" ❌, "l" kép (ll)
 >
 > **🔗 Connects to:** ==pieces of jewellery==
+<!--SR:!2025-12-29,4,270-->
 
 ---
 
@@ -272,6 +280,7 @@ ref:
 > - "valuable items" ≠ "common items"*
 >
 > **🎯 Correct Position:** High-value area focus
+<!--SR:!2025-12-29,4,270-->
 
 ---
 
@@ -296,6 +305,7 @@ ref:
 > **❌ Why B is wrong:** Audio nhắc "bone fragments" nhưng chỉ là bằng chứng nghiên cứu
 >
 > **✅ Why C is correct:** Audio trực tiếp nói "really hoping", "precious items", "ornaments" - paraphrase cho "jewellery"
+<!--SR:!2025-12-28,3,250-->
 
 ---
 
@@ -325,6 +335,7 @@ ref:
 > - **Option A focuses on:** **Desirability/Value** (khả năng sở hữu/giá trị)
 >
 > - **Option B focuses on:** **Commonality/Utility** (sự phổ biến/công năng)
+<!--SR:!2025-12-29,4,270-->
 
 ---
 
@@ -345,6 +356,7 @@ ref:
 > 3. ==valuable discoveries== → làm rõ đây là vật có giá trị
 >
 > **🎯 Conclusion:** Ba cụm từ đều chỉ ra tính chất quý giá của vật trang sức
+<!--SR:!2025-12-29,4,270-->
 
 ---
 
@@ -373,6 +385,7 @@ ref:
 > **❌ False Agreement Signals:**
 >
 > - *"Though..."* (trong trường hợp này chỉ là bổ sung thông tin)
+<!--SR:!2025-12-29,4,270-->
 
 ---
 
@@ -390,6 +403,7 @@ ref:
 > ==personal adornments== ⚡ ==jewellery==
 >
 > **🧠 Instant Logic:** Tất cả diễn tả ==vật trang sức/tiền sản có giá trị==
+<!--SR:!2025-12-26,1,230-->
 
 ---
 
@@ -458,6 +472,7 @@ ref:
 > 2. ==ornaments==
 >
 > **🎯 Goal:** Instant Recall
+<!--SR:!2025-12-26,1,230-->
 
 ---
 
@@ -485,5 +500,6 @@ ref:
 > - **Confirmation Logic:** Multiple paraphrases (precious objects, ornaments, personal adornments, valuable) converging vào cùng ý nghĩa - items of value
 >
 > **🔑 Strategic Lesson:** Trong MCQ về hy vọng/kỳ vọng, tập trung vào từ chỉ ra **sự mong đợi thực sự** ("still hoping", "really hoping", "would be most", "significant") thay vì các tìm kiếm chung
+<!--SR:!2025-12-26,1,230-->
 
 ---

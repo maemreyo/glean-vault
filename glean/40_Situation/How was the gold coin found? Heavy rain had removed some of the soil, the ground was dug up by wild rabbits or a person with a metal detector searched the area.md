@@ -121,6 +121,7 @@ ref:
 > - Audio nói ==appeared at surface==
 >
 > **🔑 Core Concept:** Tất cả diễn tả ==quá trình mưa/bão tự nhiên bóc đất để lộ hiện vật==
+<!--SR:!2025-12-26,1,230-->
 
 ---
 
@@ -140,6 +141,7 @@ ref:
 >   - Nouns: earth, dirt, layer, ground
 >
 > **💡 Pattern Note:** "Heavy rain" thường đi với ==washed/eroded/removed + soil/earth/dirt==
+<!--SR:!2025-12-26,1,230-->
 
 ---
 
@@ -156,6 +158,7 @@ ref:
 > - **📈 Tone Shift:** Lên giọng (ngạc nhiên, vui mừng) - thể hiện sự bất ngờ tích cực về may mắn thời tiết
 >
 > **🎧 Decoding:** Signpost báo hiệu người nói đang ==nêu phát hiện tình cờ/nhờ thiên nhiên==
+<!--SR:!2025-12-26,1,230-->
 
 ---
 
@@ -175,6 +178,7 @@ ref:
 > - **Elision:** Nuốt âm /h/ trong "had" trong speech nhanh
 >
 > - **Weak Form:** "of" thường thành /əv/
+<!--SR:!2025-12-29,4,270-->
 
 ---
 
@@ -196,6 +200,7 @@ ref:
 > - Tương đương với: =="heavy rain had removed"==
 >
 > **🧠 Logic Chain:** "washed away soil" = passive "had removed (by rain)"
+<!--SR:!2025-12-29,4,270-->
 
 ---
 
@@ -213,6 +218,7 @@ ref:
 > "Modern equipment" gợi ý về detector/technology → dễ hiểu là người tìm
 >
 > **🔄 Reality Check:** Audio đang nói về ==phát hiện tự nhiên nhờ mưa== chứ không phải thiết bị
+<!--SR:!2025-12-29,4,270-->
 
 ---
 
@@ -229,6 +235,7 @@ ref:
 > - **the ground was dug up by wild rabbits:** Tập trung vào ==hoạt động sinh vật (animals)== xới đất
 >
 > **🧱 Key Barrier:** "rain/soil removal" = thiên nhiên, "rabbits/dug up" = sinh vật
+<!--SR:!2025-12-29,4,270-->
 
 ---
 
@@ -249,6 +256,7 @@ ref:
 > - **Spelling Trap:** Lưu ý đuôi "-ed" (removed) không phải "-d" ❌
 >
 > **🔗 Connects to:** ==had removed==
+<!--SR:!2025-12-29,4,270-->
 
 ---
 
@@ -275,6 +283,7 @@ ref:
 > - "visible" ≠ "buried"*
 >
 > - **🎯 Correct Position:** At surface level after rain
+<!--SR:!2025-12-29,4,270-->
 
 ---
 
@@ -301,6 +310,7 @@ ref:
 > **❌ Why C is wrong:** Audio nói "didn't use special equipment" - loại trừ detector
 >
 > **✅ Why A is correct:** Audio trực tiếp nói "heavy rain washed away/exposed by weather" - paraphrase cho "rain removed soil"
+<!--SR:!2025-12-29,4,270-->
 
 ---
 
@@ -336,6 +346,7 @@ ref:
 > - **Option A focuses on:** ==Natural weather forces== (lực tự nhiên)
 >
 > - **Option B focuses on:** ==Biological activity== (hoạt động sinh vật)
+<!--SR:!2025-12-26,1,230-->
 
 ---
 
@@ -356,6 +367,7 @@ ref:
 > 3. ==at the surface== → kết quả của việc rain removed soil (lộ mặt đất)
 >
 > **🎯 Conclusion:** Ba cụm từ đều chỉ ra quá trình mưa tự nhiên bóc đất lộ hiện vật
+<!--SR:!2025-12-29,4,270-->
 
 ---
 
@@ -384,6 +396,7 @@ ref:
 > **❌ False Agreement Signals:**
 >
 > - *"Though..."* (trong trường hợp này chỉ là contrast nhẹ)
+<!--SR:!2025-12-26,1,230-->
 
 ---
 
@@ -400,6 +413,7 @@ ref:
 > ==weather uncovered== ⚡ ==rain removed==
 >
 > **🧠 Instant Logic:** Tất cả diễn tả ==quá trình mưa/bão tự nhiên bóc đất==
+<!--SR:!2025-12-26,1,230-->
 
 ---
 
@@ -428,6 +442,7 @@ ref:
 >
 > **✅ Correct Answer:** ==Heavy rain had removed some of the soil==
 > - *Why correct:* Audio nhấn mạnh "heavy rain washed away", "purely the weather", "weather that removed soil layers"
+<!--SR:!2025-12-29,4,270-->
 
 ---
 
@@ -447,6 +462,7 @@ ref:
 > - ==revealed purely by the weather== → paraphrase cho ==rain removed==
 >
 > **🧠 Overall Logic:** Tất cả cụm từ chỉ ra quá trình ==mưa/bão tự nhiên bóc đất lộ hiện vật==
+<!--SR:!2025-12-29,4,270-->
 
 ---
 
@@ -467,6 +483,7 @@ ref:
 > 2. ==weather exposed==
 >
 > **🎯 Goal:** Instant Recall
+<!--SR:!2025-12-28,3,250-->
 
 ---
 
@@ -494,5 +511,6 @@ ref:
 > - **Confirmation Logic:** Multiple paraphrases (washed away, exposed naturally, purely weather) converging vào cùng ý nghĩa
 >
 > **🔑 Strategic Lesson:** Trong MCQ về nguyên nhân (cause), tập trung vào từ chỉ ra chủ yếu/ chính yếu ("purely", "actually", "down to", "key factor") thay vì các đề cập phụ
+<!--SR:!2025-12-29,4,270-->
 
 ---

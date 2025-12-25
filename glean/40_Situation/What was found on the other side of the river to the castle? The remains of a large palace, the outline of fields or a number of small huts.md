@@ -403,6 +403,7 @@ ref:
 > - *Wrong because:* Đây chỉ là đặc điểm môi trường xung quanh, không phải phát hiện archaeology chính. Bị loại bỏ bởi "main discovery".
 > **✅ Correct Answer:** ==a number of small huts==
 > - *Why correct:* Được xác nhận là "actually uncovered", "main discovery", "cluster of small huts" - phát hiện thực tế quan trọng nhất.
+<!--SR:!2025-12-26,1,230-->
 
 ---
 

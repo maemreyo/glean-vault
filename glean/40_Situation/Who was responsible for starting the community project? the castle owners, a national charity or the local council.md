@@ -393,6 +393,7 @@ ref:
 > - *Wrong because:* Chỉ là giả định phổ biến, bị "but what the records show" phủ định.
 > **✅ Correct Answer:** ==The castle owners==
 > - *Why correct:* Được xác nhận là "actually came from", "themselves approached", "provided both financial and logistical support".
+<!--SR:!2025-12-28,3,250-->
 
 ---
 
