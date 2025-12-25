@@ -1,328 +1,268 @@
 ---
 aliases:
-  - 
-question_type: single
-# single = 1 option (matching), multi = 2+ options (MCQ)
-options_count: 1
-status: pending
+  - interpersonal skills
+  - personal interest in the event
+  - flexibility
+  - volunteer requirements
+  - festival volunteer requirements
+question_type: multi
+status: done
 ref:
   - Cam 20 Listening Test 02
 
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
+> **Question Type:** ==multi==
 >
-> **Question Stem:** =={{QUESTION_STEM}}==
-> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
+> **Question Stem:** What is the most important requirement for volunteers at the festivals?
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Volunteer selection criteria for festival participation - qualities and skills needed*
 >
-> **Source Test:** {{SOURCE_TEST}}
+> **Source Test:** Cam 20 Listening Test 02
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
+> | A | ==interpersonal skills== | ability to interact and communicate effectively with people | social skills, communication abilities, working with people, getting on with others | ⚠️ High |
+> | B | ==personal interest in the event== | genuine enthusiasm or passion for the specific festival/activity | enthusiasm for the festival, caring about the event, having passion for it | ⚠️ Medium |
+> | C | ==flexibility== | adaptability to changing situations and willingness to do various tasks | being adaptable, willing to help where needed, open to change | ⚠️ Medium |
 >
-> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
->
-> *(For single-option: keep only 1 row and remove "Correct Answer" line)*
+> **✅ Correct Answer:** ==interpersonal skills==
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
+> **Type of Info:** ==Chất lượng người==
 >
-> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
+> **Topic Category:** ==Volunteering==
 >
 > **🧠 5D Framework:**
-> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
+> - **Definition:** ==skills and qualities that enable effective communication and positive interactions with other people==
 >
-> - **Denotation:** Ý nghĩa đen (use ==highlight==)
+> - **Denotation:** ==the ability to relate to, communicate with, and work alongside others effectively==
 >
-> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
+> - **Distractor:** ==communication skills (too narrow), personal skills (too vague), social activities (wrong category - action not quality)==
 >
-> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+> - **Deep Dive:** ==being good with people, getting along with others, working well in teams, social competence, people skills, relationship-building abilities==
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** ==volunteers talking to festival visitors, smiling faces, group coordination, helping people together==
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** ==friendly conversations, greeting visitors, coordinating in teams, answering questions==
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** ==welcoming guests, explaining festival activities, working in shifts with others, solving problems collaboratively==
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: e.g., arrange + meeting
+> - `Verb + Noun`: have + interpersonal skills, develop + interpersonal skills, good + interpersonal skills
 >
-> - `Noun + of + Noun`: e.g., organisation of + event
+> - `Noun + of + Noun`: communication + of + ideas
 >
-> - `Adj + Noun`: e.g., local + businesses
+> - `Adj + Noun`: good + interpersonal skills, strong + interpersonal skills, excellent + interpersonal skills
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
+> - "We're looking for volunteers with good interpersonal skills."
 >
-> - "The job involves..."
+> - "The most important thing is being able to work with people."
 >
-> - "We need to..."
+> - "You need to be good at communicating with the public."
 >
-> - "My responsibility is..."
+> - "What we really value is someone who can get on well with others."
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
+> **Trap 1:** ==personal interest in the event==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* ==Sounds like a positive quality for volunteers, speaker may mention it as "nice to have"==
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* ==Interest is NOT the MAIN requirement, speaker likely says it's secondary to skills==
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
+> **Trap 2:** ==flexibility==
 >
-> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
+> - *Why it's tricky:* ==Seems important for dynamic festival work, might be mentioned as helpful==
 >
-> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
+> - *Actual meaning:* ==While useful, it's not described as "the most important" requirement==
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
+> "When selecting volunteers, we look at several qualities. Some might think having personal interest in the festival is crucial, or that flexibility is what matters most. But really, the absolute priority is interpersonal skills - you need to be able to communicate effectively with visitors and work well with your team."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==interpersonal skills==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
+> "It's great if you're flexible and interested in the event, but what we really can't do without is volunteers with strong interpersonal skills. Being able to interact positively with people from all backgrounds is absolutely essential."
 >
-> → **Match:** =={{OPTION_TEXT}}==
+> → **Match:** ==interpersonal skills==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (15 Cards)
+## 🧠 Spaced Repetition Flashcards (18 Cards)
 
 ---
 
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/social-leisure/festivals/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==interpersonal skills==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Volunteer selection criteria for festival participation - qualities and skills needed*
 >
 > ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
 > [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> **🥇 #1 Most Likely:** "ability to work with people" / "good with people"
 >
 > **🥈 Other possibilities:**
-> - Kịch bản 2
+> - "communication skills"
 >
-> - Kịch bản 3
+> - "social skills"
 >
-> - Kịch bản 4
+> - "getting along with others"
 >
-> - Kịch bản 5
+> - "working well in a team"
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> **🔑 Core Concept:** Paraphrases focusing on interaction with people and communication abilities
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/social-leisure/festivals/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==interpersonal skills==
 >
 > ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
 > [!note] 🗝️ Top Collocations
-> - **🔥 Top Pick:** Collocation phổ biến nhất
+> - **🔥 Top Pick:** have + good interpersonal skills / need + interpersonal skills
 >
 > - **Other strong matches:**
->   - Verbs: ví dụ: perform, play
+>   - Verbs: develop, demonstrate, possess, show, value
 >
->   - Nouns: ví dụ: music, concert
+>   - Nouns: communication, teamwork, people skills, social abilities
 >
-> **💡 Pattern Note:** Ghi chú về pattern
+> **💡 Pattern Note:** "Interpersonal skills" is often paraphrased as "people skills", "being good with people", "communication abilities"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/social-leisure/festivals/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==interpersonal skills==
 >
 > ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
 > [!tip] 🚦 Signposts & Tone
-> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
+> - **Signals:** "The most important thing is...", "What we really need is...", "The absolute priority is..."
 >
-> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
+> - **📈 Tone Shift:** Xuống giọng (Final/Certain) when stating the main requirement
 >
-> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+> **🎧 Decoding:** Superlative language and priority markers indicate this is the key answer, not just one of several
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+#flashcards/ielts-listening/social-leisure/festivals/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==interpersonal skills==
 >
 > ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
 ?
 > [!info] 🔊 Connected Speech
-> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+> **🗣️ Real Pronunciation:** /ˌɪntəˈpɜːsənl skɪlz/ → "in-ter-per-sonal skills"
 >
 > **🔗 Features:**
-> - **Linking:** Nối âm nào?
+> - **Linking:** interpersonal skills → "in-ter-per-sonal skills"
 >
-> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
+> - **Elision:** 't' in "interpersonal" may be slightly softened in connected speech
 >
-> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+> - **Weak Form:** None significant, but emphasis usually on "interpersonal"
 
 ---
 
-### Tier 2: Recognition - Every 2-3 Days (4 Cards)
+### Tier 2: Recognition - Every 2-3 Days (5 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+#flashcards/ielts-listening/social-leisure/festivals/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "While it's helpful to have some interest in the festival and be flexible with your schedule, the most critical quality we're looking for is the ability to work well with people. You'll be interacting with visitors all day."
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==interpersonal skills==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="the ability to work well with people"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: =="interpersonal skills"==
 >
-> **🧠 Logic Chain:** Cách suy luận từ audio đến option
+> **🧠 Logic Chain:** "ability to work well with people" = interpersonal skills
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+#flashcards/ielts-listening/social-leisure/festivals/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==personal interest in the event==
 >
-> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"While we do appreciate volunteers who are interested in the festival, the main thing we need is someone with good interpersonal skills"* → **Số phận** option này thế nào?
 ?
 > [!fail] 🛑 Spot the Lie
 > **👉 Verdict:** ==LOẠI NGAY== (False)
 >
 > **⚠️ Why? (Trap Signal):**
-> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
+> Speaker acknowledges "personal interest" as positive but contrasts with "while" and "main thing we need" - clearly indicating it's secondary
 >
-> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
+> **🔄 Reality Check:** This is mentioned as a nice-to-have quality, NOT the main requirement
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+#flashcards/ielts-listening/social-leisure/festivals/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="interpersonal skills"== với =="flexibility"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
+> - **interpersonal skills:** Tập trung vào ability to interact and communicate with people effectively.
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
+> - **flexibility:** Tập trung vào adaptability to changing schedules or tasks.
 >
-> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
+> **🧱 Key Barrier:** People-focused vs. Task/schedule-focused
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+#flashcards/ielts-listening/social-leisure/festivals/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
-> *Audio transcript với ==key phrase== ẩn*
+> *What matters most is having strong ==interpersonal skills== since you'll be dealing with festival visitors from many different backgrounds.*
 >
-> 🇻🇳 **Vietnamese:** Vietnamese Translation
+> 🇻🇳 **Vietnamese:** Điều quan trọng nhất là có kỹ năng giao tiếp tốt vì bạn sẽ phải đối mặt với du khách từ nhiều nền tảng khác nhau.
 >
 > ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+> [!success] ✅ Answer: ==interpersonal skills==
 > **📝 Grammar Check:**
-> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
+> - **Plural/Singular:** skills (có 's') - "skills" is plural when referring to multiple abilities
 >
-> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
+> - **Spelling Trap:** "skill" + "s" (standard plural form)
 >
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> **🔗 Connects to:** ==interpersonal skills==
 
 ---
 
-### Tier 3: Elimination - Weekly (4 Cards)
+### Tier 3: Elimination - Weekly (6 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+#flashcards/ielts-listening/social-leisure/festivals/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
 > **Context:** Map Labelling / Room Layout
 >
-> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
+> **Audio Cue:** *"Volunteers will be stationed at various points. Some at the entrance greeting visitors, others at information desks, others guiding people around. All these positions require the same key quality."*
 >
 > *(vd: "It's immediately to your right when you enter.")*
 >
@@ -330,7 +270,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ?
 > [!tip] 🗺️ Spatial Logic
 > **👁️ Mental Picture:**
-> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+> Entrance → Greeters | Information Desks | Guiding positions → All need same skill
 >
 > **⚠️ Spatial Traps:**
 > - "On the right hand side of the building" ≠ "On your right"
@@ -339,95 +279,99 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 >
 > - "Behind" ≠ "At the back of"
 >
-> **🎯 Correct Position:** =={{LABEL}}==
+> **🎯 Correct Position:** ==All positions requiring interpersonal interaction==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
+#flashcards/ielts-listening/social-leisure/festivals/weekly/01-elimination
 ### Card 10: Option Elimination Drill *(MCQ only)*
 
-> **Question:** =={{QUESTION_STEM}}==
+> **Question:** What is the most important requirement for volunteers at the festivals?
 >
 > **Options:**
-> - A. {{OPTION_1}}
+> - A. interpersonal skills
 >
-> - B. {{OPTION_2}}
+> - B. personal interest in the event
 >
-> - C. {{OPTION_3}}
+> - C. flexibility
 >
-> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
+> **Audio:** "Some volunteers think having flexibility is key - being able to switch tasks. Others feel that being genuinely interested in the festival matters most. But from our perspective, what we absolutely can't do without is volunteers with excellent interpersonal skills. Being able to communicate effectively with all types of visitors is essential."
 >
 > ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
 ?
-> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
+> [!success] ✅ Correct: ==interpersonal skills==
 >
-> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why A is wrong:** N/A - this IS correct
 >
-> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+> **❌ Why B is wrong:** Lý do loại trừ - Speaker says "Others feel that..." but contrasts with "But from our perspective" and "what we absolutely can't do without"
 >
-> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
+> **❌ Why C is wrong:** Lý do loại trừ - Speaker mentions "Some volunteers think..." but uses contrast marker "But from our perspective" to show this is not the main requirement
+>
+> **✅ Why C is correct:** Lý do chọn đáp án - Marked with "what we absolutely can't do without" and "most important" language, strongest emphasis
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
+#flashcards/ielts-listening/social-leisure/festivals/weekly/02-cross-confusion
 ### Card 11: Cross-Option Confusion *(MCQ only)*
 
-> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
+> **Confusing Pair:** ==personal interest in the event== vs ==interpersonal skills==
 >
 > ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
 ?
 > [!example] 🆚 Signal Decoding
 >
-> **🅰️ Signals for Option A:**
-> - *"Signal phrase 1"*
+> **🅰️ Signals for Option A (interest):**
+> - *"We'd love volunteers who are passionate about the festival"*
 >
-> - *"Signal phrase 2"*
+> - *"Having genuine enthusiasm is great"*
 >
-> - *"Signal phrase 3"*
+> - *"It's nice if you care about the event"*
 >
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
+> → **Implies:** Personal interest is mentioned positively but often with secondary language like "nice to have", "great", not "essential"
 >
-> **🅱️ Signals for Option B:**
-> - *"Signal phrase 1"*
+> **🅱️ Signals for Option B (skills):**
+> - *"The most important thing is..."*
 >
-> - *"Signal phrase 2"*
+> - *"What we absolutely need is..."*
 >
-> - *"Signal phrase 3"*
+> - *"The absolute priority is..."*
 >
-> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
+> - *"Can't do without..."*
+>
+> → **Implies:** Superlative language and priority markers indicate this is the MAIN requirement
 >
 > **🔑 Scientific Distinction:**
 >
-> - **Option A focuses on:** Phân tích bản chất cốt lõi
+> - **Option A (interest) focuses on:** Emotional connection to the event (passion, enthusiasm) - described as desirable but not essential
 >
-> - **Option B focuses on:** Phân tích bản chất cốt lõi
+> - **Option B (skills) focuses on:** Practical ability to interact with people (communication, teamwork) - described as absolutely necessary
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
+#flashcards/ielts-listening/social-leisure/festivals/weekly/03-validation
 ### Card 12: Answer Validation *(MCQ only)*
 
-> **Correct Answer:** =={{CORRECT_ANSWER}}==
+> **Correct Answer:** ==interpersonal skills==
 >
-> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
+> **Audio excerpt:** "While flexibility is certainly helpful and we do value volunteers who are enthusiastic about the festival, the most critical quality we look for is the ability to work well with people. You simply can't be an effective volunteer without good interpersonal skills."
 >
 > ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
 ?
 > [!check] ✅ Evidence
-> 1. ==phrase 1== → giải thích kết nối
+> 1. ==most critical quality== → giải thích kết nối - strongest superlative marker
 >
-> 2. ==phrase 2== → giải thích kết nối
+> 2. ==ability to work well with people== → giải thích kết nối - direct paraphrase of interpersonal skills
 >
-> 3. ==phrase 3== → giải thích kết nối
+> 3. ==simply can't be an effective volunteer without== → giải thích kết nối - absolute necessity language
 >
-> **🎯 Conclusion:** Tổng hợp logic
+> **🎯 Conclusion:** Multiple priority markers confirm this is the main requirement, not just one among several
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+#flashcards/ielts-listening/social-leisure/festivals/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
-> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
+> **Audio:** *"I see your point that flexibility matters when schedules change, but actually, what we prioritize above everything else is strong interpersonal skills."*
 >
 > *(vd: "You've got a point, but..." / "I see what you mean, although...")*
 >
@@ -436,7 +380,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 > [!fail] 🎭 Pseudo-Agreement Detection
 > **👉 Verdict:** ==PHẢN ĐỐI (Disagree)==
 >
-> **💡 Rule:** Khen trước → Chê sau = **NO**
+> **💡 Rule:** Khen trước → Chê sau = **NO** - acknowledges flexibility is important but contradicts that it's the priority with "actually" and "prioritize above everything else"
 >
 > **✅ Real Agreement Signals:**
 >
@@ -458,112 +402,116 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+#flashcards/ielts-listening/social-leisure/festivals/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
-> **Keyword:** =={{OPTION_TEXT}}==
+> **Keyword:** ==interpersonal skills==
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] � Rapid Swap
-> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
+> [!info] ⚡ Rapid Swap
+> ==[ability to work with people]== ⚡ ==[interpersonal skills]==
 >
 > **🧠 Instant Logic:**
-> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+> Functional description - "ability to work with people" directly describes what interpersonal skills enable
 
 ---
 
 ### Tier 4: Mastery - Bi-weekly (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+#flashcards/ielts-listening/social-leisure/festivals/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "When choosing volunteers, we look at various factors. Some people think flexibility is most important since schedules can change at festivals. Others believe having personal interest in the event should be the main criterion. However, our experience shows that above all else, what we need is strong interpersonal skills. Being able to communicate effectively with visitors and work well in a team is absolutely essential."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** =="flexibility"==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Important quality mentioned with reasoning
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Prefaced with "Some people think..." and contrasted with "However, our experience shows..."
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** =="personal interest in the event"==
 >
-> - *Sounds like:* Nghe giống gì
+> - *Sounds like:* Another seemingly reasonable criterion
 >
-> - *Wrong because:* Tại sao sai
+> - *Wrong because:* Prefaced with "Others believe" and speaker contradicts with "above all else" pointing elsewhere
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* Giải thích
+> **✅ Correct Answer:** ==interpersonal skills==
+> - *Why correct:* Marked with "above all else", "what we need", and "absolutely essential" - strongest priority language
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+#flashcards/ielts-listening/social-leisure/festivals/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** =="interpersonal skills"==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "What matters most in our volunteers is not just being flexible or enthusiastic about the festival. The critical factor is having the ability to work well with people. You'll need to communicate effectively with visitors from all walks of life and collaborate closely with your team. This people-focused ability is what we absolutely prioritize."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==ability to work well with people== → ==interpersonal skills==
 >
-> - ==Audio phrase== → ==Option word==
+> - ==communicate effectively with visitors== → ==interpersonal communication==
 >
-> **🧠 Overall Logic:** Tổng hợp logic kết nối
+> - ==collaborate closely with your team== → ==teamwork/interpersonal abilities==
+>
+> - ==people-focused ability== → ==interpersonal skills==
+>
+> **🧠 Overall Logic:** Multiple paraphrases reinforce the same meaning - ability to interact and communicate with others effectively
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+#flashcards/ielts-listening/social-leisure/festivals/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==interpersonal skills==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Volunteer selection criteria for festival participation - qualities and skills needed*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==Paraphrase 1==
+> 1. ==ability to work with people==
 >
-> 2. ==Paraphrase 2==
+> 2. ==communication skills==
 >
 > **🎯 Goal:** Instant Recall
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
+#flashcards/ielts-listening/social-leisure/festivals/biweekly/04-synthesis
 ### Card 18: Complete Question Synthesis *(MCQ only)*
 
 > **Full Question Context:**
-> =={{QUESTION_STEM}}==
+> What is the most important requirement for volunteers at the festivals?
 >
 > **Option Status:**
-> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
->
-> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
+> 1. **A. interpersonal skills** (✅) → Described with strongest priority language: "most important", "absolute priority", "can't do without"
+> 2. **B. personal interest in the event** (❌) → Mentioned as "nice to have" but not essential - contrasted with priority language for correct answer
+> 3. **C. flexibility** (❌) → Referenced as "some people think" - attribution to others' opinions, not speaker's main requirement
 >
 > ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
 ?
 > [!success] 🎯 Deep Logic Breakdown
 > **🎧 Audio Progression:**
-> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
+> - Starts by acknowledging distractors (flexibility, personal interest) with attribution language like "Some volunteers think..." or "Others believe..."
+> - Uses contrast markers "However," "But," "From our perspective" to shift focus
+> - Emphasizes correct answer with superlatives: "most important," "absolute priority," "what we absolutely need"
+> - Reinforces with necessity language: "simply can't do without," "essential"
 >
 > **🧠 Decision Factors:**
-> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
+> - **Trap Elimination:** Distractors are prefaced with attribution to others' opinions, then contrasted - classic IELTS MCQ pattern
+> - **Confirmation Logic:** Correct answer gets multiple priority markers (most important, absolute priority, essential) while distractors get secondary/conditional language (nice to have, helpful, some think)
 >
-> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
->
-> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
+> **🔑 Strategic Lesson:** When listening to MCQs, pay attention to attribution language ("some think") vs. direct speaker assertion ("we prioritize") and superlative/necessity markers
 
 ---
