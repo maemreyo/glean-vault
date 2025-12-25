@@ -206,25 +206,44 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ---
 
 #flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
-### Card 3: Signpost Detection
+### Card 3: Signpost & Tone Shift
 
 > **Option:** =={{OPTION_TEXT}}==
 >
-> ❓ **Question:** Những ==từ nối (signpost)== thường đi trước/sau khi nói về ý này?
+> ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
-> [!tip] 🚦 Signposts
-> - **Before:** ví dụ: "So," "As for," "Regarding..."
+> [!tip] 🚦 Signposts & Tone
+> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
 >
-> - **After:** ví dụ: "which involves," "that means..."
+> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
 >
-> **🎧 Audio Cue:** Cụm từ nghe được
+> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
+
+---
+
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+### Card 4: Sound Shape (Phonological Decoding)
+
+> **Option:** =={{OPTION_TEXT}}==
+>
+> ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
+?
+> [!info] 🔊 Connected Speech
+> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+>
+> **🔗 Features:**
+> - **Linking:** Nối âm nào?
+>
+> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
+>
+> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
 
 ---
 
 ### Tier 2: Recognition - Every 2-3 Days (4 Cards)
 
 #flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
-### Card 4: Reverse Matching (Thực chiến)
+### Card 4: Reverse Matching
 
 > **Audio Script:**
 > "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
@@ -276,19 +295,22 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ---
 
 #flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
-### Card 7: Context Cloze (Điền từ)
+### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
 > *Audio transcript với ==key phrase== ẩn*
 >
 > 🇻🇳 **Vietnamese:** Vietnamese Translation
 >
-> ❓ **Question:** ==Điền vào chỗ trống==?
+> ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
 > [!success] ✅ Answer: =={{KEY_PHRASE}}==
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> **📝 Grammar Check:**
+> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
 >
-> **💡 Why:** Giải thích logic
+> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
+>
+> **🔗 Connects to:** =={{OPTION_TEXT}}==
 
 ---
 
@@ -301,7 +323,9 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 >
 > **Options:**
 > - A. {{OPTION_1}}
+>
 > - B. {{OPTION_2}}
+>
 > - C. {{OPTION_3}}
 >
 > **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
@@ -373,21 +397,18 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-chain
-### Card 11: Paraphrase Chain
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-swap
+### Card 12: Synonym Swap Speed
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Keyword:** =={{OPTION_TEXT}}==
 >
-> ❓ **Connection Drill:** Tìm ==Điểm Neo (Anchor Point)== kết nối giữa **Keyword** và **Audio Logic**?
+> ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] 🔗 Connection Logic
-> **🧩 The Link:**
-> ==[Option Keyword]== ↔ ==[Audio Paraphrase]==
+> [!info] � Rapid Swap
+> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
 >
-> **🧠 Underlying Logic:**
-> Mô tả mối quan hệ: "A là công cụ để làm B", "A là tập con của B", v.v.
->
-> **💡 Reflex Note:** Ghi chú giúp nhớ nhanh
+> **🧠 Instant Logic:**
+> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
 
 ---
 
