@@ -189,25 +189,28 @@ grep -r 'MASTER TAGGING SYSTEM' glean/40_Situation/*.md
 
 ---
 
-## 🔄 Flashcard Structure Summary (15 Cards)
+## 🔄 Flashcard Structure Summary (18 Cards)
 
-| Tier | Card | Name | Tag Suffix | MCQ Only? |
-|------|------|------|------------|-----------|
-| **Daily** | 1 | Reflex Prediction (Top Pick) | `daily/01-prediction` | No |
-| **Daily** | 2 | Top Collocation Reflex | `daily/02-keywords` | No |
-| **Daily** | 3 | Signpost Detection | `daily/03-signpost` | No |
-| **Recognition** | 4 | Reverse Matching | `recognition/01-reverse` | No |
-| **Recognition** | 5 | Spot the Lie (Simulation) | `recognition/02-trap` | No |
-| **Recognition** | 6 | Confusion Differentiation | `recognition/03-differentiate` | No |
-| **Recognition** | 7 | Context Cloze | `recognition/04-cloze` | No |
-| **Weekly** | 8 | Option Elimination Drill | `weekly/01-elimination` | **Yes** |
-| **Weekly** | 9 | Cross-Option Confusion | `weekly/02-cross-confusion` | **Yes** |
-| **Weekly** | 10 | Answer Validation | `weekly/03-validation` | **Yes** |
-| **Weekly** | 11 | Connection Drill (Anchor) | `weekly/04-chain` | No |
-| **Bi-weekly** | 12 | Full Distractor Analysis | `biweekly/01-full-trap` | No |
-| **Bi-weekly** | 13 | Script-to-Option Mapping | `biweekly/02-script-match` | No |
-| **Bi-weekly** | 14 | 5-Second Prediction Drill | `biweekly/03-speed` | No |
-| **Bi-weekly** | 15 | Complete Question Synthesis | `biweekly/04-synthesis` | **Yes** |
+| Tier | Card | Name | Tag Suffix | Special |
+|------|------|------|------------|---------|
+| **Daily** | 1 | Reflex Prediction (Top Pick) | `daily/01-prediction` | - |
+| **Daily** | 2 | Top Collocation Reflex | `daily/02-keywords` | - |
+| **Daily** | 3 | Signpost & Tone Shift | `daily/03-signpost` | - |
+| **Daily** | 4 | Sound Shape (Phonological) | `daily/04-sound` | - |
+| **Recognition** | 5 | Reverse Matching | `recognition/01-reverse` | - |
+| **Recognition** | 6 | Trap Identification (Spot the Lie) | `recognition/02-trap` | - |
+| **Recognition** | 7 | Confusion Differentiation | `recognition/03-differentiate` | - |
+| **Recognition** | 8 | Context Cloze (Spelling & Plural) | `recognition/04-cloze` | - |
+| **Recognition** | 9 | Spatial Orientation Reflex | `recognition/05-spatial` | **Map/Plan** |
+| **Weekly** | 10 | Option Elimination Drill | `weekly/01-elimination` | **MCQ** |
+| **Weekly** | 11 | Cross-Option Confusion | `weekly/02-cross-confusion` | **MCQ** |
+| **Weekly** | 12 | Answer Validation | `weekly/03-validation` | **MCQ** |
+| **Weekly** | 13 | Agreement Validity Check | `weekly/04-agreement` | **Part 3** |
+| **Weekly** | 14 | Synonym Swap Speed | `weekly/05-swap` | - |
+| **Bi-weekly** | 15 | Full Distractor Analysis | `biweekly/01-full-trap` | - |
+| **Bi-weekly** | 16 | Script-to-Option Mapping | `biweekly/02-script-match` | - |
+| **Bi-weekly** | 17 | 5-Second Prediction Drill | `biweekly/03-speed` | - |
+| **Bi-weekly** | 18 | Complete Question Synthesis | `biweekly/04-synthesis` | **MCQ** |
 
 ---
 

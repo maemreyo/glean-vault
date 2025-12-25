@@ -243,7 +243,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ### Tier 2: Recognition - Every 2-3 Days (4 Cards)
 
 #flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
-### Card 4: Reverse Matching
+### Card 5: Reverse Matching
 
 > **Audio Script:**
 > "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
@@ -262,7 +262,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ---
 
 #flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
-### Card 5: Trap Identification
+### Card 6: Trap Identification (Spot the Lie)
 
 > **Option:** =={{OPTION_TEXT}}==
 >
@@ -279,7 +279,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ---
 
 #flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
-### Card 6: Confusion Differentiation
+### Card 7: Confusion Differentiation
 
 > **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
 >
@@ -316,8 +316,36 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ### Tier 3: Elimination - Weekly (4 Cards)
 
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+### Card 9: Spatial Orientation Reflex *(Map/Plan)*
+
+> **Context:** Map Labelling / Room Layout
+>
+> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
+>
+> *(vd: "It's immediately to your right when you enter.")*
+>
+> ❓ **Reflex:** Hình dung vị trí trong đầu NGAY LẬP TỨC?
+?
+> [!tip] 🗺️ Spatial Logic
+> **👁️ Mental Picture:**
+> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
+>
+> **⚠️ Spatial Traps:**
+> - "On the right hand side of the building" ≠ "On your right"
+>
+> - "Opposite" ≠ "Next to"
+>
+> - "Behind" ≠ "At the back of"
+>
+> **🎯 Correct Position:** =={{LABEL}}==
+
+---
+
+### Tier 3: Elimination - Weekly (5 Cards)
+
 #flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
-### Card 8: Option Elimination Drill *(MCQ only)*
+### Card 10: Option Elimination Drill *(MCQ only)*
 
 > **Question:** =={{QUESTION_STEM}}==
 >
@@ -343,7 +371,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ---
 
 #flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
-### Card 9: Cross-Option Confusion *(MCQ only)*
+### Card 11: Cross-Option Confusion *(MCQ only)*
 
 > **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
 >
@@ -378,7 +406,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ---
 
 #flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
-### Card 10: Answer Validation *(MCQ only)*
+### Card 12: Answer Validation *(MCQ only)*
 
 > **Correct Answer:** =={{CORRECT_ANSWER}}==
 >
@@ -397,8 +425,42 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-swap
-### Card 12: Synonym Swap Speed
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+### Card 13: Agreement Validity Check *(Part 3)*
+
+> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
+>
+> *(vd: "You've got a point, but..." / "I see what you mean, although...")*
+>
+> ❓ **Reflex:** Người nói THỰC SỰ ĐỒNG Ý hay PHẢN ĐỐI?
+?
+> [!fail] 🎭 Pseudo-Agreement Detection
+> **👉 Verdict:** ==PHẢN ĐỐI (Disagree)==
+>
+> **💡 Rule:** Khen trước → Chê sau = **NO**
+>
+> **✅ Real Agreement Signals:**
+>
+> - *"Precisely"*
+>
+> - *"I couldn't agree more"*
+>
+> - *"Spot on"*
+>
+> - *"Absolutely"*
+>
+> **❌ False Agreement Signals:**
+>
+> - *"You've got a point, but..."*
+>
+> - *"I suppose so..."* (ngập ngừng)
+>
+> - *"That's one way to look at it..."*
+
+---
+
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+### Card 14: Synonym Swap Speed
 
 > **Keyword:** =={{OPTION_TEXT}}==
 >
@@ -415,7 +477,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ### Tier 4: Mastery - Bi-weekly (4 Cards)
 
 #flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
-### Card 12: Full Distractor Analysis
+### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
 > "{{FULL_AUDIO_WITH_DISTRACTORS}}"
@@ -441,7 +503,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ---
 
 #flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
-### Card 13: Script-to-Option Mapping
+### Card 16: Script-to-Option Mapping
 
 > **Option Text:** =="{{OPTION_TEXT}}"==
 >
@@ -460,7 +522,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ---
 
 #flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
-### Card 14: 5-Second Prediction Drill
+### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
@@ -480,7 +542,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ---
 
 #flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
-### Card 15: Complete Question Synthesis *(MCQ only)*
+### Card 18: Complete Question Synthesis *(MCQ only)*
 
 > **Full Question Context:**
 > =={{QUESTION_STEM}}==
